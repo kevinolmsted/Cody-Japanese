@@ -1,0 +1,1966 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ar",
+   "language_name": "Arabic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh",
+   "language_name": "Chinese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "nl",
+   "language_name": "Dutch"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "en",
+   "language_name": "English"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fil",
+   "language_name": "Filipino"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fr",
+   "language_name": "French"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "de",
+   "language_name": "German"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "id",
+   "language_name": "Indonesian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "it",
+   "language_name": "Italian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ja",
+   "language_name": "Japanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ko",
+   "language_name": "Korean"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ms",
+   "language_name": "Malay"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pt-BR",
+   "language_name": "Portuguese (Brazil)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ru",
+   "language_name": "Russian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "es",
+   "language_name": "Spanish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "th",
+   "language_name": "Thai"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "tr",
+   "language_name": "Turkish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "uk",
+   "language_name": "Ukrainian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "vi",
+   "language_name": "Vietnamese"
+  }
+ ],
+ "is_auto_generated": false,
+ "language": "Japanese",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "36160",
+   "start_ms": "34126",
+   "start_time_text": "0:34",
+   "text": "5:58"
+  },
+  {
+   "end_ms": "40142.99999999999",
+   "start_ms": "36160",
+   "start_time_text": "0:36",
+   "text": "おはようございます！今日は学校に行く日。9:30に家を出ます。"
+  },
+  {
+   "end_ms": "45076",
+   "start_ms": "42856",
+   "start_time_text": "0:42",
+   "text": "えーん"
+  },
+  {
+   "end_ms": "51660",
+   "start_ms": "47260",
+   "start_time_text": "0:47",
+   "text": "シャワー浴びてメイクしてご飯食べてお弁当準備します✌︎"
+  },
+  {
+   "end_ms": "55839.99999999999",
+   "start_ms": "51660",
+   "start_time_text": "0:51",
+   "text": "母出張でいないので、ひとりで全部やるよ~"
+  },
+  {
+   "end_ms": "58070",
+   "start_ms": "56800",
+   "start_time_text": "0:56",
+   "text": "6:10"
+  },
+  {
+   "end_ms": "61046",
+   "start_ms": "58740",
+   "start_time_text": "0:58",
+   "text": "ばぶちゃんおはよう☺︎"
+  },
+  {
+   "end_ms": "69010",
+   "start_ms": "64206",
+   "start_time_text": "1:04",
+   "text": "リビングに来たらまず朝っぽいプレイリストを再生して一日をご機嫌で開始♩"
+  },
+  {
+   "end_ms": "74259.99999999999",
+   "start_ms": "70166",
+   "start_time_text": "1:10",
+   "text": "いつもここに座って歯磨きしています。まだ眠い..."
+  },
+  {
+   "end_ms": "79643",
+   "start_ms": "76540",
+   "start_time_text": "1:16",
+   "text": "早く朝ごはん持ってこいっていうおーちゃんの圧"
+  },
+  {
+   "end_ms": "82746",
+   "start_ms": "79643",
+   "start_time_text": "1:19",
+   "text": "この時間本当に動けない..血圧戻ってこい"
+  },
+  {
+   "end_ms": "89122.99999999999",
+   "start_ms": "84440",
+   "start_time_text": "1:24",
+   "text": "うさぎは朝が一番ご機嫌で、ご飯を食べたあとは夕方まで寝ています(夜行性)"
+  },
+  {
+   "end_ms": "100006",
+   "start_ms": "97170",
+   "start_time_text": "1:37",
+   "text": "ごはんは7時からだよ。"
+  },
+  {
+   "end_ms": "102843",
+   "start_ms": "100006",
+   "start_time_text": "1:40",
+   "text": "もうちょっと待ってね"
+  },
+  {
+   "end_ms": "108590",
+   "start_ms": "103560",
+   "start_time_text": "1:43",
+   "text": "TOPICS:グソクムシダッシュ早くも終了 遊びすぎて、というかおーちゃんの扱いが雑すぎて車輪が外れちゃった..TT"
+  },
+  {
+   "end_ms": "111906",
+   "start_ms": "108590",
+   "start_time_text": "1:48",
+   "text": "帰ったら分解して直してみるね‼︎"
+  },
+  {
+   "end_ms": "126289.99999999999",
+   "start_ms": "122973",
+   "start_time_text": "2:02",
+   "text": "このあとシャワーを浴びるので、まずは歯磨きだけ"
+  },
+  {
+   "end_ms": "131423",
+   "start_ms": "128106",
+   "start_time_text": "2:08",
+   "text": "どこにでも追いかけて来てかわいい✌︎"
+  },
+  {
+   "end_ms": "140223",
+   "start_ms": "136906",
+   "start_time_text": "2:16",
+   "text": "ちょっと早いけどごはんあげちゃおう"
+  },
+  {
+   "end_ms": "145606",
+   "start_ms": "141436",
+   "start_time_text": "2:21",
+   "text": "お皿に入れられるのが嫌いらしくて、全部床に出しちゃう.."
+  },
+  {
+   "end_ms": "152956",
+   "start_ms": "149606",
+   "start_time_text": "2:29",
+   "text": "みーちゃんの分も必ずお供えしています。"
+  },
+  {
+   "end_ms": "160006",
+   "start_ms": "156656",
+   "start_time_text": "2:36",
+   "text": "朝と帰宅時にお線香も焚きます。"
+  },
+  {
+   "end_ms": "163973",
+   "start_ms": "161786",
+   "start_time_text": "2:41",
+   "text": "❤︎❤︎❤︎"
+  },
+  {
+   "end_ms": "165506",
+   "start_ms": "163973",
+   "start_time_text": "2:43",
+   "text": "6:30"
+  },
+  {
+   "end_ms": "170153.00000000003",
+   "start_ms": "166836",
+   "start_time_text": "2:46",
+   "text": "みーちゃんにお供えする新しいお花❁"
+  },
+  {
+   "end_ms": "175916",
+   "start_ms": "171986",
+   "start_time_text": "2:51",
+   "text": "適当にさしてみる.."
+  },
+  {
+   "end_ms": "181916.00000000003",
+   "start_ms": "178300",
+   "start_time_text": "2:58",
+   "text": "入りきらないから花瓶2つに分けました"
+  },
+  {
+   "end_ms": "187480",
+   "start_ms": "181916",
+   "start_time_text": "3:01",
+   "text": "お供えするお花のルールはわからないので、 そのときかわいいと思ったお花をただ供えてます。"
+  },
+  {
+   "end_ms": "197260",
+   "start_ms": "194093",
+   "start_time_text": "3:14",
+   "text": "一通り食べて満足したおーちゃんはおねんね"
+  },
+  {
+   "end_ms": "198786",
+   "start_ms": "197593",
+   "start_time_text": "3:17",
+   "text": "6:40"
+  },
+  {
+   "end_ms": "202583",
+   "start_ms": "198786",
+   "start_time_text": "3:18",
+   "text": "食事を気をつけ始めてから、寝起きはいつもかなり腹ペコです"
+  },
+  {
+   "end_ms": "206750",
+   "start_ms": "202583",
+   "start_time_text": "3:22",
+   "text": "スムージーをささっと飲んでいったん空腹を落ち着かせます。"
+  },
+  {
+   "end_ms": "212566",
+   "start_ms": "209290",
+   "start_time_text": "3:29",
+   "text": "家にある野菜を適当に入れてみる✌︎"
+  },
+  {
+   "end_ms": "215763",
+   "start_ms": "213166",
+   "start_time_text": "3:33",
+   "text": "BRUNOで買ったブレンダー"
+  },
+  {
+   "end_ms": "223360",
+   "start_ms": "218460",
+   "start_time_text": "3:38",
+   "text": "ほうれん草を入れるのは初めてです。おいしいかな？"
+  },
+  {
+   "end_ms": "229260.00000000003",
+   "start_ms": "225150",
+   "start_time_text": "3:45",
+   "text": "ヨーグルトと無調整豆乳を入れました。"
+  },
+  {
+   "end_ms": "238163",
+   "start_ms": "233710",
+   "start_time_text": "3:53",
+   "text": "バナナは黒くなってからが1番甘くておいしいので、熟すまで置いてます。"
+  },
+  {
+   "end_ms": "241440",
+   "start_ms": "239106",
+   "start_time_text": "3:59",
+   "text": "ボリューミー"
+  },
+  {
+   "end_ms": "243870",
+   "start_ms": "241806",
+   "start_time_text": "4:01",
+   "text": "えい！"
+  },
+  {
+   "end_ms": "252270",
+   "start_ms": "247770",
+   "start_time_text": "4:07",
+   "text": "海外の意識高いネキが飲んでるスムージーの色"
+  },
+  {
+   "end_ms": "257649",
+   "start_ms": "254276",
+   "start_time_text": "4:14",
+   "text": "注ぐ瞬間が気持ちいい~"
+  },
+  {
+   "end_ms": "260892.99999999997",
+   "start_ms": "259623",
+   "start_time_text": "4:19",
+   "text": "できました✌︎"
+  },
+  {
+   "end_ms": "267456",
+   "start_ms": "263343",
+   "start_time_text": "4:23",
+   "text": "帰った後に食べるおやつ用に、グリークヨーグルトを手作りしておきます。"
+  },
+  {
+   "end_ms": "274533",
+   "start_ms": "270103",
+   "start_time_text": "4:30",
+   "text": "市販のヨーグルトをキッチンペーパーで包んで、ホエイを抜いておくだけです。"
+  },
+  {
+   "end_ms": "277596",
+   "start_ms": "275526",
+   "start_time_text": "4:35",
+   "text": "Breakfast"
+  },
+  {
+   "end_ms": "283680",
+   "start_ms": "278410",
+   "start_time_text": "4:38",
+   "text": "全然飲めるけど生のほうれん草はかなりクセを感じました！ 上級者向けスムージー(？)"
+  },
+  {
+   "end_ms": "287883",
+   "start_ms": "284840",
+   "start_time_text": "4:44",
+   "text": "レモン汁とか入れたら和らぐのかな"
+  },
+  {
+   "end_ms": "292789.99999999994",
+   "start_ms": "288753",
+   "start_time_text": "4:48",
+   "text": "メールをチェックしたり、今日のタスクを確認しています。"
+  },
+  {
+   "end_ms": "297320",
+   "start_ms": "292790",
+   "start_time_text": "4:52",
+   "text": "ある程度のスケジュールを決めておかないと 時間の使い方がグダグダになってストレスに感じます。"
+  },
+  {
+   "end_ms": "301703",
+   "start_ms": "298476",
+   "start_time_text": "4:58",
+   "text": "ここにまとめてあるのは、YouTube活動に関するタスクです。"
+  },
+  {
+   "end_ms": "303310",
+   "start_ms": "302116",
+   "start_time_text": "5:02",
+   "text": "6:55"
+  },
+  {
+   "end_ms": "307286",
+   "start_ms": "303573",
+   "start_time_text": "5:03",
+   "text": "シャワーを浴びまーす！髪の毛も洗うよ✌︎"
+  },
+  {
+   "end_ms": "310456",
+   "start_ms": "307286",
+   "start_time_text": "5:07",
+   "text": "週一回の特別なトリートメント✧"
+  },
+  {
+   "end_ms": "319440",
+   "start_ms": "316376",
+   "start_time_text": "5:16",
+   "text": "トリートメントを放置してる間に、浴槽の掃除もする"
+  },
+  {
+   "end_ms": "324455.99999999994",
+   "start_ms": "320503",
+   "start_time_text": "5:20",
+   "text": "コンタクト入れます。 視力は乱視入りの0.5くらいで、悪すぎないけど微妙によく見えない"
+  },
+  {
+   "end_ms": "328973",
+   "start_ms": "325783",
+   "start_time_text": "5:25",
+   "text": "顔より服よりなにより一番時間がかかるヘアケア✧"
+  },
+  {
+   "end_ms": "336433",
+   "start_ms": "330406",
+   "start_time_text": "5:30",
+   "text": "前々回の動画でトリートメントつけすぎだよ！と教えていただき、 適量を知ることができました！ありがとうございます☺︎"
+  },
+  {
+   "end_ms": "341650.00000000006",
+   "start_ms": "336860",
+   "start_time_text": "5:36",
+   "text": "前髪はこのブラシで立ち上げながら乾かす。 最近はセンター分けにして、熊手卒業しました。"
+  },
+  {
+   "end_ms": "344320",
+   "start_ms": "342113",
+   "start_time_text": "5:42",
+   "text": "早く乾けと言う気持ち"
+  },
+  {
+   "end_ms": "349376.00000000006",
+   "start_ms": "347576",
+   "start_time_text": "5:47",
+   "text": "髪質がね、本当に悪いの"
+  },
+  {
+   "end_ms": "351335.99999999994",
+   "start_ms": "349376",
+   "start_time_text": "5:49",
+   "text": "もうめっちゃ癖っ毛で"
+  },
+  {
+   "end_ms": "352696",
+   "start_ms": "351336",
+   "start_time_text": "5:51",
+   "text": "なんか細くて"
+  },
+  {
+   "end_ms": "353736.00000000006",
+   "start_ms": "352696",
+   "start_time_text": "5:52",
+   "text": "パサパサで"
+  },
+  {
+   "end_ms": "355496",
+   "start_ms": "353736",
+   "start_time_text": "5:53",
+   "text": "なんか縮毛なのすごい"
+  },
+  {
+   "end_ms": "356775.99999999994",
+   "start_ms": "355496",
+   "start_time_text": "5:55",
+   "text": "だから乾かしただけだと"
+  },
+  {
+   "end_ms": "357656",
+   "start_ms": "356776",
+   "start_time_text": "5:56",
+   "text": "なんかこんな"
+  },
+  {
+   "end_ms": "359056",
+   "start_ms": "357656",
+   "start_time_text": "5:57",
+   "text": "プードルみたいになっちゃうのね(？)"
+  },
+  {
+   "end_ms": "360736",
+   "start_ms": "359056",
+   "start_time_text": "5:59",
+   "text": "すごい広がっちゃうし"
+  },
+  {
+   "end_ms": "362976",
+   "start_ms": "360736",
+   "start_time_text": "6:00",
+   "text": "ヘアケアね、めっちゃ頑張ってんだけど"
+  },
+  {
+   "end_ms": "365256",
+   "start_ms": "362976",
+   "start_time_text": "6:02",
+   "text": "頑張ってようやく人並以下っていう"
+  },
+  {
+   "end_ms": "366095.99999999994",
+   "start_ms": "365256",
+   "start_time_text": "6:05",
+   "text": "髪質なの"
+  },
+  {
+   "end_ms": "368296",
+   "start_ms": "366096",
+   "start_time_text": "6:06",
+   "text": "本当に終わってんのね"
+  },
+  {
+   "end_ms": "369216",
+   "start_ms": "368296",
+   "start_time_text": "6:08",
+   "text": "だから"
+  },
+  {
+   "end_ms": "370216",
+   "start_ms": "369216",
+   "start_time_text": "6:09",
+   "text": "ヘアビューロン"
+  },
+  {
+   "end_ms": "370936.00000000006",
+   "start_ms": "370216",
+   "start_time_text": "6:10",
+   "text": "これね"
+  },
+  {
+   "end_ms": "372536",
+   "start_ms": "370936",
+   "start_time_text": "6:10",
+   "text": "ストレートアイロンなんですけど"
+  },
+  {
+   "end_ms": "373456",
+   "start_ms": "372536",
+   "start_time_text": "6:12",
+   "text": "めっちゃ高いんですよ"
+  },
+  {
+   "end_ms": "374536",
+   "start_ms": "373456",
+   "start_time_text": "6:13",
+   "text": "5万円ぐらいするんですけど"
+  },
+  {
+   "end_ms": "375136",
+   "start_ms": "374536",
+   "start_time_text": "6:14",
+   "text": "でも"
+  },
+  {
+   "end_ms": "376976",
+   "start_ms": "375136",
+   "start_time_text": "6:15",
+   "text": "これがないと生きていけないの"
+  },
+  {
+   "end_ms": "377816",
+   "start_ms": "376976",
+   "start_time_text": "6:16",
+   "text": "高いんだけど"
+  },
+  {
+   "end_ms": "378215.99999999994",
+   "start_ms": "377816",
+   "start_time_text": "6:17",
+   "text": "でも"
+  },
+  {
+   "end_ms": "379096",
+   "start_ms": "378216",
+   "start_time_text": "6:18",
+   "text": "すごい私のね"
+  },
+  {
+   "end_ms": "380336",
+   "start_ms": "379096",
+   "start_time_text": "6:19",
+   "text": "ことを救ってくれた"
+  },
+  {
+   "end_ms": "381256",
+   "start_ms": "380336",
+   "start_time_text": "6:20",
+   "text": "ヘアアイロン"
+  },
+  {
+   "end_ms": "382976",
+   "start_ms": "381256",
+   "start_time_text": "6:21",
+   "text": "マジで5万円の価値ある"
+  },
+  {
+   "end_ms": "384296",
+   "start_ms": "382976",
+   "start_time_text": "6:22",
+   "text": "QOLが上がる"
+  },
+  {
+   "end_ms": "385856",
+   "start_ms": "384296",
+   "start_time_text": "6:24",
+   "text": "シャンプーとトリートメントも"
+  },
+  {
+   "end_ms": "387656",
+   "start_ms": "385856",
+   "start_time_text": "6:25",
+   "text": "結構こだわってるやつを使って"
+  },
+  {
+   "end_ms": "389776",
+   "start_ms": "387656",
+   "start_time_text": "6:27",
+   "text": "で洗い流さないトリートメントしたり"
+  },
+  {
+   "end_ms": "391496.00000000006",
+   "start_ms": "389776",
+   "start_time_text": "6:29",
+   "text": "オイルしたりして"
+  },
+  {
+   "end_ms": "392296",
+   "start_ms": "391496",
+   "start_time_text": "6:31",
+   "text": "やっと"
+  },
+  {
+   "end_ms": "394016",
+   "start_ms": "392296",
+   "start_time_text": "6:32",
+   "text": "これなの?"
+  },
+  {
+   "end_ms": "395376.00000000006",
+   "start_ms": "394016",
+   "start_time_text": "6:34",
+   "text": "ええー！って感じでしょ"
+  },
+  {
+   "end_ms": "397575.99999999994",
+   "start_ms": "395376",
+   "start_time_text": "6:35",
+   "text": "だから髪綺麗な人本当にうらやましい"
+  },
+  {
+   "end_ms": "398620",
+   "start_ms": "397576",
+   "start_time_text": "6:37",
+   "text": "プードル(？)"
+  },
+  {
+   "end_ms": "405133",
+   "start_ms": "398916",
+   "start_time_text": "6:38",
+   "text": "湿気のないシーズンは、160度で大まかにアイロンを通します。 梅雨〜夏は180度で時間かけないと大変です。"
+  },
+  {
+   "end_ms": "410186",
+   "start_ms": "406513",
+   "start_time_text": "6:46",
+   "text": "ここまでしてやっと人々の寝起きくらいな感じになれます.."
+  },
+  {
+   "end_ms": "413220",
+   "start_ms": "412026",
+   "start_time_text": "6:52",
+   "text": "7:45"
+  },
+  {
+   "end_ms": "418133.00000000006",
+   "start_ms": "413220",
+   "start_time_text": "6:53",
+   "text": "朝ご飯とお弁当用に、食パンとハムを買いにきました。 ついでに学校に持ってくおやつも✌︎"
+  },
+  {
+   "end_ms": "425050",
+   "start_ms": "422403",
+   "start_time_text": "7:02",
+   "text": "(ハム忘れ)"
+  },
+  {
+   "end_ms": "426320",
+   "start_ms": "425050",
+   "start_time_text": "7:05",
+   "text": "7:55"
+  },
+  {
+   "end_ms": "432290",
+   "start_ms": "426320",
+   "start_time_text": "7:06",
+   "text": "自分ってどうかしてる、 「パンとハム」がいつの間にか「パンとおやつ」に変換されちゃってるのだから‼︎笑"
+  },
+  {
+   "end_ms": "437890",
+   "start_ms": "433430",
+   "start_time_text": "7:13",
+   "text": "きゅうりと卵とレタスじゃ物足りない.."
+  },
+  {
+   "end_ms": "442003",
+   "start_ms": "438990",
+   "start_time_text": "7:18",
+   "text": "買うものは予めメモらないと本当にすぐ忘れちゃう。"
+  },
+  {
+   "end_ms": "445205.99999999994",
+   "start_ms": "442003",
+   "start_time_text": "7:22",
+   "text": "はじめてのおつかいのちびっこの方が優秀かもしれん"
+  },
+  {
+   "end_ms": "448866.00000000006",
+   "start_ms": "445206",
+   "start_time_text": "7:25",
+   "text": "買うものでもやることでもいつも何かしらを忘れてしまいます..."
+  },
+  {
+   "end_ms": "458506",
+   "start_ms": "453643",
+   "start_time_text": "7:33",
+   "text": "そこに面倒くさがりが追加されるのでまぁ~ほんとに大変ですね✌︎"
+  },
+  {
+   "end_ms": "464486",
+   "start_ms": "461476",
+   "start_time_text": "7:41",
+   "text": "おーちゃんが覗き見してる❤︎"
+  },
+  {
+   "end_ms": "468120",
+   "start_ms": "464793",
+   "start_time_text": "7:44",
+   "text": "朝のバナナ実は少しとっておいたよ☺︎"
+  },
+  {
+   "end_ms": "474480",
+   "start_ms": "470320",
+   "start_time_text": "7:50",
+   "text": "夜にもゆで卵食べる予定で4つ茹でました。"
+  },
+  {
+   "end_ms": "478640.00000000006",
+   "start_ms": "474480",
+   "start_time_text": "7:54",
+   "text": "茹でる前に小さな穴をいっぱいあけておくと皮剥きしやすいです。"
+  },
+  {
+   "end_ms": "482582.99999999994",
+   "start_ms": "479573",
+   "start_time_text": "7:59",
+   "text": "憧れの卵スライサーデビューを果たしました。"
+  },
+  {
+   "end_ms": "487896",
+   "start_ms": "484743",
+   "start_time_text": "8:04",
+   "text": "切れ味抜群で綺麗な断面があらわれました( ˊᵕˋ )"
+  },
+  {
+   "end_ms": "495430",
+   "start_ms": "492276",
+   "start_time_text": "8:12",
+   "text": "彩りにハムのピンクがないのがとても残念ですTT"
+  },
+  {
+   "end_ms": "500373.00000000006",
+   "start_ms": "497220",
+   "start_time_text": "8:17",
+   "text": "朝ごはん用とお昼ご飯用にふたつ作りました。"
+  },
+  {
+   "end_ms": "510283",
+   "start_ms": "506620",
+   "start_time_text": "8:26",
+   "text": "クッキングペーパーにぎゅっと巻いて馴染ませます。"
+  },
+  {
+   "end_ms": "517166.00000000006",
+   "start_ms": "513066.00000000006",
+   "start_time_text": "8:33",
+   "text": "こうしておくと食べやすいし衛生的で手も汚れない！"
+  },
+  {
+   "end_ms": "520600",
+   "start_ms": "517166.00000000006",
+   "start_time_text": "8:37",
+   "text": "冷蔵庫でねかせたらカットしますよ~"
+  },
+  {
+   "end_ms": "522429",
+   "start_ms": "521159",
+   "start_time_text": "8:41",
+   "text": "8:26"
+  },
+  {
+   "end_ms": "527412.9999999999",
+   "start_ms": "524102.99999999994",
+   "start_time_text": "8:44",
+   "text": "簡単にぱぱっとお化粧します。"
+  },
+  {
+   "end_ms": "532053",
+   "start_ms": "528743",
+   "start_time_text": "8:48",
+   "text": "日焼け止めもしっかりと塗りました。"
+  },
+  {
+   "end_ms": "537170",
+   "start_ms": "533280",
+   "start_time_text": "8:53",
+   "text": "今はどんなメイクしてても何にも言われないので楽ちんです。"
+  },
+  {
+   "end_ms": "542569.9999999999",
+   "start_ms": "537170",
+   "start_time_text": "8:57",
+   "text": "今日は帰りに美容院に寄り道するという念願が叶うの日なので ある程度ちゃんとメイクします☺︎"
+  },
+  {
+   "end_ms": "547953",
+   "start_ms": "543453",
+   "start_time_text": "9:03",
+   "text": "学校帰りに寄り道できるの、シンプルに時間を効率に使えて助かります。"
+  },
+  {
+   "end_ms": "554053",
+   "start_ms": "550730",
+   "start_time_text": "9:10",
+   "text": "気分を高めるいいにおい(トワレ)"
+  },
+  {
+   "end_ms": "558806",
+   "start_ms": "554630",
+   "start_time_text": "9:14",
+   "text": "ホワイトラベンダーの柔らかくて甘い香りがふわっと漂います"
+  },
+  {
+   "end_ms": "563872.9999999999",
+   "start_ms": "560680",
+   "start_time_text": "9:20",
+   "text": "8:49 サンドイッチをカットしてみましょ~"
+  },
+  {
+   "end_ms": "569986",
+   "start_ms": "566400",
+   "start_time_text": "9:26",
+   "text": "断面きれいにできてより一層ハムへの未練があふれた"
+  },
+  {
+   "end_ms": "574456",
+   "start_ms": "570590",
+   "start_time_text": "9:30",
+   "text": "今朝は少し冷えるのでレトルトのあたたかいスープ付き(MUJI)"
+  },
+  {
+   "end_ms": "576520.0000000001",
+   "start_ms": "574806",
+   "start_time_text": "9:34",
+   "text": "Breakfast"
+  },
+  {
+   "end_ms": "580336",
+   "start_ms": "577606",
+   "start_time_text": "9:37",
+   "text": "いただきます~"
+  },
+  {
+   "end_ms": "584783",
+   "start_ms": "581806",
+   "start_time_text": "9:41",
+   "text": "食べる時間がいちばん好き.."
+  },
+  {
+   "end_ms": "588633",
+   "start_ms": "585123",
+   "start_time_text": "9:45",
+   "text": "さっきスムージー飲んだから暖かいスープがしみてしょうがないです✌︎"
+  },
+  {
+   "end_ms": "596276",
+   "start_ms": "591990",
+   "start_time_text": "9:51",
+   "text": "サンドイッチに粒マスタードを塗ったおかげで味わい深いです！"
+  },
+  {
+   "end_ms": "604036",
+   "start_ms": "599750",
+   "start_time_text": "9:59",
+   "text": "食べたら洗濯機をセッティングして学校に行きます。"
+  },
+  {
+   "end_ms": "608943",
+   "start_ms": "606470",
+   "start_time_text": "10:06",
+   "text": "9:20 今日の持ち物の一部です。"
+  },
+  {
+   "end_ms": "612242.9999999999",
+   "start_ms": "609526",
+   "start_time_text": "10:09",
+   "text": "お財布と家の鍵"
+  },
+  {
+   "end_ms": "617703",
+   "start_ms": "612953",
+   "start_time_text": "10:12",
+   "text": "みるおものポーチには、リップやハンドクリームやティッシュやお薬や 細かいものを全部入れてます。"
+  },
+  {
+   "end_ms": "623459.9999999999",
+   "start_ms": "619526",
+   "start_time_text": "10:19",
+   "text": "今年で3年目のキティちゃん、使い込みすぎて色褪せ著しいです"
+  },
+  {
+   "end_ms": "628536",
+   "start_ms": "624603",
+   "start_time_text": "10:24",
+   "text": "ハンカチとお菓子も入れて、今日はラフ着で行くのでリュック(体育あり)"
+  },
+  {
+   "end_ms": "638606.0000000001",
+   "start_ms": "633863",
+   "start_time_text": "10:33",
+   "text": "いつも着てるNIKE上下セットです テーマ:米国の学生(建前)"
+  },
+  {
+   "end_ms": "645140",
+   "start_ms": "640323",
+   "start_time_text": "10:40",
+   "text": "9:46 とか言ってただラフ着着てるだけなんですけど、洒落<楽"
+  },
+  {
+   "end_ms": "652483.0000000001",
+   "start_ms": "646440",
+   "start_time_text": "10:46",
+   "text": "朝のラッシュが終わって快適な車内です。 前は7時台のラッシュに揉まれていましたが、それはそれで楽しかった思い出です"
+  },
+  {
+   "end_ms": "657210",
+   "start_ms": "653246",
+   "start_time_text": "10:53",
+   "text": "今日どんなカットにしようか、今のうちに決めとく✌︎"
+  },
+  {
+   "end_ms": "661223.0000000001",
+   "start_ms": "658196",
+   "start_time_text": "10:58",
+   "text": "それでは行ってきまーす"
+  },
+  {
+   "end_ms": "663726",
+   "start_ms": "662456",
+   "start_time_text": "11:02",
+   "text": "12:40"
+  },
+  {
+   "end_ms": "667756",
+   "start_ms": "663726",
+   "start_time_text": "11:03",
+   "text": "ふたつ授業をうけてきました。体育の会場の近くの公園なう"
+  },
+  {
+   "end_ms": "671983.0000000001",
+   "start_ms": "668523",
+   "start_time_text": "11:08",
+   "text": "ひとりさびしく食べていたら、背後から誰か来た！"
+  },
+  {
+   "end_ms": "676780",
+   "start_ms": "674780",
+   "start_time_text": "11:14",
+   "text": "ん~"
+  },
+  {
+   "end_ms": "678630",
+   "start_ms": "676780",
+   "start_time_text": "11:16",
+   "text": "これを取りに来たんだね"
+  },
+  {
+   "end_ms": "679430",
+   "start_ms": "678630",
+   "start_time_text": "11:18",
+   "text": "あげないよ"
+  },
+  {
+   "end_ms": "680133",
+   "start_ms": "679476",
+   "start_time_text": "11:19",
+   "text": "欲しいの?"
+  },
+  {
+   "end_ms": "681450",
+   "start_ms": "680253",
+   "start_time_text": "11:20",
+   "text": "あげてもいいけど"
+  },
+  {
+   "end_ms": "682613",
+   "start_ms": "681780",
+   "start_time_text": "11:21",
+   "text": "食べれる?"
+  },
+  {
+   "end_ms": "684020.0000000001",
+   "start_ms": "682613",
+   "start_time_text": "11:22",
+   "text": "ん~かわいい"
+  },
+  {
+   "end_ms": "686350",
+   "start_ms": "684256",
+   "start_time_text": "11:24",
+   "text": "あげれるものがないんだけどどうしよう？"
+  },
+  {
+   "end_ms": "691206",
+   "start_ms": "687700",
+   "start_time_text": "11:27",
+   "text": "ずっとそばでこっちの様子を見てきてほんとに可愛い"
+  },
+  {
+   "end_ms": "693966",
+   "start_ms": "692183",
+   "start_time_text": "11:32",
+   "text": "(遠慮なし)"
+  },
+  {
+   "end_ms": "699126",
+   "start_ms": "694376",
+   "start_time_text": "11:34",
+   "text": "チョコレートっていいのかな？調べたらダメでした"
+  },
+  {
+   "end_ms": "702526.0000000001",
+   "start_ms": "701360",
+   "start_time_text": "11:41",
+   "text": "カラス"
+  },
+  {
+   "end_ms": "707752.9999999999",
+   "start_ms": "703040",
+   "start_time_text": "11:43",
+   "text": "マヨネーズとかマスターが付着してないパンの外側をちぎってあげることに"
+  },
+  {
+   "end_ms": "711116",
+   "start_ms": "708056",
+   "start_time_text": "11:48",
+   "text": "※周りにされもいないことを確認してあげました"
+  },
+  {
+   "end_ms": "716853",
+   "start_ms": "712886",
+   "start_time_text": "11:52",
+   "text": "カラスの顔ってすごいかわいいだよね☺︎"
+  },
+  {
+   "end_ms": "722990",
+   "start_ms": "719023",
+   "start_time_text": "11:59",
+   "text": "たくさんちぎってあげました~"
+  },
+  {
+   "end_ms": "728236",
+   "start_ms": "725553",
+   "start_time_text": "12:05",
+   "text": "サンドイッチがぼろぼろになった笑"
+  },
+  {
+   "end_ms": "732040.0000000001",
+   "start_ms": "729046",
+   "start_time_text": "12:09",
+   "text": "しばらくするとカラスは満足して去っていきました"
+  },
+  {
+   "end_ms": "733923",
+   "start_ms": "732653",
+   "start_time_text": "12:12",
+   "text": "14:17"
+  },
+  {
+   "end_ms": "738966",
+   "start_ms": "733923",
+   "start_time_text": "12:13",
+   "text": "さらにもう一教科スクーリングを受けて終わり！学校近くの美容院に直行"
+  },
+  {
+   "end_ms": "743512.9999999999",
+   "start_ms": "739930",
+   "start_time_text": "12:19",
+   "text": "20分で終了です。顔周り切ってもらっただけです！"
+  },
+  {
+   "end_ms": "746220",
+   "start_ms": "743513",
+   "start_time_text": "12:23",
+   "text": "(サイドバングの量増やした)"
+  },
+  {
+   "end_ms": "752533",
+   "start_ms": "747940",
+   "start_time_text": "12:27",
+   "text": "帰宅中~！家に近づくにつれて緑豊かになる笑"
+  },
+  {
+   "end_ms": "755576",
+   "start_ms": "754306",
+   "start_time_text": "12:34",
+   "text": "15:30"
+  },
+  {
+   "end_ms": "759156.0000000001",
+   "start_ms": "755576",
+   "start_time_text": "12:35",
+   "text": "駅で友達を見つけて一緒にスガキヤに来たよ~"
+  },
+  {
+   "end_ms": "762546",
+   "start_ms": "759633",
+   "start_time_text": "12:39",
+   "text": "愛知県民のB級ソウルフード"
+  },
+  {
+   "end_ms": "766882.9999999999",
+   "start_ms": "763213",
+   "start_time_text": "12:43",
+   "text": "野菜がいっぱい入ったやつがお気に入りです。"
+  },
+  {
+   "end_ms": "771286",
+   "start_ms": "766883",
+   "start_time_text": "12:46",
+   "text": "あとは五目ご飯がおいしい！名古屋に来たらぜひ食べてみてください。"
+  },
+  {
+   "end_ms": "776383",
+   "start_ms": "772813",
+   "start_time_text": "12:52",
+   "text": "17:05 帰宅しました。セリアでジェルネイル買いました~"
+  },
+  {
+   "end_ms": "781286",
+   "start_ms": "777526",
+   "start_time_text": "12:57",
+   "text": "Amazonで買った新しいフィルムが届いたのでさっそく貼り付けます。"
+  },
+  {
+   "end_ms": "788140",
+   "start_ms": "783673",
+   "start_time_text": "13:03",
+   "text": "夕方から大雨降ってきて濡れちゃって、髪の毛がプードルに戻った..TT"
+  },
+  {
+   "end_ms": "790492.9999999999",
+   "start_ms": "788140",
+   "start_time_text": "13:08",
+   "text": "最悪..！"
+  },
+  {
+   "end_ms": "796240",
+   "start_ms": "792440",
+   "start_time_text": "13:12",
+   "text": "こういう細かくて慎重にならなきゃいけない作業苦手すぎる"
+  },
+  {
+   "end_ms": "800370",
+   "start_ms": "797316",
+   "start_time_text": "13:17",
+   "text": "見ただけでうんざりしちゃう...."
+  },
+  {
+   "end_ms": "802833.0000000001",
+   "start_ms": "801393",
+   "start_time_text": "13:21",
+   "text": "誰かきたー！"
+  },
+  {
+   "end_ms": "809080",
+   "start_ms": "804870",
+   "start_time_text": "13:24",
+   "text": "ずっと待っていたとあるものが突然届きました(のちほど開封)"
+  },
+  {
+   "end_ms": "811556",
+   "start_ms": "809556",
+   "start_time_text": "13:29",
+   "text": "待って買うやつ間違えた?"
+  },
+  {
+   "end_ms": "814856",
+   "start_ms": "811556",
+   "start_time_text": "13:31",
+   "text": "これ、2022年モデルまで"
+  },
+  {
+   "end_ms": "817016",
+   "start_ms": "814856",
+   "start_time_text": "13:34",
+   "text": "2024年に買ったやつ(iPad)なんだけど"
+  },
+  {
+   "end_ms": "818516",
+   "start_ms": "817016",
+   "start_time_text": "13:37",
+   "text": "買うやつ間違えちゃった"
+  },
+  {
+   "end_ms": "819555.9999999999",
+   "start_ms": "818516",
+   "start_time_text": "13:38",
+   "text": "まぁいいや"
+  },
+  {
+   "end_ms": "822776.0000000001",
+   "start_ms": "819556",
+   "start_time_text": "13:39",
+   "text": "インカメラの穴セルフカットでダサすぎる"
+  },
+  {
+   "end_ms": "827303",
+   "start_ms": "824083",
+   "start_time_text": "13:44",
+   "text": "こういうときすぐまぁいいやって考える癖があるんですけど"
+  },
+  {
+   "end_ms": "829796",
+   "start_ms": "827303",
+   "start_time_text": "13:47",
+   "text": "自分なりの自己防衛です。"
+  },
+  {
+   "end_ms": "834110",
+   "start_ms": "829796",
+   "start_time_text": "13:49",
+   "text": "じゃないとグダグダいつまでも引きずって気分悪くなっちゃうから"
+  },
+  {
+   "end_ms": "839216",
+   "start_ms": "834713",
+   "start_time_text": "13:54",
+   "text": "だからこうなってもまぁいいや、てなる(一応修正しました)"
+  },
+  {
+   "end_ms": "844223.0000000001",
+   "start_ms": "839576",
+   "start_time_text": "13:59",
+   "text": "ペーパーライクフィルムめっちゃ書きやすい！ これでレポートがやりやすくなります。"
+  },
+  {
+   "end_ms": "846956",
+   "start_ms": "844673",
+   "start_time_text": "14:04",
+   "text": "ネイルチェンジするよ~"
+  },
+  {
+   "end_ms": "849883",
+   "start_ms": "847600",
+   "start_time_text": "14:07",
+   "text": "さっき買った色も試してみます。"
+  },
+  {
+   "end_ms": "856280",
+   "start_ms": "851323",
+   "start_time_text": "14:11",
+   "text": "オイルを垂らして、ジェルネイルを優しく剥がしていきます。"
+  },
+  {
+   "end_ms": "860346",
+   "start_ms": "856280",
+   "start_time_text": "14:16",
+   "text": "ピールオフのベースを塗っているのでするんと剥がれます。"
+  },
+  {
+   "end_ms": "866276.0000000001",
+   "start_ms": "862210",
+   "start_time_text": "14:22",
+   "text": "だんだん生え揃ってきた爪。 やっぱ常にジェルしてないとどうしても割れますね.."
+  },
+  {
+   "end_ms": "871626",
+   "start_ms": "867560",
+   "start_time_text": "14:27",
+   "text": "長さが足りない指はチップで長さ出しをします。"
+  },
+  {
+   "end_ms": "876453",
+   "start_ms": "871626",
+   "start_time_text": "14:31",
+   "text": "やや大きめを選んで、ファイルで削って微調整すると密着しやすいです。"
+  },
+  {
+   "end_ms": "881390",
+   "start_ms": "877380",
+   "start_time_text": "14:37",
+   "text": "さっき買ったジェルの色味はこんな感じでした。 間違えてシナモンベージュを2本買ってしまっていました"
+  },
+  {
+   "end_ms": "887110",
+   "start_ms": "883100",
+   "start_time_text": "14:43",
+   "text": "シアー系のホワイトを使って大理石調グラデーションを作ります。"
+  },
+  {
+   "end_ms": "891780",
+   "start_ms": "887110",
+   "start_time_text": "14:47",
+   "text": "まず全体のシアーホワイト(セリアのジェリーホワイト使用)を一度塗りします。"
+  },
+  {
+   "end_ms": "895220",
+   "start_ms": "891780",
+   "start_time_text": "14:51",
+   "text": "クリアとホワイト混ぜて自作しても○"
+  },
+  {
+   "end_ms": "900925.9999999999",
+   "start_ms": "895603",
+   "start_time_text": "14:55",
+   "text": "ホワイト(これはダイソーの)とシナモンベージュを使ってマーブル模様を作ります。"
+  },
+  {
+   "end_ms": "904810.0000000001",
+   "start_ms": "900926",
+   "start_time_text": "15:00",
+   "text": "ホワイトとシナモンベージュをランダムにちょんちょん乗せていく"
+  },
+  {
+   "end_ms": "909203.0000000001",
+   "start_ms": "905623",
+   "start_time_text": "15:05",
+   "text": "ホワイトに対してベージュはだいぶ少なめで"
+  },
+  {
+   "end_ms": "914376",
+   "start_ms": "910616",
+   "start_time_text": "15:10",
+   "text": "ちょっと少なすぎてあとでどっちも少し量足しました"
+  },
+  {
+   "end_ms": "920090",
+   "start_ms": "916330",
+   "start_time_text": "15:16",
+   "text": "完全に混ざらない程度にちょんちょん混ぜて模様を作っていきます"
+  },
+  {
+   "end_ms": "927476",
+   "start_ms": "922846",
+   "start_time_text": "15:22",
+   "text": "やわらかーい感じで大理石調っぽくなってるのわかりますか？"
+  },
+  {
+   "end_ms": "932700",
+   "start_ms": "927476",
+   "start_time_text": "15:27",
+   "text": "黒と白でやっても可愛いし、ピンクと白でもかわいいし 高度な技術もいらないのでおすすめです❤︎"
+  },
+  {
+   "end_ms": "936523",
+   "start_ms": "933780",
+   "start_time_text": "15:33",
+   "text": "20秒ほど仮硬化"
+  },
+  {
+   "end_ms": "941685.9999999999",
+   "start_ms": "937406",
+   "start_time_text": "15:37",
+   "text": "未硬化ジェルを利用して 上からゴールドのラメを散りばめてアクセントつけます✧"
+  },
+  {
+   "end_ms": "947396.0000000001",
+   "start_ms": "941686",
+   "start_time_text": "15:41",
+   "text": "本当はもう少しホワイトゴールドっぽいラメがよかったけど 家にこれしかありませんでした.."
+  },
+  {
+   "end_ms": "950939.9999999999",
+   "start_ms": "948246",
+   "start_time_text": "15:48",
+   "text": "ナチュラルな仕上がり✧"
+  },
+  {
+   "end_ms": "953689.9999999999",
+   "start_ms": "952103",
+   "start_time_text": "15:52",
+   "text": "18:10"
+  },
+  {
+   "end_ms": "958603",
+   "start_ms": "954476",
+   "start_time_text": "15:54",
+   "text": "夕方から肌寒くなったので早めにお風呂で温まるよ"
+  },
+  {
+   "end_ms": "962826",
+   "start_ms": "960133",
+   "start_time_text": "16:00",
+   "text": "目を閉じて湯を感じている"
+  },
+  {
+   "end_ms": "968623",
+   "start_ms": "967456",
+   "start_time_text": "16:07",
+   "text": "お風呂入ってきました"
+  },
+  {
+   "end_ms": "972963",
+   "start_ms": "970043",
+   "start_time_text": "16:10",
+   "text": "朝準備しておいたヨーグルト"
+  },
+  {
+   "end_ms": "977250",
+   "start_ms": "972963",
+   "start_time_text": "16:12",
+   "text": "ホエイが抜けると容量かなり少なくなりますが、超もっちりしておいしいんです。"
+  },
+  {
+   "end_ms": "982873",
+   "start_ms": "978586",
+   "start_time_text": "16:18",
+   "text": "今日はブルーベリーとハチミツ、ココナッツパウダーをトッピング。"
+  },
+  {
+   "end_ms": "988860",
+   "start_ms": "984573",
+   "start_time_text": "16:24",
+   "text": "ココナッツパウダーでサクサク食感になります◎"
+  },
+  {
+   "end_ms": "1001250",
+   "start_ms": "999723",
+   "start_time_text": "16:39",
+   "text": "18:40"
+  },
+  {
+   "end_ms": "1007243",
+   "start_ms": "1004220",
+   "start_time_text": "16:44",
+   "text": "お風呂上がりのデザート"
+  },
+  {
+   "end_ms": "1012786",
+   "start_ms": "1008240",
+   "start_time_text": "16:48",
+   "text": "超もっちりしてカマンベールチーズの一歩手前くらいの食感です。"
+  },
+  {
+   "end_ms": "1018260",
+   "start_ms": "1014506",
+   "start_time_text": "16:54",
+   "text": "ネイルは右の方が良くできたと思います◎"
+  },
+  {
+   "end_ms": "1024236.0000000001",
+   "start_ms": "1020613",
+   "start_time_text": "17:00",
+   "text": "好きな動画見て駄菓子食べてチルします~✌︎"
+  },
+  {
+   "end_ms": "1029495.9999999999",
+   "start_ms": "1025453",
+   "start_time_text": "17:05",
+   "text": "YouTubeの撮影も忘れません"
+  },
+  {
+   "end_ms": "1034602.9999999999",
+   "start_ms": "1031598.9999999999",
+   "start_time_text": "17:11",
+   "text": "チョコバットのくじの場所がわからない.."
+  },
+  {
+   "end_ms": "1039866",
+   "start_ms": "1037116",
+   "start_time_text": "17:17",
+   "text": "普通にハズレでした"
+  },
+  {
+   "end_ms": "1043843.0000000001",
+   "start_ms": "1041093.0000000001",
+   "start_time_text": "17:21",
+   "text": "グソクムシダッシュの修理に挑戦"
+  },
+  {
+   "end_ms": "1048812.9999999998",
+   "start_ms": "1045530",
+   "start_time_text": "17:25",
+   "text": "ネジがあまりに小さくて長い爪じゃ扱いづらかったTT"
+  },
+  {
+   "end_ms": "1055656",
+   "start_ms": "1051870",
+   "start_time_text": "17:31",
+   "text": "ネイルする前にこっちを先にしたらよかった..！"
+  },
+  {
+   "end_ms": "1059616",
+   "start_ms": "1056793",
+   "start_time_text": "17:36",
+   "text": "さぁ無事直ったでしょうか.."
+  },
+  {
+   "end_ms": "1062763",
+   "start_ms": "1060723",
+   "start_time_text": "17:40",
+   "text": "直りました！"
+  },
+  {
+   "end_ms": "1068090",
+   "start_ms": "1063780",
+   "start_time_text": "17:43",
+   "text": "占いチョコで遊んでみる。 色々悩んでまずは「未来」の行方を確認してみます"
+  },
+  {
+   "end_ms": "1070446",
+   "start_ms": "1069043",
+   "start_time_text": "17:49",
+   "text": "もちろん二重丸でしょう◎"
+  },
+  {
+   "end_ms": "1078020",
+   "start_ms": "1075560",
+   "start_time_text": "17:55",
+   "text": "本当に二重丸が出たよ✧"
+  },
+  {
+   "end_ms": "1082580",
+   "start_ms": "1080903",
+   "start_time_text": "18:00",
+   "text": "おーちゃん、直った。"
+  },
+  {
+   "end_ms": "1084573",
+   "start_ms": "1083430",
+   "start_time_text": "18:03",
+   "text": "直ったよ。"
+  },
+  {
+   "end_ms": "1086106",
+   "start_ms": "1084873",
+   "start_time_text": "18:04",
+   "text": "？？？"
+  },
+  {
+   "end_ms": "1117096",
+   "start_ms": "1112130",
+   "start_time_text": "18:32",
+   "text": "頑張って直したのにちょっと遊ばないうちに飽きちゃった？"
+  },
+  {
+   "end_ms": "1125953",
+   "start_ms": "1121090",
+   "start_time_text": "18:41",
+   "text": "おーちゃん最近あんまり動きたがらなくてずっと同じ場所に座ってる"
+  },
+  {
+   "end_ms": "1130443",
+   "start_ms": "1128440",
+   "start_time_text": "18:48",
+   "text": "どうして~？"
+  },
+  {
+   "end_ms": "1136720",
+   "start_ms": "1132730",
+   "start_time_text": "18:52",
+   "text": "夕方ラーメン食べたから何も食べないつもりだったけど"
+  },
+  {
+   "end_ms": "1140710",
+   "start_ms": "1136720",
+   "start_time_text": "18:56",
+   "text": "やっぱりお腹が空いてきたからなんか作ろうかな？"
+  },
+  {
+   "end_ms": "1146383",
+   "start_ms": "1142393",
+   "start_time_text": "19:02",
+   "text": "いったんお菓子を食べてみる"
+  },
+  {
+   "end_ms": "1149916",
+   "start_ms": "1147000",
+   "start_time_text": "19:07",
+   "text": "パチパチなって楽しい~"
+  },
+  {
+   "end_ms": "1154063",
+   "start_ms": "1151083",
+   "start_time_text": "19:11",
+   "text": "立ち寝するうさぎ(目を開けて寝ます)"
+  },
+  {
+   "end_ms": "1159806",
+   "start_ms": "1155906",
+   "start_time_text": "19:15",
+   "text": "スプラトゥーンしてみたら一番きらいなマップの時間でした"
+  },
+  {
+   "end_ms": "1164420",
+   "start_ms": "1159806",
+   "start_time_text": "19:19",
+   "text": "ローラーしか使えないから高低差のマップ難しすぎる"
+  },
+  {
+   "end_ms": "1172203",
+   "start_ms": "1168756",
+   "start_time_text": "19:28",
+   "text": "やっぱWiiUのスプラトゥーン戻ってきてほしい！"
+  },
+  {
+   "end_ms": "1177872.9999999998",
+   "start_ms": "1174426",
+   "start_time_text": "19:34",
+   "text": "だんだん近づいてくるのに隣には来てくれない笑"
+  },
+  {
+   "end_ms": "1179633",
+   "start_ms": "1178363",
+   "start_time_text": "19:38",
+   "text": "20:30"
+  },
+  {
+   "end_ms": "1183816",
+   "start_ms": "1180693",
+   "start_time_text": "19:40",
+   "text": "やっぱりお腹空いたので食べることにします"
+  },
+  {
+   "end_ms": "1186933.0000000002",
+   "start_ms": "1184476",
+   "start_time_text": "19:44",
+   "text": "さっき帰りにお隣さんに会って"
+  },
+  {
+   "end_ms": "1188933",
+   "start_ms": "1186933",
+   "start_time_text": "19:46",
+   "text": "なんだっけこれ、エンドウマメ？"
+  },
+  {
+   "end_ms": "1190213",
+   "start_ms": "1188933",
+   "start_time_text": "19:48",
+   "text": "さやえんどう？"
+  },
+  {
+   "end_ms": "1192735.9999999998",
+   "start_ms": "1190513",
+   "start_time_text": "19:50",
+   "text": "すごいいっぱいいただいちゃいました"
+  },
+  {
+   "end_ms": "1194676.0000000002",
+   "start_ms": "1192736",
+   "start_time_text": "19:52",
+   "text": "どうやって食べたらいいですか?って聞いたら"
+  },
+  {
+   "end_ms": "1196426",
+   "start_ms": "1194676",
+   "start_time_text": "19:54",
+   "text": "普通に茹でて"
+  },
+  {
+   "end_ms": "1197933",
+   "start_ms": "1196426",
+   "start_time_text": "19:56",
+   "text": "マヨネーズかけるだけでも美味しいよって"
+  },
+  {
+   "end_ms": "1199800",
+   "start_ms": "1197933",
+   "start_time_text": "19:57",
+   "text": "教えてくださったんで"
+  },
+  {
+   "end_ms": "1201409.9999999998",
+   "start_ms": "1199800",
+   "start_time_text": "19:59",
+   "text": "ちょっと食べちゃおうか"
+  },
+  {
+   "end_ms": "1208030",
+   "start_ms": "1203080",
+   "start_time_text": "20:03",
+   "text": "冷蔵庫にあったもので適当に、にんじんご飯作ることにした✌︎"
+  },
+  {
+   "end_ms": "1212980",
+   "start_ms": "1208030",
+   "start_time_text": "20:08",
+   "text": "にんじんご飯が給食のメニューにあって、それが大好きだったなあ"
+  },
+  {
+   "end_ms": "1216230",
+   "start_ms": "1212980",
+   "start_time_text": "20:12",
+   "text": "なんとなく想像で真似して作ってみるんだけど"
+  },
+  {
+   "end_ms": "1219933",
+   "start_ms": "1216230",
+   "start_time_text": "20:16",
+   "text": "いつも絶対給食の味には敵わない..."
+  },
+  {
+   "end_ms": "1226366",
+   "start_ms": "1222093",
+   "start_time_text": "20:22",
+   "text": "お水、酒、生姜、鶏ガラスープ、お砂糖を適当に入れます"
+  },
+  {
+   "end_ms": "1230893",
+   "start_ms": "1227250",
+   "start_time_text": "20:27",
+   "text": "レシピ見ないで作る時いつもめちゃくちゃ適当"
+  },
+  {
+   "end_ms": "1235810",
+   "start_ms": "1230893",
+   "start_time_text": "20:30",
+   "text": "だからあんまり美味しくない時もしょっちゅうあります笑"
+  },
+  {
+   "end_ms": "1242716.0000000002",
+   "start_ms": "1238526",
+   "start_time_text": "20:38",
+   "text": "色の薄い調味料から先に入れて、濃いものは後で入れると"
+  },
+  {
+   "end_ms": "1246090",
+   "start_ms": "1242716",
+   "start_time_text": "20:42",
+   "text": "味が入りやすいって何かで読んだので実践しています。"
+  },
+  {
+   "end_ms": "1249526",
+   "start_ms": "1246546",
+   "start_time_text": "20:46",
+   "text": "なので醤油は一番最後に入れました"
+  },
+  {
+   "end_ms": "1254666",
+   "start_ms": "1251403",
+   "start_time_text": "20:51",
+   "text": "作り方は鶏そぼろと同じ要領です"
+  },
+  {
+   "end_ms": "1259366",
+   "start_ms": "1256180",
+   "start_time_text": "20:56",
+   "text": "さやえんどうの筋取りするの好き~✌︎"
+  },
+  {
+   "end_ms": "1263750",
+   "start_ms": "1260550",
+   "start_time_text": "21:00",
+   "text": "ふくらんでて立派なやつは塩茹でして"
+  },
+  {
+   "end_ms": "1268146",
+   "start_ms": "1263750",
+   "start_time_text": "21:03",
+   "text": "薄いのは刻んで、 グリーンピースがない代わりににんじんご飯に混ぜようと思います。"
+  },
+  {
+   "end_ms": "1275376",
+   "start_ms": "1270403",
+   "start_time_text": "21:10",
+   "text": "お隣さんは畑を持っていて野菜たくさん自足しているらしいです"
+  },
+  {
+   "end_ms": "1282582.9999999998",
+   "start_ms": "1278676",
+   "start_time_text": "21:18",
+   "text": "私もトマトとか挑戦してみようかなー？"
+  },
+  {
+   "end_ms": "1294480",
+   "start_ms": "1290573",
+   "start_time_text": "21:30",
+   "text": "身が立派なやつは塩茹でしました。"
+  },
+  {
+   "end_ms": "1304333",
+   "start_ms": "1299786",
+   "start_time_text": "21:39",
+   "text": "今日のタンパク質は焼きサバです。"
+  },
+  {
+   "end_ms": "1309533.0000000002",
+   "start_ms": "1304333",
+   "start_time_text": "21:44",
+   "text": "グリルで焼いた方がふんわりできるけど、 食後にこの時間からあれを洗うのは億劫すぎる！"
+  },
+  {
+   "end_ms": "1314120.0000000002",
+   "start_ms": "1310816",
+   "start_time_text": "21:50",
+   "text": "撮影に気を取られていたらそぼろをしっかり焦がしました。"
+  },
+  {
+   "end_ms": "1317423",
+   "start_ms": "1314120",
+   "start_time_text": "21:54",
+   "text": "こんなはずじゃなかったんですけど..TT"
+  },
+  {
+   "end_ms": "1323046",
+   "start_ms": "1320723",
+   "start_time_text": "22:00",
+   "text": "21:20"
+  },
+  {
+   "end_ms": "1329423",
+   "start_ms": "1325436",
+   "start_time_text": "22:05",
+   "text": "かなり遅めの晩ごはん☺︎"
+  },
+  {
+   "end_ms": "1334793",
+   "start_ms": "1331366",
+   "start_time_text": "22:11",
+   "text": "まずはお隣さんのさやえんどうから！"
+  },
+  {
+   "end_ms": "1339030",
+   "start_ms": "1335816",
+   "start_time_text": "22:15",
+   "text": "シャキシャキ食感で最高に美味しい✌︎ 自家製はいいですね！"
+  },
+  {
+   "end_ms": "1345476",
+   "start_ms": "1340620",
+   "start_time_text": "22:20",
+   "text": "にんじんご飯は豪快に混ぜてから食べるとより美味しいですよ✌︎"
+  },
+  {
+   "end_ms": "1352173",
+   "start_ms": "1347316",
+   "start_time_text": "22:27",
+   "text": "若干の焦げみを感じるけど味は大成功でした。"
+  },
+  {
+   "end_ms": "1359816",
+   "start_ms": "1354960",
+   "start_time_text": "22:34",
+   "text": "さばもジューシーで美味しかった！"
+  },
+  {
+   "end_ms": "1363096",
+   "start_ms": "1360970",
+   "start_time_text": "22:40",
+   "text": "23:45"
+  },
+  {
+   "end_ms": "1368973",
+   "start_ms": "1365220",
+   "start_time_text": "22:45",
+   "text": "寝る前にさっき届いたものを開封します。"
+  },
+  {
+   "end_ms": "1373363",
+   "start_ms": "1368973",
+   "start_time_text": "22:48",
+   "text": "数週間前に注文して忘れたころに届いたよ笑"
+  },
+  {
+   "end_ms": "1382820",
+   "start_ms": "1378356",
+   "start_time_text": "22:58",
+   "text": "これはリビングに飾る絵！差し色が欲しくて母と一緒に選びました~"
+  },
+  {
+   "end_ms": "1394293",
+   "start_ms": "1389300",
+   "start_time_text": "23:09",
+   "text": "勝手に額もついてくると思ってたけどついてなかったから"
+  },
+  {
+   "end_ms": "1399285.9999999998",
+   "start_ms": "1394293",
+   "start_time_text": "23:14",
+   "text": "探しているところ.. 赤色が欲しいんだけどなかなかないですね"
+  },
+  {
+   "end_ms": "1402966.0000000002",
+   "start_ms": "1399286",
+   "start_time_text": "23:19",
+   "text": "自分で塗っても楽しそう！"
+  },
+  {
+   "end_ms": "1406366",
+   "start_ms": "1402966",
+   "start_time_text": "23:22",
+   "text": "また完成したらお見せしますね~！"
+  },
+  {
+   "end_ms": "1409766",
+   "start_ms": "1406366",
+   "start_time_text": "23:26",
+   "text": "それでは今日はここまで、ご視聴くださりありがとうございました( ˊᵕˋ )"
+  },
+  {
+   "end_ms": "1415426.0000000002",
+   "start_ms": "1409766",
+   "start_time_text": "23:29",
+   "text": "Thanks for watching.See you next video ❁"
+  }
+ ],
+ "transcript_only_text": "5:58 おはようございます！今日は学校に行く日。9:30に家を出ます。 えーん シャワー浴びてメイクしてご飯食べてお弁当準備します✌︎ 母出張でいないので、ひとりで全部やるよ~ 6:10 ばぶちゃんおはよう☺︎ リビングに来たらまず朝っぽいプレイリストを再生して一日をご機嫌で開始♩ いつもここに座って歯磨きしています。まだ眠い... 早く朝ごはん持ってこいっていうおーちゃんの圧 この時間本当に動けない..血圧戻ってこい うさぎは朝が一番ご機嫌で、ご飯を食べたあとは夕方まで寝ています(夜行性) ごはんは7時からだよ。 もうちょっと待ってね TOPICS:グソクムシダッシュ早くも終了 遊びすぎて、というかおーちゃんの扱いが雑すぎて車輪が外れちゃった..TT 帰ったら分解して直してみるね‼︎ このあとシャワーを浴びるので、まずは歯磨きだけ どこにでも追いかけて来てかわいい✌︎ ちょっと早いけどごはんあげちゃおう お皿に入れられるのが嫌いらしくて、全部床に出しちゃう.. みーちゃんの分も必ずお供えしています。 朝と帰宅時にお線香も焚きます。 ❤︎❤︎❤︎ 6:30 みーちゃんにお供えする新しいお花❁ 適当にさしてみる.. 入りきらないから花瓶2つに分けました お供えするお花のルールはわからないので、 そのときかわいいと思ったお花をただ供えてます。 一通り食べて満足したおーちゃんはおねんね 6:40 食事を気をつけ始めてから、寝起きはいつもかなり腹ペコです スムージーをささっと飲んでいったん空腹を落ち着かせます。 家にある野菜を適当に入れてみる✌︎ BRUNOで買ったブレンダー ほうれん草を入れるのは初めてです。おいしいかな？ ヨーグルトと無調整豆乳を入れました。 バナナは黒くなってからが1番甘くておいしいので、熟すまで置いてます。 ボリューミー えい！ 海外の意識高いネキが飲んでるスムージーの色 注ぐ瞬間が気持ちいい~ できました✌︎ 帰った後に食べるおやつ用に、グリークヨーグルトを手作りしておきます。 市販のヨーグルトをキッチンペーパーで包んで、ホエイを抜いておくだけです。 Breakfast 全然飲めるけど生のほうれん草はかなりクセを感じました！ 上級者向けスムージー(？) レモン汁とか入れたら和らぐのかな メールをチェックしたり、今日のタスクを確認しています。 ある程度のスケジュールを決めておかないと 時間の使い方がグダグダになってストレスに感じます。 ここにまとめてあるのは、YouTube活動に関するタスクです。 6:55 シャワーを浴びまーす！髪の毛も洗うよ✌︎ 週一回の特別なトリートメント✧ トリートメントを放置してる間に、浴槽の掃除もする コンタクト入れます。 視力は乱視入りの0.5くらいで、悪すぎないけど微妙によく見えない 顔より服よりなにより一番時間がかかるヘアケア✧ 前々回の動画でトリートメントつけすぎだよ！と教えていただき、 適量を知ることができました！ありがとうございます☺︎ 前髪はこのブラシで立ち上げながら乾かす。 最近はセンター分けにして、熊手卒業しました。 早く乾けと言う気持ち 髪質がね、本当に悪いの もうめっちゃ癖っ毛で なんか細くて パサパサで なんか縮毛なのすごい だから乾かしただけだと なんかこんな プードルみたいになっちゃうのね(？) すごい広がっちゃうし ヘアケアね、めっちゃ頑張ってんだけど 頑張ってようやく人並以下っていう 髪質なの 本当に終わってんのね だから ヘアビューロン これね ストレートアイロンなんですけど めっちゃ高いんですよ 5万円ぐらいするんですけど でも これがないと生きていけないの 高いんだけど でも すごい私のね ことを救ってくれた ヘアアイロン マジで5万円の価値ある QOLが上がる シャンプーとトリートメントも 結構こだわってるやつを使って で洗い流さないトリートメントしたり オイルしたりして やっと これなの? ええー！って感じでしょ だから髪綺麗な人本当にうらやましい プードル(？) 湿気のないシーズンは、160度で大まかにアイロンを通します。 梅雨〜夏は180度で時間かけないと大変です。 ここまでしてやっと人々の寝起きくらいな感じになれます.. 7:45 朝ご飯とお弁当用に、食パンとハムを買いにきました。 ついでに学校に持ってくおやつも✌︎ (ハム忘れ) 7:55 自分ってどうかしてる、 「パンとハム」がいつの間にか「パンとおやつ」に変換されちゃってるのだから‼︎笑 きゅうりと卵とレタスじゃ物足りない.. 買うものは予めメモらないと本当にすぐ忘れちゃう。 はじめてのおつかいのちびっこの方が優秀かもしれん 買うものでもやることでもいつも何かしらを忘れてしまいます... そこに面倒くさがりが追加されるのでまぁ~ほんとに大変ですね✌︎ おーちゃんが覗き見してる❤︎ 朝のバナナ実は少しとっておいたよ☺︎ 夜にもゆで卵食べる予定で4つ茹でました。 茹でる前に小さな穴をいっぱいあけておくと皮剥きしやすいです。 憧れの卵スライサーデビューを果たしました。 切れ味抜群で綺麗な断面があらわれました( ˊᵕˋ ) 彩りにハムのピンクがないのがとても残念ですTT 朝ごはん用とお昼ご飯用にふたつ作りました。 クッキングペーパーにぎゅっと巻いて馴染ませます。 こうしておくと食べやすいし衛生的で手も汚れない！ 冷蔵庫でねかせたらカットしますよ~ 8:26 簡単にぱぱっとお化粧します。 日焼け止めもしっかりと塗りました。 今はどんなメイクしてても何にも言われないので楽ちんです。 今日は帰りに美容院に寄り道するという念願が叶うの日なので ある程度ちゃんとメイクします☺︎ 学校帰りに寄り道できるの、シンプルに時間を効率に使えて助かります。 気分を高めるいいにおい(トワレ) ホワイトラベンダーの柔らかくて甘い香りがふわっと漂います 8:49 サンドイッチをカットしてみましょ~ 断面きれいにできてより一層ハムへの未練があふれた 今朝は少し冷えるのでレトルトのあたたかいスープ付き(MUJI) Breakfast いただきます~ 食べる時間がいちばん好き.. さっきスムージー飲んだから暖かいスープがしみてしょうがないです✌︎ サンドイッチに粒マスタードを塗ったおかげで味わい深いです！ 食べたら洗濯機をセッティングして学校に行きます。 9:20 今日の持ち物の一部です。 お財布と家の鍵 みるおものポーチには、リップやハンドクリームやティッシュやお薬や 細かいものを全部入れてます。 今年で3年目のキティちゃん、使い込みすぎて色褪せ著しいです ハンカチとお菓子も入れて、今日はラフ着で行くのでリュック(体育あり) いつも着てるNIKE上下セットです テーマ:米国の学生(建前) 9:46 とか言ってただラフ着着てるだけなんですけど、洒落<楽 朝のラッシュが終わって快適な車内です。 前は7時台のラッシュに揉まれていましたが、それはそれで楽しかった思い出です 今日どんなカットにしようか、今のうちに決めとく✌︎ それでは行ってきまーす 12:40 ふたつ授業をうけてきました。体育の会場の近くの公園なう ひとりさびしく食べていたら、背後から誰か来た！ ん~ これを取りに来たんだね あげないよ 欲しいの? あげてもいいけど 食べれる? ん~かわいい あげれるものがないんだけどどうしよう？ ずっとそばでこっちの様子を見てきてほんとに可愛い (遠慮なし) チョコレートっていいのかな？調べたらダメでした カラス マヨネーズとかマスターが付着してないパンの外側をちぎってあげることに ※周りにされもいないことを確認してあげました カラスの顔ってすごいかわいいだよね☺︎ たくさんちぎってあげました~ サンドイッチがぼろぼろになった笑 しばらくするとカラスは満足して去っていきました 14:17 さらにもう一教科スクーリングを受けて終わり！学校近くの美容院に直行 20分で終了です。顔周り切ってもらっただけです！ (サイドバングの量増やした) 帰宅中~！家に近づくにつれて緑豊かになる笑 15:30 駅で友達を見つけて一緒にスガキヤに来たよ~ 愛知県民のB級ソウルフード 野菜がいっぱい入ったやつがお気に入りです。 あとは五目ご飯がおいしい！名古屋に来たらぜひ食べてみてください。 17:05 帰宅しました。セリアでジェルネイル買いました~ Amazonで買った新しいフィルムが届いたのでさっそく貼り付けます。 夕方から大雨降ってきて濡れちゃって、髪の毛がプードルに戻った..TT 最悪..！ こういう細かくて慎重にならなきゃいけない作業苦手すぎる 見ただけでうんざりしちゃう.... 誰かきたー！ ずっと待っていたとあるものが突然届きました(のちほど開封) 待って買うやつ間違えた? これ、2022年モデルまで 2024年に買ったやつ(iPad)なんだけど 買うやつ間違えちゃった まぁいいや インカメラの穴セルフカットでダサすぎる こういうときすぐまぁいいやって考える癖があるんですけど 自分なりの自己防衛です。 じゃないとグダグダいつまでも引きずって気分悪くなっちゃうから だからこうなってもまぁいいや、てなる(一応修正しました) ペーパーライクフィルムめっちゃ書きやすい！ これでレポートがやりやすくなります。 ネイルチェンジするよ~ さっき買った色も試してみます。 オイルを垂らして、ジェルネイルを優しく剥がしていきます。 ピールオフのベースを塗っているのでするんと剥がれます。 だんだん生え揃ってきた爪。 やっぱ常にジェルしてないとどうしても割れますね.. 長さが足りない指はチップで長さ出しをします。 やや大きめを選んで、ファイルで削って微調整すると密着しやすいです。 さっき買ったジェルの色味はこんな感じでした。 間違えてシナモンベージュを2本買ってしまっていました シアー系のホワイトを使って大理石調グラデーションを作ります。 まず全体のシアーホワイト(セリアのジェリーホワイト使用)を一度塗りします。 クリアとホワイト混ぜて自作しても○ ホワイト(これはダイソーの)とシナモンベージュを使ってマーブル模様を作ります。 ホワイトとシナモンベージュをランダムにちょんちょん乗せていく ホワイトに対してベージュはだいぶ少なめで ちょっと少なすぎてあとでどっちも少し量足しました 完全に混ざらない程度にちょんちょん混ぜて模様を作っていきます やわらかーい感じで大理石調っぽくなってるのわかりますか？ 黒と白でやっても可愛いし、ピンクと白でもかわいいし 高度な技術もいらないのでおすすめです❤︎ 20秒ほど仮硬化 未硬化ジェルを利用して 上からゴールドのラメを散りばめてアクセントつけます✧ 本当はもう少しホワイトゴールドっぽいラメがよかったけど 家にこれしかありませんでした.. ナチュラルな仕上がり✧ 18:10 夕方から肌寒くなったので早めにお風呂で温まるよ 目を閉じて湯を感じている お風呂入ってきました 朝準備しておいたヨーグルト ホエイが抜けると容量かなり少なくなりますが、超もっちりしておいしいんです。 今日はブルーベリーとハチミツ、ココナッツパウダーをトッピング。 ココナッツパウダーでサクサク食感になります◎ 18:40 お風呂上がりのデザート 超もっちりしてカマンベールチーズの一歩手前くらいの食感です。 ネイルは右の方が良くできたと思います◎ 好きな動画見て駄菓子食べてチルします~✌︎ YouTubeの撮影も忘れません チョコバットのくじの場所がわからない.. 普通にハズレでした グソクムシダッシュの修理に挑戦 ネジがあまりに小さくて長い爪じゃ扱いづらかったTT ネイルする前にこっちを先にしたらよかった..！ さぁ無事直ったでしょうか.. 直りました！ 占いチョコで遊んでみる。 色々悩んでまずは「未来」の行方を確認してみます もちろん二重丸でしょう◎ 本当に二重丸が出たよ✧ おーちゃん、直った。 直ったよ。 ？？？ 頑張って直したのにちょっと遊ばないうちに飽きちゃった？ おーちゃん最近あんまり動きたがらなくてずっと同じ場所に座ってる どうして~？ 夕方ラーメン食べたから何も食べないつもりだったけど やっぱりお腹が空いてきたからなんか作ろうかな？ いったんお菓子を食べてみる パチパチなって楽しい~ 立ち寝するうさぎ(目を開けて寝ます) スプラトゥーンしてみたら一番きらいなマップの時間でした ローラーしか使えないから高低差のマップ難しすぎる やっぱWiiUのスプラトゥーン戻ってきてほしい！ だんだん近づいてくるのに隣には来てくれない笑 20:30 やっぱりお腹空いたので食べることにします さっき帰りにお隣さんに会って なんだっけこれ、エンドウマメ？ さやえんどう？ すごいいっぱいいただいちゃいました どうやって食べたらいいですか?って聞いたら 普通に茹でて マヨネーズかけるだけでも美味しいよって 教えてくださったんで ちょっと食べちゃおうか 冷蔵庫にあったもので適当に、にんじんご飯作ることにした✌︎ にんじんご飯が給食のメニューにあって、それが大好きだったなあ なんとなく想像で真似して作ってみるんだけど いつも絶対給食の味には敵わない... お水、酒、生姜、鶏ガラスープ、お砂糖を適当に入れます レシピ見ないで作る時いつもめちゃくちゃ適当 だからあんまり美味しくない時もしょっちゅうあります笑 色の薄い調味料から先に入れて、濃いものは後で入れると 味が入りやすいって何かで読んだので実践しています。 なので醤油は一番最後に入れました 作り方は鶏そぼろと同じ要領です さやえんどうの筋取りするの好き~✌︎ ふくらんでて立派なやつは塩茹でして 薄いのは刻んで、 グリーンピースがない代わりににんじんご飯に混ぜようと思います。 お隣さんは畑を持っていて野菜たくさん自足しているらしいです 私もトマトとか挑戦してみようかなー？ 身が立派なやつは塩茹でしました。 今日のタンパク質は焼きサバです。 グリルで焼いた方がふんわりできるけど、 食後にこの時間からあれを洗うのは億劫すぎる！ 撮影に気を取られていたらそぼろをしっかり焦がしました。 こんなはずじゃなかったんですけど..TT 21:20 かなり遅めの晩ごはん☺︎ まずはお隣さんのさやえんどうから！ シャキシャキ食感で最高に美味しい✌︎ 自家製はいいですね！ にんじんご飯は豪快に混ぜてから食べるとより美味しいですよ✌︎ 若干の焦げみを感じるけど味は大成功でした。 さばもジューシーで美味しかった！ 23:45 寝る前にさっき届いたものを開封します。 数週間前に注文して忘れたころに届いたよ笑 これはリビングに飾る絵！差し色が欲しくて母と一緒に選びました~ 勝手に額もついてくると思ってたけどついてなかったから 探しているところ.. 赤色が欲しいんだけどなかなかないですね 自分で塗っても楽しそう！ また完成したらお見せしますね~！ それでは今日はここまで、ご視聴くださりありがとうございました( ˊᵕˋ ) Thanks for watching.See you next video ❁",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=PFr97wKXJQ4",
+ "video_id": "PFr97wKXJQ4"
+}

@@ -1,0 +1,4324 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "auto",
+   "language_code": "ja",
+   "language_name": "Japanese (auto-generated)"
+  }
+ ],
+ "is_auto_generated": true,
+ "language": "Japanese (auto-generated)",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "6520.000000000001",
+   "start_ms": "120",
+   "start_time_text": "0:00",
+   "text": "今回の企画はメンバーがAIになった世界"
+  },
+  {
+   "end_ms": "10480",
+   "start_ms": "3159",
+   "start_time_text": "0:03",
+   "text": "でエンドラ討伐。いつものようにエンドラ"
+  },
+  {
+   "end_ms": "13320",
+   "start_ms": "6520",
+   "start_time_text": "0:06",
+   "text": "討伐に挑むドズル車メンバーとや。今回は"
+  },
+  {
+   "end_ms": "16359.000000000002",
+   "start_ms": "10480",
+   "start_time_text": "0:10",
+   "text": "ドズルが仕掛けにとなったドッキリ企画。"
+  },
+  {
+   "end_ms": "19800",
+   "start_ms": "13320",
+   "start_time_text": "0:13",
+   "text": "ドズルの代わりに同じ見た目のAIロボル"
+  },
+  {
+   "end_ms": "22439",
+   "start_ms": "16359.000000000002",
+   "start_time_text": "0:16",
+   "text": "が参加しエンドラ討伐を目指す。果たして"
+  },
+  {
+   "end_ms": "25160",
+   "start_ms": "19800",
+   "start_time_text": "0:19",
+   "text": "メンバーはドズルの中身がロボルに変わっ"
+  },
+  {
+   "end_ms": "28160",
+   "start_ms": "22439",
+   "start_time_text": "0:22",
+   "text": "ていることに気づけるのか。"
+  },
+  {
+   "end_ms": "28160",
+   "start_ms": "25160",
+   "start_time_text": "0:25",
+   "text": "チャンネル登録とグッドボタンを押してロボルがバレるかどうか予想して楽しもう。"
+  },
+  {
+   "end_ms": "35079",
+   "start_ms": "32079",
+   "start_time_text": "0:32",
+   "text": "皆さんは自分の代わりに会社に行ったり学校に行ったりしてくれる自分のコピーがいたらいいなって考えたことありますか?今日はなんと見てください。僕のコピーエンドルーズを僕の代わりにしてくれるボットボルを開発しました。"
+  },
+  {
+   "end_ms": "53499",
+   "start_ms": "41530",
+   "start_time_text": "0:41",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "59680",
+   "start_ms": "53960",
+   "start_time_text": "0:53",
+   "text": "今日の動画では僕の代わりにドズル車"
+  },
+  {
+   "end_ms": "62160",
+   "start_ms": "57160",
+   "start_time_text": "0:57",
+   "text": "メンバー他のドズル車メンバーと一緒に、"
+  },
+  {
+   "end_ms": "65799",
+   "start_ms": "59680",
+   "start_time_text": "0:59",
+   "text": "え、エンドラ討伐に行ってくれるという"
+  },
+  {
+   "end_ms": "68520",
+   "start_ms": "62160",
+   "start_time_text": "1:02",
+   "text": "正規の大発明をしてきましたんで。おお、"
+  },
+  {
+   "end_ms": "72240.00000000001",
+   "start_ms": "65799",
+   "start_time_text": "1:05",
+   "text": "買った。すげえ。ネームタグもそのままだ"
+  },
+  {
+   "end_ms": "75960",
+   "start_ms": "68520",
+   "start_time_text": "1:08",
+   "text": "。これわかんないでしょう。今回すごいの"
+  },
+  {
+   "end_ms": "78720",
+   "start_ms": "72240",
+   "start_time_text": "1:12",
+   "text": "は完全にロボットなんですね。AIで、"
+  },
+  {
+   "end_ms": "81600",
+   "start_ms": "75960",
+   "start_time_text": "1:15",
+   "text": "あの、実際にあの、エンドラ討伐するため"
+  },
+  {
+   "end_ms": "85759",
+   "start_ms": "78720",
+   "start_time_text": "1:18",
+   "text": "に僕がしそうな行動とかを覚え込ませてき"
+  },
+  {
+   "end_ms": "87520",
+   "start_ms": "81600",
+   "start_time_text": "1:21",
+   "text": "たので君じゃちょっと動ける?こいつがね"
+  },
+  {
+   "end_ms": "89119",
+   "start_ms": "85759",
+   "start_time_text": "1:25",
+   "text": "動くんですよ。ちゃんとプレイしてくれて"
+  },
+  {
+   "end_ms": "90839.99999999999",
+   "start_ms": "87520",
+   "start_time_text": "1:27",
+   "text": "。あ、来た、来た、来た。あ、すごい"
+  },
+  {
+   "end_ms": "93439",
+   "start_ms": "89119",
+   "start_time_text": "1:29",
+   "text": "すごい。走ってる、走ってる。あ、木掘っ"
+  },
+  {
+   "end_ms": "96759",
+   "start_ms": "90840",
+   "start_time_text": "1:30",
+   "text": "てすげえ。あ、今日ごめんなさい。最初に"
+  },
+  {
+   "end_ms": "98360",
+   "start_ms": "93439",
+   "start_time_text": "1:33",
+   "text": "説明すると、あの、偽角でですね、マグマ"
+  },
+  {
+   "end_ms": "101600",
+   "start_ms": "96759",
+   "start_time_text": "1:36",
+   "text": "の見た目の世界でエンドラトバスって、"
+  },
+  {
+   "end_ms": "104039.99999999999",
+   "start_ms": "98360",
+   "start_time_text": "1:38",
+   "text": "これ2角です。で、この、あ、すごい"
+  },
+  {
+   "end_ms": "105479",
+   "start_ms": "101600",
+   "start_time_text": "1:41",
+   "text": "ちゃんとこれ木だよね。あ、木掘るのやめ"
+  },
+  {
+   "end_ms": "108040",
+   "start_ms": "104040",
+   "start_time_text": "1:44",
+   "text": "た。"
+  },
+  {
+   "end_ms": "111000",
+   "start_ms": "105479",
+   "start_time_text": "1:45",
+   "text": "のやめて。これあの中に誰かが入ってる"
+  },
+  {
+   "end_ms": "113719.00000000001",
+   "start_ms": "108040",
+   "start_time_text": "1:48",
+   "text": "わけじゃなく、完全にAIでですね。あ、"
+  },
+  {
+   "end_ms": "117640",
+   "start_ms": "111000",
+   "start_time_text": "1:51",
+   "text": "フリーズしてる。あ、作業台作った。作業"
+  },
+  {
+   "end_ms": "120679.99999999999",
+   "start_ms": "113719",
+   "start_time_text": "1:53",
+   "text": "台を作ってツールを作ってみたいなことを"
+  },
+  {
+   "end_ms": "124960.00000000001",
+   "start_ms": "117640",
+   "start_time_text": "1:57",
+   "text": "ですね、やってくれると。これどうだろう"
+  },
+  {
+   "end_ms": "127560",
+   "start_ms": "120680",
+   "start_time_text": "2:00",
+   "text": "な。バレるかな。ま、気持ちとしては"
+  },
+  {
+   "end_ms": "131120",
+   "start_ms": "124960",
+   "start_time_text": "2:04",
+   "text": "みんなに気づいて欲しいかな。さすがにね"
+  },
+  {
+   "end_ms": "134000",
+   "start_ms": "127560",
+   "start_time_text": "2:07",
+   "text": "。さすがに社長の中身ロボットだったら"
+  },
+  {
+   "end_ms": "136920.00000000003",
+   "start_ms": "131120",
+   "start_time_text": "2:11",
+   "text": "みんな気づいて欲しいけどな。はい。え、"
+  },
+  {
+   "end_ms": "139080",
+   "start_ms": "134000",
+   "start_time_text": "2:14",
+   "text": "というところで、え、今日はこの、え、"
+  },
+  {
+   "end_ms": "141679.99999999997",
+   "start_ms": "136920",
+   "start_time_text": "2:16",
+   "text": "ロブルが僕の代わりにエンドラ討伐をして"
+  },
+  {
+   "end_ms": "144720",
+   "start_ms": "139080",
+   "start_time_text": "2:19",
+   "text": "くれますので、果たしてドズル車メンバー"
+  },
+  {
+   "end_ms": "147480.00000000003",
+   "start_ms": "141680",
+   "start_time_text": "2:21",
+   "text": "は気づくのか、そして、え、気づいて"
+  },
+  {
+   "end_ms": "150359.99999999997",
+   "start_ms": "144720",
+   "start_time_text": "2:24",
+   "text": "くれるのは誰なのかドッキリというか、"
+  },
+  {
+   "end_ms": "155720",
+   "start_ms": "147480",
+   "start_time_text": "2:27",
+   "text": "検証というかやっていきたいと思います。"
+  },
+  {
+   "end_ms": "157879.00000000003",
+   "start_ms": "150360",
+   "start_time_text": "2:30",
+   "text": "それではロボル君頑張るぞ。おお。"
+  },
+  {
+   "end_ms": "159800",
+   "start_ms": "155720",
+   "start_time_text": "2:35",
+   "text": "あち"
+  },
+  {
+   "end_ms": "162799.99999999997",
+   "start_ms": "157879",
+   "start_time_text": "2:37",
+   "text": "熱い熱い熱い熱い熱い熱い。"
+  },
+  {
+   "end_ms": "162800",
+   "start_ms": "159800",
+   "start_time_text": "2:39",
+   "text": "ボンさん、ボンさん。今日は見た目が全部マグマの世界でエラ。よ"
+  },
+  {
+   "end_ms": "171879",
+   "start_ms": "166720",
+   "start_time_text": "2:46",
+   "text": "いしょ。"
+  },
+  {
+   "end_ms": "171879",
+   "start_ms": "168879",
+   "start_time_text": "2:48",
+   "text": "熱くないんだ。熱くないです。安心してください。いや、もう本当のマグマだったらクリアできないんで。え、今日は見た目がマグマに見えて、こちらの世界でエンドラ討伐していきたいと思います。"
+  },
+  {
+   "end_ms": "175139",
+   "start_ms": "172120",
+   "start_time_text": "2:52",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "182840",
+   "start_ms": "181560",
+   "start_time_text": "3:01",
+   "text": "なるほど。"
+  },
+  {
+   "end_ms": "185640.00000000003",
+   "start_ms": "182239",
+   "start_time_text": "3:02",
+   "text": "はい。"
+  },
+  {
+   "end_ms": "186760",
+   "start_ms": "182840",
+   "start_time_text": "3:02",
+   "text": "え、実際、あ、これ土だ。うん。はい。"
+  },
+  {
+   "end_ms": "189760",
+   "start_ms": "185640",
+   "start_time_text": "3:05",
+   "text": "うわ、わけわから。"
+  },
+  {
+   "end_ms": "189760",
+   "start_ms": "186760",
+   "start_time_text": "3:06",
+   "text": "見た目だけが変わってるんで、じゃあちょっともう早速だ"
+  },
+  {
+   "end_ms": "192319",
+   "start_ms": "189879",
+   "start_time_text": "3:09",
+   "text": "行きたいと思います。"
+  },
+  {
+   "end_ms": "192640",
+   "start_ms": "191200",
+   "start_time_text": "3:11",
+   "text": "レッツゴー。"
+  },
+  {
+   "end_ms": "193518.99999999997",
+   "start_ms": "192319",
+   "start_time_text": "3:12",
+   "text": "レッツゴー。"
+  },
+  {
+   "end_ms": "194359.99999999997",
+   "start_ms": "192640",
+   "start_time_text": "3:12",
+   "text": "これだ。"
+  },
+  {
+   "end_ms": "196360",
+   "start_ms": "193519",
+   "start_time_text": "3:13",
+   "text": "これ木じゃない。"
+  },
+  {
+   "end_ms": "197879.00000000003",
+   "start_ms": "194360",
+   "start_time_text": "3:14",
+   "text": "これ何の木?木"
+  },
+  {
+   "end_ms": "199879.00000000003",
+   "start_ms": "196360",
+   "start_time_text": "3:16",
+   "text": "トだろ多分。"
+  },
+  {
+   "end_ms": "202120",
+   "start_ms": "197879",
+   "start_time_text": "3:17",
+   "text": "いや、本当に全部一緒なんだよな。"
+  },
+  {
+   "end_ms": "204518.99999999997",
+   "start_ms": "199879",
+   "start_time_text": "3:19",
+   "text": "これは難しいと。"
+  },
+  {
+   "end_ms": "205360",
+   "start_ms": "202120",
+   "start_time_text": "3:22",
+   "text": "ネザーやばそう。これ"
+  },
+  {
+   "end_ms": "206120",
+   "start_ms": "204519",
+   "start_time_text": "3:24",
+   "text": "うわ。あ"
+  },
+  {
+   "end_ms": "209120",
+   "start_ms": "205360",
+   "start_time_text": "3:25",
+   "text": "あ。"
+  },
+  {
+   "end_ms": "209120",
+   "start_ms": "206120",
+   "start_time_text": "3:26",
+   "text": "これ手持ちぐちゃぐちゃになるぞ。手持ちもよく。"
+  },
+  {
+   "end_ms": "214680",
+   "start_ms": "210000",
+   "start_time_text": "3:30",
+   "text": "ツール普通だ。普通だ。よかった。"
+  },
+  {
+   "end_ms": "216879.00000000003",
+   "start_ms": "212120",
+   "start_time_text": "3:32",
+   "text": "あ、ブロックがあっ、そういうことか。"
+  },
+  {
+   "end_ms": "219400",
+   "start_ms": "214680",
+   "start_time_text": "3:34",
+   "text": "これず森だよね、ここね。"
+  },
+  {
+   "end_ms": "220000",
+   "start_ms": "216879",
+   "start_time_text": "3:36",
+   "text": "ずっと森に見えますね。"
+  },
+  {
+   "end_ms": "220920.00000000003",
+   "start_ms": "219400",
+   "start_time_text": "3:39",
+   "text": "だよね。"
+  },
+  {
+   "end_ms": "223640",
+   "start_ms": "220000",
+   "start_time_text": "3:40",
+   "text": "あ、作業台が。"
+  },
+  {
+   "end_ms": "226640",
+   "start_ms": "220920",
+   "start_time_text": "3:40",
+   "text": "いや、でも皆さん気をつけてくださいね。次か"
+  },
+  {
+   "end_ms": "226640",
+   "start_ms": "223640",
+   "start_time_text": "3:43",
+   "text": "どこかにマグマりがあるかもしれないんで。"
+  },
+  {
+   "end_ms": "229680",
+   "start_ms": "226680",
+   "start_time_text": "3:46",
+   "text": "あ、確かにこれでわかる。どうやってわかる?"
+  },
+  {
+   "end_ms": "233360",
+   "start_ms": "230680",
+   "start_time_text": "3:50",
+   "text": "だって動いてない。"
+  },
+  {
+   "end_ms": "236360",
+   "start_ms": "231959",
+   "start_time_text": "3:51",
+   "text": "あ、そっか。"
+  },
+  {
+   "end_ms": "236360",
+   "start_ms": "233360",
+   "start_time_text": "3:53",
+   "text": "止まって止まってない。動いてるマグでしょ。水"
+  },
+  {
+   "end_ms": "240200",
+   "start_ms": "237200",
+   "start_time_text": "3:57",
+   "text": "動いてるマグマだったら本当のマグマだ。でも俺も動いてるかちょっと。"
+  },
+  {
+   "end_ms": "244120",
+   "start_ms": "241720",
+   "start_time_text": "4:01",
+   "text": "あら、"
+  },
+  {
+   "end_ms": "246079",
+   "start_ms": "242079",
+   "start_time_text": "4:02",
+   "text": "本当か?本当のマグマ見るまで"
+  },
+  {
+   "end_ms": "246480.00000000003",
+   "start_ms": "244120",
+   "start_time_text": "4:04",
+   "text": "このブロックの高さに対して"
+  },
+  {
+   "end_ms": "246799",
+   "start_ms": "246079",
+   "start_time_text": "4:06",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "247879",
+   "start_ms": "246480",
+   "start_time_text": "4:06",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "250040.00000000003",
+   "start_ms": "246799",
+   "start_time_text": "4:06",
+   "text": "はい。はい。水とかはね、"
+  },
+  {
+   "end_ms": "252078.99999999997",
+   "start_ms": "247879",
+   "start_time_text": "4:07",
+   "text": "ちょこっとだけ下がってる。"
+  },
+  {
+   "end_ms": "254640",
+   "start_ms": "250040",
+   "start_time_text": "4:10",
+   "text": "それ見極めれる?"
+  },
+  {
+   "end_ms": "257120",
+   "start_ms": "252079",
+   "start_time_text": "4:12",
+   "text": "これ鉄とか掘るの無理じゃね?"
+  },
+  {
+   "end_ms": "258759",
+   "start_ms": "254640",
+   "start_time_text": "4:14",
+   "text": "鉄は原生で見つけた方が早そうっす。"
+  },
+  {
+   "end_ms": "260959",
+   "start_ms": "257120",
+   "start_time_text": "4:17",
+   "text": "当てずっ砲で"
+  },
+  {
+   "end_ms": "263959",
+   "start_ms": "258759",
+   "start_time_text": "4:18",
+   "text": "当てず方で鉄ゲ。"
+  },
+  {
+   "end_ms": "263959",
+   "start_ms": "260959",
+   "start_time_text": "4:20",
+   "text": "これ鉄ぽいな。すごくね?当てずっぽでやったら"
+  },
+  {
+   "end_ms": "270000",
+   "start_ms": "264520",
+   "start_time_text": "4:24",
+   "text": "村見つけるか沈没か。"
+  },
+  {
+   "end_ms": "273000",
+   "start_ms": "267360",
+   "start_time_text": "4:27",
+   "text": "あ、廃行だ。ここお"
+  },
+  {
+   "end_ms": "273000",
+   "start_ms": "270000",
+   "start_time_text": "4:30",
+   "text": "じゃ鉄、鉄砲でいけるや。"
+  },
+  {
+   "end_ms": "278000",
+   "start_ms": "273320",
+   "start_time_text": "4:33",
+   "text": "いや、もうわけわからへんな。"
+  },
+  {
+   "end_ms": "279120",
+   "start_ms": "275000",
+   "start_time_text": "4:35",
+   "text": "もう早くもるくていいな。"
+  },
+  {
+   "end_ms": "282120",
+   "start_ms": "278000",
+   "start_time_text": "4:38",
+   "text": "ま、明るくて"
+  },
+  {
+   "end_ms": "282120",
+   "start_ms": "279120",
+   "start_time_text": "4:39",
+   "text": "ちょ、なんかはまった。雪か?雪か?これ雪やばや。や、"
+  },
+  {
+   "end_ms": "284199",
+   "start_ms": "282440",
+   "start_time_text": "4:42",
+   "text": "沈んだ。沈んだ。"
+  },
+  {
+   "end_ms": "286560",
+   "start_ms": "283520",
+   "start_time_text": "4:43",
+   "text": "粉ある。"
+  },
+  {
+   "end_ms": "288440",
+   "start_ms": "284199",
+   "start_time_text": "4:44",
+   "text": "粉踏んだ。粉踏んだ。粉雪踏んだ。"
+  },
+  {
+   "end_ms": "291199",
+   "start_ms": "286560",
+   "start_time_text": "4:46",
+   "text": "え、この辺言ってこと?"
+  },
+  {
+   "end_ms": "294199",
+   "start_ms": "288440",
+   "start_time_text": "4:48",
+   "text": "怖。粉溶岩怖。"
+  },
+  {
+   "end_ms": "294199",
+   "start_ms": "291199",
+   "start_time_text": "4:51",
+   "text": "火打石きつくね。痛い。"
+  },
+  {
+   "end_ms": "299320",
+   "start_ms": "296400",
+   "start_time_text": "4:56",
+   "text": "の適当なやつといつか"
+  },
+  {
+   "end_ms": "302320",
+   "start_ms": "298050",
+   "start_time_text": "4:58",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "302320",
+   "start_ms": "299320",
+   "start_time_text": "4:59",
+   "text": "やばい。確かに無理だろ、これ。"
+  },
+  {
+   "end_ms": "307960",
+   "start_ms": "303520",
+   "start_time_text": "5:03",
+   "text": "ちょ、洞窟雲にやられてます。"
+  },
+  {
+   "end_ms": "310600",
+   "start_ms": "305720",
+   "start_time_text": "5:05",
+   "text": "ゴーレム探したりチェスト探すしかない。"
+  },
+  {
+   "end_ms": "312638.99999999994",
+   "start_ms": "307960",
+   "start_time_text": "5:07",
+   "text": "あ、これあれか。ハンモか。"
+  },
+  {
+   "end_ms": "315199",
+   "start_ms": "310600",
+   "start_time_text": "5:10",
+   "text": "これハンモやば。"
+  },
+  {
+   "end_ms": "316440",
+   "start_ms": "312639",
+   "start_time_text": "5:12",
+   "text": "ちょっとみ2000年後に会いましょう。"
+  },
+  {
+   "end_ms": "316919.00000000006",
+   "start_ms": "315199",
+   "start_time_text": "5:15",
+   "text": "いや、なんで?"
+  },
+  {
+   "end_ms": "319919",
+   "start_ms": "316440",
+   "start_time_text": "5:16",
+   "text": "どこ行った?"
+  },
+  {
+   "end_ms": "319919",
+   "start_ms": "316919",
+   "start_time_text": "5:16",
+   "text": "俺はこの川に乗って旅にする。"
+  },
+  {
+   "end_ms": "324919.00000000006",
+   "start_ms": "320720",
+   "start_time_text": "5:20",
+   "text": "マグマの川に。"
+  },
+  {
+   "end_ms": "326159.99999999994",
+   "start_ms": "322840",
+   "start_time_text": "5:22",
+   "text": "これマグマだ。え、"
+  },
+  {
+   "end_ms": "328159.99999999994",
+   "start_ms": "324919",
+   "start_time_text": "5:24",
+   "text": "ちょっと明るい。"
+  },
+  {
+   "end_ms": "329319",
+   "start_ms": "326160",
+   "start_time_text": "5:26",
+   "text": "絶対そうだ。アイテム投げて確認しよう。"
+  },
+  {
+   "end_ms": "330160",
+   "start_ms": "328160",
+   "start_time_text": "5:28",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "330800",
+   "start_ms": "329319",
+   "start_time_text": "5:29",
+   "text": "あ、燃えた。"
+  },
+  {
+   "end_ms": "333000",
+   "start_ms": "330160",
+   "start_time_text": "5:30",
+   "text": "おお。"
+  },
+  {
+   "end_ms": "334720",
+   "start_ms": "330800",
+   "start_time_text": "5:30",
+   "text": "あ、なるほどなるほどね。あ、いいチェックだね。"
+  },
+  {
+   "end_ms": "336080",
+   "start_ms": "333000",
+   "start_time_text": "5:33",
+   "text": "たまり、たまり、たまり。"
+  },
+  {
+   "end_ms": "337039.00000000006",
+   "start_ms": "334720",
+   "start_time_text": "5:34",
+   "text": "いや、溜まってない。"
+  },
+  {
+   "end_ms": "337560",
+   "start_ms": "336080",
+   "start_time_text": "5:36",
+   "text": "流れてるだけだ。"
+  },
+  {
+   "end_ms": "337840",
+   "start_ms": "337039",
+   "start_time_text": "5:37",
+   "text": "怖えな。"
+  },
+  {
+   "end_ms": "339680",
+   "start_ms": "337560",
+   "start_time_text": "5:37",
+   "text": "あ、"
+  },
+  {
+   "end_ms": "341000",
+   "start_ms": "337840",
+   "start_time_text": "5:37",
+   "text": "僕なんか地上でマグマ、マグマの音がします。"
+  },
+  {
+   "end_ms": "342800",
+   "start_ms": "339680",
+   "start_time_text": "5:39",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "343880",
+   "start_ms": "341000",
+   "start_time_text": "5:41",
+   "text": "え、それマグマ止まりでしょ?"
+  },
+  {
+   "end_ms": "346880",
+   "start_ms": "342800",
+   "start_time_text": "5:42",
+   "text": "か、角じゃん。"
+  },
+  {
+   "end_ms": "346880",
+   "start_ms": "343880",
+   "start_time_text": "5:43",
+   "text": "だけどマグマがどっか分からないんです。メデア。"
+  },
+  {
+   "end_ms": "348960.00000000006",
+   "start_ms": "347240",
+   "start_time_text": "5:47",
+   "text": "いや、オく。"
+  },
+  {
+   "end_ms": "349880",
+   "start_ms": "347960",
+   "start_time_text": "5:47",
+   "text": "いや、ちょっと明るい。"
+  },
+  {
+   "end_ms": "352120",
+   "start_ms": "348960",
+   "start_time_text": "5:48",
+   "text": "手で、手で、手で"
+  },
+  {
+   "end_ms": "352639",
+   "start_ms": "349880",
+   "start_time_text": "5:49",
+   "text": "周り周りにアイテムを捨てまくって。"
+  },
+  {
+   "end_ms": "354600",
+   "start_ms": "352120",
+   "start_time_text": "5:52",
+   "text": "オッケー。1"
+  },
+  {
+   "end_ms": "355319",
+   "start_ms": "352639",
+   "start_time_text": "5:52",
+   "text": "回体チェック。ボディチェック。ボディチェック。"
+  },
+  {
+   "end_ms": "358319",
+   "start_ms": "354600",
+   "start_time_text": "5:54",
+   "text": "ボディチェック。"
+  },
+  {
+   "end_ms": "358319",
+   "start_ms": "355319",
+   "start_time_text": "5:55",
+   "text": "ボディチェックし見つけた瞬間死んでるだろ。"
+  },
+  {
+   "end_ms": "362120",
+   "start_ms": "359120",
+   "start_time_text": "5:59",
+   "text": "これ系の企画絶対このテクスチャン抜いた紙視点があったら面白いと思うしね。"
+  },
+  {
+   "end_ms": "367039",
+   "start_ms": "364039",
+   "start_time_text": "6:04",
+   "text": "ああ、確かに僕たちはこう見えてるけど"
+  },
+  {
+   "end_ms": "370680",
+   "start_ms": "368240",
+   "start_time_text": "6:08",
+   "text": "何をやってんねんみたいな。"
+  },
+  {
+   "end_ms": "371800",
+   "start_ms": "369720",
+   "start_time_text": "6:09",
+   "text": "あれオ"
+  },
+  {
+   "end_ms": "372400.00000000006",
+   "start_ms": "370680",
+   "start_time_text": "6:10",
+   "text": "あれボディチェックしたの?"
+  },
+  {
+   "end_ms": "373960.00000000006",
+   "start_ms": "371800",
+   "start_time_text": "6:11",
+   "text": "ボディチェック?"
+  },
+  {
+   "end_ms": "374758.99999999994",
+   "start_ms": "372400",
+   "start_time_text": "6:12",
+   "text": "ボディチェックし成功。"
+  },
+  {
+   "end_ms": "377280",
+   "start_ms": "373960",
+   "start_time_text": "6:13",
+   "text": "ありました?"
+  },
+  {
+   "end_ms": "378880",
+   "start_ms": "374759",
+   "start_time_text": "6:14",
+   "text": "いや、ありました。え、寝てる?ちゃんと。"
+  },
+  {
+   "end_ms": "381440",
+   "start_ms": "377280",
+   "start_time_text": "6:17",
+   "text": "あ、寝ました。寝ました。"
+  },
+  {
+   "end_ms": "383080",
+   "start_ms": "378880",
+   "start_time_text": "6:18",
+   "text": "一応びっくりした。びっくりしたしときますね。"
+  },
+  {
+   "end_ms": "385039",
+   "start_ms": "381440",
+   "start_time_text": "6:21",
+   "text": "みんな近いかわからんけど。"
+  },
+  {
+   "end_ms": "385880",
+   "start_ms": "383080",
+   "start_time_text": "6:23",
+   "text": "遠いよ。確実"
+  },
+  {
+   "end_ms": "387680",
+   "start_ms": "385039",
+   "start_time_text": "6:25",
+   "text": "麺はな、麺はな"
+  },
+  {
+   "end_ms": "390680",
+   "start_ms": "385880",
+   "start_time_text": "6:25",
+   "text": "痛い痛い痛い痛い。"
+  },
+  {
+   "end_ms": "390680",
+   "start_ms": "387680",
+   "start_time_text": "6:27",
+   "text": "こんなぐらいこうびっくりした。おお、びっくりした。ま、"
+  },
+  {
+   "end_ms": "394919",
+   "start_ms": "391440",
+   "start_time_text": "6:31",
+   "text": "ちょうど000マス"
+  },
+  {
+   "end_ms": "395120",
+   "start_ms": "392639",
+   "start_time_text": "6:32",
+   "text": "一応地上、地上っすわ。"
+  },
+  {
+   "end_ms": "398120",
+   "start_ms": "394919",
+   "start_time_text": "6:34",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "398120",
+   "start_ms": "395120",
+   "start_time_text": "6:35",
+   "text": "地下にあった。地下にどうした?もう無理っすわ、これ。"
+  },
+  {
+   "end_ms": "401599",
+   "start_ms": "398599",
+   "start_time_text": "6:38",
+   "text": "うん。これはちょっともう撤退しよう。行こう。上に上がろ。"
+  },
+  {
+   "end_ms": "405560",
+   "start_ms": "402000",
+   "start_time_text": "6:42",
+   "text": "うまい。"
+  },
+  {
+   "end_ms": "407840.00000000006",
+   "start_ms": "402759",
+   "start_time_text": "6:42",
+   "text": "うわあ、海だけど。昆部が全部溶岩だ。見づれ。"
+  },
+  {
+   "end_ms": "408440",
+   "start_ms": "405560",
+   "start_time_text": "6:45",
+   "text": "あ、これやばい。やばい。やば。氷か。"
+  },
+  {
+   "end_ms": "408719.99999999994",
+   "start_ms": "407840",
+   "start_time_text": "6:47",
+   "text": "やばい。これ"
+  },
+  {
+   "end_ms": "409840",
+   "start_ms": "408440",
+   "start_time_text": "6:48",
+   "text": "だ。"
+  },
+  {
+   "end_ms": "410319",
+   "start_ms": "408720",
+   "start_time_text": "6:48",
+   "text": "ああ。"
+  },
+  {
+   "end_ms": "411679.99999999994",
+   "start_ms": "409840",
+   "start_time_text": "6:49",
+   "text": "あ"
+  },
+  {
+   "end_ms": "414680",
+   "start_ms": "410319",
+   "start_time_text": "6:50",
+   "text": "あ。最悪。"
+  },
+  {
+   "end_ms": "414680",
+   "start_ms": "411680",
+   "start_time_text": "6:51",
+   "text": "いや、でも鉄の入手難易度が異様に高いんだよ。"
+  },
+  {
+   "end_ms": "418520.00000000006",
+   "start_ms": "415879",
+   "start_time_text": "6:55",
+   "text": "あ、俺もマグマダム見つけた。"
+  },
+  {
+   "end_ms": "420440",
+   "start_ms": "417440",
+   "start_time_text": "6:57",
+   "text": "え、マジ?"
+  },
+  {
+   "end_ms": "422080",
+   "start_ms": "418520",
+   "start_time_text": "6:58",
+   "text": "マイナ100の100に見つけた。"
+  },
+  {
+   "end_ms": "424440",
+   "start_ms": "420440",
+   "start_time_text": "7:00",
+   "text": "あ、近い。いな。"
+  },
+  {
+   "end_ms": "425400",
+   "start_ms": "422080",
+   "start_time_text": "7:02",
+   "text": "近。じゃ、そっち行くか。マ"
+  },
+  {
+   "end_ms": "427039",
+   "start_ms": "424440",
+   "start_time_text": "7:04",
+   "text": "どこまで行ってんの?"
+  },
+  {
+   "end_ms": "429039",
+   "start_ms": "425400",
+   "start_time_text": "7:05",
+   "text": "鉄見つけたやつがヒーロー。"
+  },
+  {
+   "end_ms": "432000",
+   "start_ms": "427039",
+   "start_time_text": "7:07",
+   "text": "いや、鉄欲しいな。"
+  },
+  {
+   "end_ms": "434159.99999999994",
+   "start_ms": "429039",
+   "start_time_text": "7:09",
+   "text": "鉄は命より重い。がいない。"
+  },
+  {
+   "end_ms": "437000",
+   "start_ms": "432000",
+   "start_time_text": "7:12",
+   "text": "あ、今ベッド作りに行ってる。"
+  },
+  {
+   "end_ms": "437639",
+   "start_ms": "434160",
+   "start_time_text": "7:14",
+   "text": "あ、このマグマりだとこにベッドあれ"
+  },
+  {
+   "end_ms": "440240",
+   "start_ms": "437000",
+   "start_time_text": "7:17",
+   "text": "1個置いとくね。"
+  },
+  {
+   "end_ms": "443240",
+   "start_ms": "437639",
+   "start_time_text": "7:17",
+   "text": "あ、ちょ、1回死にてる。食べてる。"
+  },
+  {
+   "end_ms": "443240",
+   "start_ms": "440240",
+   "start_time_text": "7:20",
+   "text": "俺こんな地士地で鉄見つけて戻りたくねえよ。"
+  },
+  {
+   "end_ms": "449360",
+   "start_ms": "443720",
+   "start_time_text": "7:23",
+   "text": "頑張れ。キュー。"
+  },
+  {
+   "end_ms": "449360",
+   "start_ms": "446360",
+   "start_time_text": "7:26",
+   "text": "はい。これがベストんで作業台置いて"
+  },
+  {
+   "end_ms": "457639",
+   "start_ms": "452319",
+   "start_time_text": "7:32",
+   "text": "作業台に作業台って名前つけんの?もしかして。"
+  },
+  {
+   "end_ms": "457639",
+   "start_ms": "454639",
+   "start_time_text": "7:34",
+   "text": "そう。これで作業台って本番でね。分かりやすいわ。これ分かるでしょ?業台。"
+  },
+  {
+   "end_ms": "468159",
+   "start_ms": "463639",
+   "start_time_text": "7:43",
+   "text": "あ、ちょっとかもお願いしていい?こ上。"
+  },
+  {
+   "end_ms": "470000",
+   "start_ms": "465720",
+   "start_time_text": "7:45",
+   "text": "あ、いいよいいよ。かてか入れて。"
+  },
+  {
+   "end_ms": "472159",
+   "start_ms": "468159",
+   "start_time_text": "7:48",
+   "text": "これはあれだね。"
+  },
+  {
+   "end_ms": "473319",
+   "start_ms": "470000",
+   "start_time_text": "7:50",
+   "text": "人類の血恵だ。人類の知恵。うん。"
+  },
+  {
+   "end_ms": "473719.99999999994",
+   "start_ms": "472159",
+   "start_time_text": "7:52",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "474680",
+   "start_ms": "473319",
+   "start_time_text": "7:53",
+   "text": "いて。"
+  },
+  {
+   "end_ms": "477680",
+   "start_ms": "473720",
+   "start_time_text": "7:53",
+   "text": "マグマから鼻出て。"
+  },
+  {
+   "end_ms": "477680",
+   "start_ms": "474680",
+   "start_time_text": "7:54",
+   "text": "ああ、鉄だ。鉄、鉄。敵。ナイス。ナイス。ナイス。"
+  },
+  {
+   "end_ms": "480280",
+   "start_ms": "477919",
+   "start_time_text": "7:57",
+   "text": "あ、"
+  },
+  {
+   "end_ms": "481159",
+   "start_ms": "478680",
+   "start_time_text": "7:58",
+   "text": "とりあえず1個しかない。"
+  },
+  {
+   "end_ms": "482239.99999999994",
+   "start_ms": "480280",
+   "start_time_text": "8:00",
+   "text": "あ、2個。"
+  },
+  {
+   "end_ms": "483159",
+   "start_ms": "481159",
+   "start_time_text": "8:01",
+   "text": "いや、周りほ、周り。"
+  },
+  {
+   "end_ms": "485400.00000000006",
+   "start_ms": "482240",
+   "start_time_text": "8:02",
+   "text": "ちょっと硬い。う"
+  },
+  {
+   "end_ms": "486520",
+   "start_ms": "483159",
+   "start_time_text": "8:03",
+   "text": "ん。敵が多い。"
+  },
+  {
+   "end_ms": "488530",
+   "start_ms": "485400",
+   "start_time_text": "8:05",
+   "text": "シュールだよ。"
+  },
+  {
+   "end_ms": "491479",
+   "start_ms": "486520",
+   "start_time_text": "8:06",
+   "text": "敵も多いし。ご飯もない。あ、オラックいた。"
+  },
+  {
+   "end_ms": "492919",
+   "start_ms": "488530",
+   "start_time_text": "8:08",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "493520",
+   "start_ms": "491479",
+   "start_time_text": "8:11",
+   "text": "あ、どうも。椅子に"
+  },
+  {
+   "end_ms": "496099.99999999994",
+   "start_ms": "492919",
+   "start_time_text": "8:12",
+   "text": "チャンクボり。"
+  },
+  {
+   "end_ms": "498719.99999999994",
+   "start_ms": "493520",
+   "start_time_text": "8:13",
+   "text": "鉄探そう。鉄オンリーもいた。"
+  },
+  {
+   "end_ms": "500560",
+   "start_ms": "496100",
+   "start_time_text": "8:16",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "501800",
+   "start_ms": "498720",
+   "start_time_text": "8:18",
+   "text": "下の方があるんかな?"
+  },
+  {
+   "end_ms": "503759",
+   "start_ms": "500560",
+   "start_time_text": "8:20",
+   "text": "鉄ね。"
+  },
+  {
+   "end_ms": "506759",
+   "start_ms": "501800",
+   "start_time_text": "8:21",
+   "text": "下すぎない方が多分あると思う。"
+  },
+  {
+   "end_ms": "506759",
+   "start_ms": "503759",
+   "start_time_text": "8:23",
+   "text": "ちょっと地下あたりか。"
+  },
+  {
+   "end_ms": "508680",
+   "start_ms": "506919",
+   "start_time_text": "8:26",
+   "text": "あ、鉄だ。え、"
+  },
+  {
+   "end_ms": "509440",
+   "start_ms": "508240",
+   "start_time_text": "8:28",
+   "text": "え、"
+  },
+  {
+   "end_ms": "511000",
+   "start_ms": "508680",
+   "start_time_text": "8:28",
+   "text": "うえ。来た。"
+  },
+  {
+   "end_ms": "512360",
+   "start_ms": "509440",
+   "start_time_text": "8:29",
+   "text": "熱。2"
+  },
+  {
+   "end_ms": "513799.99999999994",
+   "start_ms": "511000",
+   "start_time_text": "8:31",
+   "text": "鉄。熱い。"
+  },
+  {
+   "end_ms": "515560.00000000006",
+   "start_ms": "512360",
+   "start_time_text": "8:32",
+   "text": "熱い熱い熱い。それは熱い。"
+  },
+  {
+   "end_ms": "518120",
+   "start_ms": "513799.99999999994",
+   "start_time_text": "8:33",
+   "text": "あ、じゃあ戻ればいける。"
+  },
+  {
+   "end_ms": "519679.99999999994",
+   "start_ms": "515559.99999999994",
+   "start_time_text": "8:35",
+   "text": "いや、これ硬い気がする。鉄だよね。"
+  },
+  {
+   "end_ms": "520159",
+   "start_ms": "518120",
+   "start_time_text": "8:38",
+   "text": "よしよしよしよし。"
+  },
+  {
+   "end_ms": "522760",
+   "start_ms": "519679.99999999994",
+   "start_time_text": "8:39",
+   "text": "やっぱ"
+  },
+  {
+   "end_ms": "523679.99999999994",
+   "start_ms": "520159",
+   "start_time_text": "8:40",
+   "text": "硬さでだんだん分かってきてるよ。さん。すごい"
+  },
+  {
+   "end_ms": "525000",
+   "start_ms": "522760",
+   "start_time_text": "8:42",
+   "text": "すごいな。"
+  },
+  {
+   "end_ms": "527680",
+   "start_ms": "523679.99999999994",
+   "start_time_text": "8:43",
+   "text": "これ鉄でしょ。ほらほらほらほら。"
+  },
+  {
+   "end_ms": "529120",
+   "start_ms": "525000",
+   "start_time_text": "8:45",
+   "text": "帰ろ帰ろ。"
+  },
+  {
+   "end_ms": "532120",
+   "start_ms": "527680",
+   "start_time_text": "8:47",
+   "text": "あ、鉄だ。"
+  },
+  {
+   "end_ms": "532120",
+   "start_ms": "529120",
+   "start_time_text": "8:49",
+   "text": "あ、みんな鉄。鉄ラッシュ。鉄、鉄、鉄、鉄ラッシュ。"
+  },
+  {
+   "end_ms": "536720",
+   "start_ms": "533760",
+   "start_time_text": "8:53",
+   "text": "急に鉄がいっぱい。"
+  },
+  {
+   "end_ms": "539720",
+   "start_ms": "535279",
+   "start_time_text": "8:55",
+   "text": "これで鉄戦やるか。"
+  },
+  {
+   "end_ms": "539720",
+   "start_ms": "536720",
+   "start_time_text": "8:56",
+   "text": "いや、やばい。何時間終わらないすよ。"
+  },
+  {
+   "end_ms": "544160",
+   "start_ms": "539920",
+   "start_time_text": "8:59",
+   "text": "よいしょ。"
+  },
+  {
+   "end_ms": "546079.0000000001",
+   "start_ms": "542200",
+   "start_time_text": "9:02",
+   "text": "ずれさんが整ってる。"
+  },
+  {
+   "end_ms": "546839",
+   "start_ms": "544160",
+   "start_time_text": "9:04",
+   "text": "いや、整ってないよ。"
+  },
+  {
+   "end_ms": "547560",
+   "start_ms": "546079",
+   "start_time_text": "9:06",
+   "text": "飛んでるぞ。"
+  },
+  {
+   "end_ms": "550560.0000000001",
+   "start_ms": "546839",
+   "start_time_text": "9:06",
+   "text": "いや、違う。"
+  },
+  {
+   "end_ms": "550560",
+   "start_ms": "547560",
+   "start_time_text": "9:07",
+   "text": "水、水の水の中にました。"
+  },
+  {
+   "end_ms": "555719.9999999999",
+   "start_ms": "551040",
+   "start_time_text": "9:11",
+   "text": "違う。クラフトしてたの。"
+  },
+  {
+   "end_ms": "556880",
+   "start_ms": "553200",
+   "start_time_text": "9:13",
+   "text": "うん。気持ちがわけわかんなくなるな。"
+  },
+  {
+   "end_ms": "559330",
+   "start_ms": "555720",
+   "start_time_text": "9:15",
+   "text": "いつものことじゃないすか?"
+  },
+  {
+   "end_ms": "560560",
+   "start_ms": "556880",
+   "start_time_text": "9:16",
+   "text": "いやいやいやいやいつものことじゃないよ。"
+  },
+  {
+   "end_ms": "562760",
+   "start_ms": "559330",
+   "start_time_text": "9:19",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "563199.9999999999",
+   "start_ms": "560560",
+   "start_time_text": "9:20",
+   "text": "どさひっくり返したらだって"
+  },
+  {
+   "end_ms": "564640",
+   "start_ms": "562760",
+   "start_time_text": "9:22",
+   "text": "2kg"
+  },
+  {
+   "end_ms": "566320",
+   "start_ms": "563200",
+   "start_time_text": "9:23",
+   "text": "ぐらい関係ないもん出てくるじゃないですか?"
+  },
+  {
+   "end_ms": "567959",
+   "start_ms": "564640",
+   "start_time_text": "9:24",
+   "text": "いやいやいや"
+  },
+  {
+   "end_ms": "570959.0000000001",
+   "start_ms": "566320",
+   "start_time_text": "9:26",
+   "text": "今日はもう必要なものだけ"
+  },
+  {
+   "end_ms": "570959",
+   "start_ms": "567959",
+   "start_time_text": "9:27",
+   "text": "ざって出てくる。けてみます。"
+  },
+  {
+   "end_ms": "572760",
+   "start_ms": "571560",
+   "start_time_text": "9:31",
+   "text": "よね。"
+  },
+  {
+   "end_ms": "575000",
+   "start_ms": "571880",
+   "start_time_text": "9:31",
+   "text": "着きました。"
+  },
+  {
+   "end_ms": "578000",
+   "start_ms": "572760",
+   "start_time_text": "9:32",
+   "text": "おお、来た来た来た。"
+  },
+  {
+   "end_ms": "578000",
+   "start_ms": "575000",
+   "start_time_text": "9:35",
+   "text": "ドアの場所がマジわかんね。ちょっとまだマグマ残ってるんで気をつけてください。"
+  },
+  {
+   "end_ms": "582760",
+   "start_ms": "579040",
+   "start_time_text": "9:39",
+   "text": "はい。"
+  },
+  {
+   "end_ms": "584320",
+   "start_ms": "579880",
+   "start_time_text": "9:39",
+   "text": "マジでエンド要塞やばいよ。"
+  },
+  {
+   "end_ms": "585399",
+   "start_ms": "582760",
+   "start_time_text": "9:42",
+   "text": "もうなんとなくわかるよ。"
+  },
+  {
+   "end_ms": "588399",
+   "start_ms": "584320",
+   "start_time_text": "9:44",
+   "text": "ま、大丈夫でしょ。"
+  },
+  {
+   "end_ms": "588399",
+   "start_ms": "585399",
+   "start_time_text": "9:45",
+   "text": "目が僕らも超えてくるんで、どこにあるかわか。うん。マジ?"
+  },
+  {
+   "end_ms": "592399",
+   "start_ms": "589760",
+   "start_time_text": "9:49",
+   "text": "あ、ゲ、ゲートどれ?"
+  },
+  {
+   "end_ms": "595399",
+   "start_ms": "592079",
+   "start_time_text": "9:52",
+   "text": "どれ?"
+  },
+  {
+   "end_ms": "595399",
+   "start_ms": "592399",
+   "start_time_text": "9:52",
+   "text": "ゲートマジでね、分かりづらいやか、これ。これ。あ、これか。"
+  },
+  {
+   "end_ms": "599800",
+   "start_ms": "596240",
+   "start_time_text": "9:56",
+   "text": "あ、これか。"
+  },
+  {
+   "end_ms": "599800",
+   "start_ms": "596800",
+   "start_time_text": "9:56",
+   "text": "あのテストの中に死んだ時用のツールハとツール系入れといたんでみ、これ復帰した。"
+  },
+  {
+   "end_ms": "608230",
+   "start_ms": "603440",
+   "start_time_text": "10:03",
+   "text": "入れます。いや、助かる。よいしょ。"
+  },
+  {
+   "end_ms": "609480",
+   "start_ms": "605440",
+   "start_time_text": "10:05",
+   "text": "うわ、意味がわからん。なんだここ。小麦わかんね。"
+  },
+  {
+   "end_ms": "612480",
+   "start_ms": "608230",
+   "start_time_text": "10:08",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "612480",
+   "start_ms": "609480",
+   "start_time_text": "10:09",
+   "text": "さ、えっと、おそらく青森が見えました。"
+  },
+  {
+   "end_ms": "617880",
+   "start_ms": "614300",
+   "start_time_text": "10:14",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "619480",
+   "start_ms": "616519",
+   "start_time_text": "10:16",
+   "text": "痛い。なん"
+  },
+  {
+   "end_ms": "621000",
+   "start_ms": "617880",
+   "start_time_text": "10:17",
+   "text": "か違いがわからない。"
+  },
+  {
+   "end_ms": "625720",
+   "start_ms": "619480",
+   "start_time_text": "10:19",
+   "text": "痛い痛い痛いた。ああ、もうあ、"
+  },
+  {
+   "end_ms": "626760",
+   "start_ms": "621000",
+   "start_time_text": "10:21",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "628620",
+   "start_ms": "625720",
+   "start_time_text": "10:25",
+   "text": "切れてます。切れてますね。"
+  },
+  {
+   "end_ms": "631079",
+   "start_ms": "626760",
+   "start_time_text": "10:26",
+   "text": "いや、もうゾンビがいきなり来るから。ポンさんは今ません。"
+  },
+  {
+   "end_ms": "634079",
+   "start_ms": "628620",
+   "start_time_text": "10:28",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "634079",
+   "start_ms": "631079",
+   "start_time_text": "10:31",
+   "text": "これ今ゲット向かってます。これ誰か外?もしかして"
+  },
+  {
+   "end_ms": "638120",
+   "start_ms": "634720",
+   "start_time_text": "10:34",
+   "text": "元"
+  },
+  {
+   "end_ms": "638120",
+   "start_ms": "635120",
+   "start_time_text": "10:35",
+   "text": "外原世僕います。僕います。"
+  },
+  {
+   "end_ms": "641839",
+   "start_ms": "638279",
+   "start_time_text": "10:38",
+   "text": "デルタ"
+  },
+  {
+   "end_ms": "641839",
+   "start_ms": "638839",
+   "start_time_text": "10:38",
+   "text": "ちょっとゾンビ多くない?ああ、もう"
+  },
+  {
+   "end_ms": "646199.9999999999",
+   "start_ms": "643680",
+   "start_time_text": "10:43",
+   "text": "あら、"
+  },
+  {
+   "end_ms": "648399",
+   "start_ms": "644120",
+   "start_time_text": "10:44",
+   "text": "ゾンビ多くないすか?"
+  },
+  {
+   "end_ms": "649490",
+   "start_ms": "646200",
+   "start_time_text": "10:46",
+   "text": "さんがなんか一生リスキルされてる。"
+  },
+  {
+   "end_ms": "651839",
+   "start_ms": "648399",
+   "start_time_text": "10:48",
+   "text": "ごめん。沼にはまってる。"
+  },
+  {
+   "end_ms": "653200",
+   "start_ms": "649490",
+   "start_time_text": "10:49",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "654120",
+   "start_ms": "651839",
+   "start_time_text": "10:51",
+   "text": "大丈夫しよう。"
+  },
+  {
+   "end_ms": "655360",
+   "start_ms": "653200",
+   "start_time_text": "10:53",
+   "text": "ありがとう。"
+  },
+  {
+   "end_ms": "657880",
+   "start_ms": "654120",
+   "start_time_text": "10:54",
+   "text": "オラ君が5倍働くんだ。"
+  },
+  {
+   "end_ms": "660480",
+   "start_ms": "655360",
+   "start_time_text": "10:55",
+   "text": "いや、もう僕も頑張る。や、"
+  },
+  {
+   "end_ms": "663480",
+   "start_ms": "657880",
+   "start_time_text": "10:57",
+   "text": "僕も5倍頑張る。"
+  },
+  {
+   "end_ms": "663480",
+   "start_ms": "660480",
+   "start_time_text": "11:00",
+   "text": "あれ?あ、これ罪なんだ。"
+  },
+  {
+   "end_ms": "669480",
+   "start_ms": "664240",
+   "start_time_text": "11:04",
+   "text": "全然気づかんかった。"
+  },
+  {
+   "end_ms": "669480",
+   "start_ms": "666480",
+   "start_time_text": "11:06",
+   "text": "本当にわかんない。これほんまにわからん。これガチでわからん。"
+  },
+  {
+   "end_ms": "673580",
+   "start_ms": "670000",
+   "start_time_text": "11:10",
+   "text": "面白すぎるでしょ。"
+  },
+  {
+   "end_ms": "677159",
+   "start_ms": "671480",
+   "start_time_text": "11:11",
+   "text": "青森マジで連かんからもうはよさで見つけれるくれんだったらもうそれで終わらせてほしいな。"
+  },
+  {
+   "end_ms": "677159",
+   "start_ms": "673580",
+   "start_time_text": "11:13",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "681320",
+   "start_ms": "678320",
+   "start_time_text": "11:18",
+   "text": "ケツが入ってないんだよな。ちっちゃめちっちゃめ。"
+  },
+  {
+   "end_ms": "685399",
+   "start_ms": "682360",
+   "start_time_text": "11:22",
+   "text": "いや、"
+  },
+  {
+   "end_ms": "687240",
+   "start_ms": "682639",
+   "start_time_text": "11:22",
+   "text": "青もボさんが確か鉄を持ってたはず。"
+  },
+  {
+   "end_ms": "688560",
+   "start_ms": "685399",
+   "start_time_text": "11:25",
+   "text": "持ってるよ。ボさんてこ。"
+  },
+  {
+   "end_ms": "690040",
+   "start_ms": "687240",
+   "start_time_text": "11:27",
+   "text": "ボンさんが祭まで来て。"
+  },
+  {
+   "end_ms": "692229.9999999999",
+   "start_ms": "688560",
+   "start_time_text": "11:28",
+   "text": "ボさんが行く。"
+  },
+  {
+   "end_ms": "694199.9999999999",
+   "start_ms": "690040",
+   "start_time_text": "11:30",
+   "text": "ボさん汎行く。初めて"
+  },
+  {
+   "end_ms": "695160",
+   "start_ms": "692230",
+   "start_time_text": "11:32",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "695959.0000000001",
+   "start_ms": "694200",
+   "start_time_text": "11:34",
+   "text": "行きたい気持ち悪。"
+  },
+  {
+   "end_ms": "697240",
+   "start_ms": "695160",
+   "start_time_text": "11:35",
+   "text": "行きたい。気持ち悪い。"
+  },
+  {
+   "end_ms": "697680",
+   "start_ms": "695959",
+   "start_time_text": "11:35",
+   "text": "気持ちはね。"
+  },
+  {
+   "end_ms": "699040",
+   "start_ms": "697240",
+   "start_time_text": "11:37",
+   "text": "気持ち悪い。"
+  },
+  {
+   "end_ms": "700439.9999999999",
+   "start_ms": "697680",
+   "start_time_text": "11:37",
+   "text": "今年何回行きました?"
+  },
+  {
+   "end_ms": "702760",
+   "start_ms": "699040",
+   "start_time_text": "11:39",
+   "text": "ゼロヘッドだな。"
+  },
+  {
+   "end_ms": "706279.0000000001",
+   "start_ms": "700440",
+   "start_time_text": "11:40",
+   "text": "今年何回行きました?"
+  },
+  {
+   "end_ms": "706279",
+   "start_ms": "702760",
+   "start_time_text": "11:42",
+   "text": "今年1111"
+  },
+  {
+   "end_ms": "708439.9999999999",
+   "start_ms": "706560",
+   "start_time_text": "11:46",
+   "text": "は"
+  },
+  {
+   "end_ms": "711439.9999999999",
+   "start_ms": "706800",
+   "start_time_text": "11:46",
+   "text": "逆にどの回だよ。"
+  },
+  {
+   "end_ms": "711440",
+   "start_ms": "708440",
+   "start_time_text": "11:48",
+   "text": "トズルとボンジュールどっちが貢献できるか対決。"
+  },
+  {
+   "end_ms": "719720",
+   "start_ms": "714600",
+   "start_time_text": "11:54",
+   "text": "今んとこ2人とも0です。"
+  },
+  {
+   "end_ms": "722240",
+   "start_ms": "716839",
+   "start_time_text": "11:56",
+   "text": "そう。ゼロゼロ。こ"
+  },
+  {
+   "end_ms": "725000",
+   "start_ms": "719720",
+   "start_time_text": "11:59",
+   "text": "死んだことでマイナスを発生してましたね。今"
+  },
+  {
+   "end_ms": "725600",
+   "start_ms": "722240",
+   "start_time_text": "12:02",
+   "text": "マイナスはないでしょ、別に。"
+  },
+  {
+   "end_ms": "726880",
+   "start_ms": "725000",
+   "start_time_text": "12:05",
+   "text": "あの、"
+  },
+  {
+   "end_ms": "729200",
+   "start_ms": "725600",
+   "start_time_text": "12:05",
+   "text": "見え方は悪いですよ。"
+  },
+  {
+   "end_ms": "732200",
+   "start_ms": "726880",
+   "start_time_text": "12:06",
+   "text": "ボンさんが集めたものをさん寝れますか?"
+  },
+  {
+   "end_ms": "732200",
+   "start_ms": "729200",
+   "start_time_text": "12:09",
+   "text": "ネザー組の誰かに渡したらようやくそこで寝れます。寝れます。ます。寝れます。ます。"
+  },
+  {
+   "end_ms": "737880.0000000001",
+   "start_ms": "733440",
+   "start_time_text": "12:13",
+   "text": "ボさん絶対飯とか鉄めちゃ"
+  },
+  {
+   "end_ms": "740880",
+   "start_ms": "735160",
+   "start_time_text": "12:15",
+   "text": "ちょっとボンさん寝てないで働いてください。"
+  },
+  {
+   "end_ms": "740880",
+   "start_ms": "737880",
+   "start_time_text": "12:17",
+   "text": "おかしいでしょ。寝よ早く寝てくれよ。敵寝る"
+  },
+  {
+   "end_ms": "745680",
+   "start_ms": "742680",
+   "start_time_text": "12:22",
+   "text": "敵早く寝てくることが忙しいんですよ。"
+  },
+  {
+   "end_ms": "750320",
+   "start_ms": "746240",
+   "start_time_text": "12:26",
+   "text": "早く寝ろ。"
+  },
+  {
+   "end_ms": "750320",
+   "start_ms": "747320",
+   "start_time_text": "12:27",
+   "text": "はい。ボンジールボンジュールサボってます。ボンジュールサボってます。は以上です。"
+  },
+  {
+   "end_ms": "756959",
+   "start_ms": "753959",
+   "start_time_text": "12:33",
+   "text": "はだい僕ちょんでごめんなさい。すいません。"
+  },
+  {
+   "end_ms": "760480",
+   "start_ms": "757480",
+   "start_time_text": "12:37",
+   "text": "何をして何をすごい貢献するの忙しいんですよ、僕は。"
+  },
+  {
+   "end_ms": "765959.0000000001",
+   "start_ms": "761600",
+   "start_time_text": "12:41",
+   "text": "すいません。ごめんなさい。ごめんなさい。な"
+  },
+  {
+   "end_ms": "765959",
+   "start_ms": "762959",
+   "start_time_text": "12:42",
+   "text": "んていう見にくい争なん。"
+  },
+  {
+   "end_ms": "769839",
+   "start_ms": "766839",
+   "start_time_text": "12:46",
+   "text": "いや、こっちにはこっちの事情があるんですよ。そう、そう、そう。資届けてもらってもいいですか?"
+  },
+  {
+   "end_ms": "775320",
+   "start_ms": "770950",
+   "start_time_text": "12:50",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "778319.9999999999",
+   "start_ms": "773800",
+   "start_time_text": "12:53",
+   "text": "いや、だから今"
+  },
+  {
+   "end_ms": "778320",
+   "start_ms": "775320",
+   "start_time_text": "12:55",
+   "text": "俺はちゃんとやろうとしてるぞ。今分かるよな。わかるよな。"
+  },
+  {
+   "end_ms": "781680.0000000001",
+   "start_ms": "778360",
+   "start_time_text": "12:58",
+   "text": "ちゃんとやろうとしてるよ。"
+  },
+  {
+   "end_ms": "783160",
+   "start_ms": "780639",
+   "start_time_text": "13:00",
+   "text": "寝る寝ないで。"
+  },
+  {
+   "end_ms": "784880",
+   "start_ms": "781680",
+   "start_time_text": "13:01",
+   "text": "いやいやいやいやいや。"
+  },
+  {
+   "end_ms": "785480",
+   "start_ms": "783160",
+   "start_time_text": "13:03",
+   "text": "なんかポンソンずっと寝てたから。"
+  },
+  {
+   "end_ms": "788160",
+   "start_ms": "784880",
+   "start_time_text": "13:04",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "790199.0000000001",
+   "start_ms": "785480",
+   "start_time_text": "13:05",
+   "text": "物語はもう今ネザーに入ってるんですよ。"
+  },
+  {
+   "end_ms": "792600",
+   "start_ms": "788160",
+   "start_time_text": "13:08",
+   "text": "いや、ネザー入りたいんだよ。僕も"
+  },
+  {
+   "end_ms": "794639",
+   "start_ms": "790199",
+   "start_time_text": "13:10",
+   "text": "まだマサラさん1回寝てください早く。"
+  },
+  {
+   "end_ms": "794959.0000000001",
+   "start_ms": "792600",
+   "start_time_text": "13:12",
+   "text": "くっそ鉄がな。"
+  },
+  {
+   "end_ms": "796639",
+   "start_ms": "794639",
+   "start_time_text": "13:14",
+   "text": "ほら"
+  },
+  {
+   "end_ms": "798399",
+   "start_ms": "794959",
+   "start_time_text": "13:14",
+   "text": "ほら困ってる困ってる。ディーが"
+  },
+  {
+   "end_ms": "799519",
+   "start_ms": "796639",
+   "start_time_text": "13:16",
+   "text": "ほら配されて困ってる人いるよ。"
+  },
+  {
+   "end_ms": "800519",
+   "start_ms": "798399",
+   "start_time_text": "13:18",
+   "text": "ガチで困ってる。"
+  },
+  {
+   "end_ms": "802040",
+   "start_ms": "799519",
+   "start_time_text": "13:19",
+   "text": "物語進むよ。"
+  },
+  {
+   "end_ms": "804000",
+   "start_ms": "800519",
+   "start_time_text": "13:20",
+   "text": "やったなってねえし。"
+  },
+  {
+   "end_ms": "805839",
+   "start_ms": "802040",
+   "start_time_text": "13:22",
+   "text": "あ、なってないか。"
+  },
+  {
+   "end_ms": "808839",
+   "start_ms": "804000",
+   "start_time_text": "13:24",
+   "text": "何してんの?な"
+  },
+  {
+   "end_ms": "808839",
+   "start_ms": "805839",
+   "start_time_text": "13:25",
+   "text": "んで起きてんの?何をして?ちょっとちょっと待って。"
+  },
+  {
+   "end_ms": "813920",
+   "start_ms": "810920",
+   "start_time_text": "13:30",
+   "text": "何をしてるんですか?あなたはあんさんなってませんけど。まだ"
+  },
+  {
+   "end_ms": "817720",
+   "start_ms": "814720",
+   "start_time_text": "13:34",
+   "text": "もういネ入りまし入りまし入るからいますよ。入ります。"
+  },
+  {
+   "end_ms": "824639",
+   "start_ms": "821000",
+   "start_time_text": "13:41",
+   "text": "もうなんで元世でいちゃいちゃいちゃいちゃ"
+  },
+  {
+   "end_ms": "825279",
+   "start_ms": "823639",
+   "start_time_text": "13:43",
+   "text": "何をしてんの?"
+  },
+  {
+   "end_ms": "826279",
+   "start_ms": "824639",
+   "start_time_text": "13:44",
+   "text": "何をして"
+  },
+  {
+   "end_ms": "827839",
+   "start_ms": "825279",
+   "start_time_text": "13:45",
+   "text": "要塞発見。"
+  },
+  {
+   "end_ms": "829560",
+   "start_ms": "826279",
+   "start_time_text": "13:46",
+   "text": "おお、ナイスナイスナイス"
+  },
+  {
+   "end_ms": "831279.0000000001",
+   "start_ms": "827839",
+   "start_time_text": "13:47",
+   "text": "やばいっすよ。坊さん僕たち"
+  },
+  {
+   "end_ms": "832079",
+   "start_ms": "829560",
+   "start_time_text": "13:49",
+   "text": "声出し用んですか?"
+  },
+  {
+   "end_ms": "834160",
+   "start_ms": "831279",
+   "start_time_text": "13:51",
+   "text": "え、看板"
+  },
+  {
+   "end_ms": "835479.9999999999",
+   "start_ms": "832079",
+   "start_time_text": "13:52",
+   "text": "ナイスナイス"
+  },
+  {
+   "end_ms": "836920",
+   "start_ms": "834160",
+   "start_time_text": "13:54",
+   "text": "看板あったあったったあった。看板"
+  },
+  {
+   "end_ms": "838440",
+   "start_ms": "835480",
+   "start_time_text": "13:55",
+   "text": "本格的にならないで"
+  },
+  {
+   "end_ms": "841479.9999999999",
+   "start_ms": "836920",
+   "start_time_text": "13:56",
+   "text": "書いてるでしょ。看板に。"
+  },
+  {
+   "end_ms": "841560.0000000001",
+   "start_ms": "838440",
+   "start_time_text": "13:58",
+   "text": "よしよしよし。来た来た来た来た。"
+  },
+  {
+   "end_ms": "842079.0000000001",
+   "start_ms": "841480",
+   "start_time_text": "14:01",
+   "text": "1"
+  },
+  {
+   "end_ms": "845079",
+   "start_ms": "841560",
+   "start_time_text": "14:01",
+   "text": "き止まりました。"
+  },
+  {
+   "end_ms": "845079",
+   "start_ms": "842079",
+   "start_time_text": "14:02",
+   "text": "あいたいた。こっちこっちこっちこっち。坊さんこっち。坊さんこっち。"
+  },
+  {
+   "end_ms": "849550.0000000001",
+   "start_ms": "845320",
+   "start_time_text": "14:05",
+   "text": "え、どこどこどこ?ゲタグ見えますか?"
+  },
+  {
+   "end_ms": "851120",
+   "start_ms": "847839",
+   "start_time_text": "14:07",
+   "text": "あいたいた。あ、鉄あるよ。俺は"
+  },
+  {
+   "end_ms": "852199",
+   "start_ms": "849550",
+   "start_time_text": "14:09",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "853639",
+   "start_ms": "851120",
+   "start_time_text": "14:11",
+   "text": "欲しい。"
+  },
+  {
+   "end_ms": "856079",
+   "start_ms": "852199",
+   "start_time_text": "14:12",
+   "text": "俺は"
+  },
+  {
+   "end_ms": "857800",
+   "start_ms": "853639",
+   "start_time_text": "14:13",
+   "text": "ちょっと何?俺は"
+  },
+  {
+   "end_ms": "858560",
+   "start_ms": "856079",
+   "start_time_text": "14:16",
+   "text": "マウントマウント取ってるぞ。"
+  },
+  {
+   "end_ms": "860120",
+   "start_ms": "857800",
+   "start_time_text": "14:17",
+   "text": "俺は鉄ある。"
+  },
+  {
+   "end_ms": "863239.9999999999",
+   "start_ms": "858560",
+   "start_time_text": "14:18",
+   "text": "色からついてきつのはゾンビに"
+  },
+  {
+   "end_ms": "863240",
+   "start_ms": "860120",
+   "start_time_text": "14:20",
+   "text": "2回やられたですか?"
+  },
+  {
+   "end_ms": "867279",
+   "start_ms": "863519",
+   "start_time_text": "14:23",
+   "text": "これが貢献度の扱いか。"
+  },
+  {
+   "end_ms": "869079.0000000001",
+   "start_ms": "865759",
+   "start_time_text": "14:25",
+   "text": "ありがて"
+  },
+  {
+   "end_ms": "871640",
+   "start_ms": "867279",
+   "start_time_text": "14:27",
+   "text": "だいぶ差ができてしまった。"
+  },
+  {
+   "end_ms": "874479.9999999999",
+   "start_ms": "869079",
+   "start_time_text": "14:29",
+   "text": "ま、でもビビタルさっすよね。今んとこ"
+  },
+  {
+   "end_ms": "877480",
+   "start_ms": "871640",
+   "start_time_text": "14:31",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "877480",
+   "start_ms": "874480",
+   "start_time_text": "14:34",
+   "text": "あなた何かしました?いや、あ、おり食べ物いっぱいあるよ。"
+  },
+  {
+   "end_ms": "880719.9999999999",
+   "start_ms": "878680",
+   "start_time_text": "14:38",
+   "text": "あ、"
+  },
+  {
+   "end_ms": "881600",
+   "start_ms": "879000",
+   "start_time_text": "14:39",
+   "text": "俺食べ物は大丈夫?食べ物は大丈夫。"
+  },
+  {
+   "end_ms": "882920.0000000001",
+   "start_ms": "880720",
+   "start_time_text": "14:40",
+   "text": "あ、うん、うん。"
+  },
+  {
+   "end_ms": "883360",
+   "start_ms": "881600",
+   "start_time_text": "14:41",
+   "text": "あ、でも気遣い丸。"
+  },
+  {
+   "end_ms": "883800",
+   "start_ms": "882920",
+   "start_time_text": "14:42",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "884880",
+   "start_ms": "883360",
+   "start_time_text": "14:43",
+   "text": "うーん。"
+  },
+  {
+   "end_ms": "886479.9999999999",
+   "start_ms": "883800",
+   "start_time_text": "14:43",
+   "text": "気遣い丸。"
+  },
+  {
+   "end_ms": "889160",
+   "start_ms": "884880",
+   "start_time_text": "14:44",
+   "text": "あ、待って。"
+  },
+  {
+   "end_ms": "890839",
+   "start_ms": "886480",
+   "start_time_text": "14:46",
+   "text": "あ、なんだが、態度が"
+  },
+  {
+   "end_ms": "892600",
+   "start_ms": "889160",
+   "start_time_text": "14:49",
+   "text": "いやいやいやいやいや。"
+  },
+  {
+   "end_ms": "894199.0000000001",
+   "start_ms": "890839",
+   "start_time_text": "14:50",
+   "text": "これが貢献度であれチャンネル。"
+  },
+  {
+   "end_ms": "896480",
+   "start_ms": "892600",
+   "start_time_text": "14:52",
+   "text": "ゲージが出て、今貢献度っての出て。"
+  },
+  {
+   "end_ms": "898199",
+   "start_ms": "894199",
+   "start_time_text": "14:54",
+   "text": "いやいや、もう僕の働き見てほしい。頑張ってるよ。"
+  },
+  {
+   "end_ms": "899079.0000000001",
+   "start_ms": "896480",
+   "start_time_text": "14:56",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "901758.9999999999",
+   "start_ms": "898199",
+   "start_time_text": "14:58",
+   "text": "一生懸命"
+  },
+  {
+   "end_ms": "903000",
+   "start_ms": "899079",
+   "start_time_text": "14:59",
+   "text": "あれでしたっけ?ナイスかりでしたっけ?"
+  },
+  {
+   "end_ms": "905040",
+   "start_ms": "901759",
+   "start_time_text": "15:01",
+   "text": "声出しね。"
+  },
+  {
+   "end_ms": "905480",
+   "start_ms": "903000",
+   "start_time_text": "15:03",
+   "text": "声出しも頑張ってるし。"
+  },
+  {
+   "end_ms": "907360",
+   "start_ms": "905040",
+   "start_time_text": "15:05",
+   "text": "ナイスです。"
+  },
+  {
+   "end_ms": "908440",
+   "start_ms": "905480",
+   "start_time_text": "15:05",
+   "text": "ほらほらほらほら。やってきた。やってきたよ。ほら。"
+  },
+  {
+   "end_ms": "910000",
+   "start_ms": "907360",
+   "start_time_text": "15:07",
+   "text": "いや、何もしてないです。何もしない。"
+  },
+  {
+   "end_ms": "910880.0000000001",
+   "start_ms": "908440",
+   "start_time_text": "15:08",
+   "text": "いやいや、色々ほら"
+  },
+  {
+   "end_ms": "913880",
+   "start_ms": "910000",
+   "start_time_text": "15:10",
+   "text": "何も"
+  },
+  {
+   "end_ms": "913880",
+   "start_ms": "910880",
+   "start_time_text": "15:10",
+   "text": "あの木のツはです。"
+  },
+  {
+   "end_ms": "919960",
+   "start_ms": "914839",
+   "start_time_text": "15:14",
+   "text": "どういうことですか?木のつね、どういうこと?木のつらって。"
+  },
+  {
+   "end_ms": "919959.9999999999",
+   "start_ms": "916400",
+   "start_time_text": "15:16",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "925639",
+   "start_ms": "921720",
+   "start_time_text": "15:21",
+   "text": "いやいやいやいや。"
+  },
+  {
+   "end_ms": "926160",
+   "start_ms": "923120",
+   "start_time_text": "15:23",
+   "text": "人には人のペースがあるんですよ。"
+  },
+  {
+   "end_ms": "929160",
+   "start_ms": "925639",
+   "start_time_text": "15:25",
+   "text": "よし。"
+  },
+  {
+   "end_ms": "929160",
+   "start_ms": "926160",
+   "start_time_text": "15:26",
+   "text": "ちょっとじゃ一旦座標共有しますね。"
+  },
+  {
+   "end_ms": "932920",
+   "start_ms": "929279",
+   "start_time_text": "15:29",
+   "text": "はい。"
+  },
+  {
+   "end_ms": "932920",
+   "start_ms": "929920",
+   "start_time_text": "15:29",
+   "text": "え、もうね、向かうしかないよね。"
+  },
+  {
+   "end_ms": "936639",
+   "start_ms": "933639",
+   "start_time_text": "15:33",
+   "text": "行き方がちょっと僕わけわから行きましょうよ。要塞"
+  },
+  {
+   "end_ms": "940560.0000000001",
+   "start_ms": "937759",
+   "start_time_text": "15:37",
+   "text": "行きますよ。"
+  },
+  {
+   "end_ms": "942279",
+   "start_ms": "938360",
+   "start_time_text": "15:38",
+   "text": "行こ。一緒に行こう。一緒に行こう。"
+  },
+  {
+   "end_ms": "945279",
+   "start_ms": "940560",
+   "start_time_text": "15:40",
+   "text": "いや、一緒に行こう。俺7パ"
+  },
+  {
+   "end_ms": "945279",
+   "start_ms": "942279",
+   "start_time_text": "15:42",
+   "text": "じゃどっちが活躍できるかバトルしましょう。一緒に行きましょう。"
+  },
+  {
+   "end_ms": "949079.0000000001",
+   "start_ms": "946240",
+   "start_time_text": "15:46",
+   "text": "発バトルになっちゃった。"
+  },
+  {
+   "end_ms": "950920.0000000001",
+   "start_ms": "947340",
+   "start_time_text": "15:47",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "951839",
+   "start_ms": "949079",
+   "start_time_text": "15:49",
+   "text": "行きます。行きますけど。行きますけど。"
+  },
+  {
+   "end_ms": "953920",
+   "start_ms": "950920",
+   "start_time_text": "15:50",
+   "text": "ああ。"
+  },
+  {
+   "end_ms": "955399",
+   "start_ms": "951839",
+   "start_time_text": "15:51",
+   "text": "え。ああ。マイナス入りました。これ。"
+  },
+  {
+   "end_ms": "956920",
+   "start_ms": "953920",
+   "start_time_text": "15:53",
+   "text": "いや、いや、いや、いや、いや。"
+  },
+  {
+   "end_ms": "959279",
+   "start_ms": "955399",
+   "start_time_text": "15:55",
+   "text": "どうした?あ、"
+  },
+  {
+   "end_ms": "962279",
+   "start_ms": "956920",
+   "start_time_text": "15:56",
+   "text": "今日のちゃん珍しいな。なんか"
+  },
+  {
+   "end_ms": "962279",
+   "start_ms": "959279",
+   "start_time_text": "15:59",
+   "text": "いやいやいや、足も滑らす、足も滑らですか?"
+  },
+  {
+   "end_ms": "967519",
+   "start_ms": "963240",
+   "start_time_text": "16:03",
+   "text": "今日のドさんヘロヘロじゃね?"
+  },
+  {
+   "end_ms": "967519",
+   "start_ms": "964519",
+   "start_time_text": "16:04",
+   "text": "なんかふわふわふわしてますね。比べてます。"
+  },
+  {
+   "end_ms": "972199",
+   "start_ms": "968959",
+   "start_time_text": "16:08",
+   "text": "オンリー、今な、何て言った?"
+  },
+  {
+   "end_ms": "973680",
+   "start_ms": "971160",
+   "start_time_text": "16:11",
+   "text": "え、"
+  },
+  {
+   "end_ms": "976040",
+   "start_ms": "972199",
+   "start_time_text": "16:12",
+   "text": "なんかやってますって言ってたよね。"
+  },
+  {
+   "end_ms": "976359.9999999999",
+   "start_ms": "973680",
+   "start_time_text": "16:13",
+   "text": "あ、なんかやってます。"
+  },
+  {
+   "end_ms": "977599.9999999999",
+   "start_ms": "976040",
+   "start_time_text": "16:16",
+   "text": "お、"
+  },
+  {
+   "end_ms": "978040",
+   "start_ms": "976360",
+   "start_time_text": "16:16",
+   "text": "なんかやっ、え、"
+  },
+  {
+   "end_ms": "979759",
+   "start_ms": "977600",
+   "start_time_text": "16:17",
+   "text": "え、"
+  },
+  {
+   "end_ms": "982319",
+   "start_ms": "978040",
+   "start_time_text": "16:18",
+   "text": "え、何?え、ドッキリ?"
+  },
+  {
+   "end_ms": "982959.0000000001",
+   "start_ms": "979759",
+   "start_time_text": "16:19",
+   "text": "いや、久しぶりにあるのかなと一瞬思っちゃった。"
+  },
+  {
+   "end_ms": "984800",
+   "start_ms": "982319",
+   "start_time_text": "16:22",
+   "text": "え?あ、待って。"
+  },
+  {
+   "end_ms": "987439.9999999999",
+   "start_ms": "982959",
+   "start_time_text": "16:22",
+   "text": "いやいやいやいやいやないよ。"
+  },
+  {
+   "end_ms": "990439.9999999999",
+   "start_ms": "984800",
+   "start_time_text": "16:24",
+   "text": "さすがに死にすぎる。どさんが"
+  },
+  {
+   "end_ms": "990440",
+   "start_ms": "987440",
+   "start_time_text": "16:27",
+   "text": "またして今日は何をやってるでしょう?"
+  },
+  {
+   "end_ms": "995719.9999999999",
+   "start_ms": "991560",
+   "start_time_text": "16:31",
+   "text": "え、本当に?"
+  },
+  {
+   "end_ms": "995720",
+   "start_ms": "992720",
+   "start_time_text": "16:32",
+   "text": "いやいや、またまたそうやって日本合わせて違うんでしょ?俺も入れ替りじゃないの?"
+  },
+  {
+   "end_ms": "1000040",
+   "start_ms": "997040",
+   "start_time_text": "16:37",
+   "text": "なんか自分死んじゃってごかしてんじないですよ。"
+  },
+  {
+   "end_ms": "1002680",
+   "start_ms": "1000800",
+   "start_time_text": "16:40",
+   "text": "確かに"
+  },
+  {
+   "end_ms": "1005680.0000000001",
+   "start_ms": "1001440",
+   "start_time_text": "16:41",
+   "text": "いっぱい死んじゃってね。"
+  },
+  {
+   "end_ms": "1005680",
+   "start_ms": "1002680",
+   "start_time_text": "16:42",
+   "text": "いや、でもさすがに木のツ橋おかしいって。この"
+  },
+  {
+   "end_ms": "1009240",
+   "start_ms": "1006240",
+   "start_time_text": "16:46",
+   "text": "いやいや、やめてさん傷ついちゃうよ。そんなダメージをこれ以上広げないで。"
+  },
+  {
+   "end_ms": "1013920",
+   "start_ms": "1012199",
+   "start_time_text": "16:52",
+   "text": "これ"
+  },
+  {
+   "end_ms": "1016920",
+   "start_ms": "1013519",
+   "start_time_text": "16:53",
+   "text": "なんだ?"
+  },
+  {
+   "end_ms": "1016920",
+   "start_ms": "1013920",
+   "start_time_text": "16:53",
+   "text": "どズさん誰かと入れ替わってる?ブー。"
+  },
+  {
+   "end_ms": "1021560.0000000001",
+   "start_ms": "1018600",
+   "start_time_text": "16:58",
+   "text": "いや、本当に"
+  },
+  {
+   "end_ms": "1021959",
+   "start_ms": "1019800",
+   "start_time_text": "16:59",
+   "text": "ブブって何?ブーって。"
+  },
+  {
+   "end_ms": "1023719.9999999999",
+   "start_ms": "1021560",
+   "start_time_text": "17:01",
+   "text": "え?"
+  },
+  {
+   "end_ms": "1024879.9999999999",
+   "start_ms": "1021959",
+   "start_time_text": "17:01",
+   "text": "あ、本当になんかあるの?今日。"
+  },
+  {
+   "end_ms": "1027880.0000000001",
+   "start_ms": "1023720",
+   "start_time_text": "17:03",
+   "text": "いやいやないでしょ。"
+  },
+  {
+   "end_ms": "1027880.0000000001",
+   "start_ms": "1024880.0000000001",
+   "start_time_text": "17:04",
+   "text": "いや、これ中身ま小さんとかじゃない?"
+  },
+  {
+   "end_ms": "1031220",
+   "start_ms": "1028559",
+   "start_time_text": "17:08",
+   "text": "ブブ。"
+  },
+  {
+   "end_ms": "1033760",
+   "start_ms": "1030000",
+   "start_time_text": "17:10",
+   "text": "え、もしかして何もない。"
+  },
+  {
+   "end_ms": "1034480",
+   "start_ms": "1031220",
+   "start_time_text": "17:11",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1036400.0000000001",
+   "start_ms": "1033760",
+   "start_time_text": "17:13",
+   "text": "何もない。"
+  },
+  {
+   "end_ms": "1037959.0000000001",
+   "start_ms": "1034480",
+   "start_time_text": "17:14",
+   "text": "ピポピポピポピポ。"
+  },
+  {
+   "end_ms": "1038120.0000000001",
+   "start_ms": "1036400.0000000001",
+   "start_time_text": "17:16",
+   "text": "ブブ。"
+  },
+  {
+   "end_ms": "1038839.0000000001",
+   "start_ms": "1037959.0000000001",
+   "start_time_text": "17:17",
+   "text": "あ、"
+  },
+  {
+   "end_ms": "1040280",
+   "start_ms": "1038119.9999999999",
+   "start_time_text": "17:18",
+   "text": "え、何?"
+  },
+  {
+   "end_ms": "1041079",
+   "start_ms": "1038839",
+   "start_time_text": "17:18",
+   "text": "え、じゃ、なんかやってるんだ。"
+  },
+  {
+   "end_ms": "1043559",
+   "start_ms": "1040280",
+   "start_time_text": "17:20",
+   "text": "あ、本当になんかやって"
+  },
+  {
+   "end_ms": "1045198.9999999999",
+   "start_ms": "1041079",
+   "start_time_text": "17:21",
+   "text": "やってるぞ。やってるぞ。これ木のつる味と木の斧"
+  },
+  {
+   "end_ms": "1046199.0000000001",
+   "start_ms": "1043559",
+   "start_time_text": "17:23",
+   "text": "やってます。"
+  },
+  {
+   "end_ms": "1049199",
+   "start_ms": "1045199.0000000001",
+   "start_time_text": "17:25",
+   "text": "やってんの?"
+  },
+  {
+   "end_ms": "1049199",
+   "start_ms": "1046199.0000000001",
+   "start_time_text": "17:26",
+   "text": "やってます。何かやってたら終わります。"
+  },
+  {
+   "end_ms": "1052280",
+   "start_ms": "1049520",
+   "start_time_text": "17:29",
+   "text": "何?何かやってたら"
+  },
+  {
+   "end_ms": "1055280",
+   "start_ms": "1050520",
+   "start_time_text": "17:30",
+   "text": "なんかやってんだ。ドッキリかってこと。"
+  },
+  {
+   "end_ms": "1055280",
+   "start_ms": "1052280",
+   "start_time_text": "17:32",
+   "text": "なんかね、斧、斧で寝づらく掘ってんだけど。"
+  },
+  {
+   "end_ms": "1058039",
+   "start_ms": "1055720",
+   "start_time_text": "17:35",
+   "text": "え"
+  },
+  {
+   "end_ms": "1059840",
+   "start_ms": "1056320",
+   "start_time_text": "17:36",
+   "text": "え、何?こ、どういこと?"
+  },
+  {
+   "end_ms": "1062840",
+   "start_ms": "1058039",
+   "start_time_text": "17:38",
+   "text": "やっぱ誰か操作してんじゃないですか?"
+  },
+  {
+   "end_ms": "1062840",
+   "start_ms": "1059840",
+   "start_time_text": "17:39",
+   "text": "これさ、声だけだな、これ多分。"
+  },
+  {
+   "end_ms": "1066200",
+   "start_ms": "1063200",
+   "start_time_text": "17:43",
+   "text": "ああ、確かに。なんか不自然だもんね。どさがなんか不然なの"
+  },
+  {
+   "end_ms": "1070280",
+   "start_ms": "1067240",
+   "start_time_text": "17:47",
+   "text": "だって。ゾンビやれてくれ。どさん怒らない。"
+  },
+  {
+   "end_ms": "1073280",
+   "start_ms": "1069360",
+   "start_time_text": "17:49",
+   "text": "怒らんもん。"
+  },
+  {
+   "end_ms": "1073280",
+   "start_ms": "1070280",
+   "start_time_text": "17:50",
+   "text": "いや、その場合俺が言った発言全部が失礼なことになる。まずい。"
+  },
+  {
+   "end_ms": "1078200",
+   "start_ms": "1074240",
+   "start_time_text": "17:54",
+   "text": "やばい。"
+  },
+  {
+   "end_ms": "1081200",
+   "start_ms": "1075200",
+   "start_time_text": "17:55",
+   "text": "いや、マーク今日自然だもんね。"
+  },
+  {
+   "end_ms": "1081200",
+   "start_ms": "1078200",
+   "start_time_text": "17:58",
+   "text": "ネザーゲート、ネザーゲートにいるぞ。どさんプレイヤーどさんじゃないと思う。これ"
+  },
+  {
+   "end_ms": "1086280",
+   "start_ms": "1083280",
+   "start_time_text": "18:03",
+   "text": "え、これボンさんとドさん入れ替っていかった。入れるかっているわって。"
+  },
+  {
+   "end_ms": "1090159",
+   "start_ms": "1087159",
+   "start_time_text": "18:07",
+   "text": "ボさん、ボンさん何も分かってなさそうなんだよな。で、ボさんが普段何もしてねみたいな。違う違う違う違う違う違いますよ。ボンさんそういうわけで言ったわけじゃないですから。"
+  },
+  {
+   "end_ms": "1099360",
+   "start_ms": "1092090",
+   "start_time_text": "18:12",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "1102360",
+   "start_ms": "1097039",
+   "start_time_text": "18:17",
+   "text": "違う違う違う違う違う。え、何?何?"
+  },
+  {
+   "end_ms": "1102360",
+   "start_ms": "1099360",
+   "start_time_text": "18:19",
+   "text": "え、どういうこと?何かやってるんだな。なんだ?質問はありなし。答えを言わなきゃだめ。"
+  },
+  {
+   "end_ms": "1108760",
+   "start_ms": "1104919",
+   "start_time_text": "18:24",
+   "text": "答えを当てたら終わります。今日は"
+  },
+  {
+   "end_ms": "1110080",
+   "start_ms": "1106960",
+   "start_time_text": "18:26",
+   "text": "え、じゃ、質問なし。"
+  },
+  {
+   "end_ms": "1113080",
+   "start_ms": "1108760",
+   "start_time_text": "18:28",
+   "text": "声だけですか?"
+  },
+  {
+   "end_ms": "1113080",
+   "start_ms": "1110080",
+   "start_time_text": "18:30",
+   "text": "いやいや、アキネーターやめてよ。声ターやめて。"
+  },
+  {
+   "end_ms": "1117799",
+   "start_ms": "1115120",
+   "start_time_text": "18:35",
+   "text": "惜しいって言わせればいいんでしょ。だから"
+  },
+  {
+   "end_ms": "1119400",
+   "start_ms": "1116960",
+   "start_time_text": "18:36",
+   "text": "確かに。"
+  },
+  {
+   "end_ms": "1122400",
+   "start_ms": "1117799",
+   "start_time_text": "18:37",
+   "text": "ええ、"
+  },
+  {
+   "end_ms": "1125400",
+   "start_ms": "1119400",
+   "start_time_text": "18:39",
+   "text": "早く行きましょうよ。ボンさん要塞に。"
+  },
+  {
+   "end_ms": "1125400",
+   "start_ms": "1122400",
+   "start_time_text": "18:42",
+   "text": "だから今だから今いる目の前にいるドズさんは"
+  },
+  {
+   "end_ms": "1128120",
+   "start_ms": "1126320",
+   "start_time_text": "18:46",
+   "text": "違う。ドズさん。"
+  },
+  {
+   "end_ms": "1129320",
+   "start_ms": "1127280",
+   "start_time_text": "18:47",
+   "text": "違う。"
+  },
+  {
+   "end_ms": "1132320",
+   "start_ms": "1128120",
+   "start_time_text": "18:48",
+   "text": "なのよ。"
+  },
+  {
+   "end_ms": "1132320",
+   "start_ms": "1129320",
+   "start_time_text": "18:49",
+   "text": "ああ、誰だから中身"
+  },
+  {
+   "end_ms": "1137879.9999999998",
+   "start_ms": "1133080",
+   "start_time_text": "18:53",
+   "text": "中身ドズルではないドッキり"
+  },
+  {
+   "end_ms": "1138760",
+   "start_ms": "1135640",
+   "start_time_text": "18:55",
+   "text": "ということだよね。そういことだよね。"
+  },
+  {
+   "end_ms": "1139880",
+   "start_ms": "1137880",
+   "start_time_text": "18:57",
+   "text": "そういうことっすよね。"
+  },
+  {
+   "end_ms": "1140760",
+   "start_ms": "1138760",
+   "start_time_text": "18:58",
+   "text": "惜しい。"
+  },
+  {
+   "end_ms": "1141840.0000000002",
+   "start_ms": "1139880",
+   "start_time_text": "18:59",
+   "text": "え、惜しい。"
+  },
+  {
+   "end_ms": "1142400",
+   "start_ms": "1140760",
+   "start_time_text": "19:00",
+   "text": "惜しい。"
+  },
+  {
+   "end_ms": "1144439.9999999998",
+   "start_ms": "1141840",
+   "start_time_text": "19:01",
+   "text": "誰なん?"
+  },
+  {
+   "end_ms": "1145640",
+   "start_ms": "1142400",
+   "start_time_text": "19:02",
+   "text": "え?ピカクさん。"
+  },
+  {
+   "end_ms": "1148640",
+   "start_ms": "1144440",
+   "start_time_text": "19:04",
+   "text": "ブブブー。"
+  },
+  {
+   "end_ms": "1148640",
+   "start_ms": "1145640",
+   "start_time_text": "19:05",
+   "text": "え、足で操作してる?ドルさん。"
+  },
+  {
+   "end_ms": "1153559",
+   "start_ms": "1149559",
+   "start_time_text": "19:09",
+   "text": "いや、でも"
+  },
+  {
+   "end_ms": "1154399.9999999998",
+   "start_ms": "1151080",
+   "start_time_text": "19:11",
+   "text": "マグマとなんか関係あるかな?"
+  },
+  {
+   "end_ms": "1156440",
+   "start_ms": "1153559",
+   "start_time_text": "19:13",
+   "text": "ないか。"
+  },
+  {
+   "end_ms": "1157880",
+   "start_ms": "1154400",
+   "start_time_text": "19:14",
+   "text": "いや、マグマダミーな気するけどね。"
+  },
+  {
+   "end_ms": "1160880",
+   "start_ms": "1156440",
+   "start_time_text": "19:16",
+   "text": "この企画自体、"
+  },
+  {
+   "end_ms": "1160880",
+   "start_ms": "1157880",
+   "start_time_text": "19:17",
+   "text": "ま、このままエンドア倒してネタバシなしでもいいし。"
+  },
+  {
+   "end_ms": "1166000",
+   "start_ms": "1161159",
+   "start_time_text": "19:21",
+   "text": "いやいやいやいやいやいやいやいや。"
+  },
+  {
+   "end_ms": "1166000",
+   "start_ms": "1163000",
+   "start_time_text": "19:23",
+   "text": "全然いいよ。俺今キーパーいけ集めていく。"
+  },
+  {
+   "end_ms": "1173200",
+   "start_ms": "1169039",
+   "start_time_text": "19:29",
+   "text": "そう、そう。"
+  },
+  {
+   "end_ms": "1173200",
+   "start_ms": "1170200",
+   "start_time_text": "19:30",
+   "text": "もし入れ替わってた入れ替わってた人寂しいだろうな。"
+  },
+  {
+   "end_ms": "1176320",
+   "start_ms": "1173799",
+   "start_time_text": "19:33",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "1176600",
+   "start_ms": "1174520",
+   "start_time_text": "19:34",
+   "text": "そも誰かが多分大事なんだろうな。"
+  },
+  {
+   "end_ms": "1178280",
+   "start_ms": "1176320",
+   "start_time_text": "19:36",
+   "text": "誰だ?"
+  },
+  {
+   "end_ms": "1179760",
+   "start_ms": "1176600",
+   "start_time_text": "19:36",
+   "text": "誰かまで当ててほしい。"
+  },
+  {
+   "end_ms": "1182760",
+   "start_ms": "1178280",
+   "start_time_text": "19:38",
+   "text": "女性ですね。"
+  },
+  {
+   "end_ms": "1182760",
+   "start_ms": "1179760",
+   "start_time_text": "19:39",
+   "text": "いや、アキネーターはやらないよ。だから今、今、ジャンプした。今ジャンプした。"
+  },
+  {
+   "end_ms": "1185960",
+   "start_ms": "1184720",
+   "start_time_text": "19:44",
+   "text": "今、"
+  },
+  {
+   "end_ms": "1188480",
+   "start_ms": "1185600",
+   "start_time_text": "19:45",
+   "text": "え、"
+  },
+  {
+   "end_ms": "1189640",
+   "start_ms": "1185960",
+   "start_time_text": "19:45",
+   "text": "ジャンプついジャンプし、ジャンプ。え、"
+  },
+  {
+   "end_ms": "1190919",
+   "start_ms": "1188480",
+   "start_time_text": "19:48",
+   "text": "ミルクさん、"
+  },
+  {
+   "end_ms": "1191600.0000000002",
+   "start_ms": "1189640",
+   "start_time_text": "19:49",
+   "text": "女性"
+  },
+  {
+   "end_ms": "1192679",
+   "start_ms": "1190919",
+   "start_time_text": "19:50",
+   "text": "にゃ村さんじゃ。"
+  },
+  {
+   "end_ms": "1193039",
+   "start_ms": "1191600",
+   "start_time_text": "19:51",
+   "text": "女性です"
+  },
+  {
+   "end_ms": "1195679",
+   "start_ms": "1192679",
+   "start_time_text": "19:52",
+   "text": "ね。"
+  },
+  {
+   "end_ms": "1198679",
+   "start_ms": "1193039",
+   "start_time_text": "19:53",
+   "text": "にゃ村さんか"
+  },
+  {
+   "end_ms": "1198679",
+   "start_ms": "1195679",
+   "start_time_text": "19:55",
+   "text": "早くボさん要塞行きましょうよ。要塞"
+  },
+  {
+   "end_ms": "1203440",
+   "start_ms": "1199240",
+   "start_time_text": "19:59",
+   "text": "要塞行きましょう。ついていきますよ。両サイ"
+  },
+  {
+   "end_ms": "1206239.9999999998",
+   "start_ms": "1201120",
+   "start_time_text": "20:01",
+   "text": "いや、ボンさんについていきます。僕は。"
+  },
+  {
+   "end_ms": "1207679",
+   "start_ms": "1203440",
+   "start_time_text": "20:03",
+   "text": "え、わかだってヒントなくない?今日。"
+  },
+  {
+   "end_ms": "1209120.0000000002",
+   "start_ms": "1206240",
+   "start_time_text": "20:06",
+   "text": "いいですね。"
+  },
+  {
+   "end_ms": "1210799",
+   "start_ms": "1207679",
+   "start_time_text": "20:07",
+   "text": "あ、ヒットあった。"
+  },
+  {
+   "end_ms": "1211399.9999999998",
+   "start_ms": "1209120",
+   "start_time_text": "20:09",
+   "text": "え、おらくなんかピント来てる。"
+  },
+  {
+   "end_ms": "1212280",
+   "start_ms": "1210799",
+   "start_time_text": "20:10",
+   "text": "来た、"
+  },
+  {
+   "end_ms": "1214080.0000000002",
+   "start_ms": "1211400",
+   "start_time_text": "20:11",
+   "text": "来た。"
+  },
+  {
+   "end_ms": "1215440",
+   "start_ms": "1212280",
+   "start_time_text": "20:12",
+   "text": "何?なんかあった。"
+  },
+  {
+   "end_ms": "1217080",
+   "start_ms": "1214080",
+   "start_time_text": "20:14",
+   "text": "ここまでに伏線が"
+  },
+  {
+   "end_ms": "1217520",
+   "start_ms": "1215440",
+   "start_time_text": "20:15",
+   "text": "なんかどぞさんが"
+  },
+  {
+   "end_ms": "1218240",
+   "start_ms": "1217080",
+   "start_time_text": "20:17",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "1220120",
+   "start_ms": "1217520",
+   "start_time_text": "20:17",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "1220480",
+   "start_ms": "1218240",
+   "start_time_text": "20:18",
+   "text": "あ、なんか喋った時に"
+  },
+  {
+   "end_ms": "1221959.9999999998",
+   "start_ms": "1220120",
+   "start_time_text": "20:20",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "1222600",
+   "start_ms": "1220480",
+   "start_time_text": "20:20",
+   "text": "お"
+  },
+  {
+   "end_ms": "1225600.0000000002",
+   "start_ms": "1221960",
+   "start_time_text": "20:21",
+   "text": "俺AI"
+  },
+  {
+   "end_ms": "1225600",
+   "start_ms": "1222600",
+   "start_time_text": "20:22",
+   "text": "になりてえみたいな言ってた時があったんすよ。"
+  },
+  {
+   "end_ms": "1228799",
+   "start_ms": "1226600",
+   "start_time_text": "20:26",
+   "text": "え"
+  },
+  {
+   "end_ms": "1231799",
+   "start_ms": "1227720",
+   "start_time_text": "20:27",
+   "text": "え"
+  },
+  {
+   "end_ms": "1231799",
+   "start_ms": "1228799",
+   "start_time_text": "20:28",
+   "text": "いつそれはそれでどうさ大丈夫?"
+  },
+  {
+   "end_ms": "1235240",
+   "start_ms": "1232240",
+   "start_time_text": "20:32",
+   "text": "それはもうなんか仕事疲れたみたいな。そういう"
+  },
+  {
+   "end_ms": "1240799.0000000002",
+   "start_ms": "1236880",
+   "start_time_text": "20:36",
+   "text": "それはそれで不安になる。"
+  },
+  {
+   "end_ms": "1241678.9999999998",
+   "start_ms": "1239559",
+   "start_time_text": "20:39",
+   "text": "言ってた。"
+  },
+  {
+   "end_ms": "1243799",
+   "start_ms": "1240799",
+   "start_time_text": "20:40",
+   "text": "言ってた。"
+  },
+  {
+   "end_ms": "1244640",
+   "start_ms": "1241679",
+   "start_time_text": "20:41",
+   "text": "うん。ということはな"
+  },
+  {
+   "end_ms": "1247520",
+   "start_ms": "1243799",
+   "start_time_text": "20:43",
+   "text": "んで"
+  },
+  {
+   "end_ms": "1249600.0000000002",
+   "start_ms": "1244640",
+   "start_time_text": "20:44",
+   "text": "AIが動かしてるドルさんを"
+  },
+  {
+   "end_ms": "1250870",
+   "start_ms": "1247520",
+   "start_time_text": "20:47",
+   "text": "ああ、すごい。"
+  },
+  {
+   "end_ms": "1254639.9999999998",
+   "start_ms": "1249600",
+   "start_time_text": "20:49",
+   "text": "おお、ありえる。"
+  },
+  {
+   "end_ms": "1256559",
+   "start_ms": "1250870",
+   "start_time_text": "20:50",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1257480",
+   "start_ms": "1254640",
+   "start_time_text": "20:54",
+   "text": "ピーポン、ピーポン、ピーポン。"
+  },
+  {
+   "end_ms": "1258000",
+   "start_ms": "1256559",
+   "start_time_text": "20:56",
+   "text": "うわ、"
+  },
+  {
+   "end_ms": "1258880",
+   "start_ms": "1257480",
+   "start_time_text": "20:57",
+   "text": "うわ。"
+  },
+  {
+   "end_ms": "1260840",
+   "start_ms": "1258000",
+   "start_time_text": "20:58",
+   "text": "え、"
+  },
+  {
+   "end_ms": "1262440",
+   "start_ms": "1258880",
+   "start_time_text": "20:58",
+   "text": "今日の企画は"
+  },
+  {
+   "end_ms": "1265280",
+   "start_ms": "1260840",
+   "start_time_text": "21:00",
+   "text": "ドズルの中身"
+  },
+  {
+   "end_ms": "1267770",
+   "start_ms": "1262440",
+   "start_time_text": "21:02",
+   "text": "AIドッキリでございます。"
+  },
+  {
+   "end_ms": "1272420",
+   "start_ms": "1265280",
+   "start_time_text": "21:05",
+   "text": "ええ、どうぞ。俺の目の前にいる。今んだ。"
+  },
+  {
+   "end_ms": "1272420",
+   "start_ms": "1267770",
+   "start_time_text": "21:07",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1275520",
+   "start_ms": "1273559",
+   "start_time_text": "21:13",
+   "text": "え、ちょっと目に行こう。"
+  },
+  {
+   "end_ms": "1278000",
+   "start_ms": "1274640",
+   "start_time_text": "21:14",
+   "text": "じゃあ何?"
+  },
+  {
+   "end_ms": "1278760",
+   "start_ms": "1275520",
+   "start_time_text": "21:15",
+   "text": "今中身が入りました。"
+  },
+  {
+   "end_ms": "1279320",
+   "start_ms": "1278000",
+   "start_time_text": "21:18",
+   "text": "あ、中入った。"
+  },
+  {
+   "end_ms": "1280640",
+   "start_ms": "1278760",
+   "start_time_text": "21:18",
+   "text": "え?"
+  },
+  {
+   "end_ms": "1282039",
+   "start_ms": "1279320",
+   "start_time_text": "21:19",
+   "text": "いや、変わらん。変わらん。変わらん。変わ。"
+  },
+  {
+   "end_ms": "1284240",
+   "start_ms": "1280640",
+   "start_time_text": "21:20",
+   "text": "いや、変わるでしょ。"
+  },
+  {
+   "end_ms": "1285360",
+   "start_ms": "1282039",
+   "start_time_text": "21:22",
+   "text": "変わんない。変わんない。変わんない。変わんな。全然違うでしょ。これ。"
+  },
+  {
+   "end_ms": "1286760",
+   "start_ms": "1284240",
+   "start_time_text": "21:24",
+   "text": "いや、変わんない。変わんない。変わんない。"
+  },
+  {
+   "end_ms": "1289760",
+   "start_ms": "1285360",
+   "start_time_text": "21:25",
+   "text": "全然違うでしょ。"
+  },
+  {
+   "end_ms": "1289760",
+   "start_ms": "1286760",
+   "start_time_text": "21:26",
+   "text": "一緒だ。一緒だ。一緒だ。じゃなくてあいた。え、あれは本物?"
+  },
+  {
+   "end_ms": "1293480",
+   "start_ms": "1291000",
+   "start_time_text": "21:31",
+   "text": "これ本物です。え、"
+  },
+  {
+   "end_ms": "1294919",
+   "start_ms": "1292640",
+   "start_time_text": "21:32",
+   "text": "これは本物さんか?"
+  },
+  {
+   "end_ms": "1297919",
+   "start_ms": "1293480",
+   "start_time_text": "21:33",
+   "text": "これ本物です。"
+  },
+  {
+   "end_ms": "1297919",
+   "start_ms": "1294919",
+   "start_time_text": "21:34",
+   "text": "いや、なんか今日にゾンビのデスロった。寝ねえし寝ねえしわかなんか"
+  },
+  {
+   "end_ms": "1305279",
+   "start_ms": "1302279",
+   "start_time_text": "21:42",
+   "text": "でもね、正直ボンさんと噛み合いすぎて"
+  },
+  {
+   "end_ms": "1308918.9999999998",
+   "start_ms": "1305600",
+   "start_time_text": "21:45",
+   "text": "うん。"
+  },
+  {
+   "end_ms": "1308919",
+   "start_ms": "1305919",
+   "start_time_text": "21:45",
+   "text": "その活躍活躍しないみたいな下りが"
+  },
+  {
+   "end_ms": "1311918.9999999998",
+   "start_ms": "1309520",
+   "start_time_text": "21:49",
+   "text": "はいはいはいはいはい。"
+  },
+  {
+   "end_ms": "1312240",
+   "start_ms": "1310400",
+   "start_time_text": "21:50",
+   "text": "自然だったよね。"
+  },
+  {
+   "end_ms": "1314559.0000000002",
+   "start_ms": "1311919",
+   "start_time_text": "21:51",
+   "text": "あ、"
+  },
+  {
+   "end_ms": "1316039",
+   "start_ms": "1312240",
+   "start_time_text": "21:52",
+   "text": "あ、来た、来た、来た、来た、来た。あ、え、これ、"
+  },
+  {
+   "end_ms": "1318440",
+   "start_ms": "1314559",
+   "start_time_text": "21:54",
+   "text": "あ、ロ、ローブル。ロボだ。"
+  },
+  {
+   "end_ms": "1318879.9999999998",
+   "start_ms": "1316039",
+   "start_time_text": "21:56",
+   "text": "ロボルです。皆さん初めまして。"
+  },
+  {
+   "end_ms": "1319960",
+   "start_ms": "1318440",
+   "start_time_text": "21:58",
+   "text": "はい。"
+  },
+  {
+   "end_ms": "1322960",
+   "start_ms": "1318880",
+   "start_time_text": "21:58",
+   "text": "あ、あ、すごいってる。"
+  },
+  {
+   "end_ms": "1322960",
+   "start_ms": "1319960",
+   "start_time_text": "21:59",
+   "text": "このロールは今回のドッキリの企画のために開発された"
+  },
+  {
+   "end_ms": "1328158.9999999998",
+   "start_ms": "1323799",
+   "start_time_text": "22:03",
+   "text": "AIで、"
+  },
+  {
+   "end_ms": "1328480",
+   "start_ms": "1325200",
+   "start_time_text": "22:05",
+   "text": "あのはい。ちゃんとなんか今までの"
+  },
+  {
+   "end_ms": "1331480",
+   "start_ms": "1328159",
+   "start_time_text": "22:08",
+   "text": "AI"
+  },
+  {
+   "end_ms": "1331480",
+   "start_ms": "1328480",
+   "start_time_text": "22:08",
+   "text": "ハンターとかと違ってちゃんとマイクラをプレイする"
+  },
+  {
+   "end_ms": "1335720",
+   "start_ms": "1331840",
+   "start_time_text": "22:11",
+   "text": "AIを作りました。"
+  },
+  {
+   "end_ms": "1336760",
+   "start_ms": "1333960",
+   "start_time_text": "22:13",
+   "text": "やば。すごい。"
+  },
+  {
+   "end_ms": "1339360.0000000002",
+   "start_ms": "1335720",
+   "start_time_text": "22:15",
+   "text": "あ、そう。置いてる。"
+  },
+  {
+   "end_ms": "1342279",
+   "start_ms": "1336760",
+   "start_time_text": "22:16",
+   "text": "そう。だからちゃんと作業台作って斧作って。"
+  },
+  {
+   "end_ms": "1344000",
+   "start_ms": "1339360",
+   "start_time_text": "22:19",
+   "text": "ちょっとごめん。あのテシのせいで入ってこん。"
+  },
+  {
+   "end_ms": "1346960",
+   "start_ms": "1342279",
+   "start_time_text": "22:22",
+   "text": "テ話していい?これ"
+  },
+  {
+   "end_ms": "1348120",
+   "start_ms": "1344000",
+   "start_time_text": "22:24",
+   "text": "テクスチャ取ってもいいよ。テクスチャー取ってもいいよ。"
+  },
+  {
+   "end_ms": "1349480",
+   "start_ms": "1346960",
+   "start_time_text": "22:26",
+   "text": "あ、左側に"
+  },
+  {
+   "end_ms": "1351000",
+   "start_ms": "1348120",
+   "start_time_text": "22:28",
+   "text": "ドブルさん。"
+  },
+  {
+   "end_ms": "1353799",
+   "start_ms": "1349480",
+   "start_time_text": "22:29",
+   "text": "え、ドズルね。"
+  },
+  {
+   "end_ms": "1356200",
+   "start_ms": "1351000",
+   "start_time_text": "22:31",
+   "text": "なんか作業台めっちゃ乱立した。作業。"
+  },
+  {
+   "end_ms": "1359158.9999999998",
+   "start_ms": "1353799",
+   "start_time_text": "22:33",
+   "text": "あ、これはちゃんと"
+  },
+  {
+   "end_ms": "1361000",
+   "start_ms": "1356200",
+   "start_time_text": "22:36",
+   "text": "おいおいおいパターン以上のドズルを学習してるよ、これ。"
+  },
+  {
+   "end_ms": "1362760.0000000002",
+   "start_ms": "1359159",
+   "start_time_text": "22:39",
+   "text": "いやいや、違う違う。これは"
+  },
+  {
+   "end_ms": "1365760",
+   "start_ms": "1361000",
+   "start_time_text": "22:41",
+   "text": "AIドズルが"
+  },
+  {
+   "end_ms": "1365760",
+   "start_ms": "1362760",
+   "start_time_text": "22:42",
+   "text": "多分ツールを作るために一生懸命はい。作業。"
+  },
+  {
+   "end_ms": "1369159",
+   "start_ms": "1365960",
+   "start_time_text": "22:45",
+   "text": "AIドズル倒して何持ってるか調べてみ。"
+  },
+  {
+   "end_ms": "1373760",
+   "start_ms": "1370760",
+   "start_time_text": "22:50",
+   "text": "ひどいな。お前ひどい。ちょいちょいちょいちょいやめてやめて。あ"
+  },
+  {
+   "end_ms": "1377039",
+   "start_ms": "1374440",
+   "start_time_text": "22:54",
+   "text": "あ。"
+  },
+  {
+   "end_ms": "1377840",
+   "start_ms": "1375760",
+   "start_time_text": "22:55",
+   "text": "ロボルが木と"
+  },
+  {
+   "end_ms": "1379720",
+   "start_ms": "1377039",
+   "start_time_text": "22:57",
+   "text": "木しかない。"
+  },
+  {
+   "end_ms": "1380480",
+   "start_ms": "1377840",
+   "start_time_text": "22:57",
+   "text": "そうね。キとい。"
+  },
+  {
+   "end_ms": "1381200",
+   "start_ms": "1379720",
+   "start_time_text": "22:59",
+   "text": "ちゃんとこの"
+  },
+  {
+   "end_ms": "1384200",
+   "start_ms": "1380480",
+   "start_time_text": "23:00",
+   "text": "あれどこ行く?"
+  },
+  {
+   "end_ms": "1384200",
+   "start_ms": "1381200",
+   "start_time_text": "23:01",
+   "text": "ほら見て。でも毛投げに死んだらちゃんとまたツールから作り直すプログラムされてるから。"
+  },
+  {
+   "end_ms": "1392640",
+   "start_ms": "1387240",
+   "start_time_text": "23:07",
+   "text": "ああ、な"
+  },
+  {
+   "end_ms": "1392640",
+   "start_ms": "1389640",
+   "start_time_text": "23:09",
+   "text": "そう。ツール作ってみんなについていくっていう。だから今日洞窟内とかでさ、みんなにいきなり目の前に来たりしたでしょ。"
+  },
+  {
+   "end_ms": "1398919",
+   "start_ms": "1395180",
+   "start_time_text": "23:15",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1399799",
+   "start_ms": "1397440",
+   "start_time_text": "23:17",
+   "text": "あ、来た、来た、来た、来た。"
+  },
+  {
+   "end_ms": "1400600.0000000002",
+   "start_ms": "1398919",
+   "start_time_text": "23:18",
+   "text": "そう、そう、そう、そう。"
+  },
+  {
+   "end_ms": "1402840",
+   "start_ms": "1399799",
+   "start_time_text": "23:19",
+   "text": "そうだったんだ。"
+  },
+  {
+   "end_ms": "1405840",
+   "start_ms": "1400600",
+   "start_time_text": "23:20",
+   "text": "ああ、整ってなかったんだ。サウナで。"
+  },
+  {
+   "end_ms": "1405840",
+   "start_ms": "1402840",
+   "start_time_text": "23:22",
+   "text": "いや、違う。あれはオラ君についていくっていう多分命令が行われて。"
+  },
+  {
+   "end_ms": "1409480",
+   "start_ms": "1408080",
+   "start_time_text": "23:28",
+   "text": "そう、"
+  },
+  {
+   "end_ms": "1411760",
+   "start_ms": "1408520",
+   "start_time_text": "23:28",
+   "text": "そういうことか。"
+  },
+  {
+   "end_ms": "1412360.0000000002",
+   "start_ms": "1409480",
+   "start_time_text": "23:29",
+   "text": "オラクの近くにいたの。そう、そう。"
+  },
+  {
+   "end_ms": "1415360",
+   "start_ms": "1411760",
+   "start_time_text": "23:31",
+   "text": "何してんだ?"
+  },
+  {
+   "end_ms": "1415360",
+   "start_ms": "1412360",
+   "start_time_text": "23:32",
+   "text": "これ多分溶岩気をつけ。"
+  },
+  {
+   "end_ms": "1419559.0000000002",
+   "start_ms": "1416880",
+   "start_time_text": "23:36",
+   "text": "ロボルロボル"
+  },
+  {
+   "end_ms": "1422559",
+   "start_ms": "1417840",
+   "start_time_text": "23:37",
+   "text": "ロボルさんロボルさん"
+  },
+  {
+   "end_ms": "1422559",
+   "start_ms": "1419559",
+   "start_time_text": "23:39",
+   "text": "ロボルはねロモブに弱いんだよ。"
+  },
+  {
+   "end_ms": "1426000",
+   "start_ms": "1423000",
+   "start_time_text": "23:43",
+   "text": "ああ、それはゾンビに倒され。これで、これでゾンビにやられてる。"
+  },
+  {
+   "end_ms": "1430919",
+   "start_ms": "1427159",
+   "start_time_text": "23:47",
+   "text": "あ、なるほどな。"
+  },
+  {
+   "end_ms": "1430919",
+   "start_ms": "1427919",
+   "start_time_text": "23:47",
+   "text": "いや、なんかおかしいと思った。溶岩じゃなきゃ分かるな、これ。"
+  },
+  {
+   "end_ms": "1435799",
+   "start_ms": "1431760",
+   "start_time_text": "23:51",
+   "text": "まあ、そうだね。あ、偽が良かったかもしれない。"
+  },
+  {
+   "end_ms": "1437080",
+   "start_ms": "1434720",
+   "start_time_text": "23:54",
+   "text": "ああ、"
+  },
+  {
+   "end_ms": "1439639.9999999998",
+   "start_ms": "1435799",
+   "start_time_text": "23:55",
+   "text": "ということで今回は、え、ドズルの中身"
+  },
+  {
+   "end_ms": "1439960",
+   "start_ms": "1437080",
+   "start_time_text": "23:57",
+   "text": "[拍手]"
+  },
+  {
+   "end_ms": "1442960",
+   "start_ms": "1439640",
+   "start_time_text": "23:59",
+   "text": "AI"
+  },
+  {
+   "end_ms": "1442960",
+   "start_ms": "1439960",
+   "start_time_text": "23:59",
+   "text": "ドッキリということでもう少しバレないかなと思ったんですが、つか進化したロボルでリベンジしたいと思います。"
+  },
+  {
+   "end_ms": "1451520",
+   "start_ms": "1447440",
+   "start_time_text": "24:07",
+   "text": "いつか進化進化"
+  },
+  {
+   "end_ms": "1454520",
+   "start_ms": "1450080",
+   "start_time_text": "24:10",
+   "text": "ロボルV"
+  },
+  {
+   "end_ms": "1454520",
+   "start_ms": "1451520",
+   "start_time_text": "24:11",
+   "text": "初心者て勝負させ。"
+  },
+  {
+   "end_ms": "1458720",
+   "start_ms": "1455039",
+   "start_time_text": "24:15",
+   "text": "それ初心者負けたらかわいそうです。"
+  },
+  {
+   "end_ms": "1459880",
+   "start_ms": "1457279",
+   "start_time_text": "24:17",
+   "text": "完全体ロボルvs"
+  },
+  {
+   "end_ms": "1462159",
+   "start_ms": "1458720",
+   "start_time_text": "24:18",
+   "text": "ボンジュルディでいいよ。"
+  },
+  {
+   "end_ms": "1464679",
+   "start_ms": "1459880",
+   "start_time_text": "24:19",
+   "text": "完全体ロボル。"
+  },
+  {
+   "end_ms": "1466279",
+   "start_ms": "1462159",
+   "start_time_text": "24:22",
+   "text": "体ロールけんのダイヤ見つけるまで"
+  },
+  {
+   "end_ms": "1469279",
+   "start_ms": "1464679",
+   "start_time_text": "24:24",
+   "text": "どんどん強くなってくやっぱAIだから"
+  },
+  {
+   "end_ms": "1469279",
+   "start_ms": "1466279",
+   "start_time_text": "24:26",
+   "text": "そうそうそうしていくからもうこうだってこう僕たちが喋ってる間にも彼は成長してるからね。うん"
+  },
+  {
+   "end_ms": "1476520",
+   "start_ms": "1473200",
+   "start_time_text": "24:33",
+   "text": "うん"
+  },
+  {
+   "end_ms": "1476520",
+   "start_ms": "1473520",
+   "start_time_text": "24:33",
+   "text": "というところで今日はちょっと新しい技術を使ったドッキリ企画でございましたがねえ好評であればロボルが登場するかもしれませんので今日の動画面白かった方は是非チャンネル登録グッドボタンよろしくお願いします。"
+  },
+  {
+   "end_ms": "1489440",
+   "start_ms": "1487480",
+   "start_time_text": "24:47",
+   "text": "お願いします。"
+  },
+  {
+   "end_ms": "1491720",
+   "start_ms": "1488080",
+   "start_time_text": "24:48",
+   "text": "お願いします。"
+  },
+  {
+   "end_ms": "1493480",
+   "start_ms": "1489440",
+   "start_time_text": "24:49",
+   "text": "ング取ってるよさん。"
+  },
+  {
+   "end_ms": "1495279",
+   "start_ms": "1491720",
+   "start_time_text": "24:51",
+   "text": "いや、ロボルはもう止まらないす。"
+  },
+  {
+   "end_ms": "1495440",
+   "start_ms": "1493480",
+   "start_time_text": "24:53",
+   "text": "1回走り始めたらす。"
+  },
+  {
+   "end_ms": "1498440",
+   "start_ms": "1495279",
+   "start_time_text": "24:55",
+   "text": "1"
+  },
+  {
+   "end_ms": "1498440",
+   "start_ms": "1495440",
+   "start_time_text": "24:55",
+   "text": "回走り始めたらエンドラまで止まらないようになってます。話しかければよかったな、ちゃんと。"
+  },
+  {
+   "end_ms": "1503080",
+   "start_ms": "1500080",
+   "start_time_text": "25:00",
+   "text": "いや、そう。話しかけられるともう何もできないんですよ、僕。"
+  },
+  {
+   "end_ms": "1505840",
+   "start_ms": "1504000",
+   "start_time_text": "25:04",
+   "text": "はい。"
+  },
+  {
+   "end_ms": "1508840",
+   "start_ms": "1504320",
+   "start_time_text": "25:04",
+   "text": "ああ、そっか。"
+  },
+  {
+   "end_ms": "1508840",
+   "start_ms": "1505840",
+   "start_time_text": "25:05",
+   "text": "とか荷物ちょうだいとか言われたらもう何もできなかったんではい。そこがちょっとバレポイントでございました。"
+  },
+  {
+   "end_ms": "1516000",
+   "start_ms": "1512240",
+   "start_time_text": "25:12",
+   "text": "はい。"
+  },
+  {
+   "end_ms": "1516000",
+   "start_ms": "1513000",
+   "start_time_text": "25:13",
+   "text": "え、というところでまた次の動画でお会いたしましょう。バイバイ。じゃあね。"
+  },
+  {
+   "end_ms": "1518440",
+   "start_ms": "1517279",
+   "start_time_text": "25:17",
+   "text": "バイバイ。"
+  },
+  {
+   "end_ms": "1520520",
+   "start_ms": "1517840",
+   "start_time_text": "25:17",
+   "text": "バイバイ。"
+  },
+  {
+   "end_ms": "1522760",
+   "start_ms": "1518440",
+   "start_time_text": "25:18",
+   "text": "バイバ。"
+  },
+  {
+   "end_ms": "1528040",
+   "start_ms": "1520520",
+   "start_time_text": "25:20",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1529600",
+   "start_ms": "1522760",
+   "start_time_text": "25:22",
+   "text": "さあ、飛び出そう。僕らの毒色"
+  },
+  {
+   "end_ms": "1535360",
+   "start_ms": "1528040",
+   "start_time_text": "25:28",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1535360",
+   "start_ms": "1529600",
+   "start_time_text": "25:29",
+   "text": "した空をかけるのさ。"
+  },
+  {
+   "end_ms": "1543240",
+   "start_ms": "1538890",
+   "start_time_text": "25:38",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1545840",
+   "start_ms": "1540840",
+   "start_time_text": "25:40",
+   "text": "本日もご視聴ありがとうございました。"
+  },
+  {
+   "end_ms": "1548720",
+   "start_ms": "1543240",
+   "start_time_text": "25:43",
+   "text": "チャンネル登録よろしくお願いします。"
+  },
+  {
+   "end_ms": "1550360",
+   "start_ms": "1545840",
+   "start_time_text": "25:45",
+   "text": "毎日18時15分に動画投稿中。"
+  },
+  {
+   "end_ms": "1552720",
+   "start_ms": "1548720",
+   "start_time_text": "25:48",
+   "text": "おすめ動画も見てね。"
+  },
+  {
+   "end_ms": "1555719.9999999998",
+   "start_ms": "1550360",
+   "start_time_text": "25:50",
+   "text": "高評価とコメントも待ってます。"
+  },
+  {
+   "end_ms": "1555720",
+   "start_ms": "1552720",
+   "start_time_text": "25:52",
+   "text": "皆さんの感想をコメントしてもらえるとすごく嬉しいです。"
+  },
+  {
+   "end_ms": "1559600",
+   "start_ms": "1556600",
+   "start_time_text": "25:56",
+   "text": "ドズル車の最新情報は公式サイトからチェック。また明日ドルシチャンネルで待ってます。"
+  },
+  {
+   "end_ms": "1567920",
+   "start_ms": "1563000",
+   "start_time_text": "26:03",
+   "text": "バイバイバイ。"
+  },
+  {
+   "end_ms": "1567920",
+   "start_ms": "1565780",
+   "start_time_text": "26:05",
+   "text": "[音楽]"
+  }
+ ],
+ "transcript_only_text": "今回の企画はメンバーがAIになった世界 でエンドラ討伐。いつものようにエンドラ 討伐に挑むドズル車メンバーとや。今回は ドズルが仕掛けにとなったドッキリ企画。 ドズルの代わりに同じ見た目のAIロボル が参加しエンドラ討伐を目指す。果たして メンバーはドズルの中身がロボルに変わっ ていることに気づけるのか。 チャンネル登録とグッドボタンを押してロボルがバレるかどうか予想して楽しもう。 皆さんは自分の代わりに会社に行ったり学校に行ったりしてくれる自分のコピーがいたらいいなって考えたことありますか?今日はなんと見てください。僕のコピーエンドルーズを僕の代わりにしてくれるボットボルを開発しました。 [音楽] 今日の動画では僕の代わりにドズル車 メンバー他のドズル車メンバーと一緒に、 え、エンドラ討伐に行ってくれるという 正規の大発明をしてきましたんで。おお、 買った。すげえ。ネームタグもそのままだ 。これわかんないでしょう。今回すごいの は完全にロボットなんですね。AIで、 あの、実際にあの、エンドラ討伐するため に僕がしそうな行動とかを覚え込ませてき たので君じゃちょっと動ける?こいつがね 動くんですよ。ちゃんとプレイしてくれて 。あ、来た、来た、来た。あ、すごい すごい。走ってる、走ってる。あ、木掘っ てすげえ。あ、今日ごめんなさい。最初に 説明すると、あの、偽角でですね、マグマ の見た目の世界でエンドラトバスって、 これ2角です。で、この、あ、すごい ちゃんとこれ木だよね。あ、木掘るのやめ た。 のやめて。これあの中に誰かが入ってる わけじゃなく、完全にAIでですね。あ、 フリーズしてる。あ、作業台作った。作業 台を作ってツールを作ってみたいなことを ですね、やってくれると。これどうだろう な。バレるかな。ま、気持ちとしては みんなに気づいて欲しいかな。さすがにね 。さすがに社長の中身ロボットだったら みんな気づいて欲しいけどな。はい。え、 というところで、え、今日はこの、え、 ロブルが僕の代わりにエンドラ討伐をして くれますので、果たしてドズル車メンバー は気づくのか、そして、え、気づいて くれるのは誰なのかドッキリというか、 検証というかやっていきたいと思います。 それではロボル君頑張るぞ。おお。 あち 熱い熱い熱い熱い熱い熱い。 ボンさん、ボンさん。今日は見た目が全部マグマの世界でエラ。よ いしょ。 熱くないんだ。熱くないです。安心してください。いや、もう本当のマグマだったらクリアできないんで。え、今日は見た目がマグマに見えて、こちらの世界でエンドラ討伐していきたいと思います。 [音楽] なるほど。 はい。 え、実際、あ、これ土だ。うん。はい。 うわ、わけわから。 見た目だけが変わってるんで、じゃあちょっともう早速だ 行きたいと思います。 レッツゴー。 レッツゴー。 これだ。 これ木じゃない。 これ何の木?木 トだろ多分。 いや、本当に全部一緒なんだよな。 これは難しいと。 ネザーやばそう。これ うわ。あ あ。 これ手持ちぐちゃぐちゃになるぞ。手持ちもよく。 ツール普通だ。普通だ。よかった。 あ、ブロックがあっ、そういうことか。 これず森だよね、ここね。 ずっと森に見えますね。 だよね。 あ、作業台が。 いや、でも皆さん気をつけてくださいね。次か どこかにマグマりがあるかもしれないんで。 あ、確かにこれでわかる。どうやってわかる? だって動いてない。 あ、そっか。 止まって止まってない。動いてるマグでしょ。水 動いてるマグマだったら本当のマグマだ。でも俺も動いてるかちょっと。 あら、 本当か?本当のマグマ見るまで このブロックの高さに対して うん。 うん。 はい。はい。水とかはね、 ちょこっとだけ下がってる。 それ見極めれる? これ鉄とか掘るの無理じゃね? 鉄は原生で見つけた方が早そうっす。 当てずっ砲で 当てず方で鉄ゲ。 これ鉄ぽいな。すごくね?当てずっぽでやったら 村見つけるか沈没か。 あ、廃行だ。ここお じゃ鉄、鉄砲でいけるや。 いや、もうわけわからへんな。 もう早くもるくていいな。 ま、明るくて ちょ、なんかはまった。雪か?雪か?これ雪やばや。や、 沈んだ。沈んだ。 粉ある。 粉踏んだ。粉踏んだ。粉雪踏んだ。 え、この辺言ってこと? 怖。粉溶岩怖。 火打石きつくね。痛い。 の適当なやつといつか [音楽] やばい。確かに無理だろ、これ。 ちょ、洞窟雲にやられてます。 ゴーレム探したりチェスト探すしかない。 あ、これあれか。ハンモか。 これハンモやば。 ちょっとみ2000年後に会いましょう。 いや、なんで? どこ行った? 俺はこの川に乗って旅にする。 マグマの川に。 これマグマだ。え、 ちょっと明るい。 絶対そうだ。アイテム投げて確認しよう。 [音楽] あ、燃えた。 おお。 あ、なるほどなるほどね。あ、いいチェックだね。 たまり、たまり、たまり。 いや、溜まってない。 流れてるだけだ。 怖えな。 あ、 僕なんか地上でマグマ、マグマの音がします。 [音楽] え、それマグマ止まりでしょ? か、角じゃん。 だけどマグマがどっか分からないんです。メデア。 いや、オく。 いや、ちょっと明るい。 手で、手で、手で 周り周りにアイテムを捨てまくって。 オッケー。1 回体チェック。ボディチェック。ボディチェック。 ボディチェック。 ボディチェックし見つけた瞬間死んでるだろ。 これ系の企画絶対このテクスチャン抜いた紙視点があったら面白いと思うしね。 ああ、確かに僕たちはこう見えてるけど 何をやってんねんみたいな。 あれオ あれボディチェックしたの? ボディチェック? ボディチェックし成功。 ありました? いや、ありました。え、寝てる?ちゃんと。 あ、寝ました。寝ました。 一応びっくりした。びっくりしたしときますね。 みんな近いかわからんけど。 遠いよ。確実 麺はな、麺はな 痛い痛い痛い痛い。 こんなぐらいこうびっくりした。おお、びっくりした。ま、 ちょうど000マス 一応地上、地上っすわ。 うん。 地下にあった。地下にどうした?もう無理っすわ、これ。 うん。これはちょっともう撤退しよう。行こう。上に上がろ。 うまい。 うわあ、海だけど。昆部が全部溶岩だ。見づれ。 あ、これやばい。やばい。やば。氷か。 やばい。これ だ。 ああ。 あ あ。最悪。 いや、でも鉄の入手難易度が異様に高いんだよ。 あ、俺もマグマダム見つけた。 え、マジ? マイナ100の100に見つけた。 あ、近い。いな。 近。じゃ、そっち行くか。マ どこまで行ってんの? 鉄見つけたやつがヒーロー。 いや、鉄欲しいな。 鉄は命より重い。がいない。 あ、今ベッド作りに行ってる。 あ、このマグマりだとこにベッドあれ 1個置いとくね。 あ、ちょ、1回死にてる。食べてる。 俺こんな地士地で鉄見つけて戻りたくねえよ。 頑張れ。キュー。 はい。これがベストんで作業台置いて 作業台に作業台って名前つけんの?もしかして。 そう。これで作業台って本番でね。分かりやすいわ。これ分かるでしょ?業台。 あ、ちょっとかもお願いしていい?こ上。 あ、いいよいいよ。かてか入れて。 これはあれだね。 人類の血恵だ。人類の知恵。うん。 うん。 いて。 マグマから鼻出て。 ああ、鉄だ。鉄、鉄。敵。ナイス。ナイス。ナイス。 あ、 とりあえず1個しかない。 あ、2個。 いや、周りほ、周り。 ちょっと硬い。う ん。敵が多い。 シュールだよ。 敵も多いし。ご飯もない。あ、オラックいた。 [音楽] あ、どうも。椅子に チャンクボり。 鉄探そう。鉄オンリーもいた。 [音楽] 下の方があるんかな? 鉄ね。 下すぎない方が多分あると思う。 ちょっと地下あたりか。 あ、鉄だ。え、 え、 うえ。来た。 熱。2 鉄。熱い。 熱い熱い熱い。それは熱い。 あ、じゃあ戻ればいける。 いや、これ硬い気がする。鉄だよね。 よしよしよしよし。 やっぱ 硬さでだんだん分かってきてるよ。さん。すごい すごいな。 これ鉄でしょ。ほらほらほらほら。 帰ろ帰ろ。 あ、鉄だ。 あ、みんな鉄。鉄ラッシュ。鉄、鉄、鉄、鉄ラッシュ。 急に鉄がいっぱい。 これで鉄戦やるか。 いや、やばい。何時間終わらないすよ。 よいしょ。 ずれさんが整ってる。 いや、整ってないよ。 飛んでるぞ。 いや、違う。 水、水の水の中にました。 違う。クラフトしてたの。 うん。気持ちがわけわかんなくなるな。 いつものことじゃないすか? いやいやいやいやいつものことじゃないよ。 [音楽] どさひっくり返したらだって 2kg ぐらい関係ないもん出てくるじゃないですか? いやいやいや 今日はもう必要なものだけ ざって出てくる。けてみます。 よね。 着きました。 おお、来た来た来た。 ドアの場所がマジわかんね。ちょっとまだマグマ残ってるんで気をつけてください。 はい。 マジでエンド要塞やばいよ。 もうなんとなくわかるよ。 ま、大丈夫でしょ。 目が僕らも超えてくるんで、どこにあるかわか。うん。マジ? あ、ゲ、ゲートどれ? どれ? ゲートマジでね、分かりづらいやか、これ。これ。あ、これか。 あ、これか。 あのテストの中に死んだ時用のツールハとツール系入れといたんでみ、これ復帰した。 入れます。いや、助かる。よいしょ。 うわ、意味がわからん。なんだここ。小麦わかんね。 [音楽] さ、えっと、おそらく青森が見えました。 [音楽] 痛い。なん か違いがわからない。 痛い痛い痛いた。ああ、もうあ、 [音楽] 切れてます。切れてますね。 いや、もうゾンビがいきなり来るから。ポンさんは今ません。 [音楽] これ今ゲット向かってます。これ誰か外?もしかして 元 外原世僕います。僕います。 デルタ ちょっとゾンビ多くない?ああ、もう あら、 ゾンビ多くないすか? さんがなんか一生リスキルされてる。 ごめん。沼にはまってる。 [音楽] 大丈夫しよう。 ありがとう。 オラ君が5倍働くんだ。 いや、もう僕も頑張る。や、 僕も5倍頑張る。 あれ?あ、これ罪なんだ。 全然気づかんかった。 本当にわかんない。これほんまにわからん。これガチでわからん。 面白すぎるでしょ。 青森マジで連かんからもうはよさで見つけれるくれんだったらもうそれで終わらせてほしいな。 [音楽] ケツが入ってないんだよな。ちっちゃめちっちゃめ。 いや、 青もボさんが確か鉄を持ってたはず。 持ってるよ。ボさんてこ。 ボンさんが祭まで来て。 ボさんが行く。 ボさん汎行く。初めて [音楽] 行きたい気持ち悪。 行きたい。気持ち悪い。 気持ちはね。 気持ち悪い。 今年何回行きました? ゼロヘッドだな。 今年何回行きました? 今年1111 は 逆にどの回だよ。 トズルとボンジュールどっちが貢献できるか対決。 今んとこ2人とも0です。 そう。ゼロゼロ。こ 死んだことでマイナスを発生してましたね。今 マイナスはないでしょ、別に。 あの、 見え方は悪いですよ。 ボンさんが集めたものをさん寝れますか? ネザー組の誰かに渡したらようやくそこで寝れます。寝れます。ます。寝れます。ます。 ボさん絶対飯とか鉄めちゃ ちょっとボンさん寝てないで働いてください。 おかしいでしょ。寝よ早く寝てくれよ。敵寝る 敵早く寝てくることが忙しいんですよ。 早く寝ろ。 はい。ボンジールボンジュールサボってます。ボンジュールサボってます。は以上です。 はだい僕ちょんでごめんなさい。すいません。 何をして何をすごい貢献するの忙しいんですよ、僕は。 すいません。ごめんなさい。ごめんなさい。な んていう見にくい争なん。 いや、こっちにはこっちの事情があるんですよ。そう、そう、そう。資届けてもらってもいいですか? [音楽] いや、だから今 俺はちゃんとやろうとしてるぞ。今分かるよな。わかるよな。 ちゃんとやろうとしてるよ。 寝る寝ないで。 いやいやいやいやいや。 なんかポンソンずっと寝てたから。 うん。 物語はもう今ネザーに入ってるんですよ。 いや、ネザー入りたいんだよ。僕も まだマサラさん1回寝てください早く。 くっそ鉄がな。 ほら ほら困ってる困ってる。ディーが ほら配されて困ってる人いるよ。 ガチで困ってる。 物語進むよ。 やったなってねえし。 あ、なってないか。 何してんの?な んで起きてんの?何をして?ちょっとちょっと待って。 何をしてるんですか?あなたはあんさんなってませんけど。まだ もういネ入りまし入りまし入るからいますよ。入ります。 もうなんで元世でいちゃいちゃいちゃいちゃ 何をしてんの? 何をして 要塞発見。 おお、ナイスナイスナイス やばいっすよ。坊さん僕たち 声出し用んですか? え、看板 ナイスナイス 看板あったあったったあった。看板 本格的にならないで 書いてるでしょ。看板に。 よしよしよし。来た来た来た来た。 1 き止まりました。 あいたいた。こっちこっちこっちこっち。坊さんこっち。坊さんこっち。 え、どこどこどこ?ゲタグ見えますか? あいたいた。あ、鉄あるよ。俺は [音楽] 欲しい。 俺は ちょっと何?俺は マウントマウント取ってるぞ。 俺は鉄ある。 色からついてきつのはゾンビに 2回やられたですか? これが貢献度の扱いか。 ありがて だいぶ差ができてしまった。 ま、でもビビタルさっすよね。今んとこ [音楽] あなた何かしました?いや、あ、おり食べ物いっぱいあるよ。 あ、 俺食べ物は大丈夫?食べ物は大丈夫。 あ、うん、うん。 あ、でも気遣い丸。 うん。 うーん。 気遣い丸。 あ、待って。 あ、なんだが、態度が いやいやいやいやいや。 これが貢献度であれチャンネル。 ゲージが出て、今貢献度っての出て。 いやいや、もう僕の働き見てほしい。頑張ってるよ。 [音楽] 一生懸命 あれでしたっけ?ナイスかりでしたっけ? 声出しね。 声出しも頑張ってるし。 ナイスです。 ほらほらほらほら。やってきた。やってきたよ。ほら。 いや、何もしてないです。何もしない。 いやいや、色々ほら 何も あの木のツはです。 どういうことですか?木のつね、どういうこと?木のつらって。 [笑い] いやいやいやいや。 人には人のペースがあるんですよ。 よし。 ちょっとじゃ一旦座標共有しますね。 はい。 え、もうね、向かうしかないよね。 行き方がちょっと僕わけわから行きましょうよ。要塞 行きますよ。 行こ。一緒に行こう。一緒に行こう。 いや、一緒に行こう。俺7パ じゃどっちが活躍できるかバトルしましょう。一緒に行きましょう。 発バトルになっちゃった。 [音楽] 行きます。行きますけど。行きますけど。 ああ。 え。ああ。マイナス入りました。これ。 いや、いや、いや、いや、いや。 どうした?あ、 今日のちゃん珍しいな。なんか いやいやいや、足も滑らす、足も滑らですか? 今日のドさんヘロヘロじゃね? なんかふわふわふわしてますね。比べてます。 オンリー、今な、何て言った? え、 なんかやってますって言ってたよね。 あ、なんかやってます。 お、 なんかやっ、え、 え、 え、何?え、ドッキリ? いや、久しぶりにあるのかなと一瞬思っちゃった。 え?あ、待って。 いやいやいやいやいやないよ。 さすがに死にすぎる。どさんが またして今日は何をやってるでしょう? え、本当に? いやいや、またまたそうやって日本合わせて違うんでしょ?俺も入れ替りじゃないの? なんか自分死んじゃってごかしてんじないですよ。 確かに いっぱい死んじゃってね。 いや、でもさすがに木のツ橋おかしいって。この いやいや、やめてさん傷ついちゃうよ。そんなダメージをこれ以上広げないで。 これ なんだ? どズさん誰かと入れ替わってる?ブー。 いや、本当に ブブって何?ブーって。 え? あ、本当になんかあるの?今日。 いやいやないでしょ。 いや、これ中身ま小さんとかじゃない? ブブ。 え、もしかして何もない。 [音楽] 何もない。 ピポピポピポピポ。 ブブ。 あ、 え、何? え、じゃ、なんかやってるんだ。 あ、本当になんかやって やってるぞ。やってるぞ。これ木のつる味と木の斧 やってます。 やってんの? やってます。何かやってたら終わります。 何?何かやってたら なんかやってんだ。ドッキリかってこと。 なんかね、斧、斧で寝づらく掘ってんだけど。 え え、何?こ、どういこと? やっぱ誰か操作してんじゃないですか? これさ、声だけだな、これ多分。 ああ、確かに。なんか不自然だもんね。どさがなんか不然なの だって。ゾンビやれてくれ。どさん怒らない。 怒らんもん。 いや、その場合俺が言った発言全部が失礼なことになる。まずい。 やばい。 いや、マーク今日自然だもんね。 ネザーゲート、ネザーゲートにいるぞ。どさんプレイヤーどさんじゃないと思う。これ え、これボンさんとドさん入れ替っていかった。入れるかっているわって。 ボさん、ボンさん何も分かってなさそうなんだよな。で、ボさんが普段何もしてねみたいな。違う違う違う違う違う違いますよ。ボンさんそういうわけで言ったわけじゃないですから。 [笑い] 違う違う違う違う違う。え、何?何? え、どういうこと?何かやってるんだな。なんだ?質問はありなし。答えを言わなきゃだめ。 答えを当てたら終わります。今日は え、じゃ、質問なし。 声だけですか? いやいや、アキネーターやめてよ。声ターやめて。 惜しいって言わせればいいんでしょ。だから 確かに。 ええ、 早く行きましょうよ。ボンさん要塞に。 だから今だから今いる目の前にいるドズさんは 違う。ドズさん。 違う。 なのよ。 ああ、誰だから中身 中身ドズルではないドッキり ということだよね。そういことだよね。 そういうことっすよね。 惜しい。 え、惜しい。 惜しい。 誰なん? え?ピカクさん。 ブブブー。 え、足で操作してる?ドルさん。 いや、でも マグマとなんか関係あるかな? ないか。 いや、マグマダミーな気するけどね。 この企画自体、 ま、このままエンドア倒してネタバシなしでもいいし。 いやいやいやいやいやいやいやいや。 全然いいよ。俺今キーパーいけ集めていく。 そう、そう。 もし入れ替わってた入れ替わってた人寂しいだろうな。 うん。 そも誰かが多分大事なんだろうな。 誰だ? 誰かまで当ててほしい。 女性ですね。 いや、アキネーターはやらないよ。だから今、今、ジャンプした。今ジャンプした。 今、 え、 ジャンプついジャンプし、ジャンプ。え、 ミルクさん、 女性 にゃ村さんじゃ。 女性です ね。 にゃ村さんか 早くボさん要塞行きましょうよ。要塞 要塞行きましょう。ついていきますよ。両サイ いや、ボンさんについていきます。僕は。 え、わかだってヒントなくない?今日。 いいですね。 あ、ヒットあった。 え、おらくなんかピント来てる。 来た、 来た。 何?なんかあった。 ここまでに伏線が なんかどぞさんが うん。 うん。 あ、なんか喋った時に うん。 お 俺AI になりてえみたいな言ってた時があったんすよ。 え え いつそれはそれでどうさ大丈夫? それはもうなんか仕事疲れたみたいな。そういう それはそれで不安になる。 言ってた。 言ってた。 うん。ということはな んで AIが動かしてるドルさんを ああ、すごい。 おお、ありえる。 [音楽] ピーポン、ピーポン、ピーポン。 うわ、 うわ。 え、 今日の企画は ドズルの中身 AIドッキリでございます。 ええ、どうぞ。俺の目の前にいる。今んだ。 [音楽] え、ちょっと目に行こう。 じゃあ何? 今中身が入りました。 あ、中入った。 え? いや、変わらん。変わらん。変わらん。変わ。 いや、変わるでしょ。 変わんない。変わんない。変わんない。変わんな。全然違うでしょ。これ。 いや、変わんない。変わんない。変わんない。 全然違うでしょ。 一緒だ。一緒だ。一緒だ。じゃなくてあいた。え、あれは本物? これ本物です。え、 これは本物さんか? これ本物です。 いや、なんか今日にゾンビのデスロった。寝ねえし寝ねえしわかなんか でもね、正直ボンさんと噛み合いすぎて うん。 その活躍活躍しないみたいな下りが はいはいはいはいはい。 自然だったよね。 あ、 あ、来た、来た、来た、来た、来た。あ、え、これ、 あ、ロ、ローブル。ロボだ。 ロボルです。皆さん初めまして。 はい。 あ、あ、すごいってる。 このロールは今回のドッキリの企画のために開発された AIで、 あのはい。ちゃんとなんか今までの AI ハンターとかと違ってちゃんとマイクラをプレイする AIを作りました。 やば。すごい。 あ、そう。置いてる。 そう。だからちゃんと作業台作って斧作って。 ちょっとごめん。あのテシのせいで入ってこん。 テ話していい?これ テクスチャ取ってもいいよ。テクスチャー取ってもいいよ。 あ、左側に ドブルさん。 え、ドズルね。 なんか作業台めっちゃ乱立した。作業。 あ、これはちゃんと おいおいおいパターン以上のドズルを学習してるよ、これ。 いやいや、違う違う。これは AIドズルが 多分ツールを作るために一生懸命はい。作業。 AIドズル倒して何持ってるか調べてみ。 ひどいな。お前ひどい。ちょいちょいちょいちょいやめてやめて。あ あ。 ロボルが木と 木しかない。 そうね。キとい。 ちゃんとこの あれどこ行く? ほら見て。でも毛投げに死んだらちゃんとまたツールから作り直すプログラムされてるから。 ああ、な そう。ツール作ってみんなについていくっていう。だから今日洞窟内とかでさ、みんなにいきなり目の前に来たりしたでしょ。 [音楽] あ、来た、来た、来た、来た。 そう、そう、そう、そう。 そうだったんだ。 ああ、整ってなかったんだ。サウナで。 いや、違う。あれはオラ君についていくっていう多分命令が行われて。 そう、 そういうことか。 オラクの近くにいたの。そう、そう。 何してんだ? これ多分溶岩気をつけ。 ロボルロボル ロボルさんロボルさん ロボルはねロモブに弱いんだよ。 ああ、それはゾンビに倒され。これで、これでゾンビにやられてる。 あ、なるほどな。 いや、なんかおかしいと思った。溶岩じゃなきゃ分かるな、これ。 まあ、そうだね。あ、偽が良かったかもしれない。 ああ、 ということで今回は、え、ドズルの中身 [拍手] AI ドッキリということでもう少しバレないかなと思ったんですが、つか進化したロボルでリベンジしたいと思います。 いつか進化進化 ロボルV 初心者て勝負させ。 それ初心者負けたらかわいそうです。 完全体ロボルvs ボンジュルディでいいよ。 完全体ロボル。 体ロールけんのダイヤ見つけるまで どんどん強くなってくやっぱAIだから そうそうそうしていくからもうこうだってこう僕たちが喋ってる間にも彼は成長してるからね。うん うん というところで今日はちょっと新しい技術を使ったドッキリ企画でございましたがねえ好評であればロボルが登場するかもしれませんので今日の動画面白かった方は是非チャンネル登録グッドボタンよろしくお願いします。 お願いします。 お願いします。 ング取ってるよさん。 いや、ロボルはもう止まらないす。 1回走り始めたらす。 1 回走り始めたらエンドラまで止まらないようになってます。話しかければよかったな、ちゃんと。 いや、そう。話しかけられるともう何もできないんですよ、僕。 はい。 ああ、そっか。 とか荷物ちょうだいとか言われたらもう何もできなかったんではい。そこがちょっとバレポイントでございました。 はい。 え、というところでまた次の動画でお会いたしましょう。バイバイ。じゃあね。 バイバイ。 バイバイ。 バイバ。 [音楽] さあ、飛び出そう。僕らの毒色 [音楽] した空をかけるのさ。 [音楽] 本日もご視聴ありがとうございました。 チャンネル登録よろしくお願いします。 毎日18時15分に動画投稿中。 おすめ動画も見てね。 高評価とコメントも待ってます。 皆さんの感想をコメントしてもらえるとすごく嬉しいです。 ドズル車の最新情報は公式サイトからチェック。また明日ドルシチャンネルで待ってます。 バイバイバイ。 [音楽]",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=mcDOsC2twxE",
+ "video_id": "mcDOsC2twxE"
+}

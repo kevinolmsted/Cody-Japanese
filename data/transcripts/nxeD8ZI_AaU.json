@@ -1,0 +1,2014 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ja",
+   "language_name": "Japanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "auto",
+   "language_code": "ja",
+   "language_name": "Japanese (auto-generated)"
+  }
+ ],
+ "is_auto_generated": false,
+ "language": "Japanese",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "4080",
+   "start_ms": "1880",
+   "start_time_text": "0:01",
+   "text": "うわぁ この感じ"
+  },
+  {
+   "end_ms": "6320",
+   "start_ms": "4320",
+   "start_time_text": "0:04",
+   "text": "この感じね"
+  },
+  {
+   "end_ms": "7860",
+   "start_ms": "6320",
+   "start_time_text": "0:06",
+   "text": "懐かしい"
+  },
+  {
+   "end_ms": "9840",
+   "start_ms": "8300",
+   "start_time_text": "0:08",
+   "text": "えー 今回は"
+  },
+  {
+   "end_ms": "11620.000000000002",
+   "start_ms": "9900",
+   "start_time_text": "0:09",
+   "text": "この、MOON(ムーン)というゲーム"
+  },
+  {
+   "end_ms": "13040",
+   "start_ms": "11620",
+   "start_time_text": "0:11",
+   "text": "読み方合ってるよね?"
+  },
+  {
+   "end_ms": "14219.999999999998",
+   "start_ms": "13040",
+   "start_time_text": "0:13",
+   "text": "もーん じゃないよね？"
+  },
+  {
+   "end_ms": "16980",
+   "start_ms": "14980",
+   "start_time_text": "0:14",
+   "text": "殆どどういったゲームなのか分からないけど"
+  },
+  {
+   "end_ms": "20360",
+   "start_ms": "17860",
+   "start_time_text": "0:17",
+   "text": "一応説明書が一緒に付いてたので"
+  },
+  {
+   "end_ms": "25880.000000000004",
+   "start_ms": "22940",
+   "start_time_text": "0:22",
+   "text": "まぁ どういったゲームなのか分からないから ちょっと怖いけど"
+  },
+  {
+   "end_ms": "28580",
+   "start_ms": "26580",
+   "start_time_text": "0:26",
+   "text": "若干怖いゲームっぽいよね？"
+  },
+  {
+   "end_ms": "29639.999999999996",
+   "start_ms": "28580",
+   "start_time_text": "0:28",
+   "text": "まあ、いいや"
+  },
+  {
+   "end_ms": "32280",
+   "start_ms": "29880",
+   "start_time_text": "0:29",
+   "text": "なんか、どういうテンションでいけばいいのか分からないや"
+  },
+  {
+   "end_ms": "33240",
+   "start_ms": "32280",
+   "start_time_text": "0:32",
+   "text": "とりあえずスタートするわ"
+  },
+  {
+   "end_ms": "35260",
+   "start_ms": "33400",
+   "start_time_text": "0:33",
+   "text": "えーと、ゲームスタート、コンティニュー、"
+  },
+  {
+   "end_ms": "36339.99999999999",
+   "start_ms": "35260",
+   "start_time_text": "0:35",
+   "text": "えーと、ゲームスタート"
+  },
+  {
+   "end_ms": "42220",
+   "start_ms": "41040",
+   "start_time_text": "0:41",
+   "text": "はい"
+  },
+  {
+   "end_ms": "43960",
+   "start_ms": "42440",
+   "start_time_text": "0:42",
+   "text": "どうぞ、お好きに"
+  },
+  {
+   "end_ms": "46300",
+   "start_ms": "44300",
+   "start_time_text": "0:44",
+   "text": "あ、びっくりした。トランクスに見えた(笑い)"
+  },
+  {
+   "end_ms": "49240",
+   "start_ms": "47240",
+   "start_time_text": "0:47",
+   "text": "なんか、子供と窓があるね"
+  },
+  {
+   "end_ms": "51800",
+   "start_ms": "49800",
+   "start_time_text": "0:49",
+   "text": "真ん中にあるのはPS１かな？"
+  },
+  {
+   "end_ms": "53940",
+   "start_ms": "51940",
+   "start_time_text": "0:51",
+   "text": "あーっ 凄い近い。画面"
+  },
+  {
+   "end_ms": "56000",
+   "start_ms": "54220",
+   "start_time_text": "0:54",
+   "text": "俺、今こんな感じだわ"
+  },
+  {
+   "end_ms": "59419.99999999999",
+   "start_ms": "57300",
+   "start_time_text": "0:57",
+   "text": "(笑い) 近すぎるだろ・・・"
+  },
+  {
+   "end_ms": "61080",
+   "start_ms": "59420",
+   "start_time_text": "0:59",
+   "text": "PCメガネが無かったら(目が)死んでるわ"
+  },
+  {
+   "end_ms": "62600",
+   "start_ms": "61240",
+   "start_time_text": "1:01",
+   "text": "なんだ？"
+  },
+  {
+   "end_ms": "64680.00000000001",
+   "start_ms": "62600",
+   "start_time_text": "1:02",
+   "text": "インターフェイスっぽいのが出てきたけど"
+  },
+  {
+   "end_ms": "69040",
+   "start_ms": "67040",
+   "start_time_text": "1:07",
+   "text": "どういうゲームなの？本当に"
+  },
+  {
+   "end_ms": "71160",
+   "start_ms": "69160",
+   "start_time_text": "1:09",
+   "text": "ほのぼの系かな？"
+  },
+  {
+   "end_ms": "77840",
+   "start_ms": "73800",
+   "start_time_text": "1:13",
+   "text": "その現象は、ラブデガルドで竜の城といぅ・・・呼ばれていた。"
+  },
+  {
+   "end_ms": "80700",
+   "start_ms": "78700",
+   "start_time_text": "1:18",
+   "text": "えー 前人未踏の(表現不可能なうめき声)"
+  },
+  {
+   "end_ms": "82600.00000000001",
+   "start_ms": "80700",
+   "start_time_text": "1:20",
+   "text": "城山頂付近には"
+  },
+  {
+   "end_ms": "84179.99999999999",
+   "start_ms": "82600",
+   "start_time_text": "1:22",
+   "text": "ちょーっ やばぃ(笑い) 駄目だ。"
+  },
+  {
+   "end_ms": "86520.00000000001",
+   "start_ms": "84340",
+   "start_time_text": "1:24",
+   "text": "ちょ、一回、一回やめよう。"
+  },
+  {
+   "end_ms": "88660",
+   "start_ms": "86520",
+   "start_time_text": "1:26",
+   "text": "追いつかないよ読みが"
+  },
+  {
+   "end_ms": "91200",
+   "start_ms": "88660",
+   "start_time_text": "1:28",
+   "text": "読みっ 読みつかない? 追いつかないよ(笑い)"
+  },
+  {
+   "end_ms": "94180",
+   "start_ms": "91400",
+   "start_time_text": "1:31",
+   "text": "えー、ちょっと。じゃあ、文字が出てきたら俺も読むから"
+  },
+  {
+   "end_ms": "96220.00000000001",
+   "start_ms": "94180",
+   "start_time_text": "1:34",
+   "text": "ちょっと 黙るわ 流石に。"
+  },
+  {
+   "end_ms": "97740.00000000001",
+   "start_ms": "96260",
+   "start_time_text": "1:36",
+   "text": "早いわ(表示速度が)"
+  },
+  {
+   "end_ms": "101140",
+   "start_ms": "99140",
+   "start_time_text": "1:39",
+   "text": "うんうんうんうん・・・"
+  },
+  {
+   "end_ms": "103340",
+   "start_ms": "101340",
+   "start_time_text": "1:41",
+   "text": "うんうんうん・・・なるほど"
+  },
+  {
+   "end_ms": "105480",
+   "start_ms": "103480",
+   "start_time_text": "1:43",
+   "text": "何て読むの？ あの山の名前"
+  },
+  {
+   "end_ms": "115440",
+   "start_ms": "112060",
+   "start_time_text": "1:52",
+   "text": "デスクレバスと呼ばれる えっ うーん、なんかクレバスがあったんだね"
+  },
+  {
+   "end_ms": "124680",
+   "start_ms": "121280",
+   "start_time_text": "2:01",
+   "text": "えぇ・・・(笑い) 読んだけど分かんない"
+  },
+  {
+   "end_ms": "134160",
+   "start_ms": "131740",
+   "start_time_text": "2:11",
+   "text": "え 全然分からない えーどういうこと？"
+  },
+  {
+   "end_ms": "135780",
+   "start_ms": "134160",
+   "start_time_text": "2:14",
+   "text": "なんか、ドラゴンが居たけど"
+  },
+  {
+   "end_ms": "138880",
+   "start_ms": "136880",
+   "start_time_text": "2:16",
+   "text": "あっ 分かったぞ"
+  },
+  {
+   "end_ms": "142520",
+   "start_ms": "139020",
+   "start_time_text": "2:19",
+   "text": "これ、ゲーム画面か。ゲームの中でゲームしてる画面か"
+  },
+  {
+   "end_ms": "145840",
+   "start_ms": "143180",
+   "start_time_text": "2:23",
+   "text": "じゃ、これ俺あんまり理解しなくても良いんじゃないか？"
+  },
+  {
+   "end_ms": "149540",
+   "start_ms": "148400",
+   "start_time_text": "2:28",
+   "text": "そうだよね、これ"
+  },
+  {
+   "end_ms": "151620",
+   "start_ms": "149620",
+   "start_time_text": "2:29",
+   "text": "え。ぉ、ちょっとまってちょっとまって？無理無理無理"
+  },
+  {
+   "end_ms": "153720",
+   "start_ms": "151720",
+   "start_time_text": "2:31",
+   "text": "ムリムリムリムリ"
+  },
+  {
+   "end_ms": "156140",
+   "start_ms": "154140",
+   "start_time_text": "2:34",
+   "text": "いやー 今の十秒で読むの？今の"
+  },
+  {
+   "end_ms": "158040",
+   "start_ms": "156400",
+   "start_time_text": "2:36",
+   "text": "十秒も無かったぞ 多分。"
+  },
+  {
+   "end_ms": "160760",
+   "start_ms": "158760",
+   "start_time_text": "2:38",
+   "text": "なるほど"
+  },
+  {
+   "end_ms": "163700",
+   "start_ms": "161700",
+   "start_time_text": "2:41",
+   "text": "ムーン プッシュスタート"
+  },
+  {
+   "end_ms": "167500",
+   "start_ms": "164140",
+   "start_time_text": "2:44",
+   "text": "あ、ゲームの中の映像がゲームをしてるんだね？"
+  },
+  {
+   "end_ms": "170239.99999999997",
+   "start_ms": "168100",
+   "start_time_text": "2:48",
+   "text": "え、プシュスタート。これ、STAETボタン押すの？"
+  },
+  {
+   "end_ms": "173520",
+   "start_ms": "171060",
+   "start_time_text": "2:51",
+   "text": "あっ！ ヤバイ。ゲームの中でゲームしてる"
+  },
+  {
+   "end_ms": "176640",
+   "start_ms": "174320",
+   "start_time_text": "2:54",
+   "text": "ゲームの中で・・・(笑い)どういうこと？"
+  },
+  {
+   "end_ms": "178179.99999999997",
+   "start_ms": "176640",
+   "start_time_text": "2:56",
+   "text": "ニューゲーム"
+  },
+  {
+   "end_ms": "181000",
+   "start_ms": "179000",
+   "start_time_text": "2:59",
+   "text": "不思議な事が起きてるよ 今"
+  },
+  {
+   "end_ms": "182860",
+   "start_ms": "181000",
+   "start_time_text": "3:01",
+   "text": "夢の中で夢見てる、みたいな"
+  },
+  {
+   "end_ms": "185720",
+   "start_ms": "183020",
+   "start_time_text": "3:03",
+   "text": "名前どうしょう。名前は、えーと"
+  },
+  {
+   "end_ms": "187780",
+   "start_ms": "186420",
+   "start_time_text": "3:06",
+   "text": "た。 た"
+  },
+  {
+   "end_ms": "192040",
+   "start_ms": "189640",
+   "start_time_text": "3:09",
+   "text": "ここで名前を名乗っていくスタイル(笑い)"
+  },
+  {
+   "end_ms": "196040",
+   "start_ms": "193660",
+   "start_time_text": "3:13",
+   "text": "冒頭では自分の名前言わないでここで名乗るっていう"
+  },
+  {
+   "end_ms": "198580",
+   "start_ms": "196800",
+   "start_time_text": "3:16",
+   "text": "どうも、タイショウです"
+  },
+  {
+   "end_ms": "200120",
+   "start_ms": "198580",
+   "start_time_text": "3:18",
+   "text": "えー、入るかな？わ、優しい"
+  },
+  {
+   "end_ms": "202680",
+   "start_ms": "200940",
+   "start_time_text": "3:20",
+   "text": "文字数多いの有りがたいわコレ"
+  },
+  {
+   "end_ms": "204840",
+   "start_ms": "202840",
+   "start_time_text": "3:22",
+   "text": "ありがてぇ・・・ 感謝！"
+  },
+  {
+   "end_ms": "207060",
+   "start_ms": "205240",
+   "start_time_text": "3:25",
+   "text": "たいしょう。おっけー"
+  },
+  {
+   "end_ms": "209460",
+   "start_ms": "207460",
+   "start_time_text": "3:27",
+   "text": "ハート付けとく？(笑い)"
+  },
+  {
+   "end_ms": "212340",
+   "start_ms": "209840",
+   "start_time_text": "3:29",
+   "text": "ハートなんて使う人居るのかよコレ"
+  },
+  {
+   "end_ms": "213560",
+   "start_ms": "212340",
+   "start_time_text": "3:32",
+   "text": "まぁ、使っとこ。"
+  },
+  {
+   "end_ms": "216100.00000000003",
+   "start_ms": "214020",
+   "start_time_text": "3:34",
+   "text": "誰も使わないから俺が使っとこ"
+  },
+  {
+   "end_ms": "220560",
+   "start_ms": "218560",
+   "start_time_text": "3:38",
+   "text": "なんか、ちょっと・・・"
+  },
+  {
+   "end_ms": "222400",
+   "start_ms": "220560",
+   "start_time_text": "3:40",
+   "text": "ね？そっち系になっちゃったけど"
+  },
+  {
+   "end_ms": "225940.00000000003",
+   "start_ms": "223580",
+   "start_time_text": "3:43",
+   "text": "たいしょうって名前でハート付くと結構エグイな"
+  },
+  {
+   "end_ms": "227740",
+   "start_ms": "225940",
+   "start_time_text": "3:45",
+   "text": "ぉお！凄い 動ける"
+  },
+  {
+   "end_ms": "231900",
+   "start_ms": "228720",
+   "start_time_text": "3:48",
+   "text": "あ、なんか 結構小刻みに動けるよ？"
+  },
+  {
+   "end_ms": "234040",
+   "start_ms": "232040",
+   "start_time_text": "3:52",
+   "text": "なんか、一マスずつとかじゃないんだね"
+  },
+  {
+   "end_ms": "238660.00000000003",
+   "start_ms": "236800",
+   "start_time_text": "3:56",
+   "text": "なるほど"
+  },
+  {
+   "end_ms": "240760",
+   "start_ms": "238660",
+   "start_time_text": "3:58",
+   "text": "すごい。グラフィックは凄い可愛いのに"
+  },
+  {
+   "end_ms": "243400",
+   "start_ms": "241320",
+   "start_time_text": "4:01",
+   "text": "喋る時はすごい怖い画像が出てくるね"
+  },
+  {
+   "end_ms": "246360",
+   "start_ms": "245280",
+   "start_time_text": "4:05",
+   "text": "帰る。"
+  },
+  {
+   "end_ms": "249940",
+   "start_ms": "247940",
+   "start_time_text": "4:07",
+   "text": "(笑い) 今のどっちだ！？言ったの"
+  },
+  {
+   "end_ms": "255760",
+   "start_ms": "253480",
+   "start_time_text": "4:13",
+   "text": "うわ、王様髭長いな 吸い込まれそうなんか"
+  },
+  {
+   "end_ms": "257800",
+   "start_ms": "256480.00000000003",
+   "start_time_text": "4:16",
+   "text": "カーテンみたい"
+  },
+  {
+   "end_ms": "261260",
+   "start_ms": "259260",
+   "start_time_text": "4:19",
+   "text": "みんな同じ事しか言わねぇな"
+  },
+  {
+   "end_ms": "273860",
+   "start_ms": "271860",
+   "start_time_text": "4:31",
+   "text": "マジかよ。宇宙まで行ったの？"
+  },
+  {
+   "end_ms": "283840",
+   "start_ms": "281840",
+   "start_time_text": "4:41",
+   "text": "え、終わり？"
+  },
+  {
+   "end_ms": "285659.99999999994",
+   "start_ms": "283840",
+   "start_time_text": "4:43",
+   "text": "もっと細かく教えてくれよ"
+  },
+  {
+   "end_ms": "288180",
+   "start_ms": "286180",
+   "start_time_text": "4:46",
+   "text": "え、もう終わりか"
+  },
+  {
+   "end_ms": "295420",
+   "start_ms": "293420",
+   "start_time_text": "4:53",
+   "text": "すごい、メタな発言を。"
+  },
+  {
+   "end_ms": "305120",
+   "start_ms": "303120",
+   "start_time_text": "5:03",
+   "text": "はははっえぇーっ"
+  },
+  {
+   "end_ms": "310900",
+   "start_ms": "308900",
+   "start_time_text": "5:08",
+   "text": "口悪！"
+  },
+  {
+   "end_ms": "313780",
+   "start_ms": "311840",
+   "start_time_text": "5:11",
+   "text": "ちょっと 怖いなぁ・・・"
+  },
+  {
+   "end_ms": "314900",
+   "start_ms": "313780",
+   "start_time_text": "5:13",
+   "text": "この人達は？"
+  },
+  {
+   "end_ms": "322980",
+   "start_ms": "319880",
+   "start_time_text": "5:19",
+   "text": "ぇえー あの緑の人怖えぇな"
+  },
+  {
+   "end_ms": "325560",
+   "start_ms": "323500",
+   "start_time_text": "5:23",
+   "text": "えぇー やばい"
+  },
+  {
+   "end_ms": "327200",
+   "start_ms": "325640",
+   "start_time_text": "5:25",
+   "text": "銃刀法違反になりそう"
+  },
+  {
+   "end_ms": "329360",
+   "start_ms": "327360",
+   "start_time_text": "5:27",
+   "text": "ヤバイ！倒せ倒せ！"
+  },
+  {
+   "end_ms": "332560",
+   "start_ms": "329800",
+   "start_time_text": "5:29",
+   "text": "ええ！これ敵なの！？ (笑い)"
+  },
+  {
+   "end_ms": "334140",
+   "start_ms": "332800",
+   "start_time_text": "5:32",
+   "text": "マジかよ"
+  },
+  {
+   "end_ms": "336400",
+   "start_ms": "334280",
+   "start_time_text": "5:34",
+   "text": "グラフィックが全然違うんだけど！"
+  },
+  {
+   "end_ms": "340620",
+   "start_ms": "337520",
+   "start_time_text": "5:37",
+   "text": "狂った犬！ゾンビ犬じゃねぇか しっぽを振った"
+  },
+  {
+   "end_ms": "346180",
+   "start_ms": "344180",
+   "start_time_text": "5:44",
+   "text": "なんだ、アイアンテール的なものじゃないんだ？"
+  },
+  {
+   "end_ms": "350320",
+   "start_ms": "348320",
+   "start_time_text": "5:48",
+   "text": "オートなんだ。"
+  },
+  {
+   "end_ms": "360740",
+   "start_ms": "358380",
+   "start_time_text": "5:58",
+   "text": "面白、このゲーム(笑い)"
+  },
+  {
+   "end_ms": "363060",
+   "start_ms": "361060",
+   "start_time_text": "6:01",
+   "text": "面白いなぁ"
+  },
+  {
+   "end_ms": "365680",
+   "start_ms": "363300",
+   "start_time_text": "6:03",
+   "text": "ちょっと、想像してたのと違うけど 面白いわ"
+  },
+  {
+   "end_ms": "368180",
+   "start_ms": "366180",
+   "start_time_text": "6:06",
+   "text": "ぇーこの二人は何？"
+  },
+  {
+   "end_ms": "371440",
+   "start_ms": "369440",
+   "start_time_text": "6:09",
+   "text": "あーなんか見た目が、シェフっぽい。"
+  },
+  {
+   "end_ms": "376120",
+   "start_ms": "374120",
+   "start_time_text": "6:14",
+   "text": "後ろ向いたまま話掛けてくる"
+  },
+  {
+   "end_ms": "381740",
+   "start_ms": "379740",
+   "start_time_text": "6:19",
+   "text": "グラフィックが違うんだよな、めっちゃ"
+  },
+  {
+   "end_ms": "385020",
+   "start_ms": "383020",
+   "start_time_text": "6:23",
+   "text": "うん、可愛い系かと思いきや"
+  },
+  {
+   "end_ms": "387360",
+   "start_ms": "385360",
+   "start_time_text": "6:25",
+   "text": "ここになんか、お店みたいなのあるね"
+  },
+  {
+   "end_ms": "388980",
+   "start_ms": "387360",
+   "start_time_text": "6:27",
+   "text": "お店っぽい"
+  },
+  {
+   "end_ms": "391620",
+   "start_ms": "389860",
+   "start_time_text": "6:29",
+   "text": "グラフィックが全然違うよな"
+  },
+  {
+   "end_ms": "395040",
+   "start_ms": "391800",
+   "start_time_text": "6:31",
+   "text": "俺、もっと若い人かと思ったんだけど 失礼かもしれないけど"
+  },
+  {
+   "end_ms": "403540",
+   "start_ms": "401180",
+   "start_time_text": "6:41",
+   "text": "お店なのか、タンスなのか(笑い)"
+  },
+  {
+   "end_ms": "411560",
+   "start_ms": "409560",
+   "start_time_text": "6:49",
+   "text": "タンスの中に入れるなよ"
+  },
+  {
+   "end_ms": "417740",
+   "start_ms": "415060",
+   "start_time_text": "6:55",
+   "text": "やばい、伝説のアイテムを一式手に入れちゃったけど"
+  },
+  {
+   "end_ms": "419440",
+   "start_ms": "417740",
+   "start_time_text": "6:57",
+   "text": "うおお！？なんだ？"
+  },
+  {
+   "end_ms": "423180",
+   "start_ms": "420980",
+   "start_time_text": "7:00",
+   "text": "えっ？今なんか弾かれたぞ？"
+  },
+  {
+   "end_ms": "426140",
+   "start_ms": "424140",
+   "start_time_text": "7:04",
+   "text": "今の何？"
+  },
+  {
+   "end_ms": "429820",
+   "start_ms": "428000",
+   "start_time_text": "7:08",
+   "text": "え、なんか今"
+  },
+  {
+   "end_ms": "432920",
+   "start_ms": "429820",
+   "start_time_text": "7:09",
+   "text": "なんか、謎の反動があったんだけど なんだろう？"
+  },
+  {
+   "end_ms": "434980",
+   "start_ms": "432980",
+   "start_time_text": "7:12",
+   "text": "まぁいいや、この噴水・・・"
+  },
+  {
+   "end_ms": "437120",
+   "start_ms": "435160",
+   "start_time_text": "7:15",
+   "text": "噴水なんか変だよね？"
+  },
+  {
+   "end_ms": "439660",
+   "start_ms": "437120",
+   "start_time_text": "7:17",
+   "text": "あ、本当に変なだけだった。"
+  },
+  {
+   "end_ms": "441440",
+   "start_ms": "439660",
+   "start_time_text": "7:19",
+   "text": "ただただ、変だった"
+  },
+  {
+   "end_ms": "447620",
+   "start_ms": "444580",
+   "start_time_text": "7:24",
+   "text": "なんか、若そうに見えて実はすごいおじさんな時あるな"
+  },
+  {
+   "end_ms": "449420",
+   "start_ms": "447620",
+   "start_time_text": "7:27",
+   "text": "これも多分おばさんだぞ"
+  },
+  {
+   "end_ms": "451920",
+   "start_ms": "449860",
+   "start_time_text": "7:29",
+   "text": "わーなんか違う今度。"
+  },
+  {
+   "end_ms": "455340.00000000006",
+   "start_ms": "453720",
+   "start_time_text": "7:33",
+   "text": "わ。(笑い)"
+  },
+  {
+   "end_ms": "457460",
+   "start_ms": "455460",
+   "start_time_text": "7:35",
+   "text": "わぁっ(笑い)"
+  },
+  {
+   "end_ms": "460060",
+   "start_ms": "457660",
+   "start_time_text": "7:37",
+   "text": "家があるなまた。あっだ・・・この家！"
+  },
+  {
+   "end_ms": "462060",
+   "start_ms": "460060",
+   "start_time_text": "7:40",
+   "text": "凄げぇなこの家"
+  },
+  {
+   "end_ms": "463480",
+   "start_ms": "462060",
+   "start_time_text": "7:42",
+   "text": "牢獄じゃねぇか"
+  },
+  {
+   "end_ms": "465640.00000000006",
+   "start_ms": "463600",
+   "start_time_text": "7:43",
+   "text": "急に家の造りがあまいけど"
+  },
+  {
+   "end_ms": "469860",
+   "start_ms": "467860",
+   "start_time_text": "7:47",
+   "text": "入れないもん。この家に関しては"
+  },
+  {
+   "end_ms": "472159.99999999994",
+   "start_ms": "470320",
+   "start_time_text": "7:50",
+   "text": "へー"
+  },
+  {
+   "end_ms": "473940",
+   "start_ms": "472160",
+   "start_time_text": "7:52",
+   "text": "街の右端は何も無ぇな"
+  },
+  {
+   "end_ms": "476920",
+   "start_ms": "474920",
+   "start_time_text": "7:54",
+   "text": "あっもう街の外出る感じ？これ"
+  },
+  {
+   "end_ms": "479300",
+   "start_ms": "477300",
+   "start_time_text": "7:57",
+   "text": "住人少ねぇなぁ・・・"
+  },
+  {
+   "end_ms": "482280",
+   "start_ms": "480020",
+   "start_time_text": "8:00",
+   "text": "家の造りがなんか突然あまいんだけど"
+  },
+  {
+   "end_ms": "485860",
+   "start_ms": "483860",
+   "start_time_text": "8:03",
+   "text": "あれ？なんか今、左になんか見えたぞ"
+  },
+  {
+   "end_ms": "488500",
+   "start_ms": "486500",
+   "start_time_text": "8:06",
+   "text": "俺は見逃さない男"
+  },
+  {
+   "end_ms": "490420",
+   "start_ms": "489060",
+   "start_time_text": "8:09",
+   "text": "今、左下になんかあった。"
+  },
+  {
+   "end_ms": "492480",
+   "start_ms": "490480",
+   "start_time_text": "8:10",
+   "text": "ほら、ほらぁー！"
+  },
+  {
+   "end_ms": "494700",
+   "start_ms": "492700",
+   "start_time_text": "8:12",
+   "text": "ただの鳥！"
+  },
+  {
+   "end_ms": "497260",
+   "start_ms": "494920",
+   "start_time_text": "8:14",
+   "text": "いや、でも鳥。あれ絶対なんか重要でしょ？"
+  },
+  {
+   "end_ms": "500120",
+   "start_ms": "497940",
+   "start_time_text": "8:17",
+   "text": "ああいうね、遠くに居る奴ほど"
+  },
+  {
+   "end_ms": "503020",
+   "start_ms": "500320",
+   "start_time_text": "8:20",
+   "text": "結構ね、重要なポジションのキャラなんだよ"
+  },
+  {
+   "end_ms": "506720",
+   "start_ms": "504720",
+   "start_time_text": "8:24",
+   "text": "なんで鳥？でも"
+  },
+  {
+   "end_ms": "508760",
+   "start_ms": "506760",
+   "start_time_text": "8:26",
+   "text": "ほら、ただただ鳥が居るだけ"
+  },
+  {
+   "end_ms": "512959.99999999994",
+   "start_ms": "510780",
+   "start_time_text": "8:30",
+   "text": "あの鳥多分、最期に助けてくれるから"
+  },
+  {
+   "end_ms": "518580.00000000006",
+   "start_ms": "514820.00000000006",
+   "start_time_text": "8:34",
+   "text": "最期にラスボスの目をこう、チュンチュンってやって助けてくれると思う"
+  },
+  {
+   "end_ms": "522980",
+   "start_ms": "518860",
+   "start_time_text": "8:38",
+   "text": "よし、じゃあ街の外に出るか。つか装備手に入れたけど開ける？"
+  },
+  {
+   "end_ms": "526060",
+   "start_ms": "523900",
+   "start_time_text": "8:43",
+   "text": "あれ？べつに装備欄は開けないぞ"
+  },
+  {
+   "end_ms": "529060",
+   "start_ms": "526660",
+   "start_time_text": "8:46",
+   "text": "特にアイテム欄とか開けるボタンは無いわ"
+  },
+  {
+   "end_ms": "531880",
+   "start_ms": "530080",
+   "start_time_text": "8:50",
+   "text": "じゃ、外出ようか"
+  },
+  {
+   "end_ms": "535840",
+   "start_ms": "532640",
+   "start_time_text": "8:52",
+   "text": "いやーちょっと情報が少な過ぎて(笑い)"
+  },
+  {
+   "end_ms": "537900",
+   "start_ms": "536360",
+   "start_time_text": "8:56",
+   "text": "何処に行けばいいんだよ"
+  },
+  {
+   "end_ms": "540760",
+   "start_ms": "538760",
+   "start_time_text": "8:58",
+   "text": "あれ！？ なに？"
+  },
+  {
+   "end_ms": "543300.0000000001",
+   "start_ms": "541720",
+   "start_time_text": "9:01",
+   "text": "セーブ？"
+  },
+  {
+   "end_ms": "545500",
+   "start_ms": "543500",
+   "start_time_text": "9:03",
+   "text": "あ、次のセーブデーターに行った！ ロード。"
+  },
+  {
+   "end_ms": "547980",
+   "start_ms": "546260",
+   "start_time_text": "9:06",
+   "text": "なるほど"
+  },
+  {
+   "end_ms": "550420.0000000001",
+   "start_ms": "548700",
+   "start_time_text": "9:08",
+   "text": "おけおけおけ"
+  },
+  {
+   "end_ms": "552580",
+   "start_ms": "550580",
+   "start_time_text": "9:10",
+   "text": "街の外出たぞ 看板。"
+  },
+  {
+   "end_ms": "560240",
+   "start_ms": "557640",
+   "start_time_text": "9:17",
+   "text": "もっと、ちゃんとした看板を見してくれよ"
+  },
+  {
+   "end_ms": "564620",
+   "start_ms": "562620",
+   "start_time_text": "9:22",
+   "text": "ふざっおお！？なんだなんだなんだなんだ！？"
+  },
+  {
+   "end_ms": "567540",
+   "start_ms": "565160",
+   "start_time_text": "9:25",
+   "text": "うわー怖いな、一々絵が怖い"
+  },
+  {
+   "end_ms": "571219.9999999999",
+   "start_ms": "570060",
+   "start_time_text": "9:30",
+   "text": "おおー"
+  },
+  {
+   "end_ms": "580300",
+   "start_ms": "578300",
+   "start_time_text": "9:38",
+   "text": "一ポイントずつだなぁ"
+  },
+  {
+   "end_ms": "582600",
+   "start_ms": "580860",
+   "start_time_text": "9:40",
+   "text": "一ポイントでしょ？"
+  },
+  {
+   "end_ms": "585100",
+   "start_ms": "583100",
+   "start_time_text": "9:43",
+   "text": "一ポイントずつだなぁ"
+  },
+  {
+   "end_ms": "586360",
+   "start_ms": "585100",
+   "start_time_text": "9:45",
+   "text": "互角じゃん"
+  },
+  {
+   "end_ms": "589120",
+   "start_ms": "587120",
+   "start_time_text": "9:47",
+   "text": "ちょっと、やばいって"
+  },
+  {
+   "end_ms": "591100",
+   "start_ms": "589120",
+   "start_time_text": "9:49",
+   "text": "この時点で互角ってやばいって"
+  },
+  {
+   "end_ms": "595880",
+   "start_ms": "593880",
+   "start_time_text": "9:53",
+   "text": "俺も思ってた、それはー"
+  },
+  {
+   "end_ms": "601360",
+   "start_ms": "599360",
+   "start_time_text": "9:59",
+   "text": "そんな、そんなのあるの？"
+  },
+  {
+   "end_ms": "612940",
+   "start_ms": "610940",
+   "start_time_text": "10:10",
+   "text": "ぉおお！"
+  },
+  {
+   "end_ms": "616400",
+   "start_ms": "614400",
+   "start_time_text": "10:14",
+   "text": "強えぇ！"
+  },
+  {
+   "end_ms": "617980",
+   "start_ms": "616400",
+   "start_time_text": "10:16",
+   "text": "理不尽(笑い)"
+  },
+  {
+   "end_ms": "623320",
+   "start_ms": "621320",
+   "start_time_text": "10:21",
+   "text": "表現！"
+  },
+  {
+   "end_ms": "628060",
+   "start_ms": "626060",
+   "start_time_text": "10:26",
+   "text": "なんか一々・・・あれ！行き止まりだぞ。あっ"
+  },
+  {
+   "end_ms": "630380",
+   "start_ms": "628320",
+   "start_time_text": "10:28",
+   "text": "この岩だけなんか様子がおかしい"
+  },
+  {
+   "end_ms": "632380",
+   "start_ms": "630640",
+   "start_time_text": "10:30",
+   "text": "あ、どかせる。"
+  },
+  {
+   "end_ms": "634940",
+   "start_ms": "632940",
+   "start_time_text": "10:32",
+   "text": "ちょっとヒビが入ってればどかせるっていう"
+  },
+  {
+   "end_ms": "641300",
+   "start_ms": "639300",
+   "start_time_text": "10:39",
+   "text": "俺は何も感じないけどな"
+  },
+  {
+   "end_ms": "650900",
+   "start_ms": "648740",
+   "start_time_text": "10:48",
+   "text": "これさぁ、鎧持ってなかったらどうなるの？"
+  },
+  {
+   "end_ms": "653660",
+   "start_ms": "651660",
+   "start_time_text": "10:51",
+   "text": "あ、なんか虹、虹が掛かってる"
+  },
+  {
+   "end_ms": "655040",
+   "start_ms": "654140",
+   "start_time_text": "10:54",
+   "text": "え？"
+  },
+  {
+   "end_ms": "663600",
+   "start_ms": "660660",
+   "start_time_text": "11:00",
+   "text": "なんか、伏線回収が早いな"
+  },
+  {
+   "end_ms": "665500",
+   "start_ms": "663600",
+   "start_time_text": "11:03",
+   "text": "もう虹の伏線回収したぞ"
+  },
+  {
+   "end_ms": "667459.9999999999",
+   "start_ms": "666280",
+   "start_time_text": "11:06",
+   "text": "へー"
+  },
+  {
+   "end_ms": "668940",
+   "start_ms": "667460",
+   "start_time_text": "11:07",
+   "text": "虹の範囲ね"
+  },
+  {
+   "end_ms": "672380",
+   "start_ms": "670380",
+   "start_time_text": "11:10",
+   "text": "一メートルくらいの虹"
+  },
+  {
+   "end_ms": "676400",
+   "start_ms": "673300",
+   "start_time_text": "11:13",
+   "text": "へー装備変わったんだ伝説のよろ・・・あれ！行き止まりだぞ！"
+  },
+  {
+   "end_ms": "679460",
+   "start_ms": "677460",
+   "start_time_text": "11:17",
+   "text": "どっち？ え？"
+  },
+  {
+   "end_ms": "682720",
+   "start_ms": "680720",
+   "start_time_text": "11:20",
+   "text": "ぉおぉおおー"
+  },
+  {
+   "end_ms": "684100",
+   "start_ms": "682720",
+   "start_time_text": "11:22",
+   "text": "こんど動いた横に"
+  },
+  {
+   "end_ms": "688380",
+   "start_ms": "686380",
+   "start_time_text": "11:26",
+   "text": "怖いなぁ"
+  },
+  {
+   "end_ms": "690580",
+   "start_ms": "688580",
+   "start_time_text": "11:28",
+   "text": "疑問持とうぜ、あの岩にちょっと"
+  },
+  {
+   "end_ms": "691880",
+   "start_ms": "690580",
+   "start_time_text": "11:30",
+   "text": "怖い、あの岩"
+  },
+  {
+   "end_ms": "695900",
+   "start_ms": "692380",
+   "start_time_text": "11:32",
+   "text": "あ、もうセーブ３！なんかこれセーブ４で終わりそうだなぁ"
+  },
+  {
+   "end_ms": "699580",
+   "start_ms": "696440",
+   "start_time_text": "11:36",
+   "text": "えープレイタイム８分２７秒のとこまで来たのか"
+  },
+  {
+   "end_ms": "703160",
+   "start_ms": "701160",
+   "start_time_text": "11:41",
+   "text": "へーぇ。ロード"
+  },
+  {
+   "end_ms": "706000",
+   "start_ms": "703800",
+   "start_time_text": "11:43",
+   "text": "この先どうなるのか全然予想できないけど"
+  },
+  {
+   "end_ms": "707260",
+   "start_ms": "706000",
+   "start_time_text": "11:46",
+   "text": "えっ・・・"
+  },
+  {
+   "end_ms": "714880",
+   "start_ms": "712880",
+   "start_time_text": "11:52",
+   "text": "画像は楽しそうだけどなー"
+  },
+  {
+   "end_ms": "718340",
+   "start_ms": "716340",
+   "start_time_text": "11:56",
+   "text": "あ、こいつに襲われたのか"
+  },
+  {
+   "end_ms": "723140",
+   "start_ms": "721660",
+   "start_time_text": "12:01",
+   "text": "結構可愛いな"
+  },
+  {
+   "end_ms": "725620",
+   "start_ms": "723620",
+   "start_time_text": "12:03",
+   "text": "よし、わーでもグラフィックは怖えぇな"
+  },
+  {
+   "end_ms": "728900",
+   "start_ms": "726900",
+   "start_time_text": "12:06",
+   "text": "ペロゴン！ ペロゴン・・・(笑い)"
+  },
+  {
+   "end_ms": "736760",
+   "start_ms": "734760",
+   "start_time_text": "12:14",
+   "text": "つええ！"
+  },
+  {
+   "end_ms": "740660",
+   "start_ms": "738660",
+   "start_time_text": "12:18",
+   "text": "構うなかまうな"
+  },
+  {
+   "end_ms": "742199.9999999999",
+   "start_ms": "740660",
+   "start_time_text": "12:20",
+   "text": "進化？"
+  },
+  {
+   "end_ms": "744780",
+   "start_ms": "742560",
+   "start_time_text": "12:22",
+   "text": "BボタンBボタン。あ、分裂した？"
+  },
+  {
+   "end_ms": "747060.0000000001",
+   "start_ms": "744860",
+   "start_time_text": "12:24",
+   "text": "ぉおー すげぇ"
+  },
+  {
+   "end_ms": "753320",
+   "start_ms": "751320",
+   "start_time_text": "12:31",
+   "text": "どういうことだ？"
+  },
+  {
+   "end_ms": "761339.9999999999",
+   "start_ms": "758540",
+   "start_time_text": "12:38",
+   "text": "強ぇえ よくあの女の子生きてるなぁ"
+  },
+  {
+   "end_ms": "764880",
+   "start_ms": "763280",
+   "start_time_text": "12:43",
+   "text": "死ぬよ・・・"
+  },
+  {
+   "end_ms": "767680",
+   "start_ms": "765060",
+   "start_time_text": "12:45",
+   "text": "あー、またハズレだ。分身なんだ。やっぱり、ただの"
+  },
+  {
+   "end_ms": "769960",
+   "start_ms": "768940",
+   "start_time_text": "12:48",
+   "text": "え"
+  },
+  {
+   "end_ms": "772000",
+   "start_ms": "770000",
+   "start_time_text": "12:50",
+   "text": "発火した発火した"
+  },
+  {
+   "end_ms": "775900",
+   "start_ms": "773900",
+   "start_time_text": "12:53",
+   "text": "燃えてる燃えてる"
+  },
+  {
+   "end_ms": "788320",
+   "start_ms": "786940",
+   "start_time_text": "13:06",
+   "text": "連続こうげきだ"
+  },
+  {
+   "end_ms": "793940",
+   "start_ms": "791940",
+   "start_time_text": "13:11",
+   "text": "やったー！"
+  },
+  {
+   "end_ms": "796460",
+   "start_ms": "793940",
+   "start_time_text": "13:13",
+   "text": "俺、何もしてねぇよ？ ほんとにボタン押すだけ"
+  },
+  {
+   "end_ms": "799360",
+   "start_ms": "797200",
+   "start_time_text": "13:17",
+   "text": "息の根を止めた。やめろってその表現"
+  },
+  {
+   "end_ms": "801020",
+   "start_ms": "799600",
+   "start_time_text": "13:19",
+   "text": "勇者だろ？"
+  },
+  {
+   "end_ms": "803960",
+   "start_ms": "801960",
+   "start_time_text": "13:21",
+   "text": "よし、経験値"
+  },
+  {
+   "end_ms": "806820",
+   "start_ms": "804820",
+   "start_time_text": "13:24",
+   "text": "女の子助かったー？"
+  },
+  {
+   "end_ms": "809760",
+   "start_ms": "807760",
+   "start_time_text": "13:27",
+   "text": "あっもう、もう！"
+  },
+  {
+   "end_ms": "813060.0000000001",
+   "start_ms": "810200",
+   "start_time_text": "13:30",
+   "text": "セーブデーター４。あ、もう、竜の城の決戦"
+  },
+  {
+   "end_ms": "815940",
+   "start_ms": "813240",
+   "start_time_text": "13:33",
+   "text": "終わるー！(笑い) 終わるぞ"
+  },
+  {
+   "end_ms": "818620",
+   "start_ms": "816720",
+   "start_time_text": "13:36",
+   "text": "早いなぁ"
+  },
+  {
+   "end_ms": "820820",
+   "start_ms": "818820",
+   "start_time_text": "13:38",
+   "text": "女の子どうなったんだよ"
+  },
+  {
+   "end_ms": "824939.9999999999",
+   "start_ms": "822060",
+   "start_time_text": "13:42",
+   "text": "おぉ、なんかまた、禍々しい所にきたな"
+  },
+  {
+   "end_ms": "827140.0000000001",
+   "start_ms": "825700",
+   "start_time_text": "13:45",
+   "text": "すごい"
+  },
+  {
+   "end_ms": "828720",
+   "start_ms": "827140",
+   "start_time_text": "13:47",
+   "text": "工場感が凄いけど"
+  },
+  {
+   "end_ms": "833140",
+   "start_ms": "829520",
+   "start_time_text": "13:49",
+   "text": "あ、もう。長い、長い戦いが終わるんだな"
+  },
+  {
+   "end_ms": "836700",
+   "start_ms": "833480",
+   "start_time_text": "13:53",
+   "text": "なんかこの長い階段でなんか、こう。回想しつつ"
+  },
+  {
+   "end_ms": "838880",
+   "start_ms": "837200",
+   "start_time_text": "13:57",
+   "text": "あ、本当にロボットが居る"
+  },
+  {
+   "end_ms": "840580",
+   "start_ms": "838880",
+   "start_time_text": "13:58",
+   "text": "工場感は正しかったね"
+  },
+  {
+   "end_ms": "846400",
+   "start_ms": "842120",
+   "start_time_text": "14:02",
+   "text": "すげぇ高性能感。 なんか、最新の技術を感じました。"
+  },
+  {
+   "end_ms": "851120",
+   "start_ms": "848400",
+   "start_time_text": "14:08",
+   "text": "あーなんかカラフルな床だ これ意味ある？"
+  },
+  {
+   "end_ms": "854820",
+   "start_ms": "852340",
+   "start_time_text": "14:12",
+   "text": "色順に押さないといけないとか。 あ、そういうわけではないんだ"
+  },
+  {
+   "end_ms": "858280",
+   "start_ms": "855000",
+   "start_time_text": "14:15",
+   "text": "子供部屋か！ 子供部屋みたくなってるよ"
+  },
+  {
+   "end_ms": "861840",
+   "start_ms": "859840",
+   "start_time_text": "14:19",
+   "text": "乗ったぞ"
+  },
+  {
+   "end_ms": "863660.0000000001",
+   "start_ms": "861840",
+   "start_time_text": "14:21",
+   "text": "気球"
+  },
+  {
+   "end_ms": "866340",
+   "start_ms": "863900",
+   "start_time_text": "14:23",
+   "text": "RPGではお馴染みの気球"
+  },
+  {
+   "end_ms": "871740",
+   "start_ms": "868120",
+   "start_time_text": "14:28",
+   "text": "あ、此処はべつに、ラスボスのステージではないんだ"
+  },
+  {
+   "end_ms": "880080",
+   "start_ms": "876080",
+   "start_time_text": "14:36",
+   "text": "どこ？ どこここ？"
+  },
+  {
+   "end_ms": "883600",
+   "start_ms": "880640",
+   "start_time_text": "14:40",
+   "text": "あ、これで、竜の城にきたわけね"
+  },
+  {
+   "end_ms": "884980",
+   "start_ms": "883600",
+   "start_time_text": "14:43",
+   "text": "なるほどなろるほど"
+  },
+  {
+   "end_ms": "889240",
+   "start_ms": "885520",
+   "start_time_text": "14:45",
+   "text": "なんか、気球用の、駐車場みたいなのがあるけど"
+  },
+  {
+   "end_ms": "892280",
+   "start_ms": "890400",
+   "start_time_text": "14:50",
+   "text": "来てくれと言わんばかりの"
+  },
+  {
+   "end_ms": "894100",
+   "start_ms": "892280",
+   "start_time_text": "14:52",
+   "text": "おお！ なんだなんだなんだ？"
+  },
+  {
+   "end_ms": "897119.9999999999",
+   "start_ms": "895060",
+   "start_time_text": "14:55",
+   "text": "なんか変なの来た！"
+  },
+  {
+   "end_ms": "898780",
+   "start_ms": "897120",
+   "start_time_text": "14:57",
+   "text": "うわぁ！"
+  },
+  {
+   "end_ms": "900860",
+   "start_ms": "898860",
+   "start_time_text": "14:58",
+   "text": "ラスマエーダ？"
+  },
+  {
+   "end_ms": "904060",
+   "start_ms": "901060",
+   "start_time_text": "15:01",
+   "text": "ラスボスマエーダって事ね？ なるほど"
+  },
+  {
+   "end_ms": "908119.9999999999",
+   "start_ms": "906560",
+   "start_time_text": "15:06",
+   "text": "容赦無えな"
+  },
+  {
+   "end_ms": "919960",
+   "start_ms": "917960",
+   "start_time_text": "15:17",
+   "text": "急に セリフが出てきたけど"
+  },
+  {
+   "end_ms": "927140",
+   "start_ms": "925140",
+   "start_time_text": "15:25",
+   "text": "あ、"
+  },
+  {
+   "end_ms": "930400",
+   "start_ms": "928800",
+   "start_time_text": "15:28",
+   "text": "メテオって事ね・・・"
+  },
+  {
+   "end_ms": "932760",
+   "start_ms": "930760",
+   "start_time_text": "15:30",
+   "text": "一瞬分かんないわ"
+  },
+  {
+   "end_ms": "937440",
+   "start_ms": "935440",
+   "start_time_text": "15:35",
+   "text": "表現！"
+  },
+  {
+   "end_ms": "943460",
+   "start_ms": "940460",
+   "start_time_text": "15:40",
+   "text": "最大までレベルアップってザックリ。"
+  },
+  {
+   "end_ms": "947860",
+   "start_ms": "945860",
+   "start_time_text": "15:45",
+   "text": "面白過ぎるだろ"
+  },
+  {
+   "end_ms": "950600",
+   "start_ms": "948600",
+   "start_time_text": "15:48",
+   "text": "帰ろう。 あ、帰れないのか"
+  },
+  {
+   "end_ms": "952980",
+   "start_ms": "950660",
+   "start_time_text": "15:50",
+   "text": "やばいぞ、めっちゃ面白いぞ。どうしよう"
+  },
+  {
+   "end_ms": "955440",
+   "start_ms": "953440",
+   "start_time_text": "15:53",
+   "text": "どうしよう、めっちゃ面白い"
+  },
+  {
+   "end_ms": "957980",
+   "start_ms": "955460",
+   "start_time_text": "15:55",
+   "text": "またなんか、子供部屋みたいなの出てきたぞ"
+  },
+  {
+   "end_ms": "962860",
+   "start_ms": "959380",
+   "start_time_text": "15:59",
+   "text": "明る過ぎるだろ。ぉお！ラスボス感！"
+  },
+  {
+   "end_ms": "965500",
+   "start_ms": "963500",
+   "start_time_text": "16:03",
+   "text": "こんにちは"
+  },
+  {
+   "end_ms": "978420",
+   "start_ms": "976420",
+   "start_time_text": "16:16",
+   "text": "聞いた事ある。戦闘音"
+  },
+  {
+   "end_ms": "981719.9999999999",
+   "start_ms": "979560",
+   "start_time_text": "16:19",
+   "text": "うぉお！凄い。かっこいい"
+  },
+  {
+   "end_ms": "1002380",
+   "start_ms": "999540",
+   "start_time_text": "16:39",
+   "text": "相手のターン無いんだね。 代わってやれよ"
+  },
+  {
+   "end_ms": "1005500",
+   "start_ms": "1003500",
+   "start_time_text": "16:43",
+   "text": "すごい、ずっと俺のターンだ"
+  },
+  {
+   "end_ms": "1008620",
+   "start_ms": "1006380",
+   "start_time_text": "16:46",
+   "text": "バーサーカーソール(笑い)"
+  },
+  {
+   "end_ms": "1010020",
+   "start_ms": "1008620",
+   "start_time_text": "16:48",
+   "text": "ゲーム内＞こら"
+  },
+  {
+   "end_ms": "1012020",
+   "start_ms": "1010020",
+   "start_time_text": "16:50",
+   "text": "すげぇ"
+  },
+  {
+   "end_ms": "1015120",
+   "start_ms": "1013120",
+   "start_time_text": "16:53",
+   "text": "どうなった？"
+  },
+  {
+   "end_ms": "1017360",
+   "start_ms": "1015120",
+   "start_time_text": "16:55",
+   "text": "ゲーム内＞テレビゲームなんてやめて、寝なさい"
+  },
+  {
+   "end_ms": "1019580",
+   "start_ms": "1017360",
+   "start_time_text": "16:57",
+   "text": "え、お母さん。お母さんの声が"
+  },
+  {
+   "end_ms": "1024820.0000000001",
+   "start_ms": "1022820",
+   "start_time_text": "17:02",
+   "text": "あ、終わった"
+  },
+  {
+   "end_ms": "1028960",
+   "start_ms": "1026960",
+   "start_time_text": "17:06",
+   "text": "なんだったんだよ、これは"
+  },
+  {
+   "end_ms": "1032500",
+   "start_ms": "1030500",
+   "start_time_text": "17:10",
+   "text": "あ、また付いた"
+  },
+  {
+   "end_ms": "1035560",
+   "start_ms": "1033560",
+   "start_time_text": "17:13",
+   "text": "戻ってきた"
+  },
+  {
+   "end_ms": "1043339.9999999999",
+   "start_ms": "1041339.9999999999",
+   "start_time_text": "17:21",
+   "text": "吸い込まれた！"
+  },
+  {
+   "end_ms": "1050060.0000000002",
+   "start_ms": "1047400.0000000001",
+   "start_time_text": "17:27",
+   "text": "なんだなんだ？ ぉおおお！"
+  },
+  {
+   "end_ms": "1052860",
+   "start_ms": "1050860",
+   "start_time_text": "17:30",
+   "text": "すごいすごい"
+  },
+  {
+   "end_ms": "1056400",
+   "start_ms": "1054400",
+   "start_time_text": "17:34",
+   "text": "なんだなんだ？ いろんなゲームの映像が"
+  },
+  {
+   "end_ms": "1058560.0000000002",
+   "start_ms": "1057180",
+   "start_time_text": "17:37",
+   "text": "うあー"
+  },
+  {
+   "end_ms": "1062620",
+   "start_ms": "1060020",
+   "start_time_text": "17:40",
+   "text": "なんだこれ、ゲームの中入っちゃったの？"
+  },
+  {
+   "end_ms": "1067780",
+   "start_ms": "1064660",
+   "start_time_text": "17:44",
+   "text": "次々に、次々に来るよ"
+  },
+  {
+   "end_ms": "1072380",
+   "start_ms": "1070380",
+   "start_time_text": "17:50",
+   "text": "ワープしてるのか？"
+  },
+  {
+   "end_ms": "1074680",
+   "start_ms": "1072680",
+   "start_time_text": "17:52",
+   "text": "おおおお"
+  },
+  {
+   "end_ms": "1076780",
+   "start_ms": "1074680",
+   "start_time_text": "17:54",
+   "text": "マトリックスみたくなってる"
+  },
+  {
+   "end_ms": "1081340",
+   "start_ms": "1079060",
+   "start_time_text": "17:59",
+   "text": "なんだ、空？"
+  },
+  {
+   "end_ms": "1085040",
+   "start_ms": "1082360",
+   "start_time_text": "18:02",
+   "text": "吐き出された めっちゃ回転してる！"
+  },
+  {
+   "end_ms": "1088400",
+   "start_ms": "1086020",
+   "start_time_text": "18:06",
+   "text": "死ぬ！ 死ぬよこれは"
+  },
+  {
+   "end_ms": "1091380",
+   "start_ms": "1089380",
+   "start_time_text": "18:09",
+   "text": "雲の上っぽいけど"
+  },
+  {
+   "end_ms": "1093800",
+   "start_ms": "1091800",
+   "start_time_text": "18:11",
+   "text": "めっちゃ回転してるな"
+  },
+  {
+   "end_ms": "1098600",
+   "start_ms": "1094280",
+   "start_time_text": "18:14",
+   "text": "どうにかあの、大の字になって、風をこう感じろ。 風を感じろ"
+  },
+  {
+   "end_ms": "1102960",
+   "start_ms": "1100020",
+   "start_time_text": "18:20",
+   "text": "このまま、まずいぞこのままは"
+  },
+  {
+   "end_ms": "1106560",
+   "start_ms": "1104560",
+   "start_time_text": "18:24",
+   "text": "あ、下海か？これ"
+  },
+  {
+   "end_ms": "1109500",
+   "start_ms": "1107280",
+   "start_time_text": "18:27",
+   "text": "なんか、島っぽいのが後ろに見えるぞ"
+  },
+  {
+   "end_ms": "1113740",
+   "start_ms": "1111540",
+   "start_time_text": "18:31",
+   "text": "大丈夫か？ どう着地するのこれ"
+  },
+  {
+   "end_ms": "1119340",
+   "start_ms": "1116300",
+   "start_time_text": "18:36",
+   "text": "いくらふっかふかの木でもむりだぞ これは"
+  },
+  {
+   "end_ms": "1124060",
+   "start_ms": "1122060",
+   "start_time_text": "18:42",
+   "text": "あ、なんか、会議してる"
+  },
+  {
+   "end_ms": "1131860",
+   "start_ms": "1129860",
+   "start_time_text": "18:49",
+   "text": "なんか来た"
+  },
+  {
+   "end_ms": "1138580",
+   "start_ms": "1136240",
+   "start_time_text": "18:56",
+   "text": "すっごい、でかい剣持ってるけど"
+  },
+  {
+   "end_ms": "1142680",
+   "start_ms": "1140280",
+   "start_time_text": "19:00",
+   "text": "ホームランバットみたいな"
+  },
+  {
+   "end_ms": "1148060",
+   "start_ms": "1146060",
+   "start_time_text": "19:06",
+   "text": "またなんか話してるな"
+  },
+  {
+   "end_ms": "1151280",
+   "start_ms": "1149280",
+   "start_time_text": "19:09",
+   "text": "主人公どうなったんだ？"
+  },
+  {
+   "end_ms": "1157920",
+   "start_ms": "1155200",
+   "start_time_text": "19:15",
+   "text": "えっ？ あ、鳥が逃げた"
+  },
+  {
+   "end_ms": "1161080",
+   "start_ms": "1159080",
+   "start_time_text": "19:19",
+   "text": "ぉおおー！"
+  },
+  {
+   "end_ms": "1166100.0000000002",
+   "start_ms": "1162460",
+   "start_time_text": "19:22",
+   "text": "よく死ななかったな。いや、死んでるのかもしれないけど。大丈夫かよ"
+  },
+  {
+   "end_ms": "1169620",
+   "start_ms": "1167620",
+   "start_time_text": "19:27",
+   "text": "しかも、誰も気がついてない"
+  },
+  {
+   "end_ms": "1175120.0000000002",
+   "start_ms": "1171420",
+   "start_time_text": "19:31",
+   "text": "あっあ、歩ける！ こっから歩けるのか"
+  },
+  {
+   "end_ms": "1180980",
+   "start_ms": "1177440",
+   "start_time_text": "19:37",
+   "text": "いえーい、チャンネル登録をして、最新の動画をチェックしてくれ"
+  },
+  {
+   "end_ms": "1186280",
+   "start_ms": "1181340",
+   "start_time_text": "19:41",
+   "text": "画面に映ってるりんご、バナナ、イチゴ、オレンジ、ライオン。俺をクリックしてくれ"
+  },
+  {
+   "end_ms": "1190500",
+   "start_ms": "1186440",
+   "start_time_text": "19:46",
+   "text": "スマートフォンの人は、下にあるチャンネル登録ボタンか"
+  },
+  {
+   "end_ms": "1193780",
+   "start_ms": "1190500",
+   "start_time_text": "19:50",
+   "text": "説明欄にあるURLから登録をしてくれ"
+  }
+ ],
+ "transcript_only_text": "うわぁ この感じ この感じね 懐かしい えー 今回は この、MOON(ムーン)というゲーム 読み方合ってるよね? もーん じゃないよね？ 殆どどういったゲームなのか分からないけど 一応説明書が一緒に付いてたので まぁ どういったゲームなのか分からないから ちょっと怖いけど 若干怖いゲームっぽいよね？ まあ、いいや なんか、どういうテンションでいけばいいのか分からないや とりあえずスタートするわ えーと、ゲームスタート、コンティニュー、 えーと、ゲームスタート はい どうぞ、お好きに あ、びっくりした。トランクスに見えた(笑い) なんか、子供と窓があるね 真ん中にあるのはPS１かな？ あーっ 凄い近い。画面 俺、今こんな感じだわ (笑い) 近すぎるだろ・・・ PCメガネが無かったら(目が)死んでるわ なんだ？ インターフェイスっぽいのが出てきたけど どういうゲームなの？本当に ほのぼの系かな？ その現象は、ラブデガルドで竜の城といぅ・・・呼ばれていた。 えー 前人未踏の(表現不可能なうめき声) 城山頂付近には ちょーっ やばぃ(笑い) 駄目だ。 ちょ、一回、一回やめよう。 追いつかないよ読みが 読みっ 読みつかない? 追いつかないよ(笑い) えー、ちょっと。じゃあ、文字が出てきたら俺も読むから ちょっと 黙るわ 流石に。 早いわ(表示速度が) うんうんうんうん・・・ うんうんうん・・・なるほど 何て読むの？ あの山の名前 デスクレバスと呼ばれる えっ うーん、なんかクレバスがあったんだね えぇ・・・(笑い) 読んだけど分かんない え 全然分からない えーどういうこと？ なんか、ドラゴンが居たけど あっ 分かったぞ これ、ゲーム画面か。ゲームの中でゲームしてる画面か じゃ、これ俺あんまり理解しなくても良いんじゃないか？ そうだよね、これ え。ぉ、ちょっとまってちょっとまって？無理無理無理 ムリムリムリムリ いやー 今の十秒で読むの？今の 十秒も無かったぞ 多分。 なるほど ムーン プッシュスタート あ、ゲームの中の映像がゲームをしてるんだね？ え、プシュスタート。これ、STAETボタン押すの？ あっ！ ヤバイ。ゲームの中でゲームしてる ゲームの中で・・・(笑い)どういうこと？ ニューゲーム 不思議な事が起きてるよ 今 夢の中で夢見てる、みたいな 名前どうしょう。名前は、えーと た。 た ここで名前を名乗っていくスタイル(笑い) 冒頭では自分の名前言わないでここで名乗るっていう どうも、タイショウです えー、入るかな？わ、優しい 文字数多いの有りがたいわコレ ありがてぇ・・・ 感謝！ たいしょう。おっけー ハート付けとく？(笑い) ハートなんて使う人居るのかよコレ まぁ、使っとこ。 誰も使わないから俺が使っとこ なんか、ちょっと・・・ ね？そっち系になっちゃったけど たいしょうって名前でハート付くと結構エグイな ぉお！凄い 動ける あ、なんか 結構小刻みに動けるよ？ なんか、一マスずつとかじゃないんだね なるほど すごい。グラフィックは凄い可愛いのに 喋る時はすごい怖い画像が出てくるね 帰る。 (笑い) 今のどっちだ！？言ったの うわ、王様髭長いな 吸い込まれそうなんか カーテンみたい みんな同じ事しか言わねぇな マジかよ。宇宙まで行ったの？ え、終わり？ もっと細かく教えてくれよ え、もう終わりか すごい、メタな発言を。 はははっえぇーっ 口悪！ ちょっと 怖いなぁ・・・ この人達は？ ぇえー あの緑の人怖えぇな えぇー やばい 銃刀法違反になりそう ヤバイ！倒せ倒せ！ ええ！これ敵なの！？ (笑い) マジかよ グラフィックが全然違うんだけど！ 狂った犬！ゾンビ犬じゃねぇか しっぽを振った なんだ、アイアンテール的なものじゃないんだ？ オートなんだ。 面白、このゲーム(笑い) 面白いなぁ ちょっと、想像してたのと違うけど 面白いわ ぇーこの二人は何？ あーなんか見た目が、シェフっぽい。 後ろ向いたまま話掛けてくる グラフィックが違うんだよな、めっちゃ うん、可愛い系かと思いきや ここになんか、お店みたいなのあるね お店っぽい グラフィックが全然違うよな 俺、もっと若い人かと思ったんだけど 失礼かもしれないけど お店なのか、タンスなのか(笑い) タンスの中に入れるなよ やばい、伝説のアイテムを一式手に入れちゃったけど うおお！？なんだ？ えっ？今なんか弾かれたぞ？ 今の何？ え、なんか今 なんか、謎の反動があったんだけど なんだろう？ まぁいいや、この噴水・・・ 噴水なんか変だよね？ あ、本当に変なだけだった。 ただただ、変だった なんか、若そうに見えて実はすごいおじさんな時あるな これも多分おばさんだぞ わーなんか違う今度。 わ。(笑い) わぁっ(笑い) 家があるなまた。あっだ・・・この家！ 凄げぇなこの家 牢獄じゃねぇか 急に家の造りがあまいけど 入れないもん。この家に関しては へー 街の右端は何も無ぇな あっもう街の外出る感じ？これ 住人少ねぇなぁ・・・ 家の造りがなんか突然あまいんだけど あれ？なんか今、左になんか見えたぞ 俺は見逃さない男 今、左下になんかあった。 ほら、ほらぁー！ ただの鳥！ いや、でも鳥。あれ絶対なんか重要でしょ？ ああいうね、遠くに居る奴ほど 結構ね、重要なポジションのキャラなんだよ なんで鳥？でも ほら、ただただ鳥が居るだけ あの鳥多分、最期に助けてくれるから 最期にラスボスの目をこう、チュンチュンってやって助けてくれると思う よし、じゃあ街の外に出るか。つか装備手に入れたけど開ける？ あれ？べつに装備欄は開けないぞ 特にアイテム欄とか開けるボタンは無いわ じゃ、外出ようか いやーちょっと情報が少な過ぎて(笑い) 何処に行けばいいんだよ あれ！？ なに？ セーブ？ あ、次のセーブデーターに行った！ ロード。 なるほど おけおけおけ 街の外出たぞ 看板。 もっと、ちゃんとした看板を見してくれよ ふざっおお！？なんだなんだなんだなんだ！？ うわー怖いな、一々絵が怖い おおー 一ポイントずつだなぁ 一ポイントでしょ？ 一ポイントずつだなぁ 互角じゃん ちょっと、やばいって この時点で互角ってやばいって 俺も思ってた、それはー そんな、そんなのあるの？ ぉおお！ 強えぇ！ 理不尽(笑い) 表現！ なんか一々・・・あれ！行き止まりだぞ。あっ この岩だけなんか様子がおかしい あ、どかせる。 ちょっとヒビが入ってればどかせるっていう 俺は何も感じないけどな これさぁ、鎧持ってなかったらどうなるの？ あ、なんか虹、虹が掛かってる え？ なんか、伏線回収が早いな もう虹の伏線回収したぞ へー 虹の範囲ね 一メートルくらいの虹 へー装備変わったんだ伝説のよろ・・・あれ！行き止まりだぞ！ どっち？ え？ ぉおぉおおー こんど動いた横に 怖いなぁ 疑問持とうぜ、あの岩にちょっと 怖い、あの岩 あ、もうセーブ３！なんかこれセーブ４で終わりそうだなぁ えープレイタイム８分２７秒のとこまで来たのか へーぇ。ロード この先どうなるのか全然予想できないけど えっ・・・ 画像は楽しそうだけどなー あ、こいつに襲われたのか 結構可愛いな よし、わーでもグラフィックは怖えぇな ペロゴン！ ペロゴン・・・(笑い) つええ！ 構うなかまうな 進化？ BボタンBボタン。あ、分裂した？ ぉおー すげぇ どういうことだ？ 強ぇえ よくあの女の子生きてるなぁ 死ぬよ・・・ あー、またハズレだ。分身なんだ。やっぱり、ただの え 発火した発火した 燃えてる燃えてる 連続こうげきだ やったー！ 俺、何もしてねぇよ？ ほんとにボタン押すだけ 息の根を止めた。やめろってその表現 勇者だろ？ よし、経験値 女の子助かったー？ あっもう、もう！ セーブデーター４。あ、もう、竜の城の決戦 終わるー！(笑い) 終わるぞ 早いなぁ 女の子どうなったんだよ おぉ、なんかまた、禍々しい所にきたな すごい 工場感が凄いけど あ、もう。長い、長い戦いが終わるんだな なんかこの長い階段でなんか、こう。回想しつつ あ、本当にロボットが居る 工場感は正しかったね すげぇ高性能感。 なんか、最新の技術を感じました。 あーなんかカラフルな床だ これ意味ある？ 色順に押さないといけないとか。 あ、そういうわけではないんだ 子供部屋か！ 子供部屋みたくなってるよ 乗ったぞ 気球 RPGではお馴染みの気球 あ、此処はべつに、ラスボスのステージではないんだ どこ？ どこここ？ あ、これで、竜の城にきたわけね なるほどなろるほど なんか、気球用の、駐車場みたいなのがあるけど 来てくれと言わんばかりの おお！ なんだなんだなんだ？ なんか変なの来た！ うわぁ！ ラスマエーダ？ ラスボスマエーダって事ね？ なるほど 容赦無えな 急に セリフが出てきたけど あ、 メテオって事ね・・・ 一瞬分かんないわ 表現！ 最大までレベルアップってザックリ。 面白過ぎるだろ 帰ろう。 あ、帰れないのか やばいぞ、めっちゃ面白いぞ。どうしよう どうしよう、めっちゃ面白い またなんか、子供部屋みたいなの出てきたぞ 明る過ぎるだろ。ぉお！ラスボス感！ こんにちは 聞いた事ある。戦闘音 うぉお！凄い。かっこいい 相手のターン無いんだね。 代わってやれよ すごい、ずっと俺のターンだ バーサーカーソール(笑い) ゲーム内＞こら すげぇ どうなった？ ゲーム内＞テレビゲームなんてやめて、寝なさい え、お母さん。お母さんの声が あ、終わった なんだったんだよ、これは あ、また付いた 戻ってきた 吸い込まれた！ なんだなんだ？ ぉおおお！ すごいすごい なんだなんだ？ いろんなゲームの映像が うあー なんだこれ、ゲームの中入っちゃったの？ 次々に、次々に来るよ ワープしてるのか？ おおおお マトリックスみたくなってる なんだ、空？ 吐き出された めっちゃ回転してる！ 死ぬ！ 死ぬよこれは 雲の上っぽいけど めっちゃ回転してるな どうにかあの、大の字になって、風をこう感じろ。 風を感じろ このまま、まずいぞこのままは あ、下海か？これ なんか、島っぽいのが後ろに見えるぞ 大丈夫か？ どう着地するのこれ いくらふっかふかの木でもむりだぞ これは あ、なんか、会議してる なんか来た すっごい、でかい剣持ってるけど ホームランバットみたいな またなんか話してるな 主人公どうなったんだ？ えっ？ あ、鳥が逃げた ぉおおー！ よく死ななかったな。いや、死んでるのかもしれないけど。大丈夫かよ しかも、誰も気がついてない あっあ、歩ける！ こっから歩けるのか いえーい、チャンネル登録をして、最新の動画をチェックしてくれ 画面に映ってるりんご、バナナ、イチゴ、オレンジ、ライオン。俺をクリックしてくれ スマートフォンの人は、下にあるチャンネル登録ボタンか 説明欄にあるURLから登録をしてくれ",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=nxeD8ZI_AaU",
+ "video_id": "nxeD8ZI_AaU"
+}

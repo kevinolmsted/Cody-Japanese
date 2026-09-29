@@ -1,0 +1,904 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sq",
+   "language_name": "Albanian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "am",
+   "language_name": "Amharic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ar",
+   "language_name": "Arabic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ay",
+   "language_name": "Aymara"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "az",
+   "language_name": "Azerbaijani"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "bn",
+   "language_name": "Bangla"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "be",
+   "language_name": "Belarusian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "bs",
+   "language_name": "Bosnian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "bg",
+   "language_name": "Bulgarian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "my",
+   "language_name": "Burmese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh",
+   "language_name": "Chinese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-HK",
+   "language_name": "Chinese (Hong Kong)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-CN",
+   "language_name": "Chinese (China)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-Hans",
+   "language_name": "Chinese (Simplified)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-SG",
+   "language_name": "Chinese (Singapore)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-Hant",
+   "language_name": "Chinese (Traditional)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-TW",
+   "language_name": "Chinese (Taiwan)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "hr",
+   "language_name": "Croatian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "cs",
+   "language_name": "Czech"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "da",
+   "language_name": "Danish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "nl",
+   "language_name": "Dutch"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "en",
+   "language_name": "English"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "et",
+   "language_name": "Estonian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fil",
+   "language_name": "Filipino"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fi",
+   "language_name": "Finnish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fr",
+   "language_name": "French"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ka",
+   "language_name": "Georgian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "de",
+   "language_name": "German"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "el",
+   "language_name": "Greek"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "gu",
+   "language_name": "Gujarati"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "iw",
+   "language_name": "Hebrew"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "hi",
+   "language_name": "Hindi"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "hu",
+   "language_name": "Hungarian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "is",
+   "language_name": "Icelandic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "id",
+   "language_name": "Indonesian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "it",
+   "language_name": "Italian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ja",
+   "language_name": "Japanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "jv",
+   "language_name": "Javanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "kn",
+   "language_name": "Kannada"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "kk",
+   "language_name": "Kazakh"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ko",
+   "language_name": "Korean"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ky",
+   "language_name": "Kyrgyz"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "lv",
+   "language_name": "Latvian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "lt",
+   "language_name": "Lithuanian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ms",
+   "language_name": "Malay"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ml",
+   "language_name": "Malayalam"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "mr",
+   "language_name": "Marathi"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "mn",
+   "language_name": "Mongolian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "no",
+   "language_name": "Norwegian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "or",
+   "language_name": "Odia"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fa",
+   "language_name": "Persian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pl",
+   "language_name": "Polish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pt",
+   "language_name": "Portuguese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pa",
+   "language_name": "Punjabi"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ro",
+   "language_name": "Romanian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ru",
+   "language_name": "Russian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "gd",
+   "language_name": "Scottish Gaelic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sr",
+   "language_name": "Serbian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sk",
+   "language_name": "Slovak"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "es",
+   "language_name": "Spanish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sw",
+   "language_name": "Swahili"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sv",
+   "language_name": "Swedish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ta",
+   "language_name": "Tamil"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "te",
+   "language_name": "Telugu"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "th",
+   "language_name": "Thai"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "tr",
+   "language_name": "Turkish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "uk",
+   "language_name": "Ukrainian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ur",
+   "language_name": "Urdu"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "uz",
+   "language_name": "Uzbek"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "vi",
+   "language_name": "Vietnamese"
+  }
+ ],
+ "is_auto_generated": false,
+ "language": "Japanese",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "25389.000000000004",
+   "start_ms": "19437",
+   "start_time_text": "0:19",
+   "text": "昨夜は9時に寝ました"
+  },
+  {
+   "end_ms": "33645",
+   "start_ms": "29071",
+   "start_time_text": "0:29",
+   "text": "暑さに疲れて帰宅して"
+  },
+  {
+   "end_ms": "41306.00000000001",
+   "start_ms": "36761",
+   "start_time_text": "0:36",
+   "text": "シャワーをしたらすぐに寝ていました"
+  },
+  {
+   "end_ms": "51009",
+   "start_ms": "47153",
+   "start_time_text": "0:47",
+   "text": "いつも以上に空腹の朝です🤭"
+  },
+  {
+   "end_ms": "57452.00000000001",
+   "start_ms": "53566",
+   "start_time_text": "0:53",
+   "text": "残り少ないヨーグルトに アールグレイの茶葉を混ぜます"
+  },
+  {
+   "end_ms": "72637",
+   "start_ms": "68032",
+   "start_time_text": "1:08",
+   "text": "キッチンも静まり返っています。"
+  },
+  {
+   "end_ms": "85660",
+   "start_ms": "81175",
+   "start_time_text": "1:21",
+   "text": "こもった空気も入れ替えて、 新しい一日を始めよう"
+  },
+  {
+   "end_ms": "146662",
+   "start_ms": "142596",
+   "start_time_text": "2:22",
+   "text": "揚げ物料理をよくするせいで"
+  },
+  {
+   "end_ms": "153114.99999999997",
+   "start_ms": "148480",
+   "start_time_text": "2:28",
+   "text": "カバーに匂いや汚れがよく付きます"
+  },
+  {
+   "end_ms": "163430",
+   "start_ms": "157328",
+   "start_time_text": "2:37",
+   "text": "インテリアは失敗したなと思うことがよくあるのですが"
+  },
+  {
+   "end_ms": "171949",
+   "start_ms": "166835",
+   "start_time_text": "2:46",
+   "text": "カバーを丸洗いできるソファにしたのは正解でした😊"
+  },
+  {
+   "end_ms": "188067",
+   "start_ms": "182354",
+   "start_time_text": "3:02",
+   "text": "オキシクリーンと60℃のお湯に漬け置き"
+  },
+  {
+   "end_ms": "234517",
+   "start_ms": "230571",
+   "start_time_text": "3:50",
+   "text": "ももが熟れすぎてしまいました"
+  },
+  {
+   "end_ms": "261851.99999999997",
+   "start_ms": "257397",
+   "start_time_text": "4:17",
+   "text": "軽く水を切ったヨーグルト"
+  },
+  {
+   "end_ms": "316553",
+   "start_ms": "312098",
+   "start_time_text": "5:12",
+   "text": "水分たっぷりで、甘くて目が覚める朝食"
+  },
+  {
+   "end_ms": "323375",
+   "start_ms": "318141",
+   "start_time_text": "5:18",
+   "text": "紅茶の風味がついたヨーグルトがよく合います"
+  },
+  {
+   "end_ms": "347299",
+   "start_ms": "340868",
+   "start_time_text": "5:40",
+   "text": "買い物したいところが多くて AIに効率よく回れるルートを聞いてみました"
+  },
+  {
+   "end_ms": "356984",
+   "start_ms": "352409",
+   "start_time_text": "5:52",
+   "text": "架空のお店が出てきたので 頼りにするのをやめました😂"
+  },
+  {
+   "end_ms": "369198.99999999994",
+   "start_ms": "364085",
+   "start_time_text": "6:04",
+   "text": "お店が開くまで、 早めのランチを作ります。"
+  },
+  {
+   "end_ms": "425317",
+   "start_ms": "421311",
+   "start_time_text": "7:01",
+   "text": "乾燥容量オーバーなので 少し外に干します"
+  },
+  {
+   "end_ms": "437329",
+   "start_ms": "432754",
+   "start_time_text": "7:12",
+   "text": "今日はあっという間に乾きそうな天気です"
+  },
+  {
+   "end_ms": "464465",
+   "start_ms": "459351",
+   "start_time_text": "7:39",
+   "text": "生地を30分休ませながら ランチを作ります"
+  },
+  {
+   "end_ms": "498017",
+   "start_ms": "493532",
+   "start_time_text": "8:13",
+   "text": "牛乳・玉ねぎ・サーモン・バター"
+  },
+  {
+   "end_ms": "519683",
+   "start_ms": "515587",
+   "start_time_text": "8:35",
+   "text": "2つはソーセージのパン"
+  },
+  {
+   "end_ms": "542400",
+   "start_ms": "538424",
+   "start_time_text": "8:58",
+   "text": "ふたつはハートに"
+  },
+  {
+   "end_ms": "565368.9999999999",
+   "start_ms": "560165",
+   "start_time_text": "9:20",
+   "text": "玉ねぎ・サラダ油・酢・レモン汁・塩こしょう・からし"
+  },
+  {
+   "end_ms": "574665.9999999999",
+   "start_ms": "570121",
+   "start_time_text": "9:30",
+   "text": "ドレッシングを作り置きします"
+  },
+  {
+   "end_ms": "584861",
+   "start_ms": "582861",
+   "start_time_text": "9:42",
+   "text": "重曹"
+  },
+  {
+   "end_ms": "614332",
+   "start_ms": "612332",
+   "start_time_text": "10:12",
+   "text": "塩"
+  },
+  {
+   "end_ms": "706539",
+   "start_ms": "702473",
+   "start_time_text": "11:42",
+   "text": "サーモンのポタージュ 優しい色合いで温まります"
+  },
+  {
+   "end_ms": "721495",
+   "start_ms": "716231",
+   "start_time_text": "11:56",
+   "text": "プレッツェルのパン"
+  },
+  {
+   "end_ms": "726990",
+   "start_ms": "723732",
+   "start_time_text": "12:03",
+   "text": "程よいかたさで美味しいです"
+  },
+  {
+   "end_ms": "735235",
+   "start_ms": "730001",
+   "start_time_text": "12:10",
+   "text": "冷やすか迷ったけど、たまには温かいのもいいですね"
+  },
+  {
+   "end_ms": "754406",
+   "start_ms": "749322",
+   "start_time_text": "12:29",
+   "text": "生クリームが余っていたので アイスクリーム作り"
+  },
+  {
+   "end_ms": "761089",
+   "start_ms": "756514",
+   "start_time_text": "12:36",
+   "text": "抹茶・砂糖・卵・生クリーム"
+  },
+  {
+   "end_ms": "792148",
+   "start_ms": "787902",
+   "start_time_text": "13:07",
+   "text": "黒蜜を混ぜてみました"
+  },
+  {
+   "end_ms": "800659",
+   "start_ms": "796503",
+   "start_time_text": "13:16",
+   "text": "冷凍庫に仕込んで 出掛けます"
+  },
+  {
+   "end_ms": "818878",
+   "start_ms": "814542",
+   "start_time_text": "13:34",
+   "text": "キッチン用品が欲しくて cotogotoさんに来ました"
+  },
+  {
+   "end_ms": "829716",
+   "start_ms": "824872",
+   "start_time_text": "13:44",
+   "text": "最近、いつもと違うテイストの食器に惹かれます"
+  },
+  {
+   "end_ms": "845332",
+   "start_ms": "840667",
+   "start_time_text": "14:00",
+   "text": "お店に来ると 新しい発見がありますね"
+  },
+  {
+   "end_ms": "853746",
+   "start_ms": "849920",
+   "start_time_text": "14:09",
+   "text": "ずっと悩んでいる鍋です"
+  },
+  {
+   "end_ms": "860523",
+   "start_ms": "856816",
+   "start_time_text": "14:16",
+   "text": "こちらのフライパンは心に決めて来ました"
+  },
+  {
+   "end_ms": "878265",
+   "start_ms": "873391",
+   "start_time_text": "14:33",
+   "text": "まだお店を回りたいので 少し休憩です"
+  },
+  {
+   "end_ms": "896251",
+   "start_ms": "892395",
+   "start_time_text": "14:52",
+   "text": "8月の予定が少しずつ決まり始めました"
+  },
+  {
+   "end_ms": "909477",
+   "start_ms": "905321",
+   "start_time_text": "15:05",
+   "text": "セールもチェックしないと🤭"
+  },
+  {
+   "end_ms": "930477",
+   "start_ms": "926321",
+   "start_time_text": "15:26",
+   "text": "浴衣も受け取って、用事をすべて済ませました"
+  },
+  {
+   "end_ms": "945094.9999999999",
+   "start_ms": "938963",
+   "start_time_text": "15:38",
+   "text": "乾燥機よりベランダの方が早く乾きました"
+  },
+  {
+   "end_ms": "963668",
+   "start_ms": "958135",
+   "start_time_text": "15:58",
+   "text": "甘いもので休憩したかったので ちょうどよかったです🤭"
+  },
+  {
+   "end_ms": "988339",
+   "start_ms": "983794",
+   "start_time_text": "16:23",
+   "text": "ホワイトチョコレートもアイスに混ぜ込んでおきたかった・・・"
+  },
+  {
+   "end_ms": "1004071",
+   "start_ms": "999436",
+   "start_time_text": "16:39",
+   "text": "冷凍しておいた白玉団子もいい相性でした😋"
+  },
+  {
+   "end_ms": "1023977",
+   "start_ms": "1019192",
+   "start_time_text": "16:59",
+   "text": "浴衣ができあがりました"
+  },
+  {
+   "end_ms": "1037703",
+   "start_ms": "1033068",
+   "start_time_text": "17:13",
+   "text": "着物風にも着られるよう、襟を仕立ててもらいました"
+  },
+  {
+   "end_ms": "1056490",
+   "start_ms": "1049669",
+   "start_time_text": "17:29",
+   "text": "白地なので、透けにくいようにも仕立てていただき"
+  },
+  {
+   "end_ms": "1069557",
+   "start_ms": "1064593",
+   "start_time_text": "17:44",
+   "text": "自分だけの一着になったようで嬉しいです"
+  },
+  {
+   "end_ms": "1082237",
+   "start_ms": "1076884",
+   "start_time_text": "17:56",
+   "text": "シーツの匂いや黄ばみも綺麗になりました"
+  },
+  {
+   "end_ms": "1099704.0000000002",
+   "start_ms": "1095428",
+   "start_time_text": "18:15",
+   "text": "プチ気分転換に アームレストを外してみました"
+  },
+  {
+   "end_ms": "1115312",
+   "start_ms": "1111156",
+   "start_time_text": "18:31",
+   "text": "最後に買ってきたものも片付けます"
+  },
+  {
+   "end_ms": "1130389",
+   "start_ms": "1125964",
+   "start_time_text": "18:45",
+   "text": "友人が来た時に取り皿がなく困ったので セールでお皿を買いました"
+  },
+  {
+   "end_ms": "1138487",
+   "start_ms": "1133912",
+   "start_time_text": "18:53",
+   "text": "よく見るとお花の柄があって可愛いです"
+  },
+  {
+   "end_ms": "1157012",
+   "start_ms": "1152407",
+   "start_time_text": "19:12",
+   "text": "カルディで購入したごまみそめんつゆと豆乳"
+  },
+  {
+   "end_ms": "1161843",
+   "start_ms": "1158765",
+   "start_time_text": "19:18",
+   "text": "冷やしておきます"
+  },
+  {
+   "end_ms": "1178777",
+   "start_ms": "1175429",
+   "start_time_text": "19:35",
+   "text": "長ネギ・ミョウガ・大葉 薬味をたっぷり"
+  },
+  {
+   "end_ms": "1210360.0000000002",
+   "start_ms": "1207372",
+   "start_time_text": "20:07",
+   "text": "甘長唐辛子"
+  },
+  {
+   "end_ms": "1244874",
+   "start_ms": "1242874",
+   "start_time_text": "20:42",
+   "text": "九条ネギ"
+  },
+  {
+   "end_ms": "1283146",
+   "start_ms": "1281146",
+   "start_time_text": "21:21",
+   "text": "小柱"
+  },
+  {
+   "end_ms": "1301826",
+   "start_ms": "1298419",
+   "start_time_text": "21:38",
+   "text": "冷やしておきます"
+  },
+  {
+   "end_ms": "1310000",
+   "start_ms": "1306368",
+   "start_time_text": "21:46",
+   "text": "夏になると恋しくなる匂い"
+  },
+  {
+   "end_ms": "1388000",
+   "start_ms": "1380804",
+   "start_time_text": "23:00",
+   "text": "しょうが・すりごま・しょうゆ・酢・ごま油・辣油"
+  },
+  {
+   "end_ms": "1413029",
+   "start_ms": "1408424",
+   "start_time_text": "23:28",
+   "text": "わさび 梅でも美味しそう😋"
+  },
+  {
+   "end_ms": "1421307",
+   "start_ms": "1417511",
+   "start_time_text": "23:37",
+   "text": "白みそ・砂糖・酢・からし"
+  },
+  {
+   "end_ms": "1448623",
+   "start_ms": "1443060",
+   "start_time_text": "24:03",
+   "text": "大きな甘長唐辛子 食べ方を迷って大胆に食べてみることにしました🤭"
+  },
+  {
+   "end_ms": "1459831",
+   "start_ms": "1456214",
+   "start_time_text": "24:16",
+   "text": "もろみ味噌・クリームチーズ"
+  },
+  {
+   "end_ms": "1490611",
+   "start_ms": "1488611",
+   "start_time_text": "24:48",
+   "text": "梅そば"
+  },
+  {
+   "end_ms": "1542498",
+   "start_ms": "1536845",
+   "start_time_text": "25:36",
+   "text": "よく冷やした ごま豆乳だれが梅そばによく合いました"
+  },
+  {
+   "end_ms": "1563263",
+   "start_ms": "1559167",
+   "start_time_text": "25:59",
+   "text": "薬味をのせるのではなく 巻くという発想はなかったです🤭"
+  },
+  {
+   "end_ms": "1575998",
+   "start_ms": "1571962",
+   "start_time_text": "26:11",
+   "text": "暑くなると酸っぱい料理がより美味しいです"
+  },
+  {
+   "end_ms": "1590173",
+   "start_ms": "1585089",
+   "start_time_text": "26:25",
+   "text": "豪快すぎましたが 口福の味です🥰"
+  },
+  {
+   "end_ms": "1602415",
+   "start_ms": "1599397",
+   "start_time_text": "26:39",
+   "text": "最後までご視聴いただきありがとうございました"
+  }
+ ],
+ "transcript_only_text": "昨夜は9時に寝ました 暑さに疲れて帰宅して シャワーをしたらすぐに寝ていました いつも以上に空腹の朝です🤭 残り少ないヨーグルトに アールグレイの茶葉を混ぜます キッチンも静まり返っています。 こもった空気も入れ替えて、 新しい一日を始めよう 揚げ物料理をよくするせいで カバーに匂いや汚れがよく付きます インテリアは失敗したなと思うことがよくあるのですが カバーを丸洗いできるソファにしたのは正解でした😊 オキシクリーンと60℃のお湯に漬け置き ももが熟れすぎてしまいました 軽く水を切ったヨーグルト 水分たっぷりで、甘くて目が覚める朝食 紅茶の風味がついたヨーグルトがよく合います 買い物したいところが多くて AIに効率よく回れるルートを聞いてみました 架空のお店が出てきたので 頼りにするのをやめました😂 お店が開くまで、 早めのランチを作ります。 乾燥容量オーバーなので 少し外に干します 今日はあっという間に乾きそうな天気です 生地を30分休ませながら ランチを作ります 牛乳・玉ねぎ・サーモン・バター 2つはソーセージのパン ふたつはハートに 玉ねぎ・サラダ油・酢・レモン汁・塩こしょう・からし ドレッシングを作り置きします 重曹 塩 サーモンのポタージュ 優しい色合いで温まります プレッツェルのパン 程よいかたさで美味しいです 冷やすか迷ったけど、たまには温かいのもいいですね 生クリームが余っていたので アイスクリーム作り 抹茶・砂糖・卵・生クリーム 黒蜜を混ぜてみました 冷凍庫に仕込んで 出掛けます キッチン用品が欲しくて cotogotoさんに来ました 最近、いつもと違うテイストの食器に惹かれます お店に来ると 新しい発見がありますね ずっと悩んでいる鍋です こちらのフライパンは心に決めて来ました まだお店を回りたいので 少し休憩です 8月の予定が少しずつ決まり始めました セールもチェックしないと🤭 浴衣も受け取って、用事をすべて済ませました 乾燥機よりベランダの方が早く乾きました 甘いもので休憩したかったので ちょうどよかったです🤭 ホワイトチョコレートもアイスに混ぜ込んでおきたかった・・・ 冷凍しておいた白玉団子もいい相性でした😋 浴衣ができあがりました 着物風にも着られるよう、襟を仕立ててもらいました 白地なので、透けにくいようにも仕立てていただき 自分だけの一着になったようで嬉しいです シーツの匂いや黄ばみも綺麗になりました プチ気分転換に アームレストを外してみました 最後に買ってきたものも片付けます 友人が来た時に取り皿がなく困ったので セールでお皿を買いました よく見るとお花の柄があって可愛いです カルディで購入したごまみそめんつゆと豆乳 冷やしておきます 長ネギ・ミョウガ・大葉 薬味をたっぷり 甘長唐辛子 九条ネギ 小柱 冷やしておきます 夏になると恋しくなる匂い しょうが・すりごま・しょうゆ・酢・ごま油・辣油 わさび 梅でも美味しそう😋 白みそ・砂糖・酢・からし 大きな甘長唐辛子 食べ方を迷って大胆に食べてみることにしました🤭 もろみ味噌・クリームチーズ 梅そば よく冷やした ごま豆乳だれが梅そばによく合いました 薬味をのせるのではなく 巻くという発想はなかったです🤭 暑くなると酸っぱい料理がより美味しいです 豪快すぎましたが 口福の味です🥰 最後までご視聴いただきありがとうございました",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=Qr-YpEzZmLA",
+ "video_id": "Qr-YpEzZmLA"
+}

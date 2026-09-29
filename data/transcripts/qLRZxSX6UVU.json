@@ -1,0 +1,2368 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-HK",
+   "language_name": "Chinese (Hong Kong)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-TW",
+   "language_name": "Chinese (Taiwan)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "en",
+   "language_name": "English"
+  },
+  {
+   "is_translatable": true,
+   "kind": "auto",
+   "language_code": "ja",
+   "language_name": "Japanese (auto-generated)"
+  }
+ ],
+ "is_auto_generated": true,
+ "language": "Japanese (auto-generated)",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "9450",
+   "start_ms": "0",
+   "start_time_text": "0:00",
+   "text": "えーみなさんこんにちは声優の花江夏樹ですさあ今日はですねインサイドというゲーム"
+  },
+  {
+   "end_ms": "10410",
+   "start_ms": "5040",
+   "start_time_text": "0:05",
+   "text": "をプレイしていきたいんですけれどもまああのリトルナイトメアというゲームをやった"
+  },
+  {
+   "end_ms": "14639",
+   "start_ms": "9450",
+   "start_time_text": "0:09",
+   "text": "ときに"
+  },
+  {
+   "end_ms": "18330",
+   "start_ms": "10410",
+   "start_time_text": "0:10",
+   "text": "斎藤総額がねインサイドそしてこの会社が作ってるりんぼというね"
+  },
+  {
+   "end_ms": "20020",
+   "start_ms": "14639",
+   "start_time_text": "0:14",
+   "text": "ゲームが好きだというふうに言っていたので本当はそうが託されてやりたかったんです"
+  },
+  {
+   "end_ms": "25570",
+   "start_ms": "18330",
+   "start_time_text": "0:18",
+   "text": "けどプレイ済みだということで行"
+  },
+  {
+   "end_ms": "27180",
+   "start_ms": "20020",
+   "start_time_text": "0:20",
+   "text": "今回は1人でプレイしていきたいと思いますちょっとホラーチックなぁこれも謎解き急"
+  },
+  {
+   "end_ms": "28960",
+   "start_ms": "25570",
+   "start_time_text": "0:25",
+   "text": "なんですかね"
+  },
+  {
+   "end_ms": "30700",
+   "start_ms": "27180",
+   "start_time_text": "0:27",
+   "text": "じゃ早速"
+  },
+  {
+   "end_ms": "32920",
+   "start_ms": "28960",
+   "start_time_text": "0:28",
+   "text": "まあこれはかなり"
+  },
+  {
+   "end_ms": "36850",
+   "start_ms": "30700",
+   "start_time_text": "0:30",
+   "text": "雰囲気が最初からいいねぇ"
+  },
+  {
+   "end_ms": "42160.00000000001",
+   "start_ms": "32920",
+   "start_time_text": "0:32",
+   "text": "このところ子が主人公ですかねちょっと表情が見えない"
+  },
+  {
+   "end_ms": "45820",
+   "start_ms": "36850",
+   "start_time_text": "0:36",
+   "text": "なんか独特の姿をしてますけど赤いトレーナーがよく似合ってるね"
+  },
+  {
+   "end_ms": "49059",
+   "start_ms": "42160",
+   "start_time_text": "0:42",
+   "text": "8エアパソコンでプレイしてるんですけど"
+  },
+  {
+   "end_ms": "53530",
+   "start_ms": "45820",
+   "start_time_text": "0:45",
+   "text": "矢印キーですね4後期 a"
+  },
+  {
+   "end_ms": "57010",
+   "start_ms": "49059",
+   "start_time_text": "0:49",
+   "text": "左右と柄ウールジャンパーか i are 言えるジャンプ"
+  },
+  {
+   "end_ms": "61310",
+   "start_ms": "53530",
+   "start_time_text": "0:53",
+   "text": "とりあえず今んとこなんかそうそれだけっぽいこれは何ですかね"
+  },
+  {
+   "end_ms": "64489.00000000001",
+   "start_ms": "57010",
+   "start_time_text": "0:57",
+   "text": "森かあっあっつまずくからこれは効果"
+  },
+  {
+   "end_ms": "66750",
+   "start_ms": "61310",
+   "start_time_text": "1:01",
+   "text": "ジャンプジャンプでうわぁ"
+  },
+  {
+   "end_ms": "69810",
+   "start_ms": "64489.00000000001",
+   "start_time_text": "1:04",
+   "text": "怖いよこれ"
+  },
+  {
+   "end_ms": "73800",
+   "start_ms": "66750",
+   "start_time_text": "1:06",
+   "text": "実際こんなとこに迷い込んだらさあ"
+  },
+  {
+   "end_ms": "78360",
+   "start_ms": "69810",
+   "start_time_text": "1:09",
+   "text": "迷い込んだかどうかはわからないですけど"
+  },
+  {
+   "end_ms": "79670",
+   "start_ms": "73800",
+   "start_time_text": "1:13",
+   "text": "何だろうねどっかから逃げてるのかなあーどなんか言うして説明"
+  },
+  {
+   "end_ms": "82550",
+   "start_ms": "78360",
+   "start_time_text": "1:18",
+   "text": "多くグレる"
+  },
+  {
+   "end_ms": "85280",
+   "start_ms": "79670",
+   "start_time_text": "1:19",
+   "text": "はい滑ってトラック"
+  },
+  {
+   "end_ms": "91070",
+   "start_ms": "82550",
+   "start_time_text": "1:22",
+   "text": "わら人いる人を"
+  },
+  {
+   "end_ms": "93830",
+   "start_ms": "85280",
+   "start_time_text": "1:25",
+   "text": "摘果隠れるかクレー用とせずともこの日間でしまってるって事は"
+  },
+  {
+   "end_ms": "97009.99999999999",
+   "start_ms": "91070",
+   "start_time_text": "1:31",
+   "text": "あいつらに見つからない方がいいんだね"
+  },
+  {
+   "end_ms": "101820",
+   "start_ms": "93830",
+   "start_time_text": "1:33",
+   "text": "ok コレは確かにいいねなんかこの"
+  },
+  {
+   "end_ms": "105900",
+   "start_ms": "97010",
+   "start_time_text": "1:37",
+   "text": "動かしてこの世界を動いているだけでかなり楽しい"
+  },
+  {
+   "end_ms": "108820",
+   "start_ms": "101820",
+   "start_time_text": "1:41",
+   "text": "あーいるジェイブルー部分照らされている"
+  },
+  {
+   "end_ms": "110990.00000000001",
+   "start_ms": "105900",
+   "start_time_text": "1:45",
+   "text": "ゆっくりじゃんくるじゃん"
+  },
+  {
+   "end_ms": "112550",
+   "start_ms": "108820",
+   "start_time_text": "1:48",
+   "text": "待って待って待ってじゃないよ"
+  },
+  {
+   "end_ms": "114899.99999999999",
+   "start_ms": "110990",
+   "start_time_text": "1:50",
+   "text": "はい派"
+  },
+  {
+   "end_ms": "117539.99999999999",
+   "start_ms": "112550",
+   "start_time_text": "1:52",
+   "text": "これを頭と当てるとかのかな"
+  },
+  {
+   "end_ms": "122430",
+   "start_ms": "114900",
+   "start_time_text": "1:54",
+   "text": "これはもういいいけるのかこれっ"
+  },
+  {
+   "end_ms": "122790",
+   "start_ms": "117540",
+   "start_time_text": "1:57",
+   "text": "あ別にを取っに反応するわけじゃないんだねあのライトに照らされたらちょっとヤバい"
+  },
+  {
+   "end_ms": "129130",
+   "start_ms": "122430",
+   "start_time_text": "2:02",
+   "text": "んだ"
+  },
+  {
+   "end_ms": "133069.00000000003",
+   "start_ms": "122790",
+   "start_time_text": "2:02",
+   "text": "だからなんか脱走しているのかなこのコア子がなんかの実験施設とみたよ"
+  },
+  {
+   "end_ms": "136510",
+   "start_ms": "129130",
+   "start_time_text": "2:09",
+   "text": "この冷蔵庫特に触ることができない"
+  },
+  {
+   "end_ms": "136510",
+   "start_ms": "133069",
+   "start_time_text": "2:13",
+   "text": "壁際も特に"
+  },
+  {
+   "end_ms": "142340",
+   "start_ms": "137090",
+   "start_time_text": "2:17",
+   "text": "壁キックもできないんだよ"
+  },
+  {
+   "end_ms": "146730.00000000003",
+   "start_ms": "138710",
+   "start_time_text": "2:18",
+   "text": "なんかキーがあるのかなないとコントロールですか"
+  },
+  {
+   "end_ms": "149050",
+   "start_ms": "142340",
+   "start_time_text": "2:22",
+   "text": "あこう蛇行はいはいはいはいはいはい"
+  },
+  {
+   "end_ms": "151319",
+   "start_ms": "146730",
+   "start_time_text": "2:26",
+   "text": "でここに立てて"
+  },
+  {
+   "end_ms": "155219.00000000003",
+   "start_ms": "149050",
+   "start_time_text": "2:29",
+   "text": "でここでジャンプと"
+  },
+  {
+   "end_ms": "159988.99999999997",
+   "start_ms": "151319",
+   "start_time_text": "2:31",
+   "text": "あじゃあちょっとやっぱパズルだねこれね頭使っていくケラー"
+  },
+  {
+   "end_ms": "164140",
+   "start_ms": "155219",
+   "start_time_text": "2:35",
+   "text": "任せてくださいよ一人の時の方がやっぱり余計なこと考えないでいいからね"
+  },
+  {
+   "end_ms": "165960",
+   "start_ms": "159989",
+   "start_time_text": "2:39",
+   "text": "頭が冴えてゲームもうまく進む"
+  },
+  {
+   "end_ms": "167208.99999999997",
+   "start_ms": "164140",
+   "start_time_text": "2:44",
+   "text": "ってここ売りていいのかな"
+  },
+  {
+   "end_ms": "169540.00000000003",
+   "start_ms": "165960",
+   "start_time_text": "2:45",
+   "text": "ますます"
+  },
+  {
+   "end_ms": "169540",
+   "start_ms": "167209",
+   "start_time_text": "2:47",
+   "text": "滑れ"
+  },
+  {
+   "end_ms": "176540",
+   "start_ms": "171100",
+   "start_time_text": "2:51",
+   "text": "猫ジャンプ"
+  },
+  {
+   "end_ms": "179440",
+   "start_ms": "173200",
+   "start_time_text": "2:53",
+   "text": "では英国どうすんだろうあの箱か"
+  },
+  {
+   "end_ms": "182310",
+   "start_ms": "176540",
+   "start_time_text": "2:56",
+   "text": "これかはい"
+  },
+  {
+   "end_ms": "183450",
+   "start_ms": "179440",
+   "start_time_text": "2:59",
+   "text": "意外とちゃんと滑らせないでねー"
+  },
+  {
+   "end_ms": "190630",
+   "start_ms": "182310",
+   "start_time_text": "3:02",
+   "text": "これを"
+  },
+  {
+   "end_ms": "192899.99999999997",
+   "start_ms": "183450",
+   "start_time_text": "3:03",
+   "text": "これに乗っで行くとまずは基本操作が簡単だからいいね"
+  },
+  {
+   "end_ms": "196620",
+   "start_ms": "190630",
+   "start_time_text": "3:10",
+   "text": "うわぁチームいる"
+  },
+  {
+   "end_ms": "201420.00000000003",
+   "start_ms": "192900",
+   "start_time_text": "3:12",
+   "text": "アルコレ水の質感とか綺麗だね"
+  },
+  {
+   "end_ms": "203280",
+   "start_ms": "196620",
+   "start_time_text": "3:16",
+   "text": "もしかして3つが出てるヤバいじゃねぇやばいやばいんじゃいただいた上でこれまずよ"
+  },
+  {
+   "end_ms": "205660",
+   "start_ms": "201420",
+   "start_time_text": "3:21",
+   "text": "犬"
+  },
+  {
+   "end_ms": "209069",
+   "start_ms": "203280",
+   "start_time_text": "3:23",
+   "text": "ちょっだーっ"
+  },
+  {
+   "end_ms": "211549",
+   "start_ms": "205660",
+   "start_time_text": "3:25",
+   "text": "扇リー of ねー"
+  },
+  {
+   "end_ms": "211548.99999999997",
+   "start_ms": "209069",
+   "start_time_text": "3:29",
+   "text": "うわぁ"
+  },
+  {
+   "end_ms": "222069.00000000003",
+   "start_ms": "212150",
+   "start_time_text": "3:32",
+   "text": "んなとこも走ってたらこのねー年齢だったらもうやんなっちゃうよねー"
+  },
+  {
+   "end_ms": "226209",
+   "start_ms": "217870",
+   "start_time_text": "3:37",
+   "text": "心細くて心細くてこれいいの兵そしていいの"
+  },
+  {
+   "end_ms": "228119.99999999997",
+   "start_ms": "222069",
+   "start_time_text": "3:42",
+   "text": "今これ狙われのからも知らせこのばれているやばいやばい"
+  },
+  {
+   "end_ms": "229420.00000000003",
+   "start_ms": "226209",
+   "start_time_text": "3:46",
+   "text": "ここですおい"
+  },
+  {
+   "end_ms": "231840",
+   "start_ms": "228120",
+   "start_time_text": "3:48",
+   "text": "queen"
+  },
+  {
+   "end_ms": "231839.99999999997",
+   "start_ms": "229420",
+   "start_time_text": "3:49",
+   "text": "一濃い青"
+  },
+  {
+   "end_ms": "240350",
+   "start_ms": "232200",
+   "start_time_text": "3:52",
+   "text": "いよいよ"
+  },
+  {
+   "end_ms": "245280",
+   "start_ms": "234110",
+   "start_time_text": "3:54",
+   "text": "この原か順調ですね今のところここからだからより複雑ななんかその謎解きがね"
+  },
+  {
+   "end_ms": "248490",
+   "start_ms": "240350",
+   "start_time_text": "4:00",
+   "text": "出てくるんだろうね by the 的濃いんだなぁ顔見えてないから"
+  },
+  {
+   "end_ms": "250310",
+   "start_ms": "245280",
+   "start_time_text": "4:05",
+   "text": "あなんか降りており車から降りて行っていいのかな"
+  },
+  {
+   "end_ms": "255440",
+   "start_ms": "248490",
+   "start_time_text": "4:08",
+   "text": "行っちゃう"
+  },
+  {
+   "end_ms": "256250",
+   "start_ms": "250310",
+   "start_time_text": "4:10",
+   "text": "一応こちらされたのでもやばいんじゃないのああやばい3光未光未光未3日と5日"
+  },
+  {
+   "end_ms": "259969.99999999997",
+   "start_ms": "255440",
+   "start_time_text": "4:15",
+   "text": "取り付けている"
+  },
+  {
+   "end_ms": "265660",
+   "start_ms": "256250",
+   "start_time_text": "4:16",
+   "text": "12でミーレフォアじゃんっポワーン"
+  },
+  {
+   "end_ms": "265660",
+   "start_ms": "259970.00000000003",
+   "start_time_text": "4:19",
+   "text": "なら言うちゃん宅とんでもないよそれはもうええ"
+  },
+  {
+   "end_ms": "273660",
+   "start_ms": "266220",
+   "start_time_text": "4:26",
+   "text": "まじか o"
+  },
+  {
+   "end_ms": "277099.99999999994",
+   "start_ms": "267950",
+   "start_time_text": "4:27",
+   "text": "これでもを割るの確実の5連打ジャスコでつまずかないようにこれジャンプだろう"
+  },
+  {
+   "end_ms": "281000",
+   "start_ms": "273660",
+   "start_time_text": "4:33",
+   "text": "ではいはい走って走って走って"
+  },
+  {
+   "end_ms": "285410",
+   "start_ms": "277100",
+   "start_time_text": "4:37",
+   "text": "これちょっとアクション要素もあるのかうは絶好の上打たれた"
+  },
+  {
+   "end_ms": "286610",
+   "start_ms": "281000",
+   "start_time_text": "4:41",
+   "text": "もしかしてですけど消えるや消えないなこれ無理は行くしかないなこれはでも絶対追わ"
+  },
+  {
+   "end_ms": "290000",
+   "start_ms": "285410",
+   "start_time_text": "4:45",
+   "text": "れるイベントだ"
+  },
+  {
+   "end_ms": "293800",
+   "start_ms": "286610",
+   "start_time_text": "4:46",
+   "text": "あれ上に登っていくのかなこれ上にいくら者じゃこれ上に行ってみる"
+  },
+  {
+   "end_ms": "298820",
+   "start_ms": "290000",
+   "start_time_text": "4:50",
+   "text": "いけないわあああこれじゃあ何どっちパンッ"
+  },
+  {
+   "end_ms": "300640",
+   "start_ms": "293800",
+   "start_time_text": "4:53",
+   "text": "ちょっとずつ行けば大丈夫雪うわーやっぱダメだ"
+  },
+  {
+   "end_ms": "302430",
+   "start_ms": "298820",
+   "start_time_text": "4:58",
+   "text": "大きく距離をとって"
+  },
+  {
+   "end_ms": "303760",
+   "start_ms": "300640",
+   "start_time_text": "5:00",
+   "text": "[拍手]"
+  },
+  {
+   "end_ms": "306020",
+   "start_ms": "302430",
+   "start_time_text": "5:02",
+   "text": "あっ"
+  },
+  {
+   "end_ms": "309740",
+   "start_ms": "303760",
+   "start_time_text": "5:03",
+   "text": "はいバイバーイ"
+  },
+  {
+   "end_ms": "314690",
+   "start_ms": "306020",
+   "start_time_text": "5:06",
+   "text": "まず生まれきて家でキル集考えてが中"
+  },
+  {
+   "end_ms": "317750",
+   "start_ms": "309740",
+   "start_time_text": "5:09",
+   "text": "あ花占いとかあそこちょっと松田洋氏これで ok"
+  },
+  {
+   "end_ms": "322900",
+   "start_ms": "314690",
+   "start_time_text": "5:14",
+   "text": "高は売ってきてるまあ中は反則だろ"
+  },
+  {
+   "end_ms": "327300",
+   "start_ms": "317750",
+   "start_time_text": "5:17",
+   "text": "ゆっくりでも来てるね犬4つまずかないように気をつけて"
+  },
+  {
+   "end_ms": "327299.99999999994",
+   "start_ms": "322900",
+   "start_time_text": "5:22",
+   "text": "いぬ早いって eire"
+  },
+  {
+   "end_ms": "332060",
+   "start_ms": "328020",
+   "start_time_text": "5:28",
+   "text": "[拍手]"
+  },
+  {
+   "end_ms": "335729",
+   "start_ms": "330289",
+   "start_time_text": "5:30",
+   "text": "の"
+  },
+  {
+   "end_ms": "338920",
+   "start_ms": "332060",
+   "start_time_text": "5:32",
+   "text": "水中田を泳げるんだ"
+  },
+  {
+   "end_ms": "341270",
+   "start_ms": "335729",
+   "start_time_text": "5:35",
+   "text": "めちゃめちゃ殺意あるじゃん"
+  },
+  {
+   "end_ms": "343700",
+   "start_ms": "338920",
+   "start_time_text": "5:38",
+   "text": "んがそういう経過"
+  },
+  {
+   "end_ms": "346240",
+   "start_ms": "341270",
+   "start_time_text": "5:41",
+   "text": "1あんのか"
+  },
+  {
+   "end_ms": "346240",
+   "start_ms": "343700",
+   "start_time_text": "5:43",
+   "text": "おっけおっけ"
+  },
+  {
+   "end_ms": "354340.00000000006",
+   "start_ms": "346800",
+   "start_time_text": "5:46",
+   "text": "行けたみたいですねはい"
+  },
+  {
+   "end_ms": "357159.99999999994",
+   "start_ms": "349390",
+   "start_time_text": "5:49",
+   "text": "ここからだってもさあここ上行ったら照らされちゃうからダメだよね"
+  },
+  {
+   "end_ms": "361960",
+   "start_ms": "354340",
+   "start_time_text": "5:54",
+   "text": "いやー刺さってるまっスイカ"
+  },
+  {
+   "end_ms": "365380.00000000006",
+   "start_ms": "357160",
+   "start_time_text": "5:57",
+   "text": "はやっぱちょっとうまく逃げないといけないとあんま深く潜りすぎてもねぇ"
+  },
+  {
+   "end_ms": "373080",
+   "start_ms": "361960",
+   "start_time_text": "6:01",
+   "text": "なんかその息のゲージとかもないから体感だよね"
+  },
+  {
+   "end_ms": "374650",
+   "start_ms": "365380",
+   "start_time_text": "6:05",
+   "text": "2ちゃんが浮いてる a かわいそうにねもなんか国交もう施設から脱出したっぽい"
+  },
+  {
+   "end_ms": "378219.99999999994",
+   "start_ms": "373080",
+   "start_time_text": "6:13",
+   "text": "にょ"
+  },
+  {
+   "end_ms": "383440",
+   "start_ms": "374650",
+   "start_time_text": "6:14",
+   "text": "黄色いなぁなんかこれは果たしてでもどっち側に向かってんだろうね"
+  },
+  {
+   "end_ms": "386979.00000000006",
+   "start_ms": "378220",
+   "start_time_text": "6:18",
+   "text": "施設に戻っているのかそれとも何か外に外リード逃げて言ってるのかわかんないね"
+  },
+  {
+   "end_ms": "388070",
+   "start_ms": "383440",
+   "start_time_text": "6:23",
+   "text": "うわぁああめちゃくちゃ顔にバチバチ当たるなぁ"
+  },
+  {
+   "end_ms": "392330",
+   "start_ms": "386979",
+   "start_time_text": "6:26",
+   "text": "po"
+  },
+  {
+   "end_ms": "395630",
+   "start_ms": "388070",
+   "start_time_text": "6:28",
+   "text": "牧場あだから2いたんだテーマって雛"
+  },
+  {
+   "end_ms": "396620",
+   "start_ms": "392330",
+   "start_time_text": "6:32",
+   "text": "でめちゃくちゃ誓ってくる雛5 a 守って守ってじゃん"
+  },
+  {
+   "end_ms": "400639",
+   "start_ms": "395630",
+   "start_time_text": "6:35",
+   "text": "いうえええ"
+  },
+  {
+   "end_ms": "406100",
+   "start_ms": "396620",
+   "start_time_text": "6:36",
+   "text": "コッコロ運動上ブタめっちゃ死んでるうわぁ"
+  },
+  {
+   "end_ms": "409560",
+   "start_ms": "400639",
+   "start_time_text": "6:40",
+   "text": "やば何かあったのかなぁなんかその病気が蔓延して立ったさあ"
+  },
+  {
+   "end_ms": "413569",
+   "start_ms": "406100",
+   "start_time_text": "6:46",
+   "text": "そういう系かな家行為"
+  },
+  {
+   "end_ms": "415409",
+   "start_ms": "409560",
+   "start_time_text": "6:49",
+   "text": "はい大江ナイスチャプチェ受け身"
+  },
+  {
+   "end_ms": "416900.00000000006",
+   "start_ms": "413569",
+   "start_time_text": "6:53",
+   "text": "なんか電源入れるのか"
+  },
+  {
+   "end_ms": "418810",
+   "start_ms": "415409",
+   "start_time_text": "6:55",
+   "text": "ここだねっ"
+  },
+  {
+   "end_ms": "422080",
+   "start_ms": "416900",
+   "start_time_text": "6:56",
+   "text": "はいっ"
+  },
+  {
+   "end_ms": "424800",
+   "start_ms": "418810",
+   "start_time_text": "6:58",
+   "text": "ファイズはいいいよ"
+  },
+  {
+   "end_ms": "427349.99999999994",
+   "start_ms": "422080",
+   "start_time_text": "7:02",
+   "text": "開けちゃが集った"
+  },
+  {
+   "end_ms": "430520.00000000006",
+   "start_ms": "424800",
+   "start_time_text": "7:04",
+   "text": "でとレオンハハッ"
+  },
+  {
+   "end_ms": "433819",
+   "start_ms": "427350",
+   "start_time_text": "7:07",
+   "text": "あ正直 a"
+  },
+  {
+   "end_ms": "437859.99999999994",
+   "start_ms": "430520",
+   "start_time_text": "7:10",
+   "text": "この加工さああれで落とすじゃないな"
+  },
+  {
+   "end_ms": "441070",
+   "start_ms": "433819",
+   "start_time_text": "7:13",
+   "text": "一応だそっちなんかあんのかなあこち流れ"
+  },
+  {
+   "end_ms": "444880",
+   "start_ms": "437860",
+   "start_time_text": "7:17",
+   "text": "を外せるあっ恋なんかアレか"
+  },
+  {
+   "end_ms": "449020",
+   "start_ms": "441070",
+   "start_time_text": "7:21",
+   "text": "夢ちゃくちゃひよ恋んじゃあわかっちゃったかも"
+  },
+  {
+   "end_ms": "452860",
+   "start_ms": "444880",
+   "start_time_text": "7:24",
+   "text": "雛だろう雛引き連れてってであの"
+  },
+  {
+   "end_ms": "456669",
+   "start_ms": "449020",
+   "start_time_text": "7:29",
+   "text": "機会につい来ませて雛を弾丸と化して"
+  },
+  {
+   "end_ms": "459819",
+   "start_ms": "452860",
+   "start_time_text": "7:32",
+   "text": "であのブロックを落とすとあきたきたきたきたきちゃったーーーー"
+  },
+  {
+   "end_ms": "463719.99999999994",
+   "start_ms": "456669",
+   "start_time_text": "7:36",
+   "text": "じゃあかわいい濃い濃い濃いこれか"
+  },
+  {
+   "end_ms": "467340.00000000006",
+   "start_ms": "459819",
+   "start_time_text": "7:39",
+   "text": "あーきたきたきたきたかわいいじゃぜひお子だじぇ"
+  },
+  {
+   "end_ms": "467340.00000000006",
+   "start_ms": "463720",
+   "start_time_text": "7:43",
+   "text": "ここで大樹だほい"
+  },
+  {
+   "end_ms": "473969",
+   "start_ms": "467639",
+   "start_time_text": "7:47",
+   "text": "全然あるじゃんあるよ工法"
+  },
+  {
+   "end_ms": "478499",
+   "start_ms": "470620",
+   "start_time_text": "7:50",
+   "text": "ギリギリまでここに待機させて"
+  },
+  {
+   "end_ms": "481870",
+   "start_ms": "473969",
+   "start_time_text": "7:53",
+   "text": "day ひよっこに追いつかれないようにして寄付クンター"
+  },
+  {
+   "end_ms": "483780.00000000006",
+   "start_ms": "478499",
+   "start_time_text": "7:58",
+   "text": "うーんここに来た時に一気兄"
+  },
+  {
+   "end_ms": "485760",
+   "start_ms": "481870",
+   "start_time_text": "8:01",
+   "text": "水ごめん"
+  },
+  {
+   "end_ms": "491099.99999999994",
+   "start_ms": "483780",
+   "start_time_text": "8:03",
+   "text": "416分"
+  },
+  {
+   "end_ms": "496650",
+   "start_ms": "485760",
+   "start_time_text": "8:05",
+   "text": "すげーマジであってんだこれやばこのゲームやがー"
+  },
+  {
+   "end_ms": "497310",
+   "start_ms": "491100",
+   "start_time_text": "8:11",
+   "text": "発想がおかしいよ記憶のなんだと思ってんだよここな乱暴に扱う県がこの世に存在する"
+  },
+  {
+   "end_ms": "501429.99999999994",
+   "start_ms": "496650",
+   "start_time_text": "8:16",
+   "text": "とはね"
+  },
+  {
+   "end_ms": "504810",
+   "start_ms": "497310",
+   "start_time_text": "8:17",
+   "text": "にわかに信じ難いけどこれが現実だあの豚2"
+  },
+  {
+   "end_ms": "504810",
+   "start_ms": "501430",
+   "start_time_text": "8:21",
+   "text": "すごい2に2離着陸"
+  },
+  {
+   "end_ms": "527410",
+   "start_ms": "513860",
+   "start_time_text": "8:33",
+   "text": "ブーブーにょ水パでもミーハー here や日足がっ"
+  },
+  {
+   "end_ms": "529160.0000000001",
+   "start_ms": "523960.00000000006",
+   "start_time_text": "8:43",
+   "text": "とられるうわぁまずいこれ小池のかこのまま"
+  },
+  {
+   "end_ms": "531310",
+   "start_ms": "527410",
+   "start_time_text": "8:47",
+   "text": "あっ花見を"
+  },
+  {
+   "end_ms": "531310",
+   "start_ms": "529160",
+   "start_time_text": "8:49",
+   "text": "大"
+  },
+  {
+   "end_ms": "537930.0000000001",
+   "start_ms": "531700",
+   "start_time_text": "8:51",
+   "text": "このままアワー"
+  },
+  {
+   "end_ms": "539800",
+   "start_ms": "533790",
+   "start_time_text": "8:53",
+   "text": "ミミズというかこれ氏みたいなもう帰省中だった"
+  },
+  {
+   "end_ms": "542579",
+   "start_ms": "537930",
+   "start_time_text": "8:57",
+   "text": "うわぁ"
+  },
+  {
+   "end_ms": "546510",
+   "start_ms": "539800",
+   "start_time_text": "8:59",
+   "text": "パドック後はいっ"
+  },
+  {
+   "end_ms": "550359.9999999999",
+   "start_ms": "542579",
+   "start_time_text": "9:02",
+   "text": "持っな躰道ではこれをラブラブラガー"
+  },
+  {
+   "end_ms": "553340",
+   "start_ms": "546510",
+   "start_time_text": "9:06",
+   "text": "ああこれはが闘牛東急システムだ"
+  },
+  {
+   "end_ms": "556940",
+   "start_ms": "550360",
+   "start_time_text": "9:10",
+   "text": "これ壁に激突させ a"
+  },
+  {
+   "end_ms": "558360",
+   "start_ms": "553340",
+   "start_time_text": "9:13",
+   "text": "煌4回きたきたきたきた13"
+  },
+  {
+   "end_ms": "561300.0000000001",
+   "start_ms": "556940",
+   "start_time_text": "9:16",
+   "text": "ふーん"
+  },
+  {
+   "end_ms": "565160",
+   "start_ms": "558360",
+   "start_time_text": "9:18",
+   "text": "よしうらウェイ"
+  },
+  {
+   "end_ms": "565160",
+   "start_ms": "561300",
+   "start_time_text": "9:21",
+   "text": "おあわかったここだん"
+  },
+  {
+   "end_ms": "572080",
+   "start_ms": "566380",
+   "start_time_text": "9:26",
+   "text": "いけないん"
+  },
+  {
+   "end_ms": "574130",
+   "start_ms": "567350",
+   "start_time_text": "9:27",
+   "text": "あそこのれないのか家シュッとはめちゃくちゃ迷惑だなお前"
+  },
+  {
+   "end_ms": "576030.0000000001",
+   "start_ms": "572080",
+   "start_time_text": "9:32",
+   "text": "ここじゃないと思う"
+  },
+  {
+   "end_ms": "582860",
+   "start_ms": "574130",
+   "start_time_text": "9:34",
+   "text": "ゴッ"
+  },
+  {
+   "end_ms": "582860",
+   "start_ms": "576030",
+   "start_time_text": "9:36",
+   "text": "ok なもんねうんなんかを組んでも広いいうあれか蓋を引きずってくるのかなぜ"
+  },
+  {
+   "end_ms": "585700",
+   "start_ms": "583130",
+   "start_time_text": "9:43",
+   "text": "入場ん"
+  },
+  {
+   "end_ms": "594430",
+   "start_ms": "586680",
+   "start_time_text": "9:46",
+   "text": "プリッとしたっ"
+  },
+  {
+   "end_ms": "595060.0000000001",
+   "start_ms": "588700",
+   "start_time_text": "9:48",
+   "text": "ぐっちょちきてきてきて te 大丈夫大丈夫いいからいいかぁをついてきて1回"
+  },
+  {
+   "end_ms": "602620",
+   "start_ms": "594430",
+   "start_time_text": "9:54",
+   "text": "大丈夫"
+  },
+  {
+   "end_ms": "604869.9999999999",
+   "start_ms": "595060",
+   "start_time_text": "9:55",
+   "text": "以下色9線9000興奮や古文書のもちもち毒持ちごちそ素行もここであの私のるから"
+  },
+  {
+   "end_ms": "607450",
+   "start_ms": "602620",
+   "start_time_text": "10:02",
+   "text": "なんだこれですごい"
+  },
+  {
+   "end_ms": "611920",
+   "start_ms": "604870",
+   "start_time_text": "10:04",
+   "text": "後ろの人たちが動いてるあ"
+  },
+  {
+   "end_ms": "614860",
+   "start_ms": "607450",
+   "start_time_text": "10:07",
+   "text": "1回この文をコントロールを押すことによって"
+  },
+  {
+   "end_ms": "616550",
+   "start_ms": "611920",
+   "start_time_text": "10:11",
+   "text": "ならから2人なら開けられ"
+  },
+  {
+   "end_ms": "622550.0000000001",
+   "start_ms": "614860",
+   "start_time_text": "10:14",
+   "text": "4人可"
+  },
+  {
+   "end_ms": "625229.9999999999",
+   "start_ms": "616550",
+   "start_time_text": "10:16",
+   "text": "4人がかりでいかなきゃいけないんだまずじゃあここでこの右の2人に打つかませた"
+  },
+  {
+   "end_ms": "628160",
+   "start_ms": "622550",
+   "start_time_text": "10:22",
+   "text": "状態でこっちは右に来てもらおう"
+  },
+  {
+   "end_ms": "629640",
+   "start_ms": "625230",
+   "start_time_text": "10:25",
+   "text": "でこれで上に"
+  },
+  {
+   "end_ms": "632569.9999999999",
+   "start_ms": "628160",
+   "start_time_text": "10:28",
+   "text": "はぁああああああん"
+  },
+  {
+   "end_ms": "636949.9999999999",
+   "start_ms": "629640",
+   "start_time_text": "10:29",
+   "text": "オスのかなあ押すんだね"
+  },
+  {
+   "end_ms": "638170.0000000001",
+   "start_ms": "632570",
+   "start_time_text": "10:32",
+   "text": "一度集団で弾くは-で行けるねはいはいはいはい"
+  },
+  {
+   "end_ms": "643930.0000000001",
+   "start_ms": "636950",
+   "start_time_text": "10:36",
+   "text": "ん"
+  },
+  {
+   "end_ms": "647760",
+   "start_ms": "638170",
+   "start_time_text": "10:38",
+   "text": "この工場もやばいねー働いてた人達なのかなこれは"
+  },
+  {
+   "end_ms": "651888.9999999999",
+   "start_ms": "643930",
+   "start_time_text": "10:43",
+   "text": "どうやらダメっぽいあこれは普通に持ち上げる"
+  },
+  {
+   "end_ms": "653750",
+   "start_ms": "647760",
+   "start_time_text": "10:47",
+   "text": "光だあーそとかいいよ明るさいいよ"
+  },
+  {
+   "end_ms": "656930.0000000001",
+   "start_ms": "651889",
+   "start_time_text": "10:51",
+   "text": "これもクリアじゃないか"
+  },
+  {
+   "end_ms": "662490",
+   "start_ms": "653750",
+   "start_time_text": "10:53",
+   "text": "希望の光させてるしもう誰すごい"
+  },
+  {
+   "end_ms": "664760",
+   "start_ms": "656930",
+   "start_time_text": "10:56",
+   "text": "めちゃくちゃみんな首がナナメってるよ徹夜で並んでんだろうなーれ"
+  },
+  {
+   "end_ms": "672940",
+   "start_ms": "662490",
+   "start_time_text": "11:02",
+   "text": "を引くのか"
+  },
+  {
+   "end_ms": "672939.9999999999",
+   "start_ms": "664760",
+   "start_time_text": "11:04",
+   "text": "有紀かなイネオスをしてあれを下げて結局あまり下げてあれから乗れるはず"
+  },
+  {
+   "end_ms": "679350",
+   "start_ms": "674220",
+   "start_time_text": "11:14",
+   "text": "入ったいいですね"
+  },
+  {
+   "end_ms": "684930.0000000001",
+   "start_ms": "676700",
+   "start_time_text": "11:16",
+   "text": "特に揺れなくてもいいのか"
+  },
+  {
+   "end_ms": "689400",
+   "start_ms": "679350",
+   "start_time_text": "11:19",
+   "text": "この後すごい腕力あるねえこのサスケの最終ステージだもんだってこのロープ"
+  },
+  {
+   "end_ms": "696030",
+   "start_ms": "684930",
+   "start_time_text": "11:24",
+   "text": "いいなぁでも俺もちっちゃいこれはすごい運動神経あったんだけどね"
+  },
+  {
+   "end_ms": "699340",
+   "start_ms": "689400",
+   "start_time_text": "11:29",
+   "text": "今はもうねやっぱその学生の時に早く動けてた自分を思い出しちゃって"
+  },
+  {
+   "end_ms": "703720",
+   "start_ms": "696030",
+   "start_time_text": "11:36",
+   "text": "そのギャップに動けなくなるよねその体のを"
+  },
+  {
+   "end_ms": "707910.0000000001",
+   "start_ms": "699340",
+   "start_time_text": "11:39",
+   "text": "泥会を認めたくない感じ全然運動してないですからね"
+  },
+  {
+   "end_ms": "707910.0000000001",
+   "start_ms": "703720",
+   "start_time_text": "11:43",
+   "text": "もうホーム警戒すぎて楽しい"
+  },
+  {
+   "end_ms": "716370",
+   "start_ms": "709040",
+   "start_time_text": "11:49",
+   "text": "乗っていた"
+  },
+  {
+   "end_ms": "718870",
+   "start_ms": "710610",
+   "start_time_text": "11:50",
+   "text": "あーはいはいはいはいはいまずちょっとこっちに向けといって1回上にあげていますか"
+  },
+  {
+   "end_ms": "723850",
+   "start_ms": "716370",
+   "start_time_text": "11:56",
+   "text": "それでどうなるのかあ"
+  },
+  {
+   "end_ms": "726010",
+   "start_ms": "718870",
+   "start_time_text": "11:58",
+   "text": "あれかもどって来ないここからまた飛べばいいんだこれで読書 ok"
+  },
+  {
+   "end_ms": "729080",
+   "start_ms": "723850",
+   "start_time_text": "12:03",
+   "text": "by 楽しいぞ"
+  },
+  {
+   "end_ms": "730410",
+   "start_ms": "726010",
+   "start_time_text": "12:06",
+   "text": "次がこの均衡を落とす"
+  },
+  {
+   "end_ms": "734990",
+   "start_ms": "729080",
+   "start_time_text": "12:09",
+   "text": "photos"
+  },
+  {
+   "end_ms": "734990",
+   "start_ms": "730410",
+   "start_time_text": "12:10",
+   "text": "落として何が出てくるながら桜"
+  },
+  {
+   "end_ms": "740489.9999999999",
+   "start_ms": "735310",
+   "start_time_text": "12:15",
+   "text": "ちんが絶妙なアレでやんなきゃいけないんだ"
+  },
+  {
+   "end_ms": "743760",
+   "start_ms": "739040",
+   "start_time_text": "12:19",
+   "text": "yeah"
+  },
+  {
+   "end_ms": "747959.0000000001",
+   "start_ms": "740490",
+   "start_time_text": "12:20",
+   "text": "この距離だったら霧生きてるはダメなんだ"
+  },
+  {
+   "end_ms": "749080",
+   "start_ms": "743760",
+   "start_time_text": "12:23",
+   "text": "落としてここ護衛"
+  },
+  {
+   "end_ms": "752199.9999999999",
+   "start_ms": "747959",
+   "start_time_text": "12:27",
+   "text": "ねー"
+  },
+  {
+   "end_ms": "755710",
+   "start_ms": "749080",
+   "start_time_text": "12:29",
+   "text": "よし戻りましょうちょちっておりますこれ普通のリジーのこの"
+  },
+  {
+   "end_ms": "759250",
+   "start_ms": "752200",
+   "start_time_text": "12:32",
+   "text": "をなこれ野田いけるをこれ隠し要素じゃないかも知れ"
+  },
+  {
+   "end_ms": "764380",
+   "start_ms": "755710",
+   "start_time_text": "12:35",
+   "text": "の分野風に gantz ガンツじゃあねこれは実績ロック"
+  },
+  {
+   "end_ms": "769320",
+   "start_ms": "759250",
+   "start_time_text": "12:39",
+   "text": "左後方に取り残されてアコやっぱ実績各種やだねこれねこういうのが存在するんだな"
+  },
+  {
+   "end_ms": "769320",
+   "start_ms": "764380",
+   "start_time_text": "12:44",
+   "text": "このちょっとねぇできるだけ見落とさずにいきたいですね"
+  },
+  {
+   "end_ms": "773500",
+   "start_ms": "769950",
+   "start_time_text": "12:49",
+   "text": "そして"
+  },
+  {
+   "end_ms": "775150",
+   "start_ms": "771420",
+   "start_time_text": "12:51",
+   "text": "これ"
+  },
+  {
+   "end_ms": "777819",
+   "start_ms": "773500",
+   "start_time_text": "12:53",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "780560",
+   "start_ms": "775150",
+   "start_time_text": "12:55",
+   "text": "はいはいはいはい"
+  },
+  {
+   "end_ms": "783610",
+   "start_ms": "777819",
+   "start_time_text": "12:57",
+   "text": "てまた一出てくんだね"
+  },
+  {
+   "end_ms": "786199.9999999999",
+   "start_ms": "780560",
+   "start_time_text": "13:00",
+   "text": "これ届くこの後6船さあ"
+  },
+  {
+   "end_ms": "788050.0000000001",
+   "start_ms": "783610",
+   "start_time_text": "13:03",
+   "text": "次出てくるのは誰なのか"
+  },
+  {
+   "end_ms": "790060.0000000001",
+   "start_ms": "786200",
+   "start_time_text": "13:06",
+   "text": "を"
+  },
+  {
+   "end_ms": "792390",
+   "start_ms": "788050",
+   "start_time_text": "13:08",
+   "text": "鏡映しの"
+  },
+  {
+   "end_ms": "792390",
+   "start_ms": "790060",
+   "start_time_text": "13:10",
+   "text": "なんだ"
+  },
+  {
+   "end_ms": "801180.0000000001",
+   "start_ms": "792700",
+   "start_time_text": "13:12",
+   "text": "あー2人に産ませるのかああそういうことか"
+  },
+  {
+   "end_ms": "801180.0000000001",
+   "start_ms": "796570",
+   "start_time_text": "13:16",
+   "text": "踏ませと言ってこれ開いて"
+  },
+  {
+   "end_ms": "808550",
+   "start_ms": "801810",
+   "start_time_text": "13:21",
+   "text": "でこのまま右にスライドしていけば"
+  },
+  {
+   "end_ms": "814000",
+   "start_ms": "805540",
+   "start_time_text": "13:25",
+   "text": "いけるじゃん"
+  },
+  {
+   "end_ms": "814000",
+   "start_ms": "808550",
+   "start_time_text": "13:28",
+   "text": "ばためだ収益ったらどうなんだろうでも変わんないか"
+  },
+  {
+   "end_ms": "821710",
+   "start_ms": "815820",
+   "start_time_text": "13:35",
+   "text": "あーでもこーだ"
+  },
+  {
+   "end_ms": "825560.0000000001",
+   "start_ms": "819370",
+   "start_time_text": "13:39",
+   "text": "なんだ簡単だったねー"
+  },
+  {
+   "end_ms": "830270",
+   "start_ms": "821710",
+   "start_time_text": "13:41",
+   "text": "深く考えすぎじゃない1回ちゃんと"
+  },
+  {
+   "end_ms": "837520",
+   "start_ms": "825560",
+   "start_time_text": "13:45",
+   "text": "戸締まりをすればなんてことなかったのかって電車とかもあるから"
+  },
+  {
+   "end_ms": "839329.9999999999",
+   "start_ms": "830270",
+   "start_time_text": "13:50",
+   "text": "ここはなんだろうねこの先逃げてきた施設の一部なのかーそれとまぁ別のまた施設に"
+  },
+  {
+   "end_ms": "841439.9999999999",
+   "start_ms": "837520",
+   "start_time_text": "13:57",
+   "text": "移ってるのか"
+  },
+  {
+   "end_ms": "843220",
+   "start_ms": "839330",
+   "start_time_text": "13:59",
+   "text": "このボーリー-8"
+  },
+  {
+   "end_ms": "844630.0000000001",
+   "start_ms": "841440",
+   "start_time_text": "14:01",
+   "text": "by よ危ないよーっ"
+  },
+  {
+   "end_ms": "847100",
+   "start_ms": "843220",
+   "start_time_text": "14:03",
+   "text": "すごいなぁ"
+  },
+  {
+   "end_ms": "849889",
+   "start_ms": "844630",
+   "start_time_text": "14:04",
+   "text": "サスケくんだねサスケくん"
+  },
+  {
+   "end_ms": "853759",
+   "start_ms": "847100",
+   "start_time_text": "14:07",
+   "text": "安全のパルクール上級者"
+  },
+  {
+   "end_ms": "857689",
+   "start_ms": "849889",
+   "start_time_text": "14:09",
+   "text": "こんな所も怖くてさあほらぷっ"
+  },
+  {
+   "end_ms": "865209.0000000001",
+   "start_ms": "853759",
+   "start_time_text": "14:13",
+   "text": "うわ切り間口と明るさはあるからね"
+  },
+  {
+   "end_ms": "868620",
+   "start_ms": "857689",
+   "start_time_text": "14:17",
+   "text": "いやあああっああっちゃま者だ左をここは良い一回泊まって落ち着いて"
+  },
+  {
+   "end_ms": "876750",
+   "start_ms": "865209",
+   "start_time_text": "14:25",
+   "text": "はいしたうはみんな何か"
+  },
+  {
+   "end_ms": "877230",
+   "start_ms": "868620",
+   "start_time_text": "14:28",
+   "text": "同じ方向すっごいみんなで不足の状態で歩いてるのんが完全にもねってないよねこれは"
+  },
+  {
+   "end_ms": "883200",
+   "start_ms": "876750",
+   "start_time_text": "14:36",
+   "text": "ね"
+  },
+  {
+   "end_ms": "884190",
+   "start_ms": "877230",
+   "start_time_text": "14:37",
+   "text": "ネズミーとさあリトルナイトメアでへねずみあーいいねぇ衝撃的なあの展開だったから"
+  },
+  {
+   "end_ms": "887730",
+   "start_ms": "883200",
+   "start_time_text": "14:43",
+   "text": "な"
+  },
+  {
+   "end_ms": "889270.0000000001",
+   "start_ms": "884190",
+   "start_time_text": "14:44",
+   "text": "あるのイメージかないなぁ貼っここを飛びするのか"
+  },
+  {
+   "end_ms": "890840",
+   "start_ms": "887730",
+   "start_time_text": "14:47",
+   "text": "生きる"
+  },
+  {
+   "end_ms": "893649",
+   "start_ms": "889270",
+   "start_time_text": "14:49",
+   "text": "だめだねぇ"
+  },
+  {
+   "end_ms": "894930.0000000001",
+   "start_ms": "890840",
+   "start_time_text": "14:50",
+   "text": "ははしごをこっち側に"
+  },
+  {
+   "end_ms": "897529",
+   "start_ms": "893649",
+   "start_time_text": "14:53",
+   "text": "だねっ"
+  },
+  {
+   "end_ms": "899030",
+   "start_ms": "894930",
+   "start_time_text": "14:54",
+   "text": "いきましって"
+  },
+  {
+   "end_ms": "901840",
+   "start_ms": "897529",
+   "start_time_text": "14:57",
+   "text": "効果派"
+  },
+  {
+   "end_ms": "901839.9999999999",
+   "start_ms": "899030",
+   "start_time_text": "14:59",
+   "text": "me"
+  },
+  {
+   "end_ms": "908960",
+   "start_ms": "903450",
+   "start_time_text": "15:03",
+   "text": "まずいよこれ"
+  },
+  {
+   "end_ms": "910980",
+   "start_ms": "905830",
+   "start_time_text": "15:05",
+   "text": "1回ライト消した状態でっていうか"
+  },
+  {
+   "end_ms": "913320",
+   "start_ms": "908960",
+   "start_time_text": "15:08",
+   "text": "あのそしたら"
+  },
+  {
+   "end_ms": "918080",
+   "start_ms": "910980",
+   "start_time_text": "15:10",
+   "text": "あれかな"
+  },
+  {
+   "end_ms": "918080",
+   "start_ms": "913320",
+   "start_time_text": "15:13",
+   "text": "ここの電源が入ってないからかないんだこれでも"
+  },
+  {
+   "end_ms": "926870",
+   "start_ms": "918470",
+   "start_time_text": "15:18",
+   "text": "ここあらかじめねあけといたほうが良かったね絶対"
+  },
+  {
+   "end_ms": "929459",
+   "start_ms": "921650",
+   "start_time_text": "15:21",
+   "text": "でライトをたぶんこの柱の陰に隠れながら彼はしてくんだろうね"
+  },
+  {
+   "end_ms": "932040",
+   "start_ms": "926870",
+   "start_time_text": "15:26",
+   "text": "これはいきます"
+  },
+  {
+   "end_ms": "934089",
+   "start_ms": "929459",
+   "start_time_text": "15:29",
+   "text": "うわっ学校行きやばいなぁ"
+  },
+  {
+   "end_ms": "935640",
+   "start_ms": "932040",
+   "start_time_text": "15:32",
+   "text": "はいここまず分"
+  },
+  {
+   "end_ms": "939600",
+   "start_ms": "934089",
+   "start_time_text": "15:34",
+   "text": "ん"
+  },
+  {
+   "end_ms": "940860",
+   "start_ms": "935640",
+   "start_time_text": "15:35",
+   "text": "でこのライトとともに入って隠れる"
+  },
+  {
+   "end_ms": "941880",
+   "start_ms": "939600",
+   "start_time_text": "15:39",
+   "text": "赤く"
+  },
+  {
+   "end_ms": "947889",
+   "start_ms": "940860",
+   "start_time_text": "15:40",
+   "text": "で"
+  },
+  {
+   "end_ms": "950579",
+   "start_ms": "941880",
+   "start_time_text": "15:41",
+   "text": "あ五穀空けといて良かった街あぶられた"
+  },
+  {
+   "end_ms": "950579.0000000001",
+   "start_ms": "947889",
+   "start_time_text": "15:47",
+   "text": "冴えてるねー"
+  },
+  {
+   "end_ms": "956730",
+   "start_ms": "951860",
+   "start_time_text": "15:51",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "960569.9999999999",
+   "start_ms": "953550",
+   "start_time_text": "15:53",
+   "text": "ちょっと暇以前"
+  },
+  {
+   "end_ms": "964040",
+   "start_ms": "956730",
+   "start_time_text": "15:56",
+   "text": "合法ブログラムよこれまたパキルシオ"
+  },
+  {
+   "end_ms": "966140.0000000001",
+   "start_ms": "960570",
+   "start_time_text": "16:00",
+   "text": "嫌ウンコま純子あれは完全にうんち"
+  },
+  {
+   "end_ms": "970910",
+   "start_ms": "964040",
+   "start_time_text": "16:04",
+   "text": "いやー"
+  },
+  {
+   "end_ms": "972830",
+   "start_ms": "966140",
+   "start_time_text": "16:06",
+   "text": "今日は困ったまず今津よ"
+  },
+  {
+   "end_ms": "976750",
+   "start_ms": "970910",
+   "start_time_text": "16:10",
+   "text": "ドロンドロン"
+  },
+  {
+   "end_ms": "983000",
+   "start_ms": "972830",
+   "start_time_text": "16:12",
+   "text": "あっちょクリしてフリフリして"
+  },
+  {
+   "end_ms": "986500",
+   "start_ms": "976750",
+   "start_time_text": "16:16",
+   "text": "大沢池寝不足でして阿蘇辺で右側でして"
+  },
+  {
+   "end_ms": "986500",
+   "start_ms": "983000",
+   "start_time_text": "16:23",
+   "text": "止めめっちゃついてくれん"
+  },
+  {
+   "end_ms": "991939",
+   "start_ms": "987040",
+   "start_time_text": "16:27",
+   "text": "none"
+  },
+  {
+   "end_ms": "994779",
+   "start_ms": "989470",
+   "start_time_text": "16:29",
+   "text": "堀もひどくてねー"
+  },
+  {
+   "end_ms": "994779",
+   "start_ms": "991939",
+   "start_time_text": "16:31",
+   "text": "実もの"
+  },
+  {
+   "end_ms": "999520",
+   "start_ms": "995139",
+   "start_time_text": "16:35",
+   "text": "毎日エナジードリンクん"
+  },
+  {
+   "end_ms": "1001150",
+   "start_ms": "997410",
+   "start_time_text": "16:37",
+   "text": "ポーカーで割って飲んでるんですよ"
+  },
+  {
+   "end_ms": "1005060",
+   "start_ms": "999520",
+   "start_time_text": "16:39",
+   "text": "んだ"
+  },
+  {
+   "end_ms": "1006189.9999999999",
+   "start_ms": "1001150",
+   "start_time_text": "16:41",
+   "text": "いやー動き真似しなきゃいけないんだ"
+  },
+  {
+   "end_ms": "1010170",
+   "start_ms": "1005060",
+   "start_time_text": "16:45",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1010170.0000000001",
+   "start_ms": "1006190",
+   "start_time_text": "16:46",
+   "text": "なあこれグループ面接みたいな"
+  },
+  {
+   "end_ms": "1013229.9999999999",
+   "start_ms": "1010449",
+   "start_time_text": "16:50",
+   "text": "いくよいくよ"
+  },
+  {
+   "end_ms": "1019889",
+   "start_ms": "1014240",
+   "start_time_text": "16:54",
+   "text": "せーの"
+  },
+  {
+   "end_ms": "1021340",
+   "start_ms": "1016259",
+   "start_time_text": "16:56",
+   "text": "はいはっはっはうまくできたかな"
+  },
+  {
+   "end_ms": "1024770",
+   "start_ms": "1019889",
+   "start_time_text": "16:59",
+   "text": "うん"
+  },
+  {
+   "end_ms": "1027459.0000000001",
+   "start_ms": "1021340",
+   "start_time_text": "17:01",
+   "text": "技術電動だろうもう1回計もう一回"
+  },
+  {
+   "end_ms": "1027459.0000000001",
+   "start_ms": "1024770",
+   "start_time_text": "17:04",
+   "text": "はああああ"
+  },
+  {
+   "end_ms": "1035159.9999999999",
+   "start_ms": "1028119.9999999999",
+   "start_time_text": "17:08",
+   "text": "イスッターいいよ斜め入力は上だけ上だけに良くすればいいから"
+  },
+  {
+   "end_ms": "1038130.0000000001",
+   "start_ms": "1033730",
+   "start_time_text": "17:13",
+   "text": "はーい"
+  },
+  {
+   "end_ms": "1043839.0000000001",
+   "start_ms": "1035160.0000000001",
+   "start_time_text": "17:15",
+   "text": "太陽いよいよ5人一組なのね"
+  },
+  {
+   "end_ms": "1049350.0000000002",
+   "start_ms": "1038130.0000000001",
+   "start_time_text": "17:18",
+   "text": "ハーイよし左向いて右向けばいいだけどね"
+  },
+  {
+   "end_ms": "1049350",
+   "start_ms": "1043839",
+   "start_time_text": "17:23",
+   "text": "左向いて右無垢ファイターんだターン"
+  },
+  {
+   "end_ms": "1056240",
+   "start_ms": "1051299",
+   "start_time_text": "17:31",
+   "text": "123456789ホ"
+  },
+  {
+   "end_ms": "1062150",
+   "start_ms": "1053169",
+   "start_time_text": "17:33",
+   "text": "あぶねー演じられたみたいだな"
+  },
+  {
+   "end_ms": "1063900",
+   "start_ms": "1056240",
+   "start_time_text": "17:36",
+   "text": "まあ一人だけ明らかに慎重おかしいけどこれいつまでこのフリしてなきゃいけない"
+  },
+  {
+   "end_ms": "1066100.0000000002",
+   "start_ms": "1062150",
+   "start_time_text": "17:42",
+   "text": "だろう"
+  },
+  {
+   "end_ms": "1067070.0000000002",
+   "start_ms": "1063900",
+   "start_time_text": "17:43",
+   "text": "まあもゾンビじゃん"
+  },
+  {
+   "end_ms": "1068100",
+   "start_ms": "1066100",
+   "start_time_text": "17:46",
+   "text": "だから"
+  },
+  {
+   "end_ms": "1072850",
+   "start_ms": "1067070",
+   "start_time_text": "17:47",
+   "text": "やー"
+  },
+  {
+   "end_ms": "1076330",
+   "start_ms": "1068100",
+   "start_time_text": "17:48",
+   "text": "あれ絶対犬を追ってくるよこれ余計な動きしたらまたまたません"
+  },
+  {
+   "end_ms": "1078360",
+   "start_ms": "1072850",
+   "start_time_text": "17:52",
+   "text": "あさっきの犬だけは匂いを知ってるから"
+  },
+  {
+   "end_ms": "1078360",
+   "start_ms": "1076330",
+   "start_time_text": "17:56",
+   "text": "ん"
+  },
+  {
+   "end_ms": "1081840.0000000002",
+   "start_ms": "1078450",
+   "start_time_text": "17:58",
+   "text": "はあああああ"
+  },
+  {
+   "end_ms": "1089389.0000000002",
+   "start_ms": "1081960",
+   "start_time_text": "18:01",
+   "text": "ってこれゲームオーバー不味くなっ"
+  },
+  {
+   "end_ms": "1091100.0000000002",
+   "start_ms": "1084970",
+   "start_time_text": "18:04",
+   "text": "えっとするんだあんときに切れば良かったのかもしかしてん"
+  },
+  {
+   "end_ms": "1094340",
+   "start_ms": "1089389",
+   "start_time_text": "18:09",
+   "text": "さあ"
+  },
+  {
+   "end_ms": "1097340",
+   "start_ms": "1091100",
+   "start_time_text": "18:11",
+   "text": "なんだから余計な動きしても殺されるし萬翠荘"
+  },
+  {
+   "end_ms": "1099070",
+   "start_ms": "1094340",
+   "start_time_text": "18:14",
+   "text": "どうすればいいんだいるに吠えられたらに気を"
+  },
+  {
+   "end_ms": "1102699.9999999998",
+   "start_ms": "1097340",
+   "start_time_text": "18:17",
+   "text": "土地なる"
+  },
+  {
+   "end_ms": "1106379.9999999998",
+   "start_ms": "1099070",
+   "start_time_text": "18:19",
+   "text": "24ユニが22秒2秒よしよし車"
+  },
+  {
+   "end_ms": "1108140",
+   "start_ms": "1102700",
+   "start_time_text": "18:22",
+   "text": "これはかなりかなり生えだと思うよはーい"
+  },
+  {
+   "end_ms": "1109820.0000000002",
+   "start_ms": "1106380",
+   "start_time_text": "18:26",
+   "text": "祭えーい"
+  },
+  {
+   "end_ms": "1114080.0000000002",
+   "start_ms": "1108140",
+   "start_time_text": "18:28",
+   "text": "あぶねー"
+  },
+  {
+   "end_ms": "1118040",
+   "start_ms": "1109820",
+   "start_time_text": "18:29",
+   "text": "ほれかなり骨折骨折レベルのた僕受けるって言うのでね"
+  },
+  {
+   "end_ms": "1122260",
+   "start_ms": "1114080",
+   "start_time_text": "18:34",
+   "text": "山以来抜き取りに来ている強い声が合っ追い出せばいいねぇー"
+  },
+  {
+   "end_ms": "1122260",
+   "start_ms": "1118040",
+   "start_time_text": "18:38",
+   "text": "この犬はマジ変態いくしかないでも"
+  },
+  {
+   "end_ms": "1129130",
+   "start_ms": "1122970",
+   "start_time_text": "18:42",
+   "text": "文書このうじゃない"
+  },
+  {
+   "end_ms": "1132760",
+   "start_ms": "1126240",
+   "start_time_text": "18:46",
+   "text": "4うわぁって"
+  },
+  {
+   "end_ms": "1136130",
+   "start_ms": "1129130",
+   "start_time_text": "18:49",
+   "text": "どこだまずこうんですぅっ"
+  },
+  {
+   "end_ms": "1141129.9999999998",
+   "start_ms": "1132760",
+   "start_time_text": "18:52",
+   "text": "あでもこれですよスレいらなかったかといっ"
+  },
+  {
+   "end_ms": "1143879.0000000002",
+   "start_ms": "1136130",
+   "start_time_text": "18:56",
+   "text": "廃校で来れないね予習写真です"
+  },
+  {
+   "end_ms": "1150599.0000000002",
+   "start_ms": "1141130",
+   "start_time_text": "19:01",
+   "text": "じゃあまぁみろとかはっはっ"
+  },
+  {
+   "end_ms": "1152549",
+   "start_ms": "1143879",
+   "start_time_text": "19:03",
+   "text": "どうだ悔しいかこの頭だけの頭だけの僕にいいように翻弄されてほろほろほら増やし"
+  },
+  {
+   "end_ms": "1159119",
+   "start_ms": "1150599",
+   "start_time_text": "19:10",
+   "text": "買ったら食べてみな"
+  },
+  {
+   "end_ms": "1162049",
+   "start_ms": "1152549",
+   "start_time_text": "19:12",
+   "text": "牛上野して上の人もいい押し具合ですねよしついでに右端までありがとう"
+  },
+  {
+   "end_ms": "1162049",
+   "start_ms": "1159119",
+   "start_time_text": "19:19",
+   "text": "で私っそ"
+  },
+  {
+   "end_ms": "1167950",
+   "start_ms": "1162759",
+   "start_time_text": "19:22",
+   "text": "ターン止めて"
+  },
+  {
+   "end_ms": "1169059",
+   "start_ms": "1164960",
+   "start_time_text": "19:24",
+   "text": "貞子賃金モード"
+  },
+  {
+   "end_ms": "1173850.0000000002",
+   "start_ms": "1167950",
+   "start_time_text": "19:27",
+   "text": "て"
+  },
+  {
+   "end_ms": "1173850",
+   "start_ms": "1169059",
+   "start_time_text": "19:29",
+   "text": "結構でやばいならない家中にやばいやばい分"
+  },
+  {
+   "end_ms": "1179010",
+   "start_ms": "1174580",
+   "start_time_text": "19:34",
+   "text": "ここで一旦脱出して"
+  },
+  {
+   "end_ms": "1184840",
+   "start_ms": "1179779",
+   "start_time_text": "19:39",
+   "text": "で発行"
+  },
+  {
+   "end_ms": "1184840.0000000002",
+   "start_ms": "1181130",
+   "start_time_text": "19:41",
+   "text": "このままをして"
+  },
+  {
+   "end_ms": "1189678.9999999998",
+   "start_ms": "1184860",
+   "start_time_text": "19:44",
+   "text": "でスイッチで開けたら"
+  },
+  {
+   "end_ms": "1196100",
+   "start_ms": "1190250",
+   "start_time_text": "19:50",
+   "text": "ここに戻りの"
+  },
+  {
+   "end_ms": "1199779",
+   "start_ms": "1194620",
+   "start_time_text": "19:54",
+   "text": "さいきますよ"
+  },
+  {
+   "end_ms": "1199779",
+   "start_ms": "1196100",
+   "start_time_text": "19:56",
+   "text": "をめっちゃオシャレな持ち方している"
+  },
+  {
+   "end_ms": "1207600.0000000002",
+   "start_ms": "1199950",
+   "start_time_text": "19:59",
+   "text": "そんないいのそのをし形で後ろ油ぐらい大丈夫"
+  },
+  {
+   "end_ms": "1209949.9999999998",
+   "start_ms": "1204120",
+   "start_time_text": "20:04",
+   "text": "足場不安定だけどこれは1回おりるっぽいなーなんか"
+  },
+  {
+   "end_ms": "1212500",
+   "start_ms": "1207600",
+   "start_time_text": "20:07",
+   "text": "合う上に何か箱あるねえ"
+  },
+  {
+   "end_ms": "1218260",
+   "start_ms": "1209950",
+   "start_time_text": "20:09",
+   "text": "上の子はあっ"
+  },
+  {
+   "end_ms": "1221220",
+   "start_ms": "1212500",
+   "start_time_text": "20:12",
+   "text": "まじかこれさあこの人がさらにまたここで頭をやるの"
+  },
+  {
+   "end_ms": "1221220",
+   "start_ms": "1218260",
+   "start_time_text": "20:18",
+   "text": "うわぁ出てきた"
+  },
+  {
+   "end_ms": "1226210",
+   "start_ms": "1222080",
+   "start_time_text": "20:22",
+   "text": "うん"
+  },
+  {
+   "end_ms": "1226210",
+   "start_ms": "1223190",
+   "start_time_text": "20:23",
+   "text": "よ by john 6勅書"
+  },
+  {
+   "end_ms": "1232930",
+   "start_ms": "1227950",
+   "start_time_text": "20:27",
+   "text": "これどうなっちゃうの"
+  },
+  {
+   "end_ms": "1234260",
+   "start_ms": "1231600",
+   "start_time_text": "20:31",
+   "text": "あ"
+  },
+  {
+   "end_ms": "1235680",
+   "start_ms": "1232930",
+   "start_time_text": "20:32",
+   "text": "これもしかして"
+  },
+  {
+   "end_ms": "1237090",
+   "start_ms": "1234260",
+   "start_time_text": "20:34",
+   "text": "はいっ"
+  },
+  {
+   "end_ms": "1241710",
+   "start_ms": "1235680",
+   "start_time_text": "20:35",
+   "text": "つゲー"
+  },
+  {
+   "end_ms": "1243080",
+   "start_ms": "1237090",
+   "start_time_text": "20:37",
+   "text": "めちゃくちゃすごくないでこの人をこの人を下す"
+  },
+  {
+   "end_ms": "1248020",
+   "start_ms": "1241710",
+   "start_time_text": "20:41",
+   "text": "うわぁ"
+  },
+  {
+   "end_ms": "1253490",
+   "start_ms": "1243080",
+   "start_time_text": "20:43",
+   "text": "めちゃめちゃすごいじゃんコレギミックうわぁ"
+  },
+  {
+   "end_ms": "1256160",
+   "start_ms": "1248020",
+   "start_time_text": "20:48",
+   "text": "今の結構天才的じゃない発想がでうわぁ"
+  },
+  {
+   "end_ms": "1258070",
+   "start_ms": "1253490",
+   "start_time_text": "20:53",
+   "text": "下に人います"
+  },
+  {
+   "end_ms": "1261490",
+   "start_ms": "1256160",
+   "start_time_text": "20:56",
+   "text": "悉皆です"
+  },
+  {
+   "end_ms": "1267580",
+   "start_ms": "1258070",
+   "start_time_text": "20:58",
+   "text": "外これをを開けて"
+  },
+  {
+   "end_ms": "1268270",
+   "start_ms": "1261490",
+   "start_time_text": "21:01",
+   "text": "水だジャージちゃんと家出るように位置調整してから1個とがなかった真ん中でこっち"
+  },
+  {
+   "end_ms": "1270510",
+   "start_ms": "1267580",
+   "start_time_text": "21:07",
+   "text": "もいいね"
+  },
+  {
+   "end_ms": "1274650",
+   "start_ms": "1268270",
+   "start_time_text": "21:08",
+   "text": "こっちはちょっと開き気味だったもんだよ"
+  },
+  {
+   "end_ms": "1278060",
+   "start_ms": "1270510",
+   "start_time_text": "21:10",
+   "text": "さあではおりさせていただきます果たして水かどうか怪しいけど"
+  },
+  {
+   "end_ms": "1284350.0000000002",
+   "start_ms": "1274650",
+   "start_time_text": "21:14",
+   "text": "いきましょうただだーっ"
+  },
+  {
+   "end_ms": "1286399.9999999998",
+   "start_ms": "1278060",
+   "start_time_text": "21:18",
+   "text": "ちょちょがドリューんだおり降りろ折り方は金上かうえおしっぱだっけ"
+  },
+  {
+   "end_ms": "1288090",
+   "start_ms": "1284350",
+   "start_time_text": "21:24",
+   "text": "はいうえおしっぱ"
+  },
+  {
+   "end_ms": "1292020",
+   "start_ms": "1286400",
+   "start_time_text": "21:26",
+   "text": "a おりじゃない"
+  },
+  {
+   "end_ms": "1292889.9999999998",
+   "start_ms": "1288090",
+   "start_time_text": "21:28",
+   "text": "違うのか者なんか運んできたけどがある点検かな"
+  },
+  {
+   "end_ms": "1295460",
+   "start_ms": "1292020",
+   "start_time_text": "21:32",
+   "text": "ブー"
+  },
+  {
+   "end_ms": "1299440",
+   "start_ms": "1292890",
+   "start_time_text": "21:32",
+   "text": "大テラスでてるする"
+  },
+  {
+   "end_ms": "1299440",
+   "start_ms": "1295460",
+   "start_time_text": "21:35",
+   "text": "うわぁ怪しいぞと"
+  },
+  {
+   "end_ms": "1305920",
+   "start_ms": "1300530",
+   "start_time_text": "21:40",
+   "text": "同市降りるしかないと呆気上溝中"
+  }
+ ],
+ "transcript_only_text": "えーみなさんこんにちは声優の花江夏樹ですさあ今日はですねインサイドというゲーム をプレイしていきたいんですけれどもまああのリトルナイトメアというゲームをやった ときに 斎藤総額がねインサイドそしてこの会社が作ってるりんぼというね ゲームが好きだというふうに言っていたので本当はそうが託されてやりたかったんです けどプレイ済みだということで行 今回は1人でプレイしていきたいと思いますちょっとホラーチックなぁこれも謎解き急 なんですかね じゃ早速 まあこれはかなり 雰囲気が最初からいいねぇ このところ子が主人公ですかねちょっと表情が見えない なんか独特の姿をしてますけど赤いトレーナーがよく似合ってるね 8エアパソコンでプレイしてるんですけど 矢印キーですね4後期 a 左右と柄ウールジャンパーか i are 言えるジャンプ とりあえず今んとこなんかそうそれだけっぽいこれは何ですかね 森かあっあっつまずくからこれは効果 ジャンプジャンプでうわぁ 怖いよこれ 実際こんなとこに迷い込んだらさあ 迷い込んだかどうかはわからないですけど 何だろうねどっかから逃げてるのかなあーどなんか言うして説明 多くグレる はい滑ってトラック わら人いる人を 摘果隠れるかクレー用とせずともこの日間でしまってるって事は あいつらに見つからない方がいいんだね ok コレは確かにいいねなんかこの 動かしてこの世界を動いているだけでかなり楽しい あーいるジェイブルー部分照らされている ゆっくりじゃんくるじゃん 待って待って待ってじゃないよ はい派 これを頭と当てるとかのかな これはもういいいけるのかこれっ あ別にを取っに反応するわけじゃないんだねあのライトに照らされたらちょっとヤバい んだ だからなんか脱走しているのかなこのコア子がなんかの実験施設とみたよ この冷蔵庫特に触ることができない 壁際も特に 壁キックもできないんだよ なんかキーがあるのかなないとコントロールですか あこう蛇行はいはいはいはいはいはい でここに立てて でここでジャンプと あじゃあちょっとやっぱパズルだねこれね頭使っていくケラー 任せてくださいよ一人の時の方がやっぱり余計なこと考えないでいいからね 頭が冴えてゲームもうまく進む ってここ売りていいのかな ますます 滑れ 猫ジャンプ では英国どうすんだろうあの箱か これかはい 意外とちゃんと滑らせないでねー これを これに乗っで行くとまずは基本操作が簡単だからいいね うわぁチームいる アルコレ水の質感とか綺麗だね もしかして3つが出てるヤバいじゃねぇやばいやばいんじゃいただいた上でこれまずよ 犬 ちょっだーっ 扇リー of ねー うわぁ んなとこも走ってたらこのねー年齢だったらもうやんなっちゃうよねー 心細くて心細くてこれいいの兵そしていいの 今これ狙われのからも知らせこのばれているやばいやばい ここですおい queen 一濃い青 いよいよ この原か順調ですね今のところここからだからより複雑ななんかその謎解きがね 出てくるんだろうね by the 的濃いんだなぁ顔見えてないから あなんか降りており車から降りて行っていいのかな 行っちゃう 一応こちらされたのでもやばいんじゃないのああやばい3光未光未光未3日と5日 取り付けている 12でミーレフォアじゃんっポワーン なら言うちゃん宅とんでもないよそれはもうええ まじか o これでもを割るの確実の5連打ジャスコでつまずかないようにこれジャンプだろう ではいはい走って走って走って これちょっとアクション要素もあるのかうは絶好の上打たれた もしかしてですけど消えるや消えないなこれ無理は行くしかないなこれはでも絶対追わ れるイベントだ あれ上に登っていくのかなこれ上にいくら者じゃこれ上に行ってみる いけないわあああこれじゃあ何どっちパンッ ちょっとずつ行けば大丈夫雪うわーやっぱダメだ 大きく距離をとって [拍手] あっ はいバイバーイ まず生まれきて家でキル集考えてが中 あ花占いとかあそこちょっと松田洋氏これで ok 高は売ってきてるまあ中は反則だろ ゆっくりでも来てるね犬4つまずかないように気をつけて いぬ早いって eire [拍手] の 水中田を泳げるんだ めちゃめちゃ殺意あるじゃん んがそういう経過 1あんのか おっけおっけ 行けたみたいですねはい ここからだってもさあここ上行ったら照らされちゃうからダメだよね いやー刺さってるまっスイカ はやっぱちょっとうまく逃げないといけないとあんま深く潜りすぎてもねぇ なんかその息のゲージとかもないから体感だよね 2ちゃんが浮いてる a かわいそうにねもなんか国交もう施設から脱出したっぽい にょ 黄色いなぁなんかこれは果たしてでもどっち側に向かってんだろうね 施設に戻っているのかそれとも何か外に外リード逃げて言ってるのかわかんないね うわぁああめちゃくちゃ顔にバチバチ当たるなぁ po 牧場あだから2いたんだテーマって雛 でめちゃくちゃ誓ってくる雛5 a 守って守ってじゃん いうえええ コッコロ運動上ブタめっちゃ死んでるうわぁ やば何かあったのかなぁなんかその病気が蔓延して立ったさあ そういう系かな家行為 はい大江ナイスチャプチェ受け身 なんか電源入れるのか ここだねっ はいっ ファイズはいいいよ 開けちゃが集った でとレオンハハッ あ正直 a この加工さああれで落とすじゃないな 一応だそっちなんかあんのかなあこち流れ を外せるあっ恋なんかアレか 夢ちゃくちゃひよ恋んじゃあわかっちゃったかも 雛だろう雛引き連れてってであの 機会につい来ませて雛を弾丸と化して であのブロックを落とすとあきたきたきたきたきちゃったーーーー じゃあかわいい濃い濃い濃いこれか あーきたきたきたきたかわいいじゃぜひお子だじぇ ここで大樹だほい 全然あるじゃんあるよ工法 ギリギリまでここに待機させて day ひよっこに追いつかれないようにして寄付クンター うーんここに来た時に一気兄 水ごめん 416分 すげーマジであってんだこれやばこのゲームやがー 発想がおかしいよ記憶のなんだと思ってんだよここな乱暴に扱う県がこの世に存在する とはね にわかに信じ難いけどこれが現実だあの豚2 すごい2に2離着陸 ブーブーにょ水パでもミーハー here や日足がっ とられるうわぁまずいこれ小池のかこのまま あっ花見を 大 このままアワー ミミズというかこれ氏みたいなもう帰省中だった うわぁ パドック後はいっ 持っな躰道ではこれをラブラブラガー ああこれはが闘牛東急システムだ これ壁に激突させ a 煌4回きたきたきたきた13 ふーん よしうらウェイ おあわかったここだん いけないん あそこのれないのか家シュッとはめちゃくちゃ迷惑だなお前 ここじゃないと思う ゴッ ok なもんねうんなんかを組んでも広いいうあれか蓋を引きずってくるのかなぜ 入場ん プリッとしたっ ぐっちょちきてきてきて te 大丈夫大丈夫いいからいいかぁをついてきて1回 大丈夫 以下色9線9000興奮や古文書のもちもち毒持ちごちそ素行もここであの私のるから なんだこれですごい 後ろの人たちが動いてるあ 1回この文をコントロールを押すことによって ならから2人なら開けられ 4人可 4人がかりでいかなきゃいけないんだまずじゃあここでこの右の2人に打つかませた 状態でこっちは右に来てもらおう でこれで上に はぁああああああん オスのかなあ押すんだね 一度集団で弾くは-で行けるねはいはいはいはい ん この工場もやばいねー働いてた人達なのかなこれは どうやらダメっぽいあこれは普通に持ち上げる 光だあーそとかいいよ明るさいいよ これもクリアじゃないか 希望の光させてるしもう誰すごい めちゃくちゃみんな首がナナメってるよ徹夜で並んでんだろうなーれ を引くのか 有紀かなイネオスをしてあれを下げて結局あまり下げてあれから乗れるはず 入ったいいですね 特に揺れなくてもいいのか この後すごい腕力あるねえこのサスケの最終ステージだもんだってこのロープ いいなぁでも俺もちっちゃいこれはすごい運動神経あったんだけどね 今はもうねやっぱその学生の時に早く動けてた自分を思い出しちゃって そのギャップに動けなくなるよねその体のを 泥会を認めたくない感じ全然運動してないですからね もうホーム警戒すぎて楽しい 乗っていた あーはいはいはいはいはいまずちょっとこっちに向けといって1回上にあげていますか それでどうなるのかあ あれかもどって来ないここからまた飛べばいいんだこれで読書 ok by 楽しいぞ 次がこの均衡を落とす photos 落として何が出てくるながら桜 ちんが絶妙なアレでやんなきゃいけないんだ yeah この距離だったら霧生きてるはダメなんだ 落としてここ護衛 ねー よし戻りましょうちょちっておりますこれ普通のリジーのこの をなこれ野田いけるをこれ隠し要素じゃないかも知れ の分野風に gantz ガンツじゃあねこれは実績ロック 左後方に取り残されてアコやっぱ実績各種やだねこれねこういうのが存在するんだな このちょっとねぇできるだけ見落とさずにいきたいですね そして これ [音楽] はいはいはいはい てまた一出てくんだね これ届くこの後6船さあ 次出てくるのは誰なのか を 鏡映しの なんだ あー2人に産ませるのかああそういうことか 踏ませと言ってこれ開いて でこのまま右にスライドしていけば いけるじゃん ばためだ収益ったらどうなんだろうでも変わんないか あーでもこーだ なんだ簡単だったねー 深く考えすぎじゃない1回ちゃんと 戸締まりをすればなんてことなかったのかって電車とかもあるから ここはなんだろうねこの先逃げてきた施設の一部なのかーそれとまぁ別のまた施設に 移ってるのか このボーリー-8 by よ危ないよーっ すごいなぁ サスケくんだねサスケくん 安全のパルクール上級者 こんな所も怖くてさあほらぷっ うわ切り間口と明るさはあるからね いやあああっああっちゃま者だ左をここは良い一回泊まって落ち着いて はいしたうはみんな何か 同じ方向すっごいみんなで不足の状態で歩いてるのんが完全にもねってないよねこれは ね ネズミーとさあリトルナイトメアでへねずみあーいいねぇ衝撃的なあの展開だったから な あるのイメージかないなぁ貼っここを飛びするのか 生きる だめだねぇ ははしごをこっち側に だねっ いきましって 効果派 me まずいよこれ 1回ライト消した状態でっていうか あのそしたら あれかな ここの電源が入ってないからかないんだこれでも ここあらかじめねあけといたほうが良かったね絶対 でライトをたぶんこの柱の陰に隠れながら彼はしてくんだろうね これはいきます うわっ学校行きやばいなぁ はいここまず分 ん でこのライトとともに入って隠れる 赤く で あ五穀空けといて良かった街あぶられた 冴えてるねー [音楽] ちょっと暇以前 合法ブログラムよこれまたパキルシオ 嫌ウンコま純子あれは完全にうんち いやー 今日は困ったまず今津よ ドロンドロン あっちょクリしてフリフリして 大沢池寝不足でして阿蘇辺で右側でして 止めめっちゃついてくれん none 堀もひどくてねー 実もの 毎日エナジードリンクん ポーカーで割って飲んでるんですよ んだ いやー動き真似しなきゃいけないんだ [音楽] なあこれグループ面接みたいな いくよいくよ せーの はいはっはっはうまくできたかな うん 技術電動だろうもう1回計もう一回 はああああ イスッターいいよ斜め入力は上だけ上だけに良くすればいいから はーい 太陽いよいよ5人一組なのね ハーイよし左向いて右向けばいいだけどね 左向いて右無垢ファイターんだターン 123456789ホ あぶねー演じられたみたいだな まあ一人だけ明らかに慎重おかしいけどこれいつまでこのフリしてなきゃいけない だろう まあもゾンビじゃん だから やー あれ絶対犬を追ってくるよこれ余計な動きしたらまたまたません あさっきの犬だけは匂いを知ってるから ん はあああああ ってこれゲームオーバー不味くなっ えっとするんだあんときに切れば良かったのかもしかしてん さあ なんだから余計な動きしても殺されるし萬翠荘 どうすればいいんだいるに吠えられたらに気を 土地なる 24ユニが22秒2秒よしよし車 これはかなりかなり生えだと思うよはーい 祭えーい あぶねー ほれかなり骨折骨折レベルのた僕受けるって言うのでね 山以来抜き取りに来ている強い声が合っ追い出せばいいねぇー この犬はマジ変態いくしかないでも 文書このうじゃない 4うわぁって どこだまずこうんですぅっ あでもこれですよスレいらなかったかといっ 廃校で来れないね予習写真です じゃあまぁみろとかはっはっ どうだ悔しいかこの頭だけの頭だけの僕にいいように翻弄されてほろほろほら増やし 買ったら食べてみな 牛上野して上の人もいい押し具合ですねよしついでに右端までありがとう で私っそ ターン止めて 貞子賃金モード て 結構でやばいならない家中にやばいやばい分 ここで一旦脱出して で発行 このままをして でスイッチで開けたら ここに戻りの さいきますよ をめっちゃオシャレな持ち方している そんないいのそのをし形で後ろ油ぐらい大丈夫 足場不安定だけどこれは1回おりるっぽいなーなんか 合う上に何か箱あるねえ 上の子はあっ まじかこれさあこの人がさらにまたここで頭をやるの うわぁ出てきた うん よ by john 6勅書 これどうなっちゃうの あ これもしかして はいっ つゲー めちゃくちゃすごくないでこの人をこの人を下す うわぁ めちゃめちゃすごいじゃんコレギミックうわぁ 今の結構天才的じゃない発想がでうわぁ 下に人います 悉皆です 外これをを開けて 水だジャージちゃんと家出るように位置調整してから1個とがなかった真ん中でこっち もいいね こっちはちょっと開き気味だったもんだよ さあではおりさせていただきます果たして水かどうか怪しいけど いきましょうただだーっ ちょちょがドリューんだおり降りろ折り方は金上かうえおしっぱだっけ はいうえおしっぱ a おりじゃない 違うのか者なんか運んできたけどがある点検かな ブー 大テラスでてるする うわぁ怪しいぞと 同市降りるしかないと呆気上溝中",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=qLRZxSX6UVU",
+ "video_id": "qLRZxSX6UVU"
+}

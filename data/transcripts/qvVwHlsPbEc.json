@@ -1,0 +1,1444 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sq",
+   "language_name": "Albanian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "am",
+   "language_name": "Amharic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ar",
+   "language_name": "Arabic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ay",
+   "language_name": "Aymara"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "az",
+   "language_name": "Azerbaijani"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "bn",
+   "language_name": "Bangla"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "be",
+   "language_name": "Belarusian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "bs",
+   "language_name": "Bosnian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "bg",
+   "language_name": "Bulgarian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "my",
+   "language_name": "Burmese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh",
+   "language_name": "Chinese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-HK",
+   "language_name": "Chinese (Hong Kong)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-CN",
+   "language_name": "Chinese (China)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-Hans",
+   "language_name": "Chinese (Simplified)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-SG",
+   "language_name": "Chinese (Singapore)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-Hant",
+   "language_name": "Chinese (Traditional)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-TW",
+   "language_name": "Chinese (Taiwan)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "hr",
+   "language_name": "Croatian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "cs",
+   "language_name": "Czech"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "da",
+   "language_name": "Danish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "nl",
+   "language_name": "Dutch"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "en",
+   "language_name": "English"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "et",
+   "language_name": "Estonian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fil",
+   "language_name": "Filipino"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fi",
+   "language_name": "Finnish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fr",
+   "language_name": "French"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ka",
+   "language_name": "Georgian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "de",
+   "language_name": "German"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "el",
+   "language_name": "Greek"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "gu",
+   "language_name": "Gujarati"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "iw",
+   "language_name": "Hebrew"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "hi",
+   "language_name": "Hindi"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "hu",
+   "language_name": "Hungarian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "is",
+   "language_name": "Icelandic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "id",
+   "language_name": "Indonesian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "it",
+   "language_name": "Italian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ja",
+   "language_name": "Japanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "jv",
+   "language_name": "Javanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "kn",
+   "language_name": "Kannada"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "kk",
+   "language_name": "Kazakh"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ko",
+   "language_name": "Korean"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ky",
+   "language_name": "Kyrgyz"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "la",
+   "language_name": "Latin"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "lv",
+   "language_name": "Latvian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "lt",
+   "language_name": "Lithuanian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ms",
+   "language_name": "Malay"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ml",
+   "language_name": "Malayalam"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "mr",
+   "language_name": "Marathi"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "mn",
+   "language_name": "Mongolian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "no",
+   "language_name": "Norwegian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "or",
+   "language_name": "Odia"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "fa",
+   "language_name": "Persian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pl",
+   "language_name": "Polish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pt",
+   "language_name": "Portuguese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "pa",
+   "language_name": "Punjabi"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ro",
+   "language_name": "Romanian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ru",
+   "language_name": "Russian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "gd",
+   "language_name": "Scottish Gaelic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sr",
+   "language_name": "Serbian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sk",
+   "language_name": "Slovak"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "es",
+   "language_name": "Spanish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sw",
+   "language_name": "Swahili"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "sv",
+   "language_name": "Swedish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ta",
+   "language_name": "Tamil"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "te",
+   "language_name": "Telugu"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "th",
+   "language_name": "Thai"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ti",
+   "language_name": "Tigrinya"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "tr",
+   "language_name": "Turkish"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "uk",
+   "language_name": "Ukrainian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ur",
+   "language_name": "Urdu"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "uz",
+   "language_name": "Uzbek"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "vi",
+   "language_name": "Vietnamese"
+  }
+ ],
+ "is_auto_generated": false,
+ "language": "Japanese",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "20000",
+   "start_ms": "14625",
+   "start_time_text": "0:14",
+   "text": "時計の電池が切れていた朝"
+  },
+  {
+   "end_ms": "30000",
+   "start_ms": "23734",
+   "start_time_text": "0:23",
+   "text": "エアコンをつけずに眠れる夜が増えてきました"
+  },
+  {
+   "end_ms": "40000",
+   "start_ms": "32729",
+   "start_time_text": "0:32",
+   "text": "今度やろうと溜め込んでいるカゴです"
+  },
+  {
+   "end_ms": "51219",
+   "start_ms": "43862",
+   "start_time_text": "0:43",
+   "text": "週末は予定がいくつかあるので 少しだけ早起きして片付けることにしました"
+  },
+  {
+   "end_ms": "65450",
+   "start_ms": "58763",
+   "start_time_text": "0:58",
+   "text": "乾燥機に入れるとシワシワになる生地"
+  },
+  {
+   "end_ms": "74826.00000000001",
+   "start_ms": "68394",
+   "start_time_text": "1:08",
+   "text": "家の中で使うものだし シワシワでもいいかなと思ったりもするのですが"
+  },
+  {
+   "end_ms": "87689",
+   "start_ms": "79472",
+   "start_time_text": "1:19",
+   "text": "アイロンがけから始まる一日も気持ちいいです✨"
+  },
+  {
+   "end_ms": "104137",
+   "start_ms": "99267",
+   "start_time_text": "1:39",
+   "text": "スーッと伸びていく生地"
+  },
+  {
+   "end_ms": "111456",
+   "start_ms": "106842",
+   "start_time_text": "1:46",
+   "text": "暑さも和らいでアイロンも苦ではありません"
+  },
+  {
+   "end_ms": "136831",
+   "start_ms": "128642",
+   "start_time_text": "2:08",
+   "text": "夏のお出かけによく被った帽子 メイク汚れが付いてしまいました"
+  },
+  {
+   "end_ms": "145651",
+   "start_ms": "139315",
+   "start_time_text": "2:19",
+   "text": "洗剤をつけるつもりでしたが お湯だけで落とせました"
+  },
+  {
+   "end_ms": "156041.99999999997",
+   "start_ms": "152384",
+   "start_time_text": "2:32",
+   "text": "形を崩さないように・・・"
+  },
+  {
+   "end_ms": "175740",
+   "start_ms": "171668",
+   "start_time_text": "2:51",
+   "text": "気になっていた汚れ"
+  },
+  {
+   "end_ms": "183345",
+   "start_ms": "179177",
+   "start_time_text": "2:59",
+   "text": "さっと拭いたり水洗いでも落とせるのに"
+  },
+  {
+   "end_ms": "190536.99999999997",
+   "start_ms": "185986",
+   "start_time_text": "3:05",
+   "text": "なんでかいつも見てみぬふりをしてしまいます"
+  },
+  {
+   "end_ms": "202602.99999999997",
+   "start_ms": "196968",
+   "start_time_text": "3:16",
+   "text": "やり始めるまでが一番時間がかかるんですよね🤭"
+  },
+  {
+   "end_ms": "225656.99999999997",
+   "start_ms": "220118",
+   "start_time_text": "3:40",
+   "text": "30分の早起きの成果"
+  },
+  {
+   "end_ms": "232743.00000000003",
+   "start_ms": "227300",
+   "start_time_text": "3:47",
+   "text": "朝一番の達成感で気分も爽やかです"
+  },
+  {
+   "end_ms": "260000",
+   "start_ms": "255166",
+   "start_time_text": "4:15",
+   "text": "本当は昨夜、寝る前ににやりたかったのですが"
+  },
+  {
+   "end_ms": "266875",
+   "start_ms": "262197",
+   "start_time_text": "4:22",
+   "text": "鶏肉を味噌漬けにする それよりも睡眠を優先してしまいました🤭"
+  },
+  {
+   "end_ms": "274895.00000000006",
+   "start_ms": "268687",
+   "start_time_text": "4:28",
+   "text": "みそ・さとう・みりん・しょうゆ"
+  },
+  {
+   "end_ms": "287744",
+   "start_ms": "280993",
+   "start_time_text": "4:40",
+   "text": "水出しでも作れますが 麦茶は煮出した方がミネラルが豊富だそうです"
+  },
+  {
+   "end_ms": "298282",
+   "start_ms": "293508",
+   "start_time_text": "4:53",
+   "text": "朝一番にあったかい麦茶"
+  },
+  {
+   "end_ms": "303847",
+   "start_ms": "299328",
+   "start_time_text": "4:59",
+   "text": "すぐに冷ました方が腐りにくいそうです"
+  },
+  {
+   "end_ms": "313174",
+   "start_ms": "308400",
+   "start_time_text": "5:08",
+   "text": "昨年は9月も真夏のようでしたが"
+  },
+  {
+   "end_ms": "323265.99999999994",
+   "start_ms": "315431",
+   "start_time_text": "5:15",
+   "text": "今年は暑くなく しっかり秋を感じられそうです"
+  },
+  {
+   "end_ms": "332719.00000000006",
+   "start_ms": "327244",
+   "start_time_text": "5:27",
+   "text": "気温が下がるとお弁当作りも気が楽です"
+  },
+  {
+   "end_ms": "379415",
+   "start_ms": "373430",
+   "start_time_text": "6:13",
+   "text": "夏に作った手作りめんつゆ ついに使い切ってしまいました"
+  },
+  {
+   "end_ms": "388965.00000000006",
+   "start_ms": "382533",
+   "start_time_text": "6:22",
+   "text": "はちみつ・ホワイトバルサミコ・オリーブオイル・塩こしょう"
+  },
+  {
+   "end_ms": "401256",
+   "start_ms": "394665",
+   "start_time_text": "6:34",
+   "text": "出汁と砂糖で煮て 最後にみりんと醤油で味付けます"
+  },
+  {
+   "end_ms": "410000",
+   "start_ms": "406096",
+   "start_time_text": "6:46",
+   "text": "お弁当に映える緑色のししとう"
+  },
+  {
+   "end_ms": "421886",
+   "start_ms": "417877",
+   "start_time_text": "6:57",
+   "text": "最近マイブームの小松菜です"
+  },
+  {
+   "end_ms": "431753.99999999994",
+   "start_ms": "424525",
+   "start_time_text": "7:04",
+   "text": "塩ゆでして醤油と鰹節 簡単ですが嬉しい副菜になります"
+  },
+  {
+   "end_ms": "454356",
+   "start_ms": "450315",
+   "start_time_text": "7:30",
+   "text": "お弁当にぴったりのさつまいも煮"
+  },
+  {
+   "end_ms": "474182",
+   "start_ms": "470173",
+   "start_time_text": "7:50",
+   "text": "焦げやすいので弱火で優しく・・・"
+  },
+  {
+   "end_ms": "491734.00000000006",
+   "start_ms": "486386",
+   "start_time_text": "8:06",
+   "text": "梨が出回り始めると 運動会を思い出します"
+  },
+  {
+   "end_ms": "500519",
+   "start_ms": "495139",
+   "start_time_text": "8:15",
+   "text": "運動会のお弁当 梨とブドウがお決まりでした"
+  },
+  {
+   "end_ms": "510929.00000000006",
+   "start_ms": "506187",
+   "start_time_text": "8:26",
+   "text": "お弁当用に小さめに🔪"
+  },
+  {
+   "end_ms": "528195",
+   "start_ms": "521731",
+   "start_time_text": "8:41",
+   "text": "しっとり柔らかく焼けた鶏肉"
+  },
+  {
+   "end_ms": "543102",
+   "start_ms": "539317",
+   "start_time_text": "8:59",
+   "text": "のり弁に"
+  },
+  {
+   "end_ms": "554980",
+   "start_ms": "548357",
+   "start_time_text": "9:08",
+   "text": "汁気を吸ってくれるので かつお節を下に入れるのが良いそうです"
+  },
+  {
+   "end_ms": "569992.0000000001",
+   "start_ms": "563815",
+   "start_time_text": "9:23",
+   "text": "今日もお弁当と同じメニューの朝ごはん"
+  },
+  {
+   "end_ms": "578362",
+   "start_ms": "571866",
+   "start_time_text": "9:31",
+   "text": "原材料が国産のトマトだけのトマトジュースをスーパーで見つけました"
+  },
+  {
+   "end_ms": "589653",
+   "start_ms": "581850",
+   "start_time_text": "9:41",
+   "text": "朝ごはんの前に一杯飲むのが最近のお気に入りです🥰"
+  },
+  {
+   "end_ms": "601817",
+   "start_ms": "595768",
+   "start_time_text": "9:55",
+   "text": "一晩漬けられませんでしたが しっかり味が付いてとても美味しかったです"
+  },
+  {
+   "end_ms": "610000",
+   "start_ms": "603564",
+   "start_time_text": "10:03",
+   "text": "目の前のお昼ご飯をもう食べたい・・・🤤"
+  },
+  {
+   "end_ms": "629820",
+   "start_ms": "624950",
+   "start_time_text": "10:24",
+   "text": "終わりのない洗い物"
+  },
+  {
+   "end_ms": "640644",
+   "start_ms": "633033",
+   "start_time_text": "10:33",
+   "text": "洗ってしまってまた出して これが日常なんだなと思います"
+  },
+  {
+   "end_ms": "652617.0000000001",
+   "start_ms": "644464",
+   "start_time_text": "10:44",
+   "text": "焦げ付いたフライパンは重曹を入れて一度沸かしています"
+  },
+  {
+   "end_ms": "665707",
+   "start_ms": "659020",
+   "start_time_text": "10:59",
+   "text": "汚れが浮いて こする手間を省けます"
+  },
+  {
+   "end_ms": "685512",
+   "start_ms": "679335",
+   "start_time_text": "11:19",
+   "text": "冷ましている間に いつものようにキッチンを片付けて"
+  },
+  {
+   "end_ms": "713481",
+   "start_ms": "708325",
+   "start_time_text": "11:48",
+   "text": "するりとコゲが落ちる瞬間が気持ちいいです"
+  },
+  {
+   "end_ms": "729312",
+   "start_ms": "723072",
+   "start_time_text": "12:03",
+   "text": "油を塗って仕上げます"
+  },
+  {
+   "end_ms": "755431",
+   "start_ms": "750657",
+   "start_time_text": "12:30",
+   "text": "冷蔵庫からおやつを掘り出して"
+  },
+  {
+   "end_ms": "763595",
+   "start_ms": "757960",
+   "start_time_text": "12:37",
+   "text": "ささやかでも癒しの効果は絶大です🍫"
+  },
+  {
+   "end_ms": "781275.0000000001",
+   "start_ms": "774748",
+   "start_time_text": "12:54",
+   "text": "ラテを持って行くことにしました"
+  },
+  {
+   "end_ms": "818784",
+   "start_ms": "812193",
+   "start_time_text": "13:32",
+   "text": "キッチンの床が家の中で一番汚れやすい気がします"
+  },
+  {
+   "end_ms": "838888",
+   "start_ms": "833094",
+   "start_time_text": "13:53",
+   "text": "ここがピカピカしていると嬉しいです🤭"
+  },
+  {
+   "end_ms": "863312",
+   "start_ms": "856370",
+   "start_time_text": "14:16",
+   "text": "昨年の今頃は ニット素材を着るなんて考えられなかったような気がします"
+  },
+  {
+   "end_ms": "874040.9999999999",
+   "start_ms": "868343",
+   "start_time_text": "14:28",
+   "text": "可愛い秋物を暑さに耐えて着ていた気がするのですが"
+  },
+  {
+   "end_ms": "881615",
+   "start_ms": "875789",
+   "start_time_text": "14:35",
+   "text": "今年は秋物をたくさん楽しめそうな涼しさで嬉しいです🍁"
+  },
+  {
+   "end_ms": "891452",
+   "start_ms": "883968",
+   "start_time_text": "14:43",
+   "text": "星のアクセサリーも最近のブームです🤭"
+  },
+  {
+   "end_ms": "900300",
+   "start_ms": "895048",
+   "start_time_text": "14:55",
+   "text": "夏の間よく風邪を引いてしまっていました😅"
+  },
+  {
+   "end_ms": "910902",
+   "start_ms": "903546",
+   "start_time_text": "15:03",
+   "text": "持ち歩き用にお昼の薬を分けることにしました"
+  },
+  {
+   "end_ms": "927658",
+   "start_ms": "913861",
+   "start_time_text": "15:13",
+   "text": "抗生剤、整腸剤、カルボシステイン、トラネキサム酸 よく処方されるのでお馴染みのメンバーとなっています"
+  },
+  {
+   "end_ms": "934753",
+   "start_ms": "929724",
+   "start_time_text": "15:29",
+   "text": "この夏は喉がずっと痛かったので はちみつのスプレーを買ってみました"
+  },
+  {
+   "end_ms": "943474",
+   "start_ms": "936691",
+   "start_time_text": "15:36",
+   "text": "チクチクとした使い心地 いかにも効きそうです"
+  },
+  {
+   "end_ms": "969699.0000000001",
+   "start_ms": "961259",
+   "start_time_text": "16:01",
+   "text": "セールの表示に釣られて洋服を買って帰りました"
+  },
+  {
+   "end_ms": "977367.9999999999",
+   "start_ms": "972626",
+   "start_time_text": "16:12",
+   "text": "セールのニットに秋物のスカート"
+  },
+  {
+   "end_ms": "985196",
+   "start_ms": "979753",
+   "start_time_text": "16:19",
+   "text": "セールを見に行くと やっぱり秋物が可愛く見えるんですよね🤭"
+  },
+  {
+   "end_ms": "997679",
+   "start_ms": "988920",
+   "start_time_text": "16:28",
+   "text": "色が落ち着いているので 夏物のニットですがこの時期にたくさん着られそうです😊"
+  },
+  {
+   "end_ms": "1008568",
+   "start_ms": "1001722",
+   "start_time_text": "16:41",
+   "text": "まだ衣替えはしないけど 少し秋っぽくなって嬉しい瞬間です"
+  },
+  {
+   "end_ms": "1020000",
+   "start_ms": "1012388",
+   "start_time_text": "16:52",
+   "text": "やっぱり似たものを買ってしまいます"
+  },
+  {
+   "end_ms": "1032228.0000000001",
+   "start_ms": "1023309",
+   "start_time_text": "17:03",
+   "text": "友人が使っていて真似して買ったハンガーです"
+  },
+  {
+   "end_ms": "1047867",
+   "start_ms": "1036047",
+   "start_time_text": "17:16",
+   "text": "伸長できて 真ん中は二本のバーがあります"
+  },
+  {
+   "end_ms": "1057928",
+   "start_ms": "1050603",
+   "start_time_text": "17:30",
+   "text": "鴨居にも掛けられるのが購入の決め手です"
+  },
+  {
+   "end_ms": "1072260",
+   "start_ms": "1063788",
+   "start_time_text": "17:43",
+   "text": "浴衣を吊るすのに使ってみました"
+  },
+  {
+   "end_ms": "1079610",
+   "start_ms": "1072955",
+   "start_time_text": "17:52",
+   "text": "着物ハンガーも持っているのですが こちらの方が使いやすそうです🤭"
+  },
+  {
+   "end_ms": "1086481",
+   "start_ms": "1081835",
+   "start_time_text": "18:01",
+   "text": "もこもこのサンダル"
+  },
+  {
+   "end_ms": "1096764.0000000002",
+   "start_ms": "1087718",
+   "start_time_text": "18:07",
+   "text": "ゴミ出しなど さっと外に出たい時によさそうで買ってみました"
+  },
+  {
+   "end_ms": "1106729",
+   "start_ms": "1101891",
+   "start_time_text": "18:21",
+   "text": "とてもあったかい"
+  },
+  {
+   "end_ms": "1114397",
+   "start_ms": "1108029",
+   "start_time_text": "18:28",
+   "text": "1000円だったのでいいお買い物ができました"
+  },
+  {
+   "end_ms": "1130387",
+   "start_ms": "1123445",
+   "start_time_text": "18:43",
+   "text": "立ち上がったついでにお風呂を準備します"
+  },
+  {
+   "end_ms": "1167400",
+   "start_ms": "1161478",
+   "start_time_text": "19:21",
+   "text": "冷蔵庫に嬉しいおやつがあります"
+  },
+  {
+   "end_ms": "1183868",
+   "start_ms": "1176639",
+   "start_time_text": "19:36",
+   "text": "夜ご飯を作る前に少しだけ休憩が必要🥰"
+  },
+  {
+   "end_ms": "1200241",
+   "start_ms": "1193044",
+   "start_time_text": "19:53",
+   "text": "自然乾燥させた食器の片づけから始めます"
+  },
+  {
+   "end_ms": "1236940",
+   "start_ms": "1230986",
+   "start_time_text": "20:30",
+   "text": "夏の暑い日に食べたいと思っていたレシピ"
+  },
+  {
+   "end_ms": "1246107",
+   "start_ms": "1239133",
+   "start_time_text": "20:39",
+   "text": "夏の終わりを感じ始めて慌てて作ります"
+  },
+  {
+   "end_ms": "1260439",
+   "start_ms": "1254007",
+   "start_time_text": "20:54",
+   "text": "今日のメインのじゅんさいです"
+  },
+  {
+   "end_ms": "1270658.0000000002",
+   "start_ms": "1265055",
+   "start_time_text": "21:05",
+   "text": "食べたことはあるけど 買ったのは初めて"
+  },
+  {
+   "end_ms": "1284034",
+   "start_ms": "1276996",
+   "start_time_text": "21:16",
+   "text": "味玉に使っためんつゆを使ってしまいます"
+  },
+  {
+   "end_ms": "1306643",
+   "start_ms": "1301837",
+   "start_time_text": "21:41",
+   "text": "みょうがと大葉"
+  },
+  {
+   "end_ms": "1314120.9999999998",
+   "start_ms": "1307434",
+   "start_time_text": "21:47",
+   "text": "一年中食べられるけど やっぱり夏に食べ収めたいです🤭"
+  },
+  {
+   "end_ms": "1330270.0000000002",
+   "start_ms": "1324380",
+   "start_time_text": "22:04",
+   "text": "生姜・にんにく・酒・醤油・塩"
+  },
+  {
+   "end_ms": "1340904",
+   "start_ms": "1336162",
+   "start_time_text": "22:16",
+   "text": "卵・水・薄力粉・片栗粉"
+  },
+  {
+   "end_ms": "1349721",
+   "start_ms": "1344979",
+   "start_time_text": "22:24",
+   "text": "残り一束になっていた蕎麦"
+  },
+  {
+   "end_ms": "1411309",
+   "start_ms": "1404144",
+   "start_time_text": "23:24",
+   "text": "もし揚げ物をしたら 必ずその場で揚げたてを食べてください🤭"
+  },
+  {
+   "end_ms": "1419282",
+   "start_ms": "1413615",
+   "start_time_text": "23:33",
+   "text": "プシュッとビールを開けてもいいと思います🤭"
+  },
+  {
+   "end_ms": "1429628",
+   "start_ms": "1423388",
+   "start_time_text": "23:43",
+   "text": "無性に食べたくなった とり天と大葉の天ぷらです"
+  },
+  {
+   "end_ms": "1443833",
+   "start_ms": "1437497",
+   "start_time_text": "23:57",
+   "text": "よく冷やしたそばにじゅんさいをのせて"
+  },
+  {
+   "end_ms": "1455540",
+   "start_ms": "1450001",
+   "start_time_text": "24:10",
+   "text": "さっぱり冷たい蕎麦ととり天のセットです"
+  },
+  {
+   "end_ms": "1464420",
+   "start_ms": "1457319",
+   "start_time_text": "24:17",
+   "text": "（何かしたわけではないのですが） ご褒美のメロンエール"
+  },
+  {
+   "end_ms": "1474543.9999999998",
+   "start_ms": "1466964",
+   "start_time_text": "24:26",
+   "text": "ごはんを作って観るものを選んでいるこの時間が至福です🤭"
+  },
+  {
+   "end_ms": "1488333.9999999998",
+   "start_ms": "1479224",
+   "start_time_text": "24:39",
+   "text": "つるんとしたじゅんさい 冷えたそばとよく合います"
+  },
+  {
+   "end_ms": "1496481",
+   "start_ms": "1489507",
+   "start_time_text": "24:49",
+   "text": "食べたいと思っていたので 一層美味しさが増しているとり天です"
+  },
+  {
+   "end_ms": "1505138",
+   "start_ms": "1499312",
+   "start_time_text": "24:59",
+   "text": "酢醤油でもからしでも なんでも合う😋"
+  },
+  {
+   "end_ms": "1512901.9999999998",
+   "start_ms": "1507937",
+   "start_time_text": "25:07",
+   "text": "お浸しと言えば出汁を使うと思っていたのですが 醤油だけでも美味しいです"
+  },
+  {
+   "end_ms": "1523408",
+   "start_ms": "1517869",
+   "start_time_text": "25:17",
+   "text": "芋栗南京 この秋は何を作れるでしょうか"
+  },
+  {
+   "end_ms": "1531173",
+   "start_ms": "1523912",
+   "start_time_text": "25:23",
+   "text": "また忙しい季節の変わり目です"
+  },
+  {
+   "end_ms": "1544301",
+   "start_ms": "1536466",
+   "start_time_text": "25:36",
+   "text": "ドラマ、YouTube、音楽、考え事 何かをしながら洗い物をするのが好きです"
+  },
+  {
+   "end_ms": "1553755",
+   "start_ms": "1548853",
+   "start_time_text": "25:48",
+   "text": "キッチンを片付けて お風呂で温まります"
+  },
+  {
+   "end_ms": "1563990",
+   "start_ms": "1558036",
+   "start_time_text": "25:58",
+   "text": "台湾旅行で気になった ワインボトルのようなシャンプー"
+  },
+  {
+   "end_ms": "1572296",
+   "start_ms": "1565960",
+   "start_time_text": "26:05",
+   "text": "日本の店舗てセールをしていたので お買い物しました"
+  },
+  {
+   "end_ms": "1579519",
+   "start_ms": "1575765",
+   "start_time_text": "26:15",
+   "text": "スカルプスプレー"
+  },
+  {
+   "end_ms": "1590216.0000000002",
+   "start_ms": "1582987",
+   "start_time_text": "26:22",
+   "text": "潤いを与えてくれるのですが ベタつかない使い心地が気に入りました"
+  },
+  {
+   "end_ms": "1600000",
+   "start_ms": "1592154",
+   "start_time_text": "26:32",
+   "text": "自然に還る歯磨き粉 キャンプなどで使うのにも人気だそうです"
+  },
+  {
+   "end_ms": "1607274",
+   "start_ms": "1601034",
+   "start_time_text": "26:41",
+   "text": "シャンプーは種類がたくさんあったので 香りで選んでみました"
+  },
+  {
+   "end_ms": "1614591.9999999998",
+   "start_ms": "1608830",
+   "start_time_text": "26:48",
+   "text": "長らくズボラ生活をしていたことのひとつ"
+  },
+  {
+   "end_ms": "1623919",
+   "start_ms": "1616690",
+   "start_time_text": "26:56",
+   "text": "詰め替え用の袋のまま洗剤を使っていました😂"
+  },
+  {
+   "end_ms": "1634425",
+   "start_ms": "1626367",
+   "start_time_text": "27:06",
+   "text": "ギュッと押して量れるるボトルにしました"
+  },
+  {
+   "end_ms": "1648582.9999999998",
+   "start_ms": "1642916",
+   "start_time_text": "27:22",
+   "text": "いつもと違うアイテムが並んで いい気分転換に"
+  },
+  {
+   "end_ms": "1664509",
+   "start_ms": "1656451",
+   "start_time_text": "27:36",
+   "text": "オイルも酸化してしまうので 使い切ってしまうことにしました"
+  },
+  {
+   "end_ms": "1688614",
+   "start_ms": "1680046",
+   "start_time_text": "28:00",
+   "text": "使い心地もよかったのですが 香りも強すぎず気に入りました"
+  },
+  {
+   "end_ms": "1712812.9999999998",
+   "start_ms": "1704819",
+   "start_time_text": "28:24",
+   "text": "美味しい冷たい飲み物も飲み納めていかないと"
+  },
+  {
+   "end_ms": "1723352",
+   "start_ms": "1716633",
+   "start_time_text": "28:36",
+   "text": "牛乳たっぷりで作るミルクティー"
+  },
+  {
+   "end_ms": "1736982",
+   "start_ms": "1728988",
+   "start_time_text": "28:48",
+   "text": "ホットも美味しいけど 冷たい美味しさも味わっておきたいです🤭"
+  },
+  {
+   "end_ms": "1751658.9999999998",
+   "start_ms": "1746407",
+   "start_time_text": "29:06",
+   "text": "先日お風呂掃除をしたら ホースが汚れていてびっくりしたのですが"
+  },
+  {
+   "end_ms": "1759838",
+   "start_ms": "1752800",
+   "start_time_text": "29:12",
+   "text": "ホース用のスポンジを見つけてすぐに購入しました"
+  },
+  {
+   "end_ms": "1768462",
+   "start_ms": "1762222",
+   "start_time_text": "29:22",
+   "text": "バスボンくん やっぱりこれが使いやすい"
+  },
+  {
+   "end_ms": "1789670",
+   "start_ms": "1783621",
+   "start_time_text": "29:43",
+   "text": "毎日はできないけど たまにはホースも掃除しないと・・・😹"
+  },
+  {
+   "end_ms": "1801929.9999999998",
+   "start_ms": "1795466",
+   "start_time_text": "29:55",
+   "text": "あちこち掃除できる 使いやすい薄さと大きさです☺"
+  },
+  {
+   "end_ms": "1814839",
+   "start_ms": "1810001",
+   "start_time_text": "30:10",
+   "text": "手に馴染むサイズ感でちょうどいいです"
+  },
+  {
+   "end_ms": "1842989",
+   "start_ms": "1837035",
+   "start_time_text": "30:37",
+   "text": "韓国のお菓子をお供に"
+  },
+  {
+   "end_ms": "1866564.9999999998",
+   "start_ms": "1861504",
+   "start_time_text": "31:01",
+   "text": "さくっと軽くて美味しかったです"
+  },
+  {
+   "end_ms": "1874264.9999999998",
+   "start_ms": "1868280",
+   "start_time_text": "31:08",
+   "text": "袋にカタログが入っていました"
+  },
+  {
+   "end_ms": "1884404",
+   "start_ms": "1876218",
+   "start_time_text": "31:16",
+   "text": "今年もまた冬がやって来ますね🧥"
+  },
+  {
+   "end_ms": "1905014",
+   "start_ms": "1898359",
+   "start_time_text": "31:38",
+   "text": "必ず完了しないといけない予定がある休日の朝"
+  },
+  {
+   "end_ms": "1917963",
+   "start_ms": "1910001",
+   "start_time_text": "31:50",
+   "text": "少しでも家の中を片付けて出かけたいので 起きてすぐシーツを洗濯することにしました"
+  },
+  {
+   "end_ms": "1928501",
+   "start_ms": "1921974",
+   "start_time_text": "32:01",
+   "text": "これで二度寝が回避されるはず・・・"
+  },
+  {
+   "end_ms": "1941942",
+   "start_ms": "1934075",
+   "start_time_text": "32:14",
+   "text": "布団カバーを買って気に入ったので ボックスシーツも買い足しました"
+  },
+  {
+   "end_ms": "1953213",
+   "start_ms": "1946845",
+   "start_time_text": "32:26",
+   "text": "洗濯をする前に中を出さないと・・・"
+  },
+  {
+   "end_ms": "1963910.9999999998",
+   "start_ms": "1957543",
+   "start_time_text": "32:37",
+   "text": "ささっと畳んでしまいます"
+  },
+  {
+   "end_ms": "1977733",
+   "start_ms": "1971142",
+   "start_time_text": "32:51",
+   "text": "汚れがたくさんついてしまった浴衣"
+  },
+  {
+   "end_ms": "1992767",
+   "start_ms": "1984996",
+   "start_time_text": "33:04",
+   "text": "今年はクリーニングに出すことにしました"
+  },
+  {
+   "end_ms": "2005537",
+   "start_ms": "1997702",
+   "start_time_text": "33:17",
+   "text": "クリーニング店に寄りたいので 少し早く家を出ないと"
+  },
+  {
+   "end_ms": "2018277",
+   "start_ms": "2012228",
+   "start_time_text": "33:32",
+   "text": "出しそびれた春のアウターも一緒に😅"
+  },
+  {
+   "end_ms": "2030473",
+   "start_ms": "2023595",
+   "start_time_text": "33:43",
+   "text": "まだ時間がありそうだったので スイカを食べることに"
+  },
+  {
+   "end_ms": "2040150.9999999998",
+   "start_ms": "2033974",
+   "start_time_text": "33:53",
+   "text": "今年最後のスイカかな と少し名残惜しい気持ちです"
+  },
+  {
+   "end_ms": "2088389.0000000002",
+   "start_ms": "2078067",
+   "start_time_text": "34:38",
+   "text": "冷蔵庫の野菜とチーズと サラダにして食べることにしました"
+  },
+  {
+   "end_ms": "2099023",
+   "start_ms": "2091443.0000000002",
+   "start_time_text": "34:51",
+   "text": "オリーブオイル・ホワイトバルサミコ・塩こしょう・はちみつ"
+  },
+  {
+   "end_ms": "2112431",
+   "start_ms": "2105457",
+   "start_time_text": "35:05",
+   "text": "オリーブオイルと塩、バルサミコクリームをトッピング"
+  },
+  {
+   "end_ms": "2123033",
+   "start_ms": "2117207",
+   "start_time_text": "35:17",
+   "text": "チーズとスイカがいい組み合わせです😋"
+  },
+  {
+   "end_ms": "2131052",
+   "start_ms": "2125130",
+   "start_time_text": "35:25",
+   "text": "動いて汗をかいた日にぴったりなメニュー"
+  },
+  {
+   "end_ms": "2153486.0000000005",
+   "start_ms": "2147851",
+   "start_time_text": "35:47",
+   "text": "無事にクリーニング店にもいけました"
+  },
+  {
+   "end_ms": "2164247",
+   "start_ms": "2156604",
+   "start_time_text": "35:56",
+   "text": "夏の最後の大仕事 運転免許証の更新に行きます"
+  },
+  {
+   "end_ms": "2172395",
+   "start_ms": "2165676",
+   "start_time_text": "36:05",
+   "text": "うっかり期限をすぎそうでしたが 無事に更新できました"
+  },
+  {
+   "end_ms": "2184782",
+   "start_ms": "2175481",
+   "start_time_text": "36:15",
+   "text": "お腹ペコペコのランチ パンの食べ放題をつけました"
+  },
+  {
+   "end_ms": "2194269",
+   "start_ms": "2187837",
+   "start_time_text": "36:27",
+   "text": "こんなにパンを食べたのは学生ぶりだと思います🤭"
+  },
+  {
+   "end_ms": "2202618",
+   "start_ms": "2196122",
+   "start_time_text": "36:36",
+   "text": "デリプレートも美味しかったです"
+  },
+  {
+   "end_ms": "2211403",
+   "start_ms": "2203919",
+   "start_time_text": "36:43",
+   "text": "おかわりの札を立てると持ってきてくださいます"
+  },
+  {
+   "end_ms": "2220000",
+   "start_ms": "2214170",
+   "start_time_text": "36:54",
+   "text": "心ゆくまで楽しんだランチ"
+  },
+  {
+   "end_ms": "2227759.9999999995",
+   "start_ms": "2221743",
+   "start_time_text": "37:01",
+   "text": "甘いパンも最後に食べないと😋"
+  },
+  {
+   "end_ms": "2238203",
+   "start_ms": "2230942",
+   "start_time_text": "37:10",
+   "text": "以前なら 食べ放題ランチの後に夜ごはんも食べられた気がするのですが"
+  },
+  {
+   "end_ms": "2248709.0000000005",
+   "start_ms": "2240619",
+   "start_time_text": "37:20",
+   "text": "遅めのランチだったからか 翌朝までお腹いっぱいでした😂"
+  },
+  {
+   "end_ms": "2259565",
+   "start_ms": "2253038",
+   "start_time_text": "37:33",
+   "text": "こうして誕生日がある夏の終わりには 体の変化も感じ始めるのかもしれません🤭"
+  },
+  {
+   "end_ms": "2280337.9999999995",
+   "start_ms": "2268486",
+   "start_time_text": "37:48",
+   "text": "最後までご視聴いただきありがとうございました"
+  }
+ ],
+ "transcript_only_text": "時計の電池が切れていた朝 エアコンをつけずに眠れる夜が増えてきました 今度やろうと溜め込んでいるカゴです 週末は予定がいくつかあるので 少しだけ早起きして片付けることにしました 乾燥機に入れるとシワシワになる生地 家の中で使うものだし シワシワでもいいかなと思ったりもするのですが アイロンがけから始まる一日も気持ちいいです✨ スーッと伸びていく生地 暑さも和らいでアイロンも苦ではありません 夏のお出かけによく被った帽子 メイク汚れが付いてしまいました 洗剤をつけるつもりでしたが お湯だけで落とせました 形を崩さないように・・・ 気になっていた汚れ さっと拭いたり水洗いでも落とせるのに なんでかいつも見てみぬふりをしてしまいます やり始めるまでが一番時間がかかるんですよね🤭 30分の早起きの成果 朝一番の達成感で気分も爽やかです 本当は昨夜、寝る前ににやりたかったのですが 鶏肉を味噌漬けにする それよりも睡眠を優先してしまいました🤭 みそ・さとう・みりん・しょうゆ 水出しでも作れますが 麦茶は煮出した方がミネラルが豊富だそうです 朝一番にあったかい麦茶 すぐに冷ました方が腐りにくいそうです 昨年は9月も真夏のようでしたが 今年は暑くなく しっかり秋を感じられそうです 気温が下がるとお弁当作りも気が楽です 夏に作った手作りめんつゆ ついに使い切ってしまいました はちみつ・ホワイトバルサミコ・オリーブオイル・塩こしょう 出汁と砂糖で煮て 最後にみりんと醤油で味付けます お弁当に映える緑色のししとう 最近マイブームの小松菜です 塩ゆでして醤油と鰹節 簡単ですが嬉しい副菜になります お弁当にぴったりのさつまいも煮 焦げやすいので弱火で優しく・・・ 梨が出回り始めると 運動会を思い出します 運動会のお弁当 梨とブドウがお決まりでした お弁当用に小さめに🔪 しっとり柔らかく焼けた鶏肉 のり弁に 汁気を吸ってくれるので かつお節を下に入れるのが良いそうです 今日もお弁当と同じメニューの朝ごはん 原材料が国産のトマトだけのトマトジュースをスーパーで見つけました 朝ごはんの前に一杯飲むのが最近のお気に入りです🥰 一晩漬けられませんでしたが しっかり味が付いてとても美味しかったです 目の前のお昼ご飯をもう食べたい・・・🤤 終わりのない洗い物 洗ってしまってまた出して これが日常なんだなと思います 焦げ付いたフライパンは重曹を入れて一度沸かしています 汚れが浮いて こする手間を省けます 冷ましている間に いつものようにキッチンを片付けて するりとコゲが落ちる瞬間が気持ちいいです 油を塗って仕上げます 冷蔵庫からおやつを掘り出して ささやかでも癒しの効果は絶大です🍫 ラテを持って行くことにしました キッチンの床が家の中で一番汚れやすい気がします ここがピカピカしていると嬉しいです🤭 昨年の今頃は ニット素材を着るなんて考えられなかったような気がします 可愛い秋物を暑さに耐えて着ていた気がするのですが 今年は秋物をたくさん楽しめそうな涼しさで嬉しいです🍁 星のアクセサリーも最近のブームです🤭 夏の間よく風邪を引いてしまっていました😅 持ち歩き用にお昼の薬を分けることにしました 抗生剤、整腸剤、カルボシステイン、トラネキサム酸 よく処方されるのでお馴染みのメンバーとなっています この夏は喉がずっと痛かったので はちみつのスプレーを買ってみました チクチクとした使い心地 いかにも効きそうです セールの表示に釣られて洋服を買って帰りました セールのニットに秋物のスカート セールを見に行くと やっぱり秋物が可愛く見えるんですよね🤭 色が落ち着いているので 夏物のニットですがこの時期にたくさん着られそうです😊 まだ衣替えはしないけど 少し秋っぽくなって嬉しい瞬間です やっぱり似たものを買ってしまいます 友人が使っていて真似して買ったハンガーです 伸長できて 真ん中は二本のバーがあります 鴨居にも掛けられるのが購入の決め手です 浴衣を吊るすのに使ってみました 着物ハンガーも持っているのですが こちらの方が使いやすそうです🤭 もこもこのサンダル ゴミ出しなど さっと外に出たい時によさそうで買ってみました とてもあったかい 1000円だったのでいいお買い物ができました 立ち上がったついでにお風呂を準備します 冷蔵庫に嬉しいおやつがあります 夜ご飯を作る前に少しだけ休憩が必要🥰 自然乾燥させた食器の片づけから始めます 夏の暑い日に食べたいと思っていたレシピ 夏の終わりを感じ始めて慌てて作ります 今日のメインのじゅんさいです 食べたことはあるけど 買ったのは初めて 味玉に使っためんつゆを使ってしまいます みょうがと大葉 一年中食べられるけど やっぱり夏に食べ収めたいです🤭 生姜・にんにく・酒・醤油・塩 卵・水・薄力粉・片栗粉 残り一束になっていた蕎麦 もし揚げ物をしたら 必ずその場で揚げたてを食べてください🤭 プシュッとビールを開けてもいいと思います🤭 無性に食べたくなった とり天と大葉の天ぷらです よく冷やしたそばにじゅんさいをのせて さっぱり冷たい蕎麦ととり天のセットです （何かしたわけではないのですが） ご褒美のメロンエール ごはんを作って観るものを選んでいるこの時間が至福です🤭 つるんとしたじゅんさい 冷えたそばとよく合います 食べたいと思っていたので 一層美味しさが増しているとり天です 酢醤油でもからしでも なんでも合う😋 お浸しと言えば出汁を使うと思っていたのですが 醤油だけでも美味しいです 芋栗南京 この秋は何を作れるでしょうか また忙しい季節の変わり目です ドラマ、YouTube、音楽、考え事 何かをしながら洗い物をするのが好きです キッチンを片付けて お風呂で温まります 台湾旅行で気になった ワインボトルのようなシャンプー 日本の店舗てセールをしていたので お買い物しました スカルプスプレー 潤いを与えてくれるのですが ベタつかない使い心地が気に入りました 自然に還る歯磨き粉 キャンプなどで使うのにも人気だそうです シャンプーは種類がたくさんあったので 香りで選んでみました 長らくズボラ生活をしていたことのひとつ 詰め替え用の袋のまま洗剤を使っていました😂 ギュッと押して量れるるボトルにしました いつもと違うアイテムが並んで いい気分転換に オイルも酸化してしまうので 使い切ってしまうことにしました 使い心地もよかったのですが 香りも強すぎず気に入りました 美味しい冷たい飲み物も飲み納めていかないと 牛乳たっぷりで作るミルクティー ホットも美味しいけど 冷たい美味しさも味わっておきたいです🤭 先日お風呂掃除をしたら ホースが汚れていてびっくりしたのですが ホース用のスポンジを見つけてすぐに購入しました バスボンくん やっぱりこれが使いやすい 毎日はできないけど たまにはホースも掃除しないと・・・😹 あちこち掃除できる 使いやすい薄さと大きさです☺ 手に馴染むサイズ感でちょうどいいです 韓国のお菓子をお供に さくっと軽くて美味しかったです 袋にカタログが入っていました 今年もまた冬がやって来ますね🧥 必ず完了しないといけない予定がある休日の朝 少しでも家の中を片付けて出かけたいので 起きてすぐシーツを洗濯することにしました これで二度寝が回避されるはず・・・ 布団カバーを買って気に入ったので ボックスシーツも買い足しました 洗濯をする前に中を出さないと・・・ ささっと畳んでしまいます 汚れがたくさんついてしまった浴衣 今年はクリーニングに出すことにしました クリーニング店に寄りたいので 少し早く家を出ないと 出しそびれた春のアウターも一緒に😅 まだ時間がありそうだったので スイカを食べることに 今年最後のスイカかな と少し名残惜しい気持ちです 冷蔵庫の野菜とチーズと サラダにして食べることにしました オリーブオイル・ホワイトバルサミコ・塩こしょう・はちみつ オリーブオイルと塩、バルサミコクリームをトッピング チーズとスイカがいい組み合わせです😋 動いて汗をかいた日にぴったりなメニュー 無事にクリーニング店にもいけました 夏の最後の大仕事 運転免許証の更新に行きます うっかり期限をすぎそうでしたが 無事に更新できました お腹ペコペコのランチ パンの食べ放題をつけました こんなにパンを食べたのは学生ぶりだと思います🤭 デリプレートも美味しかったです おかわりの札を立てると持ってきてくださいます 心ゆくまで楽しんだランチ 甘いパンも最後に食べないと😋 以前なら 食べ放題ランチの後に夜ごはんも食べられた気がするのですが 遅めのランチだったからか 翌朝までお腹いっぱいでした😂 こうして誕生日がある夏の終わりには 体の変化も感じ始めるのかもしれません🤭 最後までご視聴いただきありがとうございました",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=qvVwHlsPbEc",
+ "video_id": "qvVwHlsPbEc"
+}

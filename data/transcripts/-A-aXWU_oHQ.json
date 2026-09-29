@@ -1,0 +1,3244 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ar",
+   "language_name": "Arabic"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-Hans",
+   "language_name": "Chinese (Simplified)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "zh-Hant",
+   "language_name": "Chinese (Traditional)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "de",
+   "language_name": "German"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "id",
+   "language_name": "Indonesian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "it",
+   "language_name": "Italian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ja",
+   "language_name": "Japanese"
+  },
+  {
+   "is_translatable": true,
+   "kind": "auto",
+   "language_code": "ja",
+   "language_name": "Japanese (auto-generated)"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ko",
+   "language_name": "Korean"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "ru",
+   "language_name": "Russian"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "th",
+   "language_name": "Thai"
+  },
+  {
+   "is_translatable": true,
+   "kind": "manual",
+   "language_code": "vi",
+   "language_name": "Vietnamese"
+  }
+ ],
+ "is_auto_generated": false,
+ "language": "Japanese",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "24993",
+   "start_ms": "24000",
+   "start_time_text": "0:24",
+   "text": "おはよう"
+  },
+  {
+   "end_ms": "29000",
+   "start_ms": "24993",
+   "start_time_text": "0:24",
+   "text": "今日はミーティングに行ったあと大学に行くので、"
+  },
+  {
+   "end_ms": "30300",
+   "start_ms": "29000",
+   "start_time_text": "0:29",
+   "text": "メイクしていきます。"
+  },
+  {
+   "end_ms": "36500",
+   "start_ms": "34000",
+   "start_time_text": "0:34",
+   "text": "ちょっと耳横にありすぎじゃない？"
+  },
+  {
+   "end_ms": "39011",
+   "start_ms": "36500",
+   "start_time_text": "0:36",
+   "text": "おかしいよね、まあいっか。ということで"
+  },
+  {
+   "end_ms": "41318.00000000001",
+   "start_ms": "39011",
+   "start_time_text": "0:39",
+   "text": "スキンケアからしていきます。"
+  },
+  {
+   "end_ms": "44500",
+   "start_ms": "41318",
+   "start_time_text": "0:41",
+   "text": "MEDICUBE PDRNピンクゼリーセラムミスト。"
+  },
+  {
+   "end_ms": "65205",
+   "start_ms": "59295",
+   "start_time_text": "0:59",
+   "text": "大体いつもブースターモードの3くらいを当てます。"
+  },
+  {
+   "end_ms": "70682",
+   "start_ms": "65205",
+   "start_time_text": "1:05",
+   "text": "まずこれでメディキューブの美容液を肌に染み込ませます。"
+  },
+  {
+   "end_ms": "73814",
+   "start_ms": "70682",
+   "start_time_text": "1:10",
+   "text": "てか私さ、今思った画面見てて。"
+  },
+  {
+   "end_ms": "76755",
+   "start_ms": "73814",
+   "start_time_text": "1:13",
+   "text": "関コレでダイエットめっちゃ頑張ってから"
+  },
+  {
+   "end_ms": "79501",
+   "start_ms": "78134",
+   "start_time_text": "1:18",
+   "text": "はいわかりました"
+  },
+  {
+   "end_ms": "81307",
+   "start_ms": "79501",
+   "start_time_text": "1:19",
+   "text": "鎖骨がめっちゃ出るようになった。"
+  },
+  {
+   "end_ms": "86151",
+   "start_ms": "81307",
+   "start_time_text": "1:21",
+   "text": "私、鎖骨前まで全くなかったのね。もう、埋もれてたんですけど。"
+  },
+  {
+   "end_ms": "90351.99999999999",
+   "start_ms": "86151",
+   "start_time_text": "1:26",
+   "text": "化石のように。最近発掘されて幸せな気分です。"
+  },
+  {
+   "end_ms": "97966",
+   "start_ms": "90761",
+   "start_time_text": "1:30",
+   "text": "そしたらダーマショットモードの大体いつもこれも3くらいで、"
+  },
+  {
+   "end_ms": "103954",
+   "start_ms": "97966",
+   "start_time_text": "1:37",
+   "text": "クマのところと目尻のところに当てると、目が勝手に動くんだけど、"
+  },
+  {
+   "end_ms": "109601.99999999999",
+   "start_ms": "103954",
+   "start_time_text": "1:43",
+   "text": "目まわりの血流がよくなって、これで目まわりのむくみが取れます。"
+  },
+  {
+   "end_ms": "117079.00000000001",
+   "start_ms": "115935",
+   "start_time_text": "1:55",
+   "text": "美顔器タイム終了✨"
+  },
+  {
+   "end_ms": "118533.99999999999",
+   "start_ms": "117079",
+   "start_time_text": "1:57",
+   "text": "VDL ROSE PDRN PREP BASE。"
+  },
+  {
+   "end_ms": "127932",
+   "start_ms": "123000",
+   "start_time_text": "2:03",
+   "text": "私はこのVDLのプライマーって言えばいいの？これ大好き。"
+  },
+  {
+   "end_ms": "132807.00000000003",
+   "start_ms": "127932",
+   "start_time_text": "2:07",
+   "text": "これを下地で使うと本当に化粧ノリがよくなるから。"
+  },
+  {
+   "end_ms": "138000",
+   "start_ms": "133261",
+   "start_time_text": "2:13",
+   "text": "今ね、関コレ後にめっちゃ爆食したせいで、ニキビだらけなんですよ。"
+  },
+  {
+   "end_ms": "138942.99999999997",
+   "start_ms": "138136",
+   "start_time_text": "2:18",
+   "text": "見たらわかると思うけど"
+  },
+  {
+   "end_ms": "144852",
+   "start_ms": "138943",
+   "start_time_text": "2:18",
+   "text": "おでこにもニキビあるし、あごにもなんか3つくらいあってやばいんだけど、"
+  },
+  {
+   "end_ms": "154500",
+   "start_ms": "144852",
+   "start_time_text": "2:24",
+   "text": "とりあえずこのVDLのプライマーさえあれば、まあ別に化粧ノリいいし、みたいな感じで油断してしまうくらいにはめちゃくちゃこれが良い。"
+  },
+  {
+   "end_ms": "157148",
+   "start_ms": "154500",
+   "start_time_text": "2:34",
+   "text": "espoir ビーグロウファンデーション。"
+  },
+  {
+   "end_ms": "163636",
+   "start_ms": "160334",
+   "start_time_text": "2:40",
+   "text": "espoirのファンデめっちゃいい。本当に大好き。"
+  },
+  {
+   "end_ms": "167550",
+   "start_ms": "163864",
+   "start_time_text": "2:43",
+   "text": "1月に韓国で買ってからずっと使ってる。"
+  },
+  {
+   "end_ms": "169762",
+   "start_ms": "167550",
+   "start_time_text": "2:47",
+   "text": "このfillimilliのスパチュラで伸ばします。"
+  },
+  {
+   "end_ms": "178170.00000000003",
+   "start_ms": "172834",
+   "start_time_text": "2:52",
+   "text": "かっこよくスパチュラとか使ってみてるけど、なんかまだ使い始めたばかりで合ってるのかわからない。"
+  },
+  {
+   "end_ms": "179459",
+   "start_ms": "178500",
+   "start_time_text": "2:58",
+   "text": "でも、多分合ってるよねこれ。"
+  },
+  {
+   "end_ms": "185000",
+   "start_ms": "179795",
+   "start_time_text": "2:59",
+   "text": "これもfillimilliのパフで伸ばしていきます。"
+  },
+  {
+   "end_ms": "189698",
+   "start_ms": "185000",
+   "start_time_text": "3:05",
+   "text": "スパチュラで伸ばしてからの方が、偏りなく伸ばせるファンデ。"
+  },
+  {
+   "end_ms": "191750",
+   "start_ms": "190000",
+   "start_time_text": "3:10",
+   "text": "めっちゃトーンアップやばくない？✨"
+  },
+  {
+   "end_ms": "198148",
+   "start_ms": "194101",
+   "start_time_text": "3:14",
+   "text": "こんな感じでいつも通りにメイクを進めていきまーす。"
+  },
+  {
+   "end_ms": "199728",
+   "start_ms": "198148",
+   "start_time_text": "3:18",
+   "text": "あと、言い忘れたのが、"
+  },
+  {
+   "end_ms": "203557.00000000003",
+   "start_ms": "199728",
+   "start_time_text": "3:19",
+   "text": "今日のカラコンはトリコニコルのゾッコンブラウンです。"
+  },
+  {
+   "end_ms": "205761",
+   "start_ms": "203557",
+   "start_time_text": "3:23",
+   "text": "ゾッコンになってね？🤍"
+  },
+  {
+   "end_ms": "207113",
+   "start_ms": "205761",
+   "start_time_text": "3:25",
+   "text": "メイクしていきまーす"
+  },
+  {
+   "end_ms": "209637",
+   "start_ms": "207113",
+   "start_time_text": "3:27",
+   "text": "はい、目元のメイクが終わったんですけど、"
+  },
+  {
+   "end_ms": "213091",
+   "start_ms": "209637",
+   "start_time_text": "3:29",
+   "text": "マジで最近のメイクずっとデートメイク？"
+  },
+  {
+   "end_ms": "217307.00000000003",
+   "start_ms": "213091",
+   "start_time_text": "3:33",
+   "text": "GRWMのメイクとずっと変わってないんで、ぜひ見てみてください。"
+  },
+  {
+   "end_ms": "218864",
+   "start_ms": "217500",
+   "start_time_text": "3:37",
+   "text": "そしたらチーク。"
+  },
+  {
+   "end_ms": "224295",
+   "start_ms": "220500",
+   "start_time_text": "3:40",
+   "text": "BIDOL ふわほっぺチーク 02 きゅん顔ピンクです。"
+  },
+  {
+   "end_ms": "230523",
+   "start_ms": "224500",
+   "start_time_text": "3:44",
+   "text": "これもマジでデートGRWMと一緒。このチークずっと可愛くてマジでお気に入り。"
+  },
+  {
+   "end_ms": "233762",
+   "start_ms": "230523",
+   "start_time_text": "3:50",
+   "text": "ずっと使ってます私は。本当に可愛いの色が。"
+  },
+  {
+   "end_ms": "240000",
+   "start_ms": "233762",
+   "start_time_text": "3:53",
+   "text": "で、このブラシも塗りやすいの。マジでずっと使ってる最近。はぁ…可愛い🤍"
+  },
+  {
+   "end_ms": "254523",
+   "start_ms": "246500",
+   "start_time_text": "4:06",
+   "text": "ちょっとね、ミーティングまでに整理しなきゃいけないから、自分の考えてることを。家出る前にね、ちょっと急ぎ中今。"
+  },
+  {
+   "end_ms": "257817.99999999997",
+   "start_ms": "254523",
+   "start_time_text": "4:14",
+   "text": "急いで準備しないと。高速。"
+  },
+  {
+   "end_ms": "261500",
+   "start_ms": "257817.99999999997",
+   "start_time_text": "4:17",
+   "text": "このチークを高速でやっても、ゆっくりやっても変わんねーよって。"
+  },
+  {
+   "end_ms": "268727.00000000006",
+   "start_ms": "261634",
+   "start_time_text": "4:21",
+   "text": "本当に可愛くない？しかも何回塗り重ねても重たくならない。マジでふわほっぺチークっていう感じ。"
+  },
+  {
+   "end_ms": "271301",
+   "start_ms": "269000",
+   "start_time_text": "4:29",
+   "text": "本当にほっぺが可愛くなる🤍"
+  },
+  {
+   "end_ms": "275147.99999999994",
+   "start_ms": "271301",
+   "start_time_text": "4:31",
+   "text": "ヘアバンドしてたからさ、癖ついちゃって髪の毛めっちゃキモい。"
+  },
+  {
+   "end_ms": "280545",
+   "start_ms": "275512",
+   "start_time_text": "4:35",
+   "text": "うーん、どうしようもできないね〜これ。まあいいですはーい。"
+  },
+  {
+   "end_ms": "282239",
+   "start_ms": "280734",
+   "start_time_text": "4:40",
+   "text": "さあ大急ぎ大急ぎ。"
+  },
+  {
+   "end_ms": "285807",
+   "start_ms": "282512",
+   "start_time_text": "4:42",
+   "text": "Dior バックステージ ファイス グロウ パレット 004 ローズゴールド。"
+  },
+  {
+   "end_ms": "290090.99999999994",
+   "start_ms": "285977",
+   "start_time_text": "4:45",
+   "text": "一応ASMRはちゃんとやるっていう。"
+  },
+  {
+   "end_ms": "296875",
+   "start_ms": "290091",
+   "start_time_text": "4:50",
+   "text": "鼻の頭とここに乗せて、ここにも縦に乗せます。"
+  },
+  {
+   "end_ms": "300000",
+   "start_ms": "296875",
+   "start_time_text": "4:56",
+   "text": "ここに使うハイライトは大体Diorか"
+  },
+  {
+   "end_ms": "302920",
+   "start_ms": "300000",
+   "start_time_text": "5:00",
+   "text": "BIDOLで使い分けてるって感じ。"
+  },
+  {
+   "end_ms": "307715.00000000006",
+   "start_ms": "302920",
+   "start_time_text": "5:02",
+   "text": "今日はちょっと時間がないので、引き出しの中にあるので目の前にあったDior。"
+  },
+  {
+   "end_ms": "310750",
+   "start_ms": "307989",
+   "start_time_text": "5:07",
+   "text": "次リップ。Keep in Touch グロッシーリップグローペンシル 01 クリーミージー。"
+  },
+  {
+   "end_ms": "316058",
+   "start_ms": "310750",
+   "start_time_text": "5:10",
+   "text": "大急ぎですよ。大急ぎでもオーバーリップは欠かさない。"
+  },
+  {
+   "end_ms": "320668",
+   "start_ms": "316058",
+   "start_time_text": "5:16",
+   "text": "今日はね、まつげもあげずにちょっとナチュラルめです。"
+  },
+  {
+   "end_ms": "324807",
+   "start_ms": "320668",
+   "start_time_text": "5:20",
+   "text": "rom&nd TJLティント 03 ベアーグレープ。"
+  },
+  {
+   "end_ms": "328000",
+   "start_ms": "325057",
+   "start_time_text": "5:25",
+   "text": "まつげあげないのにASMRはする"
+  },
+  {
+   "end_ms": "332801.00000000006",
+   "start_ms": "330511",
+   "start_time_text": "5:30",
+   "text": "本当に可愛いこれ"
+  },
+  {
+   "end_ms": "334830",
+   "start_ms": "332801",
+   "start_time_text": "5:32",
+   "text": "可愛すぎるだろ！🤍"
+  },
+  {
+   "end_ms": "337125",
+   "start_ms": "334830",
+   "start_time_text": "5:34",
+   "text": "fwee 3Dボリューミンググロス 70%ヨーグルト。"
+  },
+  {
+   "end_ms": "346091",
+   "start_ms": "343863",
+   "start_time_text": "5:43",
+   "text": "これでプルンプルンですよ。"
+  },
+  {
+   "end_ms": "350545",
+   "start_ms": "346091",
+   "start_time_text": "5:46",
+   "text": "あと忘れてた。チャームポイントのほくろを書き足します。"
+  },
+  {
+   "end_ms": "357561",
+   "start_ms": "353534",
+   "start_time_text": "5:53",
+   "text": "これ結構大事なポイント。私のアイデンティティーやねんこれが。"
+  },
+  {
+   "end_ms": "363478",
+   "start_ms": "358830",
+   "start_time_text": "5:58",
+   "text": "そしたらそしたら大急ぎで。大急ぎで大急ぎで大急ぎで。"
+  },
+  {
+   "end_ms": "370468",
+   "start_ms": "366000",
+   "start_time_text": "6:06",
+   "text": "焦るとうまくいかない。落ち着け。"
+  },
+  {
+   "end_ms": "374273",
+   "start_ms": "371000",
+   "start_time_text": "6:11",
+   "text": "大急ぎで髪の毛やって服を着替えます。"
+  },
+  {
+   "end_ms": "384328",
+   "start_ms": "376852",
+   "start_time_text": "6:16",
+   "text": "はいそしたら着替えてきたんですけど、服を見せようとすると後ろの机の上に散らかってる化粧品がすべて見えてしまうので、"
+  },
+  {
+   "end_ms": "392468",
+   "start_ms": "384795",
+   "start_time_text": "6:24",
+   "text": "自前モザイクでどうにかしようとしてるんですけど。痩せちゃったので表面積が足りなくて隠しきれません。"
+  },
+  {
+   "end_ms": "395102.00000000006",
+   "start_ms": "392468",
+   "start_time_text": "6:32",
+   "text": "ご了承ください。すみません本当に。"
+  },
+  {
+   "end_ms": "400840.99999999994",
+   "start_ms": "395489",
+   "start_time_text": "6:35",
+   "text": "いつもは自分の体で隠していますが、このように。ちょっと汚部屋です。"
+  },
+  {
+   "end_ms": "405670",
+   "start_ms": "401000",
+   "start_time_text": "6:41",
+   "text": "服はね、普通にSHEINで買ったただのグレーの長袖に、"
+  },
+  {
+   "end_ms": "410378",
+   "start_ms": "406000",
+   "start_time_text": "6:46",
+   "text": "このね、骨ストって本当にここ。この角度太って見える。"
+  },
+  {
+   "end_ms": "411866.99999999994",
+   "start_ms": "410378",
+   "start_time_text": "6:50",
+   "text": "ここすごい。"
+  },
+  {
+   "end_ms": "414801.00000000006",
+   "start_ms": "411867",
+   "start_time_text": "6:51",
+   "text": "ムッチリという感じなんですけど。気にしないでくださいね。"
+  },
+  {
+   "end_ms": "422561",
+   "start_ms": "415108",
+   "start_time_text": "6:55",
+   "text": "GRLで買ったデニムなんですけど、このレースが可愛すぎてめっちゃお気に入りです✨"
+  },
+  {
+   "end_ms": "432428",
+   "start_ms": "422734",
+   "start_time_text": "7:02",
+   "text": "で、これに何を合わせるかといいますと、韓国で買ったILLIGOの花柄のパーカーがとうとう着れる季節になりました。"
+  },
+  {
+   "end_ms": "433841",
+   "start_ms": "432428",
+   "start_time_text": "7:12",
+   "text": "嬉しい"
+  },
+  {
+   "end_ms": "436801",
+   "start_ms": "433841",
+   "start_time_text": "7:13",
+   "text": "これを着たかったの。春、最高🌸"
+  },
+  {
+   "end_ms": "443935",
+   "start_ms": "436801",
+   "start_time_text": "7:16",
+   "text": "待ってこうやってさ、私服の紹介する前にまず髪の毛を完成させるべきだよね。髪の毛やります。"
+  },
+  {
+   "end_ms": "449659",
+   "start_ms": "444500",
+   "start_time_text": "7:24",
+   "text": "はいそしたら、髪を巻いていきます。前髪いいやこのままで。"
+  },
+  {
+   "end_ms": "451501",
+   "start_ms": "449659",
+   "start_time_text": "7:29",
+   "text": "いいんだ"
+  },
+  {
+   "end_ms": "458397.99999999994",
+   "start_ms": "451501",
+   "start_time_text": "7:31",
+   "text": "これはVODANAのコテです。いつも使ってる。今日は一番楽ちんで、適当でもいい感じになる外巻き。"
+  },
+  {
+   "end_ms": "462932",
+   "start_ms": "458701",
+   "start_time_text": "7:38",
+   "text": "本当に時間がないので適当に巻きます。"
+  },
+  {
+   "end_ms": "472727.00000000006",
+   "start_ms": "465668",
+   "start_time_text": "7:45",
+   "text": "本当に適当。今日はミーティングの後に大学で別に写真撮る予定はないので、別にいいかなみたいな。"
+  },
+  {
+   "end_ms": "480000",
+   "start_ms": "472901",
+   "start_time_text": "7:52",
+   "text": "私は本当にズボラなので。写真撮らないとき本当に準備が適当です。まつげも束感にしないし。"
+  },
+  {
+   "end_ms": "486761",
+   "start_ms": "480000",
+   "start_time_text": "8:00",
+   "text": "きょうかちゃん見てるとモチベ上がるって言ってもらえるのが、申し訳なくなるくらい本当に適当。"
+  },
+  {
+   "end_ms": "489000",
+   "start_ms": "486761",
+   "start_time_text": "8:06",
+   "text": "適当すぎだろこれ大丈夫ですか？"
+  },
+  {
+   "end_ms": "496057",
+   "start_ms": "489000",
+   "start_time_text": "8:09",
+   "text": "もうだめ！全然だめ！いいんですよ雰囲気巻ければ。外に出れる状態だったらいいんですよ別に。"
+  },
+  {
+   "end_ms": "497795",
+   "start_ms": "496057",
+   "start_time_text": "8:16",
+   "text": "こんな感じで巻きましたら"
+  },
+  {
+   "end_ms": "499411",
+   "start_ms": "497795",
+   "start_time_text": "8:17",
+   "text": "ケープの前髪マスカラ"
+  },
+  {
+   "end_ms": "502570",
+   "start_ms": "499411",
+   "start_time_text": "8:19",
+   "text": "私はここがいつも変になるので。"
+  },
+  {
+   "end_ms": "504502",
+   "start_ms": "503149",
+   "start_time_text": "8:23",
+   "text": "音いいこれ"
+  },
+  {
+   "end_ms": "510000",
+   "start_ms": "507101",
+   "start_time_text": "8:27",
+   "text": "かすかなASMRを聞き逃さないw"
+  },
+  {
+   "end_ms": "512762.00000000006",
+   "start_ms": "510067",
+   "start_time_text": "8:30",
+   "text": "こうやってつけます。"
+  },
+  {
+   "end_ms": "515272.00000000006",
+   "start_ms": "514601",
+   "start_time_text": "8:34",
+   "text": "まあいい感じ。"
+  },
+  {
+   "end_ms": "519399",
+   "start_ms": "516226",
+   "start_time_text": "8:36",
+   "text": "いいんじゃなーい？こんな感じで。適当のわりにいいんじゃない？"
+  },
+  {
+   "end_ms": "524668",
+   "start_ms": "519399",
+   "start_time_text": "8:39",
+   "text": "まあでもちょっと右が適当すぎて変になってるけど。いいんじゃないでしょうか✨"
+  },
+  {
+   "end_ms": "526512",
+   "start_ms": "524668",
+   "start_time_text": "8:44",
+   "text": "そしたらケープ"
+  },
+  {
+   "end_ms": "529721",
+   "start_ms": "528000",
+   "start_time_text": "8:48",
+   "text": "最強キープのやつ"
+  },
+  {
+   "end_ms": "536000",
+   "start_ms": "533734",
+   "start_time_text": "8:53",
+   "text": "えっ、痛い、ぶつけた"
+  },
+  {
+   "end_ms": "537092",
+   "start_ms": "536000",
+   "start_time_text": "8:56",
+   "text": "これを"
+  },
+  {
+   "end_ms": "541224",
+   "start_ms": "539868",
+   "start_time_text": "8:59",
+   "text": "ふりかけます。"
+  },
+  {
+   "end_ms": "543872",
+   "start_ms": "542088",
+   "start_time_text": "9:02",
+   "text": "はい！OK！✨"
+  },
+  {
+   "end_ms": "546000",
+   "start_ms": "544261",
+   "start_time_text": "9:04",
+   "text": "大急ぎ大急ぎ大急ぎ大急ぎ"
+  },
+  {
+   "end_ms": "549877",
+   "start_ms": "546500",
+   "start_time_text": "9:06",
+   "text": "髪型をやったらこんな感じです。"
+  },
+  {
+   "end_ms": "551262.9999999999",
+   "start_ms": "549877",
+   "start_time_text": "9:09",
+   "text": "え…可愛いじゃん🤍"
+  },
+  {
+   "end_ms": "552195",
+   "start_ms": "551263",
+   "start_time_text": "9:11",
+   "text": "そしたら"
+  },
+  {
+   "end_ms": "553900.0000000001",
+   "start_ms": "552195",
+   "start_time_text": "9:12",
+   "text": "いつも聞かれるネックレス。"
+  },
+  {
+   "end_ms": "557297",
+   "start_ms": "553900",
+   "start_time_text": "9:13",
+   "text": "これお母さんが作ってるジュエリーなんです。"
+  },
+  {
+   "end_ms": "562201",
+   "start_ms": "557297",
+   "start_time_text": "9:17",
+   "text": "これね、後ろが磁石になってるから、めっちゃつけるの簡単。"
+  },
+  {
+   "end_ms": "566500",
+   "start_ms": "564634",
+   "start_time_text": "9:24",
+   "text": "※簡単とは"
+  },
+  {
+   "end_ms": "571171",
+   "start_ms": "566634",
+   "start_time_text": "9:26",
+   "text": "そしたらこのずっと着たかった、ILLIGOの花柄のパーカーを着ます。"
+  },
+  {
+   "end_ms": "578500",
+   "start_ms": "574500",
+   "start_time_text": "9:34",
+   "text": "嬉しいこれが着れる季節になったの。よし。"
+  },
+  {
+   "end_ms": "581184.0000000001",
+   "start_ms": "578830",
+   "start_time_text": "9:38",
+   "text": "めっちゃ可愛くない？🤍"
+  },
+  {
+   "end_ms": "586573",
+   "start_ms": "581468",
+   "start_time_text": "9:41",
+   "text": "このフリルとかさボタンもついててさ、めっちゃ可愛いよね。"
+  },
+  {
+   "end_ms": "589812",
+   "start_ms": "588431",
+   "start_time_text": "9:48",
+   "text": "はい、とっても可愛いです！🤍"
+  },
+  {
+   "end_ms": "596046",
+   "start_ms": "589812",
+   "start_time_text": "9:49",
+   "text": "で、このパソコンケース。パソコンケースなんだけどiPadを入れます。"
+  },
+  {
+   "end_ms": "600334.0000000001",
+   "start_ms": "596046",
+   "start_time_text": "9:56",
+   "text": "ミーティングのときは大体パソコンじゃなくてiPadを持っていきます。"
+  },
+  {
+   "end_ms": "602978.9999999999",
+   "start_ms": "600334",
+   "start_time_text": "10:00",
+   "text": "黒いバッグしか大きいの持ってなくて。"
+  },
+  {
+   "end_ms": "606000",
+   "start_ms": "602979",
+   "start_time_text": "10:02",
+   "text": "MUCENTのバッグに入れて"
+  },
+  {
+   "end_ms": "607760",
+   "start_ms": "606067",
+   "start_time_text": "10:06",
+   "text": "入らない！"
+  },
+  {
+   "end_ms": "609101",
+   "start_ms": "608067",
+   "start_time_text": "10:08",
+   "text": "ガサツすぎw"
+  },
+  {
+   "end_ms": "612234",
+   "start_ms": "610801",
+   "start_time_text": "10:10",
+   "text": "香水振るの忘れた"
+  },
+  {
+   "end_ms": "615095",
+   "start_ms": "613562",
+   "start_time_text": "10:13",
+   "text": "CHANEL"
+  },
+  {
+   "end_ms": "620334",
+   "start_ms": "619232",
+   "start_time_text": "10:19",
+   "text": "シュールすぎるw"
+  },
+  {
+   "end_ms": "623034",
+   "start_ms": "620334",
+   "start_time_text": "10:20",
+   "text": "こういうつけ方を私はいつもしまーす"
+  },
+  {
+   "end_ms": "630534",
+   "start_ms": "626434",
+   "start_time_text": "10:26",
+   "text": "家出る前にミーティングのことを整理します。"
+  },
+  {
+   "end_ms": "633250",
+   "start_ms": "630534",
+   "start_time_text": "10:30",
+   "text": "頭の中でイメージしてることを可視化する時間。"
+  },
+  {
+   "end_ms": "636810",
+   "start_ms": "633755",
+   "start_time_text": "10:33",
+   "text": "イメージを直接文字で書き起こすよりも、まずは図で描くようにしてる"
+  },
+  {
+   "end_ms": "640025",
+   "start_ms": "637140",
+   "start_time_text": "10:37",
+   "text": "いつも思うのがイメージをそのまま言語化するって難しい"
+  },
+  {
+   "end_ms": "642763",
+   "start_ms": "640234",
+   "start_time_text": "10:40",
+   "text": "イメージがまとまるまで、ひたすらお絵描きtime"
+  },
+  {
+   "end_ms": "647398",
+   "start_ms": "645568",
+   "start_time_text": "10:45",
+   "text": "可愛いお靴✨"
+  },
+  {
+   "end_ms": "649734",
+   "start_ms": "647705",
+   "start_time_text": "10:47",
+   "text": "服にぴったりで幸せ"
+  },
+  {
+   "end_ms": "652926.9999999999",
+   "start_ms": "650007",
+   "start_time_text": "10:50",
+   "text": "打ち合わせに向かいます"
+  },
+  {
+   "end_ms": "655201",
+   "start_ms": "653408",
+   "start_time_text": "10:53",
+   "text": "湿気で前髪を気になる"
+  },
+  {
+   "end_ms": "660733.9999999999",
+   "start_ms": "658136",
+   "start_time_text": "10:58",
+   "text": "Factory & labo 神乃珈琲"
+  },
+  {
+   "end_ms": "662092",
+   "start_ms": "661141",
+   "start_time_text": "11:01",
+   "text": "到着"
+  },
+  {
+   "end_ms": "665240",
+   "start_ms": "662524",
+   "start_time_text": "11:02",
+   "text": "窓が大きいカフェ大好き"
+  },
+  {
+   "end_ms": "667510.0000000001",
+   "start_ms": "666171",
+   "start_time_text": "11:06",
+   "text": "カフェラテ注文した☕️"
+  },
+  {
+   "end_ms": "676501.0000000001",
+   "start_ms": "671830",
+   "start_time_text": "11:11",
+   "text": "カフェにこんな帽子を持ち込むことありますか？"
+  },
+  {
+   "end_ms": "680034",
+   "start_ms": "678000",
+   "start_time_text": "11:18",
+   "text": "アイデアを生み出すの難しい🌀"
+  },
+  {
+   "end_ms": "686201",
+   "start_ms": "683033",
+   "start_time_text": "11:23",
+   "text": "思い浮かぶアイデアの中でも、今じゃない💦ってのがたくさん笑"
+  },
+  {
+   "end_ms": "689801",
+   "start_ms": "687056",
+   "start_time_text": "11:27",
+   "text": "今まだ公開できない情報だけど、楽しみにしててほしいな。"
+  },
+  {
+   "end_ms": "693377",
+   "start_ms": "690935",
+   "start_time_text": "11:30",
+   "text": "突然の帽子お試しタイム"
+  },
+  {
+   "end_ms": "697425",
+   "start_ms": "694174",
+   "start_time_text": "11:34",
+   "text": "大量に持ってきた帽子をとりあえず被ってみる人↑"
+  },
+  {
+   "end_ms": "700312",
+   "start_ms": "698221",
+   "start_time_text": "11:38",
+   "text": "まだまだあります・・・"
+  },
+  {
+   "end_ms": "702198",
+   "start_ms": "700812",
+   "start_time_text": "11:40",
+   "text": "全部で14個www"
+  },
+  {
+   "end_ms": "706801",
+   "start_ms": "704648",
+   "start_time_text": "11:44",
+   "text": "打ち合わせ終わって、大学到着！"
+  },
+  {
+   "end_ms": "709175.9999999999",
+   "start_ms": "707108",
+   "start_time_text": "11:47",
+   "text": "教室に向かいます"
+  },
+  {
+   "end_ms": "714703",
+   "start_ms": "712178",
+   "start_time_text": "11:52",
+   "text": "授業の準備💻"
+  },
+  {
+   "end_ms": "717524",
+   "start_ms": "716000",
+   "start_time_text": "11:56",
+   "text": "授業開始！"
+  },
+  {
+   "end_ms": "719668",
+   "start_ms": "718102",
+   "start_time_text": "11:58",
+   "text": "これはvlog撮れない授業の話なんだけど"
+  },
+  {
+   "end_ms": "721569",
+   "start_ms": "719668",
+   "start_time_text": "11:59",
+   "text": "社会問題についてディスカッションする授業があって、"
+  },
+  {
+   "end_ms": "724012",
+   "start_ms": "721569",
+   "start_time_text": "12:01",
+   "text": "自分なりの意見を考えた上で、お互いに皆の意見を聞くんです。"
+  },
+  {
+   "end_ms": "726454.9999999999",
+   "start_ms": "724012",
+   "start_time_text": "12:04",
+   "text": "そんな視点あったんだ！って新しく気づきを得られるのが楽しくて、"
+  },
+  {
+   "end_ms": "729375",
+   "start_ms": "726455",
+   "start_time_text": "12:06",
+   "text": "自分はディスカッションの授業好きなんだって気づいた"
+  },
+  {
+   "end_ms": "732000",
+   "start_ms": "729705",
+   "start_time_text": "12:09",
+   "text": "ちなみに授業終わりました笑"
+  },
+  {
+   "end_ms": "735162",
+   "start_ms": "733581",
+   "start_time_text": "12:13",
+   "text": "バッグに入れるの苦戦しすぎ"
+  },
+  {
+   "end_ms": "741200.9999999999",
+   "start_ms": "739757",
+   "start_time_text": "12:19",
+   "text": "この日は授業1個だけ"
+  },
+  {
+   "end_ms": "746149",
+   "start_ms": "743690",
+   "start_time_text": "12:23",
+   "text": "帰宅します。"
+  },
+  {
+   "end_ms": "749064",
+   "start_ms": "747351",
+   "start_time_text": "12:27",
+   "text": "その時‼️"
+  },
+  {
+   "end_ms": "755235",
+   "start_ms": "754143",
+   "start_time_text": "12:34",
+   "text": "妹のれいか登場"
+  },
+  {
+   "end_ms": "757920.9999999999",
+   "start_ms": "755454",
+   "start_time_text": "12:35",
+   "text": "なんか盛れてない"
+  },
+  {
+   "end_ms": "759434.0000000001",
+   "start_ms": "757921",
+   "start_time_text": "12:37",
+   "text": "髪の毛ボサボサなんだもん"
+  },
+  {
+   "end_ms": "761134",
+   "start_ms": "759434",
+   "start_time_text": "12:39",
+   "text": "盛れてない"
+  },
+  {
+   "end_ms": "762247.0000000001",
+   "start_ms": "761134",
+   "start_time_text": "12:41",
+   "text": "合流します"
+  },
+  {
+   "end_ms": "764334",
+   "start_ms": "762247",
+   "start_time_text": "12:42",
+   "text": "やっほー"
+  },
+  {
+   "end_ms": "769700.9999999999",
+   "start_ms": "764334",
+   "start_time_text": "12:44",
+   "text": "今可愛いよ。盛れなくていいよ、盛れなくていいんだ。大学終わりだもん。"
+  },
+  {
+   "end_ms": "771701",
+   "start_ms": "769701",
+   "start_time_text": "12:49",
+   "text": "疲れてるから"
+  },
+  {
+   "end_ms": "773501",
+   "start_ms": "771701",
+   "start_time_text": "12:51",
+   "text": "れいかと合流。朝ぶり。"
+  },
+  {
+   "end_ms": "776079.9999999999",
+   "start_ms": "773501",
+   "start_time_text": "12:53",
+   "text": "朝ぶり"
+  },
+  {
+   "end_ms": "779401",
+   "start_ms": "776334",
+   "start_time_text": "12:56",
+   "text": "れいかが持った方がよくない？なんかちっちゃくない？"
+  },
+  {
+   "end_ms": "780601",
+   "start_ms": "779401",
+   "start_time_text": "12:59",
+   "text": "ったくしゃーねーな"
+  },
+  {
+   "end_ms": "788500",
+   "start_ms": "780601",
+   "start_time_text": "13:00",
+   "text": "髪の毛ボサボサ。今日湿気すごい。湿気すごいし、朝走って汗かいちゃった。あらまあ。"
+  },
+  {
+   "end_ms": "790739",
+   "start_ms": "788534",
+   "start_time_text": "13:08",
+   "text": "合流しました"
+  },
+  {
+   "end_ms": "794331",
+   "start_ms": "790739",
+   "start_time_text": "13:10",
+   "text": "パーカー見せたい、可愛いから🤍これ可愛いでしょ？"
+  },
+  {
+   "end_ms": "800182",
+   "start_ms": "794331",
+   "start_time_text": "13:14",
+   "text": "れいかの方も可愛いよ。うん、かわいいね。れいかも被れば？ボサボサだから。"
+  },
+  {
+   "end_ms": "804734",
+   "start_ms": "800489",
+   "start_time_text": "13:20",
+   "text": "なんか毛繕い？てか、れいかデカw"
+  },
+  {
+   "end_ms": "809733.0000000001",
+   "start_ms": "804734",
+   "start_time_text": "13:24",
+   "text": "ボサボサすぎ。だって風に吹かれてるんだもん。あ、ありがとね。"
+  },
+  {
+   "end_ms": "814434",
+   "start_ms": "811668",
+   "start_time_text": "13:31",
+   "text": "ちゃんと盛れる顔して。ピースダサイ。"
+  },
+  {
+   "end_ms": "818994",
+   "start_ms": "816714",
+   "start_time_text": "13:36",
+   "text": "風に吹かれて春って感じ🌸"
+  },
+  {
+   "end_ms": "819975",
+   "start_ms": "819134",
+   "start_time_text": "13:39",
+   "text": "ポジティブw"
+  },
+  {
+   "end_ms": "821797",
+   "start_ms": "819975",
+   "start_time_text": "13:39",
+   "text": "ゆで卵"
+  },
+  {
+   "end_ms": "825534",
+   "start_ms": "821797",
+   "start_time_text": "13:41",
+   "text": "でも吹かれすぎじゃない？白い卵と燻製"
+  },
+  {
+   "end_ms": "827614",
+   "start_ms": "825534",
+   "start_time_text": "13:45",
+   "text": "WW"
+  },
+  {
+   "end_ms": "828524",
+   "start_ms": "827614",
+   "start_time_text": "13:47",
+   "text": "いいじゃん"
+  },
+  {
+   "end_ms": "830401",
+   "start_ms": "828524",
+   "start_time_text": "13:48",
+   "text": "可愛いね"
+  },
+  {
+   "end_ms": "831649",
+   "start_ms": "830401",
+   "start_time_text": "13:50",
+   "text": "ブスすぎて鬱"
+  },
+  {
+   "end_ms": "832435",
+   "start_ms": "831935",
+   "start_time_text": "13:51",
+   "text": "わかる"
+  },
+  {
+   "end_ms": "836173",
+   "start_ms": "832435",
+   "start_time_text": "13:52",
+   "text": "風吹くな！だって何この前髪"
+  },
+  {
+   "end_ms": "844955",
+   "start_ms": "838000",
+   "start_time_text": "13:58",
+   "text": "家に帰ってきてから夜ご飯を食べました。今から食後のデザートなのでその準備。"
+  },
+  {
+   "end_ms": "856011",
+   "start_ms": "847420",
+   "start_time_text": "14:07",
+   "text": "今ご飯を食べ終わったんですけど、食後のデザート食べます。これが最近めっちゃハマってるアイス。"
+  },
+  {
+   "end_ms": "856818",
+   "start_ms": "856318",
+   "start_time_text": "14:16",
+   "text": "どれ？"
+  },
+  {
+   "end_ms": "861034",
+   "start_ms": "856818",
+   "start_time_text": "14:16",
+   "text": "これ食べたことある？食べたことないけど、たぶん食べた（？）"
+  },
+  {
+   "end_ms": "862386",
+   "start_ms": "861034",
+   "start_time_text": "14:21",
+   "text": "？？？"
+  },
+  {
+   "end_ms": "867134",
+   "start_ms": "862386",
+   "start_time_text": "14:22",
+   "text": "一口食べたことある気がする。めっちゃおいしいの、これ。食べてみてほしいみんな"
+  },
+  {
+   "end_ms": "872160",
+   "start_ms": "867295",
+   "start_time_text": "14:27",
+   "text": "髪がボサボサすぎて、今日湿気やばかったよね。やばかった、"
+  },
+  {
+   "end_ms": "873668",
+   "start_ms": "872160",
+   "start_time_text": "14:32",
+   "text": "やばいハゲがバレる"
+  },
+  {
+   "end_ms": "877610",
+   "start_ms": "873668",
+   "start_time_text": "14:33",
+   "text": "ハゲてる笑 ひどい…ごめんね、いいよ"
+  },
+  {
+   "end_ms": "883205",
+   "start_ms": "877610",
+   "start_time_text": "14:37",
+   "text": "髪の毛まとめたら、もっとボサボサバレる。そんなもんでいいよ？あげちゃおう、これで"
+  },
+  {
+   "end_ms": "884182",
+   "start_ms": "883205",
+   "start_time_text": "14:43",
+   "text": "うんゆで卵"
+  },
+  {
+   "end_ms": "885500",
+   "start_ms": "884182",
+   "start_time_text": "14:44",
+   "text": "ゆで上がり卵？"
+  },
+  {
+   "end_ms": "887784",
+   "start_ms": "885500",
+   "start_time_text": "14:45",
+   "text": "前髪がもうキモいのわかる？"
+  },
+  {
+   "end_ms": "891876",
+   "start_ms": "888670",
+   "start_time_text": "14:48",
+   "text": "おならした？おならしてないよ。何の音いまのw"
+  },
+  {
+   "end_ms": "895579.9999999999",
+   "start_ms": "891876",
+   "start_time_text": "14:51",
+   "text": "違う今、床と靴下が擦れた音。"
+  },
+  {
+   "end_ms": "898201",
+   "start_ms": "895580",
+   "start_time_text": "14:55",
+   "text": "おならプリプリップリッてしたのかと思った。"
+  },
+  {
+   "end_ms": "905614",
+   "start_ms": "898201",
+   "start_time_text": "14:58",
+   "text": "動画撮ってるときは我慢します、おなら。おならしてたよ。してないよ、それはカットする前提だよ。闇を放出した。"
+  },
+  {
+   "end_ms": "912864",
+   "start_ms": "905614",
+   "start_time_text": "15:05",
+   "text": "カットしてるんだ。そうだよ、当たり前じゃん。おならしたらカットしますよ。あ、いいじゃんこれで。可愛いね🤍"
+  },
+  {
+   "end_ms": "919364",
+   "start_ms": "912864",
+   "start_time_text": "15:12",
+   "text": "でしょ？よく言われる。ルーピー？この顔、ウルウルして"
+  },
+  {
+   "end_ms": "925834.0000000001",
+   "start_ms": "923147",
+   "start_time_text": "15:23",
+   "text": "似すぎだろこれ同一人物やねん"
+  },
+  {
+   "end_ms": "927535",
+   "start_ms": "925834",
+   "start_time_text": "15:25",
+   "text": "前世ルーピーじゃん"
+  },
+  {
+   "end_ms": "931732.0000000001",
+   "start_ms": "929344",
+   "start_time_text": "15:29",
+   "text": "Hun…は何？"
+  },
+  {
+   "end_ms": "933534",
+   "start_ms": "931732",
+   "start_time_text": "15:31",
+   "text": "ルーピー"
+  },
+  {
+   "end_ms": "936272",
+   "start_ms": "933534",
+   "start_time_text": "15:33",
+   "text": "ヒソンちゃんもルーピーに似てるって言われてるよね"
+  },
+  {
+   "end_ms": "942000",
+   "start_ms": "936272",
+   "start_time_text": "15:36",
+   "text": "だから嬉しい。ということは実質ヒソンってこと？ノーコメントで。あーはい、じゃあ違うんだ。"
+  },
+  {
+   "end_ms": "946058",
+   "start_ms": "943886",
+   "start_time_text": "15:43",
+   "text": "食べます溶けちゃうからね"
+  },
+  {
+   "end_ms": "952801",
+   "start_ms": "947375",
+   "start_time_text": "15:47",
+   "text": "これ開かない！痛っ！助けてれいか〜。"
+  },
+  {
+   "end_ms": "956172",
+   "start_ms": "953307",
+   "start_time_text": "15:53",
+   "text": "あ、いい音。ありがと、でも失敗した。"
+  },
+  {
+   "end_ms": "966000",
+   "start_ms": "960234",
+   "start_time_text": "16:00",
+   "text": "まあいいでしょう。怒るなルーピー。怒ってないよ。そんなにカリカリするなよ。ルーピー"
+  },
+  {
+   "end_ms": "971319",
+   "start_ms": "966000",
+   "start_time_text": "16:06",
+   "text": "カリカリしてないよー。しょぼしょぼしてるよー。モニュモニュしてる"
+  },
+  {
+   "end_ms": "974868",
+   "start_ms": "972000",
+   "start_time_text": "16:12",
+   "text": "何このやりとりキモすぎw"
+  },
+  {
+   "end_ms": "980547",
+   "start_ms": "976095",
+   "start_time_text": "16:16",
+   "text": "Oh my god! すごく美味しそう！カリカリのチョコを食べたい。"
+  },
+  {
+   "end_ms": "993082",
+   "start_ms": "988000",
+   "start_time_text": "16:28",
+   "text": "みんな気になってると思うんですけど。私が卒業式の写真を載せてないから"
+  },
+  {
+   "end_ms": "1002000",
+   "start_ms": "993082",
+   "start_time_text": "16:33",
+   "text": "きょうかちゃん袴の投稿は？卒業式の投稿は？え、きょうかちゃん卒業したんですか？毎日質問頂きます、たくさん"
+  },
+  {
+   "end_ms": "1006877",
+   "start_ms": "1002000",
+   "start_time_text": "16:42",
+   "text": "実は私…留年いたしましたーー！"
+  },
+  {
+   "end_ms": "1009501",
+   "start_ms": "1006877",
+   "start_time_text": "16:46",
+   "text": "Oh my god!"
+  },
+  {
+   "end_ms": "1014183",
+   "start_ms": "1011000",
+   "start_time_text": "16:51",
+   "text": "勘づいてる人とかからは、TikTokとかで結構"
+  },
+  {
+   "end_ms": "1020201",
+   "start_ms": "1014183",
+   "start_time_text": "16:54",
+   "text": "留年お疲れ、留年おめでとう、留年確定草。とかいうコメントも毎日頂いてるんですけど。"
+  },
+  {
+   "end_ms": "1028329.9999999999",
+   "start_ms": "1020201",
+   "start_time_text": "17:00",
+   "text": "留年しました。留年の経緯は忙しすぎて。本当はストレートで卒業したかったから、頑張ってたんですよ。去年、結構。"
+  },
+  {
+   "end_ms": "1029477.9999999999",
+   "start_ms": "1028329.9999999999",
+   "start_time_text": "17:08",
+   "text": "結構がんばってたよね？去年"
+  },
+  {
+   "end_ms": "1032751",
+   "start_ms": "1030114",
+   "start_time_text": "17:10",
+   "text": "プレゼンとかめっちゃ聞いてた"
+  },
+  {
+   "end_ms": "1033933",
+   "start_ms": "1032751",
+   "start_time_text": "17:12",
+   "text": "聞かせてたっけそんな"
+  },
+  {
+   "end_ms": "1036534.0000000001",
+   "start_ms": "1033933",
+   "start_time_text": "17:13",
+   "text": "これでいいかな？じゃあ発表するねって"
+  },
+  {
+   "end_ms": "1037830.0000000001",
+   "start_ms": "1036534.0000000001",
+   "start_time_text": "17:16",
+   "text": "めっちゃうざいじゃんw"
+  },
+  {
+   "end_ms": "1040714.9999999999",
+   "start_ms": "1037829.9999999999",
+   "start_time_text": "17:17",
+   "text": "全然大丈夫.、ありがとう。"
+  },
+  {
+   "end_ms": "1050142",
+   "start_ms": "1041669.0000000001",
+   "start_time_text": "17:21",
+   "text": "プレゼンもあって課題もあって、YouTubeの構成も自分で考えるし企画も編集も大体自分でしてるし、"
+  },
+  {
+   "end_ms": "1052142",
+   "start_ms": "1050142",
+   "start_time_text": "17:30",
+   "text": "っていう感じで"
+  },
+  {
+   "end_ms": "1059117",
+   "start_ms": "1052142",
+   "start_time_text": "17:32",
+   "text": "他の仕事ももちろんあって、という状況で、すごい去年すごい辛くて、両立が辛くて本当に"
+  },
+  {
+   "end_ms": "1062310",
+   "start_ms": "1059117",
+   "start_time_text": "17:39",
+   "text": "期末の期間とか3徹くらいしたりとかしてて。"
+  },
+  {
+   "end_ms": "1063730",
+   "start_ms": "1062310",
+   "start_time_text": "17:42",
+   "text": "精神が限界"
+  },
+  {
+   "end_ms": "1066786",
+   "start_ms": "1063730",
+   "start_time_text": "17:43",
+   "text": "ストレートで卒業したかったから頑張ってたんだけど、"
+  },
+  {
+   "end_ms": "1070899",
+   "start_ms": "1066786",
+   "start_time_text": "17:46",
+   "text": "本当に学校の帰り道とか別に悲しいことがあったわけじゃないのに"
+  },
+  {
+   "end_ms": "1074000",
+   "start_ms": "1070899",
+   "start_time_text": "17:50",
+   "text": "寝不足と限界で涙が出てくる"
+  },
+  {
+   "end_ms": "1075921",
+   "start_ms": "1074000",
+   "start_time_text": "17:54",
+   "text": "日が結構あったんですね"
+  },
+  {
+   "end_ms": "1087775",
+   "start_ms": "1075921",
+   "start_time_text": "17:55",
+   "text": "で私がストレートで卒業したかった一番の理由は、これ情けないんですけど、また炎上したりアンチされたらどうしようっていう恐怖が一番だったんですね。"
+  },
+  {
+   "end_ms": "1089880",
+   "start_ms": "1087775",
+   "start_time_text": "18:07",
+   "text": "自分の意思でストレートで卒業したい"
+  },
+  {
+   "end_ms": "1092221",
+   "start_ms": "1089880",
+   "start_time_text": "18:09",
+   "text": "という気持ち以上に"
+  },
+  {
+   "end_ms": "1094323",
+   "start_ms": "1092221",
+   "start_time_text": "18:12",
+   "text": "アンチされたくない炎上したくないという気持ちが先行して。"
+  },
+  {
+   "end_ms": "1096834",
+   "start_ms": "1094323",
+   "start_time_text": "18:14",
+   "text": "という気持ちが先行して本当に"
+  },
+  {
+   "end_ms": "1103355",
+   "start_ms": "1096834",
+   "start_time_text": "18:16",
+   "text": "時間も体力も精神もギリギリの状況だったけど、ストレートで卒業したかったんですよ。"
+  },
+  {
+   "end_ms": "1111592",
+   "start_ms": "1103355",
+   "start_time_text": "18:23",
+   "text": "でもよく考えたときに、アンチされたくない、炎上したくないが理由で、こんなに心身共に限界なのに"
+  },
+  {
+   "end_ms": "1114478",
+   "start_ms": "1111592",
+   "start_time_text": "18:31",
+   "text": "それが理由で頑張ってるのって。"
+  },
+  {
+   "end_ms": "1117678",
+   "start_ms": "1114478",
+   "start_time_text": "18:34",
+   "text": "よく考えたら自分の人生じゃないなと思って"
+  },
+  {
+   "end_ms": "1125165.0000000002",
+   "start_ms": "1117678",
+   "start_time_text": "18:37",
+   "text": "去年も「14時間勉強して青学は草ww」みたいな感じで、炎上したのが結構トラウマなんですよ、自分の中で。"
+  },
+  {
+   "end_ms": "1129108",
+   "start_ms": "1125165",
+   "start_time_text": "18:45",
+   "text": "あれからもう1年くらい経つけど今だにそのとき"
+  },
+  {
+   "end_ms": "1137834",
+   "start_ms": "1129108",
+   "start_time_text": "18:49",
+   "text": "2000万インプレッションとかいって、2000件引用リツイートとかでめちゃくちゃバカにされたのは結構トラウマになってて"
+  },
+  {
+   "end_ms": "1139000",
+   "start_ms": "1137834",
+   "start_time_text": "18:57",
+   "text": "あれやばかったよね"
+  },
+  {
+   "end_ms": "1139500",
+   "start_ms": "1139000",
+   "start_time_text": "18:59",
+   "text": "うん"
+  },
+  {
+   "end_ms": "1143034",
+   "start_ms": "1139500",
+   "start_time_text": "18:59",
+   "text": "14時間勉強して青学レベルはくーさw"
+  },
+  {
+   "end_ms": "1145681",
+   "start_ms": "1143034",
+   "start_time_text": "19:03",
+   "text": "そうw 全部そこにつなげられる"
+  },
+  {
+   "end_ms": "1147579",
+   "start_ms": "1145681",
+   "start_time_text": "19:05",
+   "text": "しかも誕生日の投稿しただけ"
+  },
+  {
+   "end_ms": "1155476.9999999998",
+   "start_ms": "1147579",
+   "start_time_text": "19:07",
+   "text": "あれが結構トラウマだったから、去年は自分が青学に通ってることもあんまり言わないようにしてたっていうか"
+  },
+  {
+   "end_ms": "1157000",
+   "start_ms": "1155477",
+   "start_time_text": "19:15",
+   "text": "てか友達にも言われちゃったじゃん"
+  },
+  {
+   "end_ms": "1158138",
+   "start_ms": "1157205",
+   "start_time_text": "19:17",
+   "text": "なんて？"
+  },
+  {
+   "end_ms": "1162727.9999999998",
+   "start_ms": "1158138",
+   "start_time_text": "19:18",
+   "text": "友達にすらいちいち学校名出すから炎上するんだよみたいな"
+  },
+  {
+   "end_ms": "1165501",
+   "start_ms": "1162887",
+   "start_time_text": "19:22",
+   "text": "自分で家族公開しちゃうから、仕方ないんじゃない？"
+  },
+  {
+   "end_ms": "1166716.9999999998",
+   "start_ms": "1165501",
+   "start_time_text": "19:25",
+   "text": "そうそうそう"
+  },
+  {
+   "end_ms": "1167524",
+   "start_ms": "1166717",
+   "start_time_text": "19:26",
+   "text": "っていうことを"
+  },
+  {
+   "end_ms": "1169114.9999999998",
+   "start_ms": "1167524",
+   "start_time_text": "19:27",
+   "text": "友達にも言われちゃったから"
+  },
+  {
+   "end_ms": "1173345",
+   "start_ms": "1169115",
+   "start_time_text": "19:29",
+   "text": "自分が学校とか家族を出してるのが悪いんだって思って"
+  },
+  {
+   "end_ms": "1177287",
+   "start_ms": "1173345",
+   "start_time_text": "19:33",
+   "text": "去年本当に当たり障りないメイク動画しか出せなかったんですよ"
+  },
+  {
+   "end_ms": "1183138.0000000002",
+   "start_ms": "1177287",
+   "start_time_text": "19:37",
+   "text": "どう転んでもアンチされない炎上しないだろうという。ほんとメイク動画しか載せられなかったの"
+  },
+  {
+   "end_ms": "1185172",
+   "start_ms": "1183138",
+   "start_time_text": "19:43",
+   "text": "vlogとかもあんま去年載せれてないよね"
+  },
+  {
+   "end_ms": "1185774",
+   "start_ms": "1185172",
+   "start_time_text": "19:45",
+   "text": "うんうん"
+  },
+  {
+   "end_ms": "1186274",
+   "start_ms": "1185774",
+   "start_time_text": "19:45",
+   "text": "そう！"
+  },
+  {
+   "end_ms": "1195170.9999999998",
+   "start_ms": "1186581",
+   "start_time_text": "19:46",
+   "text": "その炎上したときに、同じ授業受けてた人とかにも結構、クラスとか授業を勝手に書き込まれたりしてXに。"
+  },
+  {
+   "end_ms": "1198269",
+   "start_ms": "1195307",
+   "start_time_text": "19:55",
+   "text": "そこから怖くて学校にも"
+  },
+  {
+   "end_ms": "1200439",
+   "start_ms": "1198269",
+   "start_time_text": "19:58",
+   "text": "大学vlog撮った日もあったけど"
+  },
+  {
+   "end_ms": "1202643",
+   "start_ms": "1200439",
+   "start_time_text": "20:00",
+   "text": "そういうのを撮るとき以外は"
+  },
+  {
+   "end_ms": "1203935",
+   "start_ms": "1202643",
+   "start_time_text": "20:02",
+   "text": "ほんと不審者みたいな"
+  },
+  {
+   "end_ms": "1208014",
+   "start_ms": "1203935",
+   "start_time_text": "20:03",
+   "text": "真っ黒な服で登校してたんですよ、身を潜めて。"
+  },
+  {
+   "end_ms": "1210266.9999999998",
+   "start_ms": "1208014",
+   "start_time_text": "20:08",
+   "text": "ね！やばかったよね！"
+  },
+  {
+   "end_ms": "1211935",
+   "start_ms": "1210267",
+   "start_time_text": "20:10",
+   "text": "落ち武者みたいな頭で"
+  },
+  {
+   "end_ms": "1214465",
+   "start_ms": "1211935",
+   "start_time_text": "20:11",
+   "text": "わかるそうそう、ずっと帽子すっぴん"
+  },
+  {
+   "end_ms": "1218569",
+   "start_ms": "1214465",
+   "start_time_text": "20:14",
+   "text": "キラキラしたインスタとはかけ離れてた大学生活を送ってて"
+  },
+  {
+   "end_ms": "1224897",
+   "start_ms": "1218569",
+   "start_time_text": "20:18",
+   "text": "本当に自粛みたいな、それが結構心残りで、時間も足りない"
+  },
+  {
+   "end_ms": "1226897",
+   "start_ms": "1224897",
+   "start_time_text": "20:24",
+   "text": "心身共に限界"
+  },
+  {
+   "end_ms": "1231309",
+   "start_ms": "1227045",
+   "start_time_text": "20:27",
+   "text": "学生生活もこんな形で終わりってなったらもったいないなと思ったの。"
+  },
+  {
+   "end_ms": "1234809",
+   "start_ms": "1231616",
+   "start_time_text": "20:31",
+   "text": "そんな状況で無理してストレートで卒業しても"
+  },
+  {
+   "end_ms": "1240297",
+   "start_ms": "1234809",
+   "start_time_text": "20:34",
+   "text": "ストレートで卒業したから「アンチに叩かれなくてよかった」とは思えないと思って自分が"
+  },
+  {
+   "end_ms": "1242956.0000000002",
+   "start_ms": "1240297",
+   "start_time_text": "20:40",
+   "text": "後悔しか残らないなと思ったから"
+  },
+  {
+   "end_ms": "1246879.9999999998",
+   "start_ms": "1242956",
+   "start_time_text": "20:42",
+   "text": "もうちょっと学生生活悔いなく終わりたいし"
+  },
+  {
+   "end_ms": "1250550.0000000002",
+   "start_ms": "1246880",
+   "start_time_text": "20:46",
+   "text": "もっと楽しみたかったなというのが去年結構あったので"
+  },
+  {
+   "end_ms": "1252993",
+   "start_ms": "1250550",
+   "start_time_text": "20:50",
+   "text": "去年後期の後半くらいに"
+  },
+  {
+   "end_ms": "1258094",
+   "start_ms": "1252993",
+   "start_time_text": "20:52",
+   "text": "取れなさそうな単位はもう本当に無理せず諦めようってことで"
+  },
+  {
+   "end_ms": "1259685",
+   "start_ms": "1258094",
+   "start_time_text": "20:58",
+   "text": "留年することにしました"
+  },
+  {
+   "end_ms": "1262627",
+   "start_ms": "1259685",
+   "start_time_text": "20:59",
+   "text": "っていう話です 多分びっくりだと思う"
+  },
+  {
+   "end_ms": "1265786",
+   "start_ms": "1262627",
+   "start_time_text": "21:02",
+   "text": "だってすごい卒業式終わってめっちゃ聞かれたから"
+  },
+  {
+   "end_ms": "1269684",
+   "start_ms": "1265786",
+   "start_time_text": "21:05",
+   "text": "袴の写真載せてくださいってDM死ぬほどあったね"
+  },
+  {
+   "end_ms": "1270524.9999999998",
+   "start_ms": "1269684",
+   "start_time_text": "21:09",
+   "text": "そうw"
+  },
+  {
+   "end_ms": "1272830.0000000002",
+   "start_ms": "1270525",
+   "start_time_text": "21:10",
+   "text": "だかられいかとまた1年通えるね！"
+  },
+  {
+   "end_ms": "1274489",
+   "start_ms": "1272830",
+   "start_time_text": "21:12",
+   "text": "そう！ポジティブに考えたらそういうこと"
+  },
+  {
+   "end_ms": "1277445",
+   "start_ms": "1274762",
+   "start_time_text": "21:14",
+   "text": "じゃあもう全部の授業れいかと受けよう！"
+  },
+  {
+   "end_ms": "1279956.9999999998",
+   "start_ms": "1277445",
+   "start_time_text": "21:17",
+   "text": "1限から一緒に受けよう！"
+  },
+  {
+   "end_ms": "1284309.0000000002",
+   "start_ms": "1279957",
+   "start_time_text": "21:19",
+   "text": "1限はちょっと…そこまで単位そこまで残ってないから、1限はちょっと出なくていいかも"
+  },
+  {
+   "end_ms": "1288105",
+   "start_ms": "1284309",
+   "start_time_text": "21:24",
+   "text": "れいかはたくさんあるから一緒に受けよう1限から全部"
+  },
+  {
+   "end_ms": "1291034",
+   "start_ms": "1288105",
+   "start_time_text": "21:28",
+   "text": "1限はお断りさせて頂きたい"
+  },
+  {
+   "end_ms": "1292468",
+   "start_ms": "1291034",
+   "start_time_text": "21:31",
+   "text": "みんなに紹介するから"
+  },
+  {
+   "end_ms": "1295701",
+   "start_ms": "1292468",
+   "start_time_text": "21:32",
+   "text": "うちの姉なので一緒に授業受けますねって"
+  },
+  {
+   "end_ms": "1297234",
+   "start_ms": "1295701",
+   "start_time_text": "21:35",
+   "text": "よろしくねって"
+  },
+  {
+   "end_ms": "1298620",
+   "start_ms": "1297234",
+   "start_time_text": "21:37",
+   "text": "その紹介も大丈夫かもw"
+  },
+  {
+   "end_ms": "1299734",
+   "start_ms": "1298620",
+   "start_time_text": "21:38",
+   "text": "っていう感じです"
+  },
+  {
+   "end_ms": "1301662",
+   "start_ms": "1299734",
+   "start_time_text": "21:39",
+   "text": "これをさ公表？"
+  },
+  {
+   "end_ms": "1302742",
+   "start_ms": "1301662",
+   "start_time_text": "21:41",
+   "text": "公表するしかないじゃん"
+  },
+  {
+   "end_ms": "1304399.9999999998",
+   "start_ms": "1302742",
+   "start_time_text": "21:42",
+   "text": "卒業式の投稿ないのなんでって"
+  },
+  {
+   "end_ms": "1306263.0000000002",
+   "start_ms": "1304400",
+   "start_time_text": "21:44",
+   "text": "多分みんな思ってたと思うし"
+  },
+  {
+   "end_ms": "1307240",
+   "start_ms": "1306263",
+   "start_time_text": "21:46",
+   "text": "だけど"
+  },
+  {
+   "end_ms": "1312217",
+   "start_ms": "1307240",
+   "start_time_text": "21:47",
+   "text": "公表したときにまた炎上しちゃうかもとか、アンチがめっちゃ来るかもとか"
+  },
+  {
+   "end_ms": "1321033.0000000002",
+   "start_ms": "1312217",
+   "start_time_text": "21:52",
+   "text": "それこそ留年したの草みたいな感じで、そこを私の欠点みたいに受け取る人もいるかもしれないと思ったけど"
+  },
+  {
+   "end_ms": "1323886",
+   "start_ms": "1321033",
+   "start_time_text": "22:01",
+   "text": "私はこの選択を後悔してないです"
+  },
+  {
+   "end_ms": "1324454",
+   "start_ms": "1323886",
+   "start_time_text": "22:03",
+   "text": "かっけえ・・・"
+  },
+  {
+   "end_ms": "1328020",
+   "start_ms": "1325701",
+   "start_time_text": "22:05",
+   "text": "バカにした今？かっけーw"
+  },
+  {
+   "end_ms": "1329133.9999999998",
+   "start_ms": "1328293",
+   "start_time_text": "22:08",
+   "text": "かっけえ・・・"
+  },
+  {
+   "end_ms": "1331786",
+   "start_ms": "1329319",
+   "start_time_text": "22:09",
+   "text": "だって私が選択したんだもん"
+  },
+  {
+   "end_ms": "1337273.0000000002",
+   "start_ms": "1331786",
+   "start_time_text": "22:11",
+   "text": "無理したらストレートで卒業できたかもしれないけど、無理しても悔いしか残らないなと思ったから"
+  },
+  {
+   "end_ms": "1341000",
+   "start_ms": "1337273",
+   "start_time_text": "22:17",
+   "text": "去年本当に隠れるような学生生活を送ってたし"
+  },
+  {
+   "end_ms": "1342556",
+   "start_ms": "1341000",
+   "start_time_text": "22:21",
+   "text": "中学から通ってきててさ"
+  },
+  {
+   "end_ms": "1351341.0000000002",
+   "start_ms": "1342556",
+   "start_time_text": "22:22",
+   "text": "それで10年間の青学生活の幕を閉じるなんて本当に辛いかもと思ってどう思いますか？れいかさんは？"
+  },
+  {
+   "end_ms": "1352133.9999999998",
+   "start_ms": "1351341",
+   "start_time_text": "22:31",
+   "text": "全部同意で"
+  },
+  {
+   "end_ms": "1354868",
+   "start_ms": "1352134",
+   "start_time_text": "22:32",
+   "text": "本当に思ってるの？w"
+  },
+  {
+   "end_ms": "1357447",
+   "start_ms": "1354868",
+   "start_time_text": "22:34",
+   "text": "聞いてないだろ！ 全部同意で以上？"
+  },
+  {
+   "end_ms": "1359686",
+   "start_ms": "1357447",
+   "start_time_text": "22:37",
+   "text": "うん、聞いてい なかった・・・"
+  },
+  {
+   "end_ms": "1362270",
+   "start_ms": "1359686",
+   "start_time_text": "22:39",
+   "text": "え・・・？ww"
+  },
+  {
+   "end_ms": "1365334",
+   "start_ms": "1362270",
+   "start_time_text": "22:42",
+   "text": "ガチで妹だよねこういうとこ本当に"
+  },
+  {
+   "end_ms": "1367034",
+   "start_ms": "1365334",
+   "start_time_text": "22:45",
+   "text": "きょんきょんのTikTok見てた"
+  },
+  {
+   "end_ms": "1368341.0000000002",
+   "start_ms": "1367034",
+   "start_time_text": "22:47",
+   "text": "悲しいわ…"
+  },
+  {
+   "end_ms": "1369216",
+   "start_ms": "1368341",
+   "start_time_text": "22:48",
+   "text": "聞いてなかった？"
+  },
+  {
+   "end_ms": "1369716",
+   "start_ms": "1369216",
+   "start_time_text": "22:49",
+   "text": "うん"
+  },
+  {
+   "end_ms": "1374000",
+   "start_ms": "1369716",
+   "start_time_text": "22:49",
+   "text": "こんな隣にいて？コンビニのお菓子も買ってあげたのに？"
+  },
+  {
+   "end_ms": "1377134",
+   "start_ms": "1374000",
+   "start_time_text": "22:54",
+   "text": "じゃあもう一回聞くから、どう思いますか？れいかさ"
+  },
+  {
+   "end_ms": "1377634",
+   "start_ms": "1377134",
+   "start_time_text": "22:57",
+   "text": "何が？"
+  },
+  {
+   "end_ms": "1380000",
+   "start_ms": "1377634",
+   "start_time_text": "22:57",
+   "text": "WW"
+  },
+  {
+   "end_ms": "1384218",
+   "start_ms": "1380230",
+   "start_time_text": "23:00",
+   "text": "きょんきょんの友達のみんなと喋ってると思って、れいかに話しかけてないと思ってた。"
+  },
+  {
+   "end_ms": "1387206.0000000002",
+   "start_ms": "1384218",
+   "start_time_text": "23:04",
+   "text": "れいかにも聞いてもらってると思って話してたもん！"
+  },
+  {
+   "end_ms": "1390668",
+   "start_ms": "1387501",
+   "start_time_text": "23:07",
+   "text": "あぁ…じゃあまあ解釈の相違ということで"
+  },
+  {
+   "end_ms": "1391168",
+   "start_ms": "1390668",
+   "start_time_text": "23:10",
+   "text": "ひど・・・"
+  },
+  {
+   "end_ms": "1392000",
+   "start_ms": "1391168",
+   "start_time_text": "23:11",
+   "text": "僕が間違っていたね"
+  },
+  {
+   "end_ms": "1394034",
+   "start_ms": "1392000",
+   "start_time_text": "23:12",
+   "text": "じゃあ留年するのどう思う？"
+  },
+  {
+   "end_ms": "1398000",
+   "start_ms": "1394034",
+   "start_time_text": "23:14",
+   "text": "普通にあと4年くらい留年して、れいかと一緒に卒業してほしい"
+  },
+  {
+   "end_ms": "1399114",
+   "start_ms": "1398000",
+   "start_time_text": "23:18",
+   "text": "それはWWW"
+  },
+  {
+   "end_ms": "1402580",
+   "start_ms": "1399114",
+   "start_time_text": "23:19",
+   "text": "れいかの自分勝手な気持ちじゃんWWW"
+  },
+  {
+   "end_ms": "1410993",
+   "start_ms": "1402867",
+   "start_time_text": "23:22",
+   "text": "一緒に袴着て撮ろう卒業証書持って。We graduated Aoyama Gakuin University!"
+  },
+  {
+   "end_ms": "1415072",
+   "start_ms": "1410993",
+   "start_time_text": "23:30",
+   "text": "それこそもうめっちゃ炎上するってw"
+  },
+  {
+   "end_ms": "1418754",
+   "start_ms": "1415072",
+   "start_time_text": "23:35",
+   "text": "こいつ勉強動画とか出しておいて、4年も留年したんだって"
+  },
+  {
+   "end_ms": "1425661.9999999998",
+   "start_ms": "1418754",
+   "start_time_text": "23:38",
+   "text": "妹ができ損ないすぎて心配だったので、ちょっと4年間付き添いました。"
+  },
+  {
+   "end_ms": "1428734",
+   "start_ms": "1425662",
+   "start_time_text": "23:45",
+   "text": "で、一緒に卒業これがれいかの最高のプラン"
+  },
+  {
+   "end_ms": "1430673",
+   "start_ms": "1428734",
+   "start_time_text": "23:48",
+   "text": "何も聞いてないねw"
+  },
+  {
+   "end_ms": "1432912",
+   "start_ms": "1430673",
+   "start_time_text": "23:50",
+   "text": "本当にやばいこの妹、ぶっ飛んでるわ。"
+  },
+  {
+   "end_ms": "1435161",
+   "start_ms": "1433877",
+   "start_time_text": "23:53",
+   "text": "WWじゃないよW"
+  },
+  {
+   "end_ms": "1438661",
+   "start_ms": "1435161",
+   "start_time_text": "23:55",
+   "text": "そんなれいかのぶっ飛びに、助けられてきただろう？"
+  },
+  {
+   "end_ms": "1441801.0000000002",
+   "start_ms": "1438661",
+   "start_time_text": "23:58",
+   "text": "なんかキモい…頭痛くなってきた…"
+  },
+  {
+   "end_ms": "1444400.9999999998",
+   "start_ms": "1441801",
+   "start_time_text": "24:01",
+   "text": "いつでもお前もぶっ飛ばせてやるからな"
+  },
+  {
+   "end_ms": "1445668.0000000002",
+   "start_ms": "1444401",
+   "start_time_text": "24:04",
+   "text": "何言ってるかわからないw"
+  },
+  {
+   "end_ms": "1446168",
+   "start_ms": "1445668",
+   "start_time_text": "24:05",
+   "text": "わかる"
+  },
+  {
+   "end_ms": "1448101",
+   "start_ms": "1446168",
+   "start_time_text": "24:06",
+   "text": "キモ、黙れよ一旦"
+  },
+  {
+   "end_ms": "1451433.0000000002",
+   "start_ms": "1448101",
+   "start_time_text": "24:08",
+   "text": "自分で言った自分に 二重人格…"
+  },
+  {
+   "end_ms": "1455988",
+   "start_ms": "1452251",
+   "start_time_text": "24:12",
+   "text": "きょかれい2人の掛け合い好きですってきてたんだけどいっぱい"
+  },
+  {
+   "end_ms": "1458000",
+   "start_ms": "1456125",
+   "start_time_text": "24:16",
+   "text": "きょかれいの動画また見たいですとかも"
+  },
+  {
+   "end_ms": "1463583",
+   "start_ms": "1458000",
+   "start_time_text": "24:18",
+   "text": "それこそそれも学校と家族をあまりのせない方がいいと思ったから、去年は全然のせられなかったの"
+  },
+  {
+   "end_ms": "1468378.0000000002",
+   "start_ms": "1463583",
+   "start_time_text": "24:23",
+   "text": "だってなんかさ炎上する発言言ったとかじゃなくてさ、誕生日で！"
+  },
+  {
+   "end_ms": "1468878",
+   "start_ms": "1468378",
+   "start_time_text": "24:28",
+   "text": "そう！"
+  },
+  {
+   "end_ms": "1471287",
+   "start_ms": "1468878",
+   "start_time_text": "24:28",
+   "text": "だからなんか「ええええ〜！」って感じ。"
+  },
+  {
+   "end_ms": "1476139",
+   "start_ms": "1471434",
+   "start_time_text": "24:31",
+   "text": "でもれいかが言われたことはないから人気の証拠だよ、それは見られてる証拠なんだよ"
+  },
+  {
+   "end_ms": "1482463",
+   "start_ms": "1476139",
+   "start_time_text": "24:36",
+   "text": "だからそれはもう仕方ない。みんな言いたいんだよ。だってれいかでも言いたくなるもんきっと。"
+  },
+  {
+   "end_ms": "1483828",
+   "start_ms": "1482463",
+   "start_time_text": "24:42",
+   "text": "なんでなんで急に敵？"
+  },
+  {
+   "end_ms": "1489646",
+   "start_ms": "1483828",
+   "start_time_text": "24:43",
+   "text": "れいかが見てる側できょうかちゃんいいなって思ってたとするじゃん"
+  },
+  {
+   "end_ms": "1492499",
+   "start_ms": "1489646",
+   "start_time_text": "24:49",
+   "text": "れいかときょんきょんがそう思ってる訳ではなくて"
+  },
+  {
+   "end_ms": "1495623",
+   "start_ms": "1492499",
+   "start_time_text": "24:52",
+   "text": "コメント欄とかDMで言ってもらえるのは"
+  },
+  {
+   "end_ms": "1497520",
+   "start_ms": "1495623",
+   "start_time_text": "24:55",
+   "text": "きょうかれいかちゃん家族はみんな"
+  },
+  {
+   "end_ms": "1502334",
+   "start_ms": "1497520",
+   "start_time_text": "24:57",
+   "text": "可愛くて・カッコ良くて・優しくてお金持ちって言われてるじゃん"
+  },
+  {
+   "end_ms": "1504894",
+   "start_ms": "1502334",
+   "start_time_text": "25:02",
+   "text": "れいかときょんきょんがそれをひけらかしてるわけでもないし"
+  },
+  {
+   "end_ms": "1509792",
+   "start_ms": "1504894",
+   "start_time_text": "25:04",
+   "text": "自分自身そう思ってるわけではないけど、見てる側がそう思ってて"
+  },
+  {
+   "end_ms": "1514516.9999999998",
+   "start_ms": "1509792",
+   "start_time_text": "25:09",
+   "text": "れいかがもし見てる側だとしたら、羨ましいという気持ちもあるし。"
+  },
+  {
+   "end_ms": "1520111",
+   "start_ms": "1514517",
+   "start_time_text": "25:14",
+   "text": "きょンきょんとかすごい年上だったら憧れだけど、1個下とか同い年とかだったら"
+  },
+  {
+   "end_ms": "1524462.0000000002",
+   "start_ms": "1520111",
+   "start_time_text": "25:20",
+   "text": "まして正直、自分が青学通ってて、きょんきょんと同い年だったら"
+  },
+  {
+   "end_ms": "1530000",
+   "start_ms": "1524462",
+   "start_time_text": "25:24",
+   "text": "同じように生きてたのになぜこんなに違うの？と比べて、妬んじゃったりするんだろうなって・・・"
+  },
+  {
+   "end_ms": "1534216",
+   "start_ms": "1530000",
+   "start_time_text": "25:30",
+   "text": "そういう人が私のクラスとかさ、書き込んでるんだろうね。"
+  },
+  {
+   "end_ms": "1537645",
+   "start_ms": "1534216",
+   "start_time_text": "25:34",
+   "text": "そうそうまじで正直ね、そういうのが多いじゃん。"
+  },
+  {
+   "end_ms": "1538634",
+   "start_ms": "1537645",
+   "start_time_text": "25:37",
+   "text": "うんうん"
+  },
+  {
+   "end_ms": "1541247",
+   "start_ms": "1538634",
+   "start_time_text": "25:38",
+   "text": "デマもめっちゃ流されるし"
+  },
+  {
+   "end_ms": "1543656.0000000002",
+   "start_ms": "1541247",
+   "start_time_text": "25:41",
+   "text": "そういうことがよくあるから"
+  },
+  {
+   "end_ms": "1545187.9999999998",
+   "start_ms": "1543656",
+   "start_time_text": "25:43",
+   "text": "わかるがしかし！"
+  },
+  {
+   "end_ms": "1547474.0000000002",
+   "start_ms": "1545188",
+   "start_time_text": "25:45",
+   "text": "という感じ"
+  },
+  {
+   "end_ms": "1548000",
+   "start_ms": "1547474",
+   "start_time_text": "25:47",
+   "text": "はい"
+  },
+  {
+   "end_ms": "1549591",
+   "start_ms": "1548000",
+   "start_time_text": "25:48",
+   "text": "まあそういうことですね"
+  },
+  {
+   "end_ms": "1554693",
+   "start_ms": "1549591",
+   "start_time_text": "25:49",
+   "text": "でも私は今年、学校も自分の選択で留年するって決めて"
+  },
+  {
+   "end_ms": "1559215",
+   "start_ms": "1554693",
+   "start_time_text": "25:54",
+   "text": "残りの1年悔いなく終わるっていう目標を立てたし"
+  },
+  {
+   "end_ms": "1565746.9999999998",
+   "start_ms": "1559215",
+   "start_time_text": "25:59",
+   "text": "それこそ家族のことも、なんで自分のSNSなのに学校とか家族とかを隠さなきゃいけないんだろうって"
+  },
+  {
+   "end_ms": "1568133",
+   "start_ms": "1565747",
+   "start_time_text": "26:05",
+   "text": "思うようになったから自分の人生なのにさ"
+  },
+  {
+   "end_ms": "1572000",
+   "start_ms": "1568133",
+   "start_time_text": "26:08",
+   "text": "それも去年結構出さないようにしてたんだけどれいかとかもね"
+  },
+  {
+   "end_ms": "1574000",
+   "start_ms": "1572000",
+   "start_time_text": "26:12",
+   "text": "れいかの誕生日ものせてないもん去年"
+  },
+  {
+   "end_ms": "1575134",
+   "start_ms": "1574000",
+   "start_time_text": "26:14",
+   "text": "知ってる拗ねた"
+  },
+  {
+   "end_ms": "1576734",
+   "start_ms": "1575134",
+   "start_time_text": "26:15",
+   "text": "違うごめんね"
+  },
+  {
+   "end_ms": "1578000",
+   "start_ms": "1576734",
+   "start_time_text": "26:16",
+   "text": "のせたかったよこっちだって"
+  },
+  {
+   "end_ms": "1581159",
+   "start_ms": "1578000",
+   "start_time_text": "26:18",
+   "text": "でもさ誕生日絶対炎上するから毎回"
+  },
+  {
+   "end_ms": "1582267",
+   "start_ms": "1581159",
+   "start_time_text": "26:21",
+   "text": "嘘嘘ごめんw"
+  },
+  {
+   "end_ms": "1584511",
+   "start_ms": "1582267",
+   "start_time_text": "26:22",
+   "text": "こうやって今もれいかとしゃべってるし"
+  },
+  {
+   "end_ms": "1587668.9999999998",
+   "start_ms": "1584511",
+   "start_time_text": "26:24",
+   "text": "徐々にまたのせていけたらいいなと思います"
+  },
+  {
+   "end_ms": "1590878.0000000002",
+   "start_ms": "1587669",
+   "start_time_text": "26:27",
+   "text": "そしたらまたきょんきょんのYouTubeでれいかの奇行が"
+  },
+  {
+   "end_ms": "1593134",
+   "start_ms": "1590878",
+   "start_time_text": "26:30",
+   "text": "暴かれてしまう！"
+  },
+  {
+   "end_ms": "1596732",
+   "start_ms": "1593134",
+   "start_time_text": "26:33",
+   "text": "本当に動画に出せないけど、今すっごいパンツ一丁で"
+  },
+  {
+   "end_ms": "1599734",
+   "start_ms": "1596732",
+   "start_time_text": "26:36",
+   "text": "尻をこっちに突き出してるw"
+  },
+  {
+   "end_ms": "1601801",
+   "start_ms": "1599734",
+   "start_time_text": "26:39",
+   "text": "クレヨンしんちゃんみたいww"
+  },
+  {
+   "end_ms": "1603639",
+   "start_ms": "1601801",
+   "start_time_text": "26:41",
+   "text": "もう本当頭痛い・・・"
+  },
+  {
+   "end_ms": "1605161.9999999998",
+   "start_ms": "1603639",
+   "start_time_text": "26:43",
+   "text": "まぁはいそういうことです。"
+  },
+  {
+   "end_ms": "1609468",
+   "start_ms": "1605162",
+   "start_time_text": "26:45",
+   "text": "今年青学入学したけどきょうかちゃんに会えないかもって言ってた子"
+  },
+  {
+   "end_ms": "1611672",
+   "start_ms": "1609468",
+   "start_time_text": "26:49",
+   "text": "遭遇できるかもよ！w"
+  },
+  {
+   "end_ms": "1614000",
+   "start_ms": "1611672",
+   "start_time_text": "26:51",
+   "text": "たまに姉妹2人で歩いています。"
+  },
+  {
+   "end_ms": "1616307",
+   "start_ms": "1614000",
+   "start_time_text": "26:54",
+   "text": "結構一緒にいること多いよね"
+  },
+  {
+   "end_ms": "1617103",
+   "start_ms": "1616307",
+   "start_time_text": "26:56",
+   "text": "仲良しだもん"
+  },
+  {
+   "end_ms": "1620535",
+   "start_ms": "1617103",
+   "start_time_text": "26:57",
+   "text": "きょんきょんが会おうって言うから、会ってやってるぜ"
+  },
+  {
+   "end_ms": "1622034",
+   "start_ms": "1620535",
+   "start_time_text": "27:00",
+   "text": "そういう認識だったんだ"
+  },
+  {
+   "end_ms": "1624545",
+   "start_ms": "1622034",
+   "start_time_text": "27:02",
+   "text": "仕方ないから会ってやってるぜ"
+  },
+  {
+   "end_ms": "1625647.0000000002",
+   "start_ms": "1624545",
+   "start_time_text": "27:04",
+   "text": "もう拗ねた"
+  },
+  {
+   "end_ms": "1626487.9999999998",
+   "start_ms": "1625647",
+   "start_time_text": "27:05",
+   "text": "ルーピー"
+  },
+  {
+   "end_ms": "1627948",
+   "start_ms": "1626488",
+   "start_time_text": "27:06",
+   "text": "ルーピー？w"
+  },
+  {
+   "end_ms": "1629334",
+   "start_ms": "1627948",
+   "start_time_text": "27:07",
+   "text": "拗ねルーピーの顔じゃ"
+  },
+  {
+   "end_ms": "1630209",
+   "start_ms": "1629334",
+   "start_time_text": "27:09",
+   "text": "拗ねルピー？"
+  },
+  {
+   "end_ms": "1631391",
+   "start_ms": "1630209",
+   "start_time_text": "27:10",
+   "text": "拗ねルーピー"
+  },
+  {
+   "end_ms": "1632344",
+   "start_ms": "1631391",
+   "start_time_text": "27:11",
+   "text": "拗ねルーピーの顔して"
+  },
+  {
+   "end_ms": "1634637",
+   "start_ms": "1633087",
+   "start_time_text": "27:13",
+   "text": "あぁすごいルーピーだ"
+  },
+  {
+   "end_ms": "1635868",
+   "start_ms": "1634637",
+   "start_time_text": "27:14",
+   "text": "本当にルーピーに似てると思うから"
+  },
+  {
+   "end_ms": "1637033.9999999998",
+   "start_ms": "1635868",
+   "start_time_text": "27:15",
+   "text": "誰かコラ画像作ってほしい"
+  },
+  {
+   "end_ms": "1638148.0000000002",
+   "start_ms": "1637034",
+   "start_time_text": "27:17",
+   "text": "ww"
+  },
+  {
+   "end_ms": "1641234.0000000002",
+   "start_ms": "1639834",
+   "start_time_text": "27:19",
+   "text": "ということでした"
+  },
+  {
+   "end_ms": "1643301",
+   "start_ms": "1641234",
+   "start_time_text": "27:21",
+   "text": "留年したけど頑張りまーす"
+  },
+  {
+   "end_ms": "1645134",
+   "start_ms": "1643301",
+   "start_time_text": "27:23",
+   "text": "最後めっちゃラフw"
+  },
+  {
+   "end_ms": "1646316",
+   "start_ms": "1645134",
+   "start_time_text": "27:25",
+   "text": "急にラフw"
+  },
+  {
+   "end_ms": "1648223",
+   "start_ms": "1646316",
+   "start_time_text": "27:26",
+   "text": "ずっと喋ってたのに結構真面目に"
+  },
+  {
+   "end_ms": "1650240",
+   "start_ms": "1648223",
+   "start_time_text": "27:28",
+   "text": "留年頑張りまーす"
+  },
+  {
+   "end_ms": "1650740",
+   "start_ms": "1650240",
+   "start_time_text": "27:30",
+   "text": "逆にいったら"
+  },
+  {
+   "end_ms": "1654727",
+   "start_ms": "1650740",
+   "start_time_text": "27:30",
+   "text": "留年とか休学とか浪人とか大丈夫！"
+  },
+  {
+   "end_ms": "1656000",
+   "start_ms": "1654727",
+   "start_time_text": "27:34",
+   "text": "私だってしてるよ？"
+  },
+  {
+   "end_ms": "1660450",
+   "start_ms": "1656000",
+   "start_time_text": "27:36",
+   "text": "大丈夫本当そういう相談いっぱい来るけど、それで人生決まらないから"
+  },
+  {
+   "end_ms": "1662307",
+   "start_ms": "1660450",
+   "start_time_text": "27:40",
+   "text": "本当に大丈夫！"
+  },
+  {
+   "end_ms": "1667505",
+   "start_ms": "1663468",
+   "start_time_text": "27:43",
+   "text": "はいそしたら、今から日記を書きます！"
+  },
+  {
+   "end_ms": "1669744.0000000002",
+   "start_ms": "1667505",
+   "start_time_text": "27:47",
+   "text": "じゃじゃーん"
+  },
+  {
+   "end_ms": "1675034",
+   "start_ms": "1671334",
+   "start_time_text": "27:51",
+   "text": "これねしおりにしてるの猫ちゃんのやつを"
+  },
+  {
+   "end_ms": "1676318.0000000002",
+   "start_ms": "1675034",
+   "start_time_text": "27:55",
+   "text": "可愛いでしょめっちゃ"
+  },
+  {
+   "end_ms": "1678786",
+   "start_ms": "1676318",
+   "start_time_text": "27:56",
+   "text": "自慢の日記！"
+  },
+  {
+   "end_ms": "1679442",
+   "start_ms": "1678786",
+   "start_time_text": "27:58",
+   "text": "見して"
+  },
+  {
+   "end_ms": "1680999",
+   "start_ms": "1679442",
+   "start_time_text": "27:59",
+   "text": "はい"
+  },
+  {
+   "end_ms": "1681935",
+   "start_ms": "1680999",
+   "start_time_text": "28:00",
+   "text": "あっかわいい"
+  },
+  {
+   "end_ms": "1684400.9999999998",
+   "start_ms": "1681935",
+   "start_time_text": "28:01",
+   "text": "絶対興味ないやつw"
+  },
+  {
+   "end_ms": "1685846",
+   "start_ms": "1684401",
+   "start_time_text": "28:04",
+   "text": "見てシールとか"
+  },
+  {
+   "end_ms": "1686653",
+   "start_ms": "1685846",
+   "start_time_text": "28:05",
+   "text": "ほら"
+  },
+  {
+   "end_ms": "1689220",
+   "start_ms": "1687642",
+   "start_time_text": "28:07",
+   "text": "いっぱい書いてるやんけ！"
+  },
+  {
+   "end_ms": "1689890",
+   "start_ms": "1689220",
+   "start_time_text": "28:09",
+   "text": "読んでいい？"
+  },
+  {
+   "end_ms": "1690390",
+   "start_ms": "1689890",
+   "start_time_text": "28:09",
+   "text": "やんだ"
+  },
+  {
+   "end_ms": "1690890",
+   "start_ms": "1690390",
+   "start_time_text": "28:10",
+   "text": "やだ"
+  },
+  {
+   "end_ms": "1691629.0000000002",
+   "start_ms": "1690890",
+   "start_time_text": "28:10",
+   "text": "噛んだw"
+  },
+  {
+   "end_ms": "1693254",
+   "start_ms": "1691629",
+   "start_time_text": "28:11",
+   "text": "やだ！嫌に決まってんじゃん"
+  },
+  {
+   "end_ms": "1695700.9999999998",
+   "start_ms": "1693254",
+   "start_time_text": "28:13",
+   "text": "あ、かわちいね"
+  },
+  {
+   "end_ms": "1697184",
+   "start_ms": "1695701",
+   "start_time_text": "28:15",
+   "text": "シールもいっぱいあるの"
+  },
+  {
+   "end_ms": "1700555",
+   "start_ms": "1697184",
+   "start_time_text": "28:17",
+   "text": "これ全部韓国のMADE By ヨンナムで買った"
+  },
+  {
+   "end_ms": "1702935.0000000002",
+   "start_ms": "1700555",
+   "start_time_text": "28:20",
+   "text": "ちょっとさこれ爪写さなかったらめっちゃ彼氏じゃない？"
+  },
+  {
+   "end_ms": "1704226.9999999998",
+   "start_ms": "1702935",
+   "start_time_text": "28:22",
+   "text": "ううん、彼氏じゃない別に"
+  },
+  {
+   "end_ms": "1705862",
+   "start_ms": "1704227",
+   "start_time_text": "28:24",
+   "text": "きょうかのシール可愛いよね"
+  },
+  {
+   "end_ms": "1709776",
+   "start_ms": "1705862",
+   "start_time_text": "28:25",
+   "text": "声きんもっwww"
+  },
+  {
+   "end_ms": "1712134",
+   "start_ms": "1709776",
+   "start_time_text": "28:29",
+   "text": "振られて鬱。"
+  },
+  {
+   "end_ms": "1714534",
+   "start_ms": "1712134",
+   "start_time_text": "28:32",
+   "text": "可愛いでしょ？シールいっぱい🤍"
+  },
+  {
+   "end_ms": "1716000",
+   "start_ms": "1714534",
+   "start_time_text": "28:34",
+   "text": "これも可愛い"
+  },
+  {
+   "end_ms": "1720279",
+   "start_ms": "1716000",
+   "start_time_text": "28:36",
+   "text": "これはヨンナムじゃない方の雑貨屋さんで買ったシールなんだけど"
+  },
+  {
+   "end_ms": "1721810",
+   "start_ms": "1720279",
+   "start_time_text": "28:40",
+   "text": "めっちゃ可愛くない？？"
+  },
+  {
+   "end_ms": "1725025.9999999998",
+   "start_ms": "1721810",
+   "start_time_text": "28:41",
+   "text": "可愛いシールーピー"
+  },
+  {
+   "end_ms": "1725830.0000000002",
+   "start_ms": "1725026",
+   "start_time_text": "28:45",
+   "text": "まじなにそれw"
+  },
+  {
+   "end_ms": "1727301",
+   "start_ms": "1725830",
+   "start_time_text": "28:45",
+   "text": "可愛いー！"
+  },
+  {
+   "end_ms": "1728283.9999999998",
+   "start_ms": "1727301",
+   "start_time_text": "28:47",
+   "text": "ほら見て."
+  },
+  {
+   "end_ms": "1729068.0000000002",
+   "start_ms": "1728284",
+   "start_time_text": "28:48",
+   "text": "あ可愛いやん"
+  },
+  {
+   "end_ms": "1730125",
+   "start_ms": "1729068",
+   "start_time_text": "28:49",
+   "text": "でしょ"
+  },
+  {
+   "end_ms": "1731868",
+   "start_ms": "1730125",
+   "start_time_text": "28:50",
+   "text": "これに書いていきます"
+  },
+  {
+   "end_ms": "1735264",
+   "start_ms": "1732175",
+   "start_time_text": "28:52",
+   "text": "韓国で買った可愛いノート"
+  },
+  {
+   "end_ms": "1738082",
+   "start_ms": "1735707",
+   "start_time_text": "28:55",
+   "text": "韓国で買ったシール"
+  },
+  {
+   "end_ms": "1740588",
+   "start_ms": "1738696",
+   "start_time_text": "28:58",
+   "text": "ASMRをお楽しみください"
+  },
+  {
+   "end_ms": "1743990",
+   "start_ms": "1741403",
+   "start_time_text": "29:01",
+   "text": "月ごとのシールで、日記にもってこい"
+  },
+  {
+   "end_ms": "1754253.0000000002",
+   "start_ms": "1751303",
+   "start_time_text": "29:11",
+   "text": "今日は上機嫌な日だったので"
+  },
+  {
+   "end_ms": "1756801",
+   "start_ms": "1755346",
+   "start_time_text": "29:15",
+   "text": "ルンルンな絵文字"
+  },
+  {
+   "end_ms": "1760574.9999999998",
+   "start_ms": "1758437",
+   "start_time_text": "29:18",
+   "text": "日記を書く時間、感情を整理できるから好き"
+  },
+  {
+   "end_ms": "1763177.0000000002",
+   "start_ms": "1761075",
+   "start_time_text": "29:21",
+   "text": "毎日書くって決めると義務になっちゃう気がして"
+  },
+  {
+   "end_ms": "1766122.9999999998",
+   "start_ms": "1763177",
+   "start_time_text": "29:23",
+   "text": "特に感情が動かされた日、書きたいと思った日に書いてる"
+  },
+  {
+   "end_ms": "1769043.0000000002",
+   "start_ms": "1766123",
+   "start_time_text": "29:26",
+   "text": "特別嬉しかった日 or 特別恋しかった日に、よく書くかも"
+  },
+  {
+   "end_ms": "1771559",
+   "start_ms": "1769827",
+   "start_time_text": "29:29",
+   "text": "書き終わったらシールタイム"
+  },
+  {
+   "end_ms": "1777102",
+   "start_ms": "1775353",
+   "start_time_text": "29:35",
+   "text": "韓国の雑貨屋さんに売ってるシールって"
+  },
+  {
+   "end_ms": "1778399",
+   "start_ms": "1777647",
+   "start_time_text": "29:37",
+   "text": "なぜこんなにも可愛い・・・？"
+  },
+  {
+   "end_ms": "1781066",
+   "start_ms": "1779047",
+   "start_time_text": "29:39",
+   "text": "お星様のシール"
+  },
+  {
+   "end_ms": "1785975.0000000002",
+   "start_ms": "1783401",
+   "start_time_text": "29:43",
+   "text": "ちっちゃいシールが特に好きです"
+  },
+  {
+   "end_ms": "1788782",
+   "start_ms": "1786827",
+   "start_time_text": "29:46",
+   "text": "キューアグ"
+  },
+  {
+   "end_ms": "1794860",
+   "start_ms": "1792145",
+   "start_time_text": "29:52",
+   "text": "植物？お花？のシールも可愛い"
+  },
+  {
+   "end_ms": "1796786.9999999998",
+   "start_ms": "1795619",
+   "start_time_text": "29:55",
+   "text": "ちっちゃい双葉"
+  },
+  {
+   "end_ms": "1805634",
+   "start_ms": "1802594",
+   "start_time_text": "30:02",
+   "text": "こんな感じで日記が書けた"
+  },
+  {
+   "end_ms": "1807093",
+   "start_ms": "1805634",
+   "start_time_text": "30:05",
+   "text": "しおりを挟んで、おわり"
+  },
+  {
+   "end_ms": "1815341.0000000002",
+   "start_ms": "1807604",
+   "start_time_text": "30:07",
+   "text": "私は、日記を書くだけじゃなくてシールを貼ったりする作業が大好きなのね"
+  },
+  {
+   "end_ms": "1816910.9999999998",
+   "start_ms": "1815341",
+   "start_time_text": "30:15",
+   "text": "楽しい♪"
+  },
+  {
+   "end_ms": "1822148.0000000002",
+   "start_ms": "1818101",
+   "start_time_text": "30:18",
+   "text": "今日もミーティングしてて思ったんですけど"
+  },
+  {
+   "end_ms": "1828215",
+   "start_ms": "1822148",
+   "start_time_text": "30:22",
+   "text": "やっぱり自分の思い描いてる世界観とか"
+  },
+  {
+   "end_ms": "1832744",
+   "start_ms": "1830465",
+   "start_time_text": "30:30",
+   "text": "頭にイメージしてるものを"
+  },
+  {
+   "end_ms": "1838226.9999999998",
+   "start_ms": "1832744",
+   "start_time_text": "30:32",
+   "text": "こうやってアウトプットして、可愛いものを"
+  },
+  {
+   "end_ms": "1841308",
+   "start_ms": "1838432",
+   "start_time_text": "30:38",
+   "text": "作るのめちゃ楽しい！"
+  },
+  {
+   "end_ms": "1846579",
+   "start_ms": "1841308",
+   "start_time_text": "30:41",
+   "text": "てか編集作業とかもそうだけど、めちゃ大好きなのそういう作業が"
+  },
+  {
+   "end_ms": "1854171",
+   "start_ms": "1846579",
+   "start_time_text": "30:46",
+   "text": "だからこれからも学業と両立しながら、頑張りたいと思います"
+  },
+  {
+   "end_ms": "1861591.0000000002",
+   "start_ms": "1854171",
+   "start_time_text": "30:54",
+   "text": "今日はまだこれからやることがあるので、編集してからお風呂に入って寝たいと思います"
+  },
+  {
+   "end_ms": "1866000",
+   "start_ms": "1861591",
+   "start_time_text": "31:01",
+   "text": "こんな感じで大学ある日の1日は終わります"
+  },
+  {
+   "end_ms": "1873216",
+   "start_ms": "1868754",
+   "start_time_text": "31:08",
+   "text": "この動画を最後まで見てくれてありがとうございました"
+  },
+  {
+   "end_ms": "1879748.9999999998",
+   "start_ms": "1873216",
+   "start_time_text": "31:13",
+   "text": "ばいばい！みんな一緒にお仕事、勉強、大学、試験、"
+  },
+  {
+   "end_ms": "1882935",
+   "start_ms": "1879749",
+   "start_time_text": "31:19",
+   "text": "一緒に頑張ることある人頑張ろうね！"
+  },
+  {
+   "end_ms": "1884935",
+   "start_ms": "1882935",
+   "start_time_text": "31:22",
+   "text": "おやすみ〜！"
+  }
+ ],
+ "transcript_only_text": "おはよう 今日はミーティングに行ったあと大学に行くので、 メイクしていきます。 ちょっと耳横にありすぎじゃない？ おかしいよね、まあいっか。ということで スキンケアからしていきます。 MEDICUBE PDRNピンクゼリーセラムミスト。 大体いつもブースターモードの3くらいを当てます。 まずこれでメディキューブの美容液を肌に染み込ませます。 てか私さ、今思った画面見てて。 関コレでダイエットめっちゃ頑張ってから はいわかりました 鎖骨がめっちゃ出るようになった。 私、鎖骨前まで全くなかったのね。もう、埋もれてたんですけど。 化石のように。最近発掘されて幸せな気分です。 そしたらダーマショットモードの大体いつもこれも3くらいで、 クマのところと目尻のところに当てると、目が勝手に動くんだけど、 目まわりの血流がよくなって、これで目まわりのむくみが取れます。 美顔器タイム終了✨ VDL ROSE PDRN PREP BASE。 私はこのVDLのプライマーって言えばいいの？これ大好き。 これを下地で使うと本当に化粧ノリがよくなるから。 今ね、関コレ後にめっちゃ爆食したせいで、ニキビだらけなんですよ。 見たらわかると思うけど おでこにもニキビあるし、あごにもなんか3つくらいあってやばいんだけど、 とりあえずこのVDLのプライマーさえあれば、まあ別に化粧ノリいいし、みたいな感じで油断してしまうくらいにはめちゃくちゃこれが良い。 espoir ビーグロウファンデーション。 espoirのファンデめっちゃいい。本当に大好き。 1月に韓国で買ってからずっと使ってる。 このfillimilliのスパチュラで伸ばします。 かっこよくスパチュラとか使ってみてるけど、なんかまだ使い始めたばかりで合ってるのかわからない。 でも、多分合ってるよねこれ。 これもfillimilliのパフで伸ばしていきます。 スパチュラで伸ばしてからの方が、偏りなく伸ばせるファンデ。 めっちゃトーンアップやばくない？✨ こんな感じでいつも通りにメイクを進めていきまーす。 あと、言い忘れたのが、 今日のカラコンはトリコニコルのゾッコンブラウンです。 ゾッコンになってね？🤍 メイクしていきまーす はい、目元のメイクが終わったんですけど、 マジで最近のメイクずっとデートメイク？ GRWMのメイクとずっと変わってないんで、ぜひ見てみてください。 そしたらチーク。 BIDOL ふわほっぺチーク 02 きゅん顔ピンクです。 これもマジでデートGRWMと一緒。このチークずっと可愛くてマジでお気に入り。 ずっと使ってます私は。本当に可愛いの色が。 で、このブラシも塗りやすいの。マジでずっと使ってる最近。はぁ…可愛い🤍 ちょっとね、ミーティングまでに整理しなきゃいけないから、自分の考えてることを。家出る前にね、ちょっと急ぎ中今。 急いで準備しないと。高速。 このチークを高速でやっても、ゆっくりやっても変わんねーよって。 本当に可愛くない？しかも何回塗り重ねても重たくならない。マジでふわほっぺチークっていう感じ。 本当にほっぺが可愛くなる🤍 ヘアバンドしてたからさ、癖ついちゃって髪の毛めっちゃキモい。 うーん、どうしようもできないね〜これ。まあいいですはーい。 さあ大急ぎ大急ぎ。 Dior バックステージ ファイス グロウ パレット 004 ローズゴールド。 一応ASMRはちゃんとやるっていう。 鼻の頭とここに乗せて、ここにも縦に乗せます。 ここに使うハイライトは大体Diorか BIDOLで使い分けてるって感じ。 今日はちょっと時間がないので、引き出しの中にあるので目の前にあったDior。 次リップ。Keep in Touch グロッシーリップグローペンシル 01 クリーミージー。 大急ぎですよ。大急ぎでもオーバーリップは欠かさない。 今日はね、まつげもあげずにちょっとナチュラルめです。 rom&nd TJLティント 03 ベアーグレープ。 まつげあげないのにASMRはする 本当に可愛いこれ 可愛すぎるだろ！🤍 fwee 3Dボリューミンググロス 70%ヨーグルト。 これでプルンプルンですよ。 あと忘れてた。チャームポイントのほくろを書き足します。 これ結構大事なポイント。私のアイデンティティーやねんこれが。 そしたらそしたら大急ぎで。大急ぎで大急ぎで大急ぎで。 焦るとうまくいかない。落ち着け。 大急ぎで髪の毛やって服を着替えます。 はいそしたら着替えてきたんですけど、服を見せようとすると後ろの机の上に散らかってる化粧品がすべて見えてしまうので、 自前モザイクでどうにかしようとしてるんですけど。痩せちゃったので表面積が足りなくて隠しきれません。 ご了承ください。すみません本当に。 いつもは自分の体で隠していますが、このように。ちょっと汚部屋です。 服はね、普通にSHEINで買ったただのグレーの長袖に、 このね、骨ストって本当にここ。この角度太って見える。 ここすごい。 ムッチリという感じなんですけど。気にしないでくださいね。 GRLで買ったデニムなんですけど、このレースが可愛すぎてめっちゃお気に入りです✨ で、これに何を合わせるかといいますと、韓国で買ったILLIGOの花柄のパーカーがとうとう着れる季節になりました。 嬉しい これを着たかったの。春、最高🌸 待ってこうやってさ、私服の紹介する前にまず髪の毛を完成させるべきだよね。髪の毛やります。 はいそしたら、髪を巻いていきます。前髪いいやこのままで。 いいんだ これはVODANAのコテです。いつも使ってる。今日は一番楽ちんで、適当でもいい感じになる外巻き。 本当に時間がないので適当に巻きます。 本当に適当。今日はミーティングの後に大学で別に写真撮る予定はないので、別にいいかなみたいな。 私は本当にズボラなので。写真撮らないとき本当に準備が適当です。まつげも束感にしないし。 きょうかちゃん見てるとモチベ上がるって言ってもらえるのが、申し訳なくなるくらい本当に適当。 適当すぎだろこれ大丈夫ですか？ もうだめ！全然だめ！いいんですよ雰囲気巻ければ。外に出れる状態だったらいいんですよ別に。 こんな感じで巻きましたら ケープの前髪マスカラ 私はここがいつも変になるので。 音いいこれ かすかなASMRを聞き逃さないw こうやってつけます。 まあいい感じ。 いいんじゃなーい？こんな感じで。適当のわりにいいんじゃない？ まあでもちょっと右が適当すぎて変になってるけど。いいんじゃないでしょうか✨ そしたらケープ 最強キープのやつ えっ、痛い、ぶつけた これを ふりかけます。 はい！OK！✨ 大急ぎ大急ぎ大急ぎ大急ぎ 髪型をやったらこんな感じです。 え…可愛いじゃん🤍 そしたら いつも聞かれるネックレス。 これお母さんが作ってるジュエリーなんです。 これね、後ろが磁石になってるから、めっちゃつけるの簡単。 ※簡単とは そしたらこのずっと着たかった、ILLIGOの花柄のパーカーを着ます。 嬉しいこれが着れる季節になったの。よし。 めっちゃ可愛くない？🤍 このフリルとかさボタンもついててさ、めっちゃ可愛いよね。 はい、とっても可愛いです！🤍 で、このパソコンケース。パソコンケースなんだけどiPadを入れます。 ミーティングのときは大体パソコンじゃなくてiPadを持っていきます。 黒いバッグしか大きいの持ってなくて。 MUCENTのバッグに入れて 入らない！ ガサツすぎw 香水振るの忘れた CHANEL シュールすぎるw こういうつけ方を私はいつもしまーす 家出る前にミーティングのことを整理します。 頭の中でイメージしてることを可視化する時間。 イメージを直接文字で書き起こすよりも、まずは図で描くようにしてる いつも思うのがイメージをそのまま言語化するって難しい イメージがまとまるまで、ひたすらお絵描きtime 可愛いお靴✨ 服にぴったりで幸せ 打ち合わせに向かいます 湿気で前髪を気になる Factory & labo 神乃珈琲 到着 窓が大きいカフェ大好き カフェラテ注文した☕️ カフェにこんな帽子を持ち込むことありますか？ アイデアを生み出すの難しい🌀 思い浮かぶアイデアの中でも、今じゃない💦ってのがたくさん笑 今まだ公開できない情報だけど、楽しみにしててほしいな。 突然の帽子お試しタイム 大量に持ってきた帽子をとりあえず被ってみる人↑ まだまだあります・・・ 全部で14個www 打ち合わせ終わって、大学到着！ 教室に向かいます 授業の準備💻 授業開始！ これはvlog撮れない授業の話なんだけど 社会問題についてディスカッションする授業があって、 自分なりの意見を考えた上で、お互いに皆の意見を聞くんです。 そんな視点あったんだ！って新しく気づきを得られるのが楽しくて、 自分はディスカッションの授業好きなんだって気づいた ちなみに授業終わりました笑 バッグに入れるの苦戦しすぎ この日は授業1個だけ 帰宅します。 その時‼️ 妹のれいか登場 なんか盛れてない 髪の毛ボサボサなんだもん 盛れてない 合流します やっほー 今可愛いよ。盛れなくていいよ、盛れなくていいんだ。大学終わりだもん。 疲れてるから れいかと合流。朝ぶり。 朝ぶり れいかが持った方がよくない？なんかちっちゃくない？ ったくしゃーねーな 髪の毛ボサボサ。今日湿気すごい。湿気すごいし、朝走って汗かいちゃった。あらまあ。 合流しました パーカー見せたい、可愛いから🤍これ可愛いでしょ？ れいかの方も可愛いよ。うん、かわいいね。れいかも被れば？ボサボサだから。 なんか毛繕い？てか、れいかデカw ボサボサすぎ。だって風に吹かれてるんだもん。あ、ありがとね。 ちゃんと盛れる顔して。ピースダサイ。 風に吹かれて春って感じ🌸 ポジティブw ゆで卵 でも吹かれすぎじゃない？白い卵と燻製 WW いいじゃん 可愛いね ブスすぎて鬱 わかる 風吹くな！だって何この前髪 家に帰ってきてから夜ご飯を食べました。今から食後のデザートなのでその準備。 今ご飯を食べ終わったんですけど、食後のデザート食べます。これが最近めっちゃハマってるアイス。 どれ？ これ食べたことある？食べたことないけど、たぶん食べた（？） ？？？ 一口食べたことある気がする。めっちゃおいしいの、これ。食べてみてほしいみんな 髪がボサボサすぎて、今日湿気やばかったよね。やばかった、 やばいハゲがバレる ハゲてる笑 ひどい…ごめんね、いいよ 髪の毛まとめたら、もっとボサボサバレる。そんなもんでいいよ？あげちゃおう、これで うんゆで卵 ゆで上がり卵？ 前髪がもうキモいのわかる？ おならした？おならしてないよ。何の音いまのw 違う今、床と靴下が擦れた音。 おならプリプリップリッてしたのかと思った。 動画撮ってるときは我慢します、おなら。おならしてたよ。してないよ、それはカットする前提だよ。闇を放出した。 カットしてるんだ。そうだよ、当たり前じゃん。おならしたらカットしますよ。あ、いいじゃんこれで。可愛いね🤍 でしょ？よく言われる。ルーピー？この顔、ウルウルして 似すぎだろこれ同一人物やねん 前世ルーピーじゃん Hun…は何？ ルーピー ヒソンちゃんもルーピーに似てるって言われてるよね だから嬉しい。ということは実質ヒソンってこと？ノーコメントで。あーはい、じゃあ違うんだ。 食べます溶けちゃうからね これ開かない！痛っ！助けてれいか〜。 あ、いい音。ありがと、でも失敗した。 まあいいでしょう。怒るなルーピー。怒ってないよ。そんなにカリカリするなよ。ルーピー カリカリしてないよー。しょぼしょぼしてるよー。モニュモニュしてる 何このやりとりキモすぎw Oh my god! すごく美味しそう！カリカリのチョコを食べたい。 みんな気になってると思うんですけど。私が卒業式の写真を載せてないから きょうかちゃん袴の投稿は？卒業式の投稿は？え、きょうかちゃん卒業したんですか？毎日質問頂きます、たくさん 実は私…留年いたしましたーー！ Oh my god! 勘づいてる人とかからは、TikTokとかで結構 留年お疲れ、留年おめでとう、留年確定草。とかいうコメントも毎日頂いてるんですけど。 留年しました。留年の経緯は忙しすぎて。本当はストレートで卒業したかったから、頑張ってたんですよ。去年、結構。 結構がんばってたよね？去年 プレゼンとかめっちゃ聞いてた 聞かせてたっけそんな これでいいかな？じゃあ発表するねって めっちゃうざいじゃんw 全然大丈夫.、ありがとう。 プレゼンもあって課題もあって、YouTubeの構成も自分で考えるし企画も編集も大体自分でしてるし、 っていう感じで 他の仕事ももちろんあって、という状況で、すごい去年すごい辛くて、両立が辛くて本当に 期末の期間とか3徹くらいしたりとかしてて。 精神が限界 ストレートで卒業したかったから頑張ってたんだけど、 本当に学校の帰り道とか別に悲しいことがあったわけじゃないのに 寝不足と限界で涙が出てくる 日が結構あったんですね で私がストレートで卒業したかった一番の理由は、これ情けないんですけど、また炎上したりアンチされたらどうしようっていう恐怖が一番だったんですね。 自分の意思でストレートで卒業したい という気持ち以上に アンチされたくない炎上したくないという気持ちが先行して。 という気持ちが先行して本当に 時間も体力も精神もギリギリの状況だったけど、ストレートで卒業したかったんですよ。 でもよく考えたときに、アンチされたくない、炎上したくないが理由で、こんなに心身共に限界なのに それが理由で頑張ってるのって。 よく考えたら自分の人生じゃないなと思って 去年も「14時間勉強して青学は草ww」みたいな感じで、炎上したのが結構トラウマなんですよ、自分の中で。 あれからもう1年くらい経つけど今だにそのとき 2000万インプレッションとかいって、2000件引用リツイートとかでめちゃくちゃバカにされたのは結構トラウマになってて あれやばかったよね うん 14時間勉強して青学レベルはくーさw そうw 全部そこにつなげられる しかも誕生日の投稿しただけ あれが結構トラウマだったから、去年は自分が青学に通ってることもあんまり言わないようにしてたっていうか てか友達にも言われちゃったじゃん なんて？ 友達にすらいちいち学校名出すから炎上するんだよみたいな 自分で家族公開しちゃうから、仕方ないんじゃない？ そうそうそう っていうことを 友達にも言われちゃったから 自分が学校とか家族を出してるのが悪いんだって思って 去年本当に当たり障りないメイク動画しか出せなかったんですよ どう転んでもアンチされない炎上しないだろうという。ほんとメイク動画しか載せられなかったの vlogとかもあんま去年載せれてないよね うんうん そう！ その炎上したときに、同じ授業受けてた人とかにも結構、クラスとか授業を勝手に書き込まれたりしてXに。 そこから怖くて学校にも 大学vlog撮った日もあったけど そういうのを撮るとき以外は ほんと不審者みたいな 真っ黒な服で登校してたんですよ、身を潜めて。 ね！やばかったよね！ 落ち武者みたいな頭で わかるそうそう、ずっと帽子すっぴん キラキラしたインスタとはかけ離れてた大学生活を送ってて 本当に自粛みたいな、それが結構心残りで、時間も足りない 心身共に限界 学生生活もこんな形で終わりってなったらもったいないなと思ったの。 そんな状況で無理してストレートで卒業しても ストレートで卒業したから「アンチに叩かれなくてよかった」とは思えないと思って自分が 後悔しか残らないなと思ったから もうちょっと学生生活悔いなく終わりたいし もっと楽しみたかったなというのが去年結構あったので 去年後期の後半くらいに 取れなさそうな単位はもう本当に無理せず諦めようってことで 留年することにしました っていう話です 多分びっくりだと思う だってすごい卒業式終わってめっちゃ聞かれたから 袴の写真載せてくださいってDM死ぬほどあったね そうw だかられいかとまた1年通えるね！ そう！ポジティブに考えたらそういうこと じゃあもう全部の授業れいかと受けよう！ 1限から一緒に受けよう！ 1限はちょっと…そこまで単位そこまで残ってないから、1限はちょっと出なくていいかも れいかはたくさんあるから一緒に受けよう1限から全部 1限はお断りさせて頂きたい みんなに紹介するから うちの姉なので一緒に授業受けますねって よろしくねって その紹介も大丈夫かもw っていう感じです これをさ公表？ 公表するしかないじゃん 卒業式の投稿ないのなんでって 多分みんな思ってたと思うし だけど 公表したときにまた炎上しちゃうかもとか、アンチがめっちゃ来るかもとか それこそ留年したの草みたいな感じで、そこを私の欠点みたいに受け取る人もいるかもしれないと思ったけど 私はこの選択を後悔してないです かっけえ・・・ バカにした今？かっけーw かっけえ・・・ だって私が選択したんだもん 無理したらストレートで卒業できたかもしれないけど、無理しても悔いしか残らないなと思ったから 去年本当に隠れるような学生生活を送ってたし 中学から通ってきててさ それで10年間の青学生活の幕を閉じるなんて本当に辛いかもと思ってどう思いますか？れいかさんは？ 全部同意で 本当に思ってるの？w 聞いてないだろ！ 全部同意で以上？ うん、聞いてい なかった・・・ え・・・？ww ガチで妹だよねこういうとこ本当に きょんきょんのTikTok見てた 悲しいわ… 聞いてなかった？ うん こんな隣にいて？コンビニのお菓子も買ってあげたのに？ じゃあもう一回聞くから、どう思いますか？れいかさ 何が？ WW きょんきょんの友達のみんなと喋ってると思って、れいかに話しかけてないと思ってた。 れいかにも聞いてもらってると思って話してたもん！ あぁ…じゃあまあ解釈の相違ということで ひど・・・ 僕が間違っていたね じゃあ留年するのどう思う？ 普通にあと4年くらい留年して、れいかと一緒に卒業してほしい それはWWW れいかの自分勝手な気持ちじゃんWWW 一緒に袴着て撮ろう卒業証書持って。We graduated Aoyama Gakuin University! それこそもうめっちゃ炎上するってw こいつ勉強動画とか出しておいて、4年も留年したんだって 妹ができ損ないすぎて心配だったので、ちょっと4年間付き添いました。 で、一緒に卒業これがれいかの最高のプラン 何も聞いてないねw 本当にやばいこの妹、ぶっ飛んでるわ。 WWじゃないよW そんなれいかのぶっ飛びに、助けられてきただろう？ なんかキモい…頭痛くなってきた… いつでもお前もぶっ飛ばせてやるからな 何言ってるかわからないw わかる キモ、黙れよ一旦 自分で言った自分に 二重人格… きょかれい2人の掛け合い好きですってきてたんだけどいっぱい きょかれいの動画また見たいですとかも それこそそれも学校と家族をあまりのせない方がいいと思ったから、去年は全然のせられなかったの だってなんかさ炎上する発言言ったとかじゃなくてさ、誕生日で！ そう！ だからなんか「ええええ〜！」って感じ。 でもれいかが言われたことはないから人気の証拠だよ、それは見られてる証拠なんだよ だからそれはもう仕方ない。みんな言いたいんだよ。だってれいかでも言いたくなるもんきっと。 なんでなんで急に敵？ れいかが見てる側できょうかちゃんいいなって思ってたとするじゃん れいかときょんきょんがそう思ってる訳ではなくて コメント欄とかDMで言ってもらえるのは きょうかれいかちゃん家族はみんな 可愛くて・カッコ良くて・優しくてお金持ちって言われてるじゃん れいかときょんきょんがそれをひけらかしてるわけでもないし 自分自身そう思ってるわけではないけど、見てる側がそう思ってて れいかがもし見てる側だとしたら、羨ましいという気持ちもあるし。 きょンきょんとかすごい年上だったら憧れだけど、1個下とか同い年とかだったら まして正直、自分が青学通ってて、きょんきょんと同い年だったら 同じように生きてたのになぜこんなに違うの？と比べて、妬んじゃったりするんだろうなって・・・ そういう人が私のクラスとかさ、書き込んでるんだろうね。 そうそうまじで正直ね、そういうのが多いじゃん。 うんうん デマもめっちゃ流されるし そういうことがよくあるから わかるがしかし！ という感じ はい まあそういうことですね でも私は今年、学校も自分の選択で留年するって決めて 残りの1年悔いなく終わるっていう目標を立てたし それこそ家族のことも、なんで自分のSNSなのに学校とか家族とかを隠さなきゃいけないんだろうって 思うようになったから自分の人生なのにさ それも去年結構出さないようにしてたんだけどれいかとかもね れいかの誕生日ものせてないもん去年 知ってる拗ねた 違うごめんね のせたかったよこっちだって でもさ誕生日絶対炎上するから毎回 嘘嘘ごめんw こうやって今もれいかとしゃべってるし 徐々にまたのせていけたらいいなと思います そしたらまたきょんきょんのYouTubeでれいかの奇行が 暴かれてしまう！ 本当に動画に出せないけど、今すっごいパンツ一丁で 尻をこっちに突き出してるw クレヨンしんちゃんみたいww もう本当頭痛い・・・ まぁはいそういうことです。 今年青学入学したけどきょうかちゃんに会えないかもって言ってた子 遭遇できるかもよ！w たまに姉妹2人で歩いています。 結構一緒にいること多いよね 仲良しだもん きょんきょんが会おうって言うから、会ってやってるぜ そういう認識だったんだ 仕方ないから会ってやってるぜ もう拗ねた ルーピー ルーピー？w 拗ねルーピーの顔じゃ 拗ねルピー？ 拗ねルーピー 拗ねルーピーの顔して あぁすごいルーピーだ 本当にルーピーに似てると思うから 誰かコラ画像作ってほしい ww ということでした 留年したけど頑張りまーす 最後めっちゃラフw 急にラフw ずっと喋ってたのに結構真面目に 留年頑張りまーす 逆にいったら 留年とか休学とか浪人とか大丈夫！ 私だってしてるよ？ 大丈夫本当そういう相談いっぱい来るけど、それで人生決まらないから 本当に大丈夫！ はいそしたら、今から日記を書きます！ じゃじゃーん これねしおりにしてるの猫ちゃんのやつを 可愛いでしょめっちゃ 自慢の日記！ 見して はい あっかわいい 絶対興味ないやつw 見てシールとか ほら いっぱい書いてるやんけ！ 読んでいい？ やんだ やだ 噛んだw やだ！嫌に決まってんじゃん あ、かわちいね シールもいっぱいあるの これ全部韓国のMADE By ヨンナムで買った ちょっとさこれ爪写さなかったらめっちゃ彼氏じゃない？ ううん、彼氏じゃない別に きょうかのシール可愛いよね 声きんもっwww 振られて鬱。 可愛いでしょ？シールいっぱい🤍 これも可愛い これはヨンナムじゃない方の雑貨屋さんで買ったシールなんだけど めっちゃ可愛くない？？ 可愛いシールーピー まじなにそれw 可愛いー！ ほら見て. あ可愛いやん でしょ これに書いていきます 韓国で買った可愛いノート 韓国で買ったシール ASMRをお楽しみください 月ごとのシールで、日記にもってこい 今日は上機嫌な日だったので ルンルンな絵文字 日記を書く時間、感情を整理できるから好き 毎日書くって決めると義務になっちゃう気がして 特に感情が動かされた日、書きたいと思った日に書いてる 特別嬉しかった日 or 特別恋しかった日に、よく書くかも 書き終わったらシールタイム 韓国の雑貨屋さんに売ってるシールって なぜこんなにも可愛い・・・？ お星様のシール ちっちゃいシールが特に好きです キューアグ 植物？お花？のシールも可愛い ちっちゃい双葉 こんな感じで日記が書けた しおりを挟んで、おわり 私は、日記を書くだけじゃなくてシールを貼ったりする作業が大好きなのね 楽しい♪ 今日もミーティングしてて思ったんですけど やっぱり自分の思い描いてる世界観とか 頭にイメージしてるものを こうやってアウトプットして、可愛いものを 作るのめちゃ楽しい！ てか編集作業とかもそうだけど、めちゃ大好きなのそういう作業が だからこれからも学業と両立しながら、頑張りたいと思います 今日はまだこれからやることがあるので、編集してからお風呂に入って寝たいと思います こんな感じで大学ある日の1日は終わります この動画を最後まで見てくれてありがとうございました ばいばい！みんな一緒にお仕事、勉強、大学、試験、 一緒に頑張ることある人頑張ろうね！ おやすみ〜！",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=-A-aXWU_oHQ",
+ "video_id": "-A-aXWU_oHQ"
+}

@@ -1,0 +1,2314 @@
+{
+ "availability": {
+  "status": "available"
+ },
+ "available_tracks": [
+  {
+   "is_translatable": true,
+   "kind": "auto",
+   "language_code": "ja",
+   "language_name": "Japanese (auto-generated)"
+  }
+ ],
+ "is_auto_generated": true,
+ "language": "Japanese (auto-generated)",
+ "language_code": "ja",
+ "transcript": [
+  {
+   "end_ms": "9200",
+   "start_ms": "3280",
+   "start_time_text": "0:03",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "9200",
+   "start_ms": "6960",
+   "start_time_text": "0:06",
+   "text": "鬼瓦"
+  },
+  {
+   "end_ms": "18080.000000000004",
+   "start_ms": "14839",
+   "start_time_text": "0:14",
+   "text": "のプライドだよ"
+  },
+  {
+   "end_ms": "21800",
+   "start_ms": "18500",
+   "start_time_text": "0:18",
+   "text": "名作になるんだ"
+  },
+  {
+   "end_ms": "30380.000000000004",
+   "start_ms": "26100",
+   "start_time_text": "0:26",
+   "text": "脳のロックTVです本日のゲストは踊り"
+  },
+  {
+   "end_ms": "30380",
+   "start_ms": "28019",
+   "start_time_text": "0:28",
+   "text": "春日さんです"
+  },
+  {
+   "end_ms": "35160",
+   "start_ms": "30660",
+   "start_time_text": "0:30",
+   "text": "ありがとうございました"
+  },
+  {
+   "end_ms": "36660",
+   "start_ms": "31880",
+   "start_time_text": "0:31",
+   "text": "出ましたよトゥースが出ましたよ"
+  },
+  {
+   "end_ms": "38879.99999999999",
+   "start_ms": "35160",
+   "start_time_text": "0:35",
+   "text": "過去やったドッキリで言うと最初は"
+  },
+  {
+   "end_ms": "42059",
+   "start_ms": "36660",
+   "start_time_text": "0:36",
+   "text": "ドーピングドッグ裏で信じられない動機"
+  },
+  {
+   "end_ms": "44040.00000000001",
+   "start_ms": "38880",
+   "start_time_text": "0:38",
+   "text": "キングおはようございました2回目は"
+  },
+  {
+   "end_ms": "48320",
+   "start_ms": "42059",
+   "start_time_text": "0:42",
+   "text": "弟子へのパワハラが厳しい"
+  },
+  {
+   "end_ms": "50719",
+   "start_ms": "44040",
+   "start_time_text": "0:44",
+   "text": "激ヤバ主将ドッキリありましたねどちらも"
+  },
+  {
+   "end_ms": "53719",
+   "start_ms": "48320",
+   "start_time_text": "0:48",
+   "text": "91万464万円"
+  },
+  {
+   "end_ms": "56820",
+   "start_ms": "50719",
+   "start_time_text": "0:50",
+   "text": "そうですか"
+  },
+  {
+   "end_ms": "60420",
+   "start_ms": "53719",
+   "start_time_text": "0:53",
+   "text": "今回は1年ぶりの春日ドッキリなんでやっ"
+  },
+  {
+   "end_ms": "64280",
+   "start_ms": "56820",
+   "start_time_text": "0:56",
+   "text": "ていただくのはオードリーは金でしか動か"
+  },
+  {
+   "end_ms": "64280",
+   "start_ms": "60420",
+   "start_time_text": "1:00",
+   "text": "ない超ちょうどケチドッキリ"
+  },
+  {
+   "end_ms": "71360",
+   "start_ms": "64400.00000000001",
+   "start_time_text": "1:04",
+   "text": "ですね"
+  },
+  {
+   "end_ms": "71360",
+   "start_ms": "66619",
+   "start_time_text": "1:06",
+   "text": "何やるにしても金でしか動かない"
+  },
+  {
+   "end_ms": "78420",
+   "start_ms": "71540",
+   "start_time_text": "1:11",
+   "text": "オプションオプションです"
+  },
+  {
+   "end_ms": "80158.99999999999",
+   "start_ms": "74960",
+   "start_time_text": "1:14",
+   "text": "みたいな言いたくなる時ありますけどね"
+  },
+  {
+   "end_ms": "82259",
+   "start_ms": "78420",
+   "start_time_text": "1:18",
+   "text": "実際"
+  },
+  {
+   "end_ms": "83620",
+   "start_ms": "80159",
+   "start_time_text": "1:20",
+   "text": "これはさちょっとカラスが勝ってるぞ"
+  },
+  {
+   "end_ms": "85939",
+   "start_ms": "82259",
+   "start_time_text": "1:22",
+   "text": "みたいなあるよね"
+  },
+  {
+   "end_ms": "88320.00000000001",
+   "start_ms": "83620",
+   "start_time_text": "1:23",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "90539.99999999999",
+   "start_ms": "85939",
+   "start_time_text": "1:25",
+   "text": "アシスタントの盛り上げるという6系の"
+  },
+  {
+   "end_ms": "93059.99999999999",
+   "start_ms": "88320",
+   "start_time_text": "1:28",
+   "text": "番組の初収録という"
+  },
+  {
+   "end_ms": "96119",
+   "start_ms": "90540",
+   "start_time_text": "1:30",
+   "text": "経歴カピカにする裏側を"
+  },
+  {
+   "end_ms": "99320.00000000001",
+   "start_ms": "93060",
+   "start_time_text": "1:33",
+   "text": "今から2人でやって街に飛び出そうと今回"
+  },
+  {
+   "end_ms": "99320",
+   "start_ms": "96119",
+   "start_time_text": "1:36",
+   "text": "のターゲットはこちら"
+  },
+  {
+   "end_ms": "105200",
+   "start_ms": "99860",
+   "start_time_text": "1:39",
+   "text": "21歳の女優さんですねバラエティの経験"
+  },
+  {
+   "end_ms": "107699.99999999999",
+   "start_ms": "102960",
+   "start_time_text": "1:42",
+   "text": "はまだないですか"
+  },
+  {
+   "end_ms": "111439",
+   "start_ms": "105200",
+   "start_time_text": "1:45",
+   "text": "もしれないみたいです確かお会いしたこと"
+  },
+  {
+   "end_ms": "111439",
+   "start_ms": "107700",
+   "start_time_text": "1:47",
+   "text": "はないですねこれはいいですね"
+  },
+  {
+   "end_ms": "117780",
+   "start_ms": "113280",
+   "start_time_text": "1:53",
+   "text": "昨日"
+  },
+  {
+   "end_ms": "119880.00000000001",
+   "start_ms": "113840",
+   "start_time_text": "1:53",
+   "text": "出てくださいって出演オファー空いてたん"
+  },
+  {
+   "end_ms": "122220",
+   "start_ms": "117780",
+   "start_time_text": "1:57",
+   "text": "ですけどいつの間にかメールが"
+  },
+  {
+   "end_ms": "124880",
+   "start_ms": "119880",
+   "start_time_text": "1:59",
+   "text": "企画も考えていただいてに変わってたから"
+  },
+  {
+   "end_ms": "128180",
+   "start_ms": "122220",
+   "start_time_text": "2:02",
+   "text": "それは別料金になりますよ"
+  },
+  {
+   "end_ms": "128180",
+   "start_ms": "124880",
+   "start_time_text": "2:04",
+   "text": "送ったところです"
+  },
+  {
+   "end_ms": "137000",
+   "start_ms": "130380",
+   "start_time_text": "2:10",
+   "text": "ありがとうございますさあターゲットの"
+  },
+  {
+   "end_ms": "137000",
+   "start_ms": "133800",
+   "start_time_text": "2:13",
+   "text": "森脇さんが入ってこられました"
+  },
+  {
+   "end_ms": "143840",
+   "start_ms": "137040",
+   "start_time_text": "2:17",
+   "text": "バラエティ番組ほぼ経験がないのではい今"
+  },
+  {
+   "end_ms": "143839.99999999997",
+   "start_ms": "140700",
+   "start_time_text": "2:20",
+   "text": "ですねケータリング写真"
+  },
+  {
+   "end_ms": "149700.00000000003",
+   "start_ms": "146400",
+   "start_time_text": "2:26",
+   "text": "あさあ今台本を練習してらっしゃいます"
+  },
+  {
+   "end_ms": "152060",
+   "start_ms": "148860",
+   "start_time_text": "2:28",
+   "text": "しかも"
+  },
+  {
+   "end_ms": "152060",
+   "start_ms": "149700",
+   "start_time_text": "2:29",
+   "text": "暗記しています"
+  },
+  {
+   "end_ms": "158540",
+   "start_ms": "153260",
+   "start_time_text": "2:33",
+   "text": "真面目これは信じてますねドッキリ死んで"
+  },
+  {
+   "end_ms": "158540",
+   "start_ms": "156420",
+   "start_time_text": "2:36",
+   "text": "ます"
+  },
+  {
+   "end_ms": "163799.99999999997",
+   "start_ms": "160160",
+   "start_time_text": "2:40",
+   "text": "おはようございます"
+  },
+  {
+   "end_ms": "165680",
+   "start_ms": "161720",
+   "start_time_text": "2:41",
+   "text": "お願いしますありがとうございます"
+  },
+  {
+   "end_ms": "170480.00000000003",
+   "start_ms": "163800",
+   "start_time_text": "2:43",
+   "text": "おはようございます"
+  },
+  {
+   "end_ms": "170480.00000000003",
+   "start_ms": "165680",
+   "start_time_text": "2:45",
+   "text": "お願いしますお願いします"
+  },
+  {
+   "end_ms": "176899.99999999997",
+   "start_ms": "171200",
+   "start_time_text": "2:51",
+   "text": "すごい"
+  },
+  {
+   "end_ms": "176899.99999999997",
+   "start_ms": "173599",
+   "start_time_text": "2:53",
+   "text": "あるじゃない"
+  },
+  {
+   "end_ms": "181860",
+   "start_ms": "178860",
+   "start_time_text": "2:58",
+   "text": "まさか"
+  },
+  {
+   "end_ms": "188040",
+   "start_ms": "185040",
+   "start_time_text": "3:05",
+   "text": "早い"
+  },
+  {
+   "end_ms": "196159",
+   "start_ms": "193260",
+   "start_time_text": "3:13",
+   "text": "入れていく"
+  },
+  {
+   "end_ms": "202340",
+   "start_ms": "197300",
+   "start_time_text": "3:17",
+   "text": "いやにしてもだなスタートダッシュが"
+  },
+  {
+   "end_ms": "202340",
+   "start_ms": "200159",
+   "start_time_text": "3:20",
+   "text": "すごい"
+  },
+  {
+   "end_ms": "213550",
+   "start_ms": "205860",
+   "start_time_text": "3:25",
+   "text": "面白い"
+  },
+  {
+   "end_ms": "213550",
+   "start_ms": "208250",
+   "start_time_text": "3:28",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "220799",
+   "start_ms": "215940",
+   "start_time_text": "3:35",
+   "text": "ケータリングもうちょっともらえるか"
+  },
+  {
+   "end_ms": "221780",
+   "start_ms": "217700",
+   "start_time_text": "3:37",
+   "text": "あと聞いてもらった"
+  },
+  {
+   "end_ms": "225560",
+   "start_ms": "220799",
+   "start_time_text": "3:40",
+   "text": "嘘でしょ"
+  },
+  {
+   "end_ms": "225560",
+   "start_ms": "221780",
+   "start_time_text": "3:41",
+   "text": "もうないと思ってる"
+  },
+  {
+   "end_ms": "229760.00000000003",
+   "start_ms": "227519",
+   "start_time_text": "3:47",
+   "text": "びっくりする"
+  },
+  {
+   "end_ms": "243019",
+   "start_ms": "237260",
+   "start_time_text": "3:57",
+   "text": "わかりました"
+  },
+  {
+   "end_ms": "243018.99999999997",
+   "start_ms": "239819",
+   "start_time_text": "3:59",
+   "text": "さっきので終わりみたいな"
+  },
+  {
+   "end_ms": "257659",
+   "start_ms": "252599",
+   "start_time_text": "4:12",
+   "text": "おにぎり"
+  },
+  {
+   "end_ms": "257659",
+   "start_ms": "254239",
+   "start_time_text": "4:14",
+   "text": "聞いてきてもらって"
+  },
+  {
+   "end_ms": "261899.99999999997",
+   "start_ms": "258238.99999999997",
+   "start_time_text": "4:18",
+   "text": "おにぎり全部"
+  },
+  {
+   "end_ms": "273020",
+   "start_ms": "266880",
+   "start_time_text": "4:26",
+   "text": "余ったやつ"
+  },
+  {
+   "end_ms": "273020",
+   "start_ms": "268940",
+   "start_time_text": "4:28",
+   "text": "やめてください大丈夫ですか"
+  },
+  {
+   "end_ms": "284090.00000000006",
+   "start_ms": "277470",
+   "start_time_text": "4:37",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "290719.99999999994",
+   "start_ms": "287460",
+   "start_time_text": "4:47",
+   "text": "やっぱパスが面白い"
+  },
+  {
+   "end_ms": "297740",
+   "start_ms": "294240",
+   "start_time_text": "4:54",
+   "text": "これぐらい信じるだろう"
+  },
+  {
+   "end_ms": "305059.99999999994",
+   "start_ms": "300780",
+   "start_time_text": "5:00",
+   "text": "打ち合わせあると思うんです"
+  },
+  {
+   "end_ms": "305060",
+   "start_ms": "302520",
+   "start_time_text": "5:02",
+   "text": "よ"
+  },
+  {
+   "end_ms": "312199",
+   "start_ms": "306120",
+   "start_time_text": "5:06",
+   "text": "それって出るのか"
+  },
+  {
+   "end_ms": "312198.99999999994",
+   "start_ms": "308400",
+   "start_time_text": "5:08",
+   "text": "ないや打ち合わせは出ないです"
+  },
+  {
+   "end_ms": "316810",
+   "start_ms": "312840",
+   "start_time_text": "5:12",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "325099.00000000006",
+   "start_ms": "321970",
+   "start_time_text": "5:21",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "331220",
+   "start_ms": "325860",
+   "start_time_text": "5:25",
+   "text": "出してもらえるか"
+  },
+  {
+   "end_ms": "331219.99999999994",
+   "start_ms": "327919",
+   "start_time_text": "5:27",
+   "text": "女性やらない"
+  },
+  {
+   "end_ms": "334159.99999999994",
+   "start_ms": "331320",
+   "start_time_text": "5:31",
+   "text": "ちょっと聞いてみます"
+  },
+  {
+   "end_ms": "346740",
+   "start_ms": "342740",
+   "start_time_text": "5:42",
+   "text": "か早速"
+  },
+  {
+   "end_ms": "354539",
+   "start_ms": "348240",
+   "start_time_text": "5:48",
+   "text": "打ち合わせの方を"
+  },
+  {
+   "end_ms": "354539",
+   "start_ms": "350539",
+   "start_time_text": "5:50",
+   "text": "そうですか"
+  },
+  {
+   "end_ms": "392280.00000000006",
+   "start_ms": "387139",
+   "start_time_text": "6:27",
+   "text": "よろしくお願いしますアンケートじゃあ"
+  },
+  {
+   "end_ms": "394800",
+   "start_ms": "390660",
+   "start_time_text": "6:30",
+   "text": "あると思うんですけどこちらがアンケート"
+  },
+  {
+   "end_ms": "396840",
+   "start_ms": "392280",
+   "start_time_text": "6:32",
+   "text": "お"
+  },
+  {
+   "end_ms": "398720",
+   "start_ms": "394800",
+   "start_time_text": "6:34",
+   "text": "酒のつまみで好きなものとかお酒からに"
+  },
+  {
+   "end_ms": "401638.99999999994",
+   "start_ms": "396840",
+   "start_time_text": "6:36",
+   "text": "失敗したものでこういうのが渡っています"
+  },
+  {
+   "end_ms": "403699",
+   "start_ms": "398720",
+   "start_time_text": "6:38",
+   "text": "先にご機嫌をいただきたいなと思ってまし"
+  },
+  {
+   "end_ms": "403699",
+   "start_ms": "401639",
+   "start_time_text": "6:41",
+   "text": "て"
+  },
+  {
+   "end_ms": "410780.00000000006",
+   "start_ms": "406860",
+   "start_time_text": "6:46",
+   "text": "伝わってるはいちゃんと伝えてもらってね"
+  },
+  {
+   "end_ms": "416959",
+   "start_ms": "413820",
+   "start_time_text": "6:53",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "424259",
+   "start_ms": "421259",
+   "start_time_text": "7:01",
+   "text": "これ"
+  },
+  {
+   "end_ms": "432539",
+   "start_ms": "429539",
+   "start_time_text": "7:09",
+   "text": "で"
+  },
+  {
+   "end_ms": "439160",
+   "start_ms": "436199",
+   "start_time_text": "7:16",
+   "text": "答えると21,000円です"
+  },
+  {
+   "end_ms": "446300",
+   "start_ms": "439450",
+   "start_time_text": "7:19",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "446300",
+   "start_ms": "442979",
+   "start_time_text": "7:22",
+   "text": "ちょっと確認します"
+  },
+  {
+   "end_ms": "460620",
+   "start_ms": "454620",
+   "start_time_text": "7:34",
+   "text": "アンケートやってるんですか"
+  },
+  {
+   "end_ms": "463039",
+   "start_ms": "457580",
+   "start_time_text": "7:37",
+   "text": "交渉してちゃんと"
+  },
+  {
+   "end_ms": "463039",
+   "start_ms": "460620",
+   "start_time_text": "7:40",
+   "text": "特に"
+  },
+  {
+   "end_ms": "468259",
+   "start_ms": "464639",
+   "start_time_text": "7:44",
+   "text": "びっくりしました逆にそういうのがあるん"
+  },
+  {
+   "end_ms": "468258.99999999994",
+   "start_ms": "466080",
+   "start_time_text": "7:46",
+   "text": "だろう"
+  },
+  {
+   "end_ms": "476479",
+   "start_ms": "471979",
+   "start_time_text": "7:51",
+   "text": "けど結構あるんですか"
+  },
+  {
+   "end_ms": "483919",
+   "start_ms": "479479",
+   "start_time_text": "7:59",
+   "text": "時間をこうね"
+  },
+  {
+   "end_ms": "486360",
+   "start_ms": "482699",
+   "start_time_text": "8:02",
+   "text": "差し上げてる"
+  },
+  {
+   "end_ms": "489020",
+   "start_ms": "483919",
+   "start_time_text": "8:03",
+   "text": "こんな言い方ある"
+  },
+  {
+   "end_ms": "489020.00000000006",
+   "start_ms": "486360",
+   "start_time_text": "8:06",
+   "text": "完全に信じてる"
+  },
+  {
+   "end_ms": "493039.00000000006",
+   "start_ms": "490319",
+   "start_time_text": "8:10",
+   "text": "打ち合わせもあれですか"
+  },
+  {
+   "end_ms": "505500",
+   "start_ms": "498780",
+   "start_time_text": "8:18",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "507300",
+   "start_ms": "503180",
+   "start_time_text": "8:23",
+   "text": "アンケートなんですけど"
+  },
+  {
+   "end_ms": "509460",
+   "start_ms": "505500",
+   "start_time_text": "8:25",
+   "text": "プライベートのなんかキスの"
+  },
+  {
+   "end_ms": "511879",
+   "start_ms": "507300",
+   "start_time_text": "8:27",
+   "text": "シチュエーション"
+  },
+  {
+   "end_ms": "511878.99999999994",
+   "start_ms": "509460",
+   "start_time_text": "8:29",
+   "text": "プライベートだと"
+  },
+  {
+   "end_ms": "517159",
+   "start_ms": "511940",
+   "start_time_text": "8:31",
+   "text": "7000円ぐらいだった他は3000円"
+  },
+  {
+   "end_ms": "524440",
+   "start_ms": "517580.00000000006",
+   "start_time_text": "8:37",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "531800.0000000001",
+   "start_ms": "526440",
+   "start_time_text": "8:46",
+   "text": "奥様のブロックは記入なしでじゃあここで"
+  },
+  {
+   "end_ms": "531800",
+   "start_ms": "529500",
+   "start_time_text": "8:49",
+   "text": "なしです"
+  },
+  {
+   "end_ms": "538140",
+   "start_ms": "532380",
+   "start_time_text": "8:52",
+   "text": "これ最後のこの相方若林さんとのご飯の"
+  },
+  {
+   "end_ms": "540439.9999999999",
+   "start_ms": "535800",
+   "start_time_text": "8:55",
+   "text": "思い出はこれもコンビニからになっちゃう"
+  },
+  {
+   "end_ms": "540439.9999999999",
+   "start_ms": "538140",
+   "start_time_text": "8:58",
+   "text": "んですよ"
+  },
+  {
+   "end_ms": "549019",
+   "start_ms": "542779",
+   "start_time_text": "9:02",
+   "text": "1万円ぐらいな"
+  },
+  {
+   "end_ms": "551820",
+   "start_ms": "545779",
+   "start_time_text": "9:05",
+   "text": "コンビで呼ばれてる"
+  },
+  {
+   "end_ms": "555899",
+   "start_ms": "549019",
+   "start_time_text": "9:09",
+   "text": "あとなんですけど"
+  },
+  {
+   "end_ms": "560360",
+   "start_ms": "551820",
+   "start_time_text": "9:11",
+   "text": "企画の中で大喜利をしていただきたいなと"
+  },
+  {
+   "end_ms": "560360",
+   "start_ms": "555899",
+   "start_time_text": "9:15",
+   "text": "いうところがありまして書いてます"
+  },
+  {
+   "end_ms": "567019",
+   "start_ms": "560420",
+   "start_time_text": "9:20",
+   "text": "ねあのフリップで"
+  },
+  {
+   "end_ms": "567018.9999999999",
+   "start_ms": "563060",
+   "start_time_text": "9:23",
+   "text": "結構しっかりした動きですね"
+  },
+  {
+   "end_ms": "571840",
+   "start_ms": "567480",
+   "start_time_text": "9:27",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "585289",
+   "start_ms": "579560",
+   "start_time_text": "9:39",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "594890.0000000001",
+   "start_ms": "590320",
+   "start_time_text": "9:50",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "604819.9999999999",
+   "start_ms": "597920",
+   "start_time_text": "9:57",
+   "text": "それって受けた受けてないとかでも3って"
+  },
+  {
+   "end_ms": "604820",
+   "start_ms": "602519",
+   "start_time_text": "10:02",
+   "text": "いうことで"
+  },
+  {
+   "end_ms": "617660",
+   "start_ms": "610040",
+   "start_time_text": "10:10",
+   "text": "今とりあえずこの3も4問かあと"
+  },
+  {
+   "end_ms": "617660",
+   "start_ms": "615060",
+   "start_time_text": "10:15",
+   "text": "打ち合わせキャラ"
+  },
+  {
+   "end_ms": "633060.0000000001",
+   "start_ms": "627860",
+   "start_time_text": "10:27",
+   "text": "今流行りのもののクイズを出していただい"
+  },
+  {
+   "end_ms": "634980",
+   "start_ms": "631620",
+   "start_time_text": "10:31",
+   "text": "て春日さんが"
+  },
+  {
+   "end_ms": "636779",
+   "start_ms": "633060",
+   "start_time_text": "10:33",
+   "text": "答えていただくという企画もちょっと今"
+  },
+  {
+   "end_ms": "638100",
+   "start_ms": "634980",
+   "start_time_text": "10:34",
+   "text": "考えてまして"
+  },
+  {
+   "end_ms": "640290",
+   "start_ms": "636779",
+   "start_time_text": "10:36",
+   "text": "口頭で答える"
+  },
+  {
+   "end_ms": "644060.0000000001",
+   "start_ms": "638100",
+   "start_time_text": "10:38",
+   "text": "そうですね"
+  },
+  {
+   "end_ms": "644060",
+   "start_ms": "640290",
+   "start_time_text": "10:40",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "657959.0000000001",
+   "start_ms": "650600",
+   "start_time_text": "10:50",
+   "text": "あとはもう一つ今"
+  },
+  {
+   "end_ms": "661640",
+   "start_ms": "654420",
+   "start_time_text": "10:54",
+   "text": "街で流行ってるもののスイーツを食べて頂"
+  },
+  {
+   "end_ms": "661640",
+   "start_ms": "657959",
+   "start_time_text": "10:57",
+   "text": "くっていう企画もちょっと考えてまして"
+  },
+  {
+   "end_ms": "668239.9999999999",
+   "start_ms": "662180",
+   "start_time_text": "11:02",
+   "text": "感想もいただきたいなと思ってまして食"
+  },
+  {
+   "end_ms": "671579.0000000001",
+   "start_ms": "665820",
+   "start_time_text": "11:05",
+   "text": "レポキャラだね"
+  },
+  {
+   "end_ms": "675480",
+   "start_ms": "668240",
+   "start_time_text": "11:08",
+   "text": "上手さだけだったらそれ"
+  },
+  {
+   "end_ms": "677279",
+   "start_ms": "671579",
+   "start_time_text": "11:11",
+   "text": "以外って味の説明"
+  },
+  {
+   "end_ms": "679459.0000000001",
+   "start_ms": "675480",
+   "start_time_text": "11:15",
+   "text": "含めると"
+  },
+  {
+   "end_ms": "679459",
+   "start_ms": "677279",
+   "start_time_text": "11:17",
+   "text": "プラスで"
+  },
+  {
+   "end_ms": "683480",
+   "start_ms": "680339",
+   "start_time_text": "11:20",
+   "text": "言ってあげる"
+  },
+  {
+   "end_ms": "690920",
+   "start_ms": "684620",
+   "start_time_text": "11:24",
+   "text": "なんかしっかりカック系のやつだからこれ"
+  },
+  {
+   "end_ms": "690920.0000000001",
+   "start_ms": "687839",
+   "start_time_text": "11:27",
+   "text": "だけでももらった方がいい"
+  },
+  {
+   "end_ms": "699320",
+   "start_ms": "695720",
+   "start_time_text": "11:35",
+   "text": "お金の数字ですか"
+  },
+  {
+   "end_ms": "713880",
+   "start_ms": "706740",
+   "start_time_text": "11:46",
+   "text": "あれ結構なんか考える時間とか結構リスク"
+  },
+  {
+   "end_ms": "713880",
+   "start_ms": "710579",
+   "start_time_text": "11:50",
+   "text": "もねすごい"
+  },
+  {
+   "end_ms": "731570",
+   "start_ms": "722940",
+   "start_time_text": "12:02",
+   "text": "プレッシャーだったりするから"
+  },
+  {
+   "end_ms": "731570",
+   "start_ms": "725840",
+   "start_time_text": "12:05",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "738260",
+   "start_ms": "732300",
+   "start_time_text": "12:12",
+   "text": "困ったらでもこんなもうどこでも答えてる"
+  },
+  {
+   "end_ms": "738260",
+   "start_ms": "734579",
+   "start_time_text": "12:14",
+   "text": "ことなんでお金取るかな"
+  },
+  {
+   "end_ms": "745140",
+   "start_ms": "740180",
+   "start_time_text": "12:20",
+   "text": "インスタライブとかで言っちゃってるよう"
+  },
+  {
+   "end_ms": "747620",
+   "start_ms": "742320",
+   "start_time_text": "12:22",
+   "text": "なあれなんでそんなお金取るようなイン"
+  },
+  {
+   "end_ms": "747620",
+   "start_ms": "745140",
+   "start_time_text": "12:25",
+   "text": "スタライブでも"
+  },
+  {
+   "end_ms": "755339",
+   "start_ms": "749540",
+   "start_time_text": "12:29",
+   "text": "ないです結構"
+  },
+  {
+   "end_ms": "759199.9999999999",
+   "start_ms": "752459",
+   "start_time_text": "12:32",
+   "text": "労力大変でしょファンの人と話しするため"
+  },
+  {
+   "end_ms": "759200",
+   "start_ms": "755339",
+   "start_time_text": "12:35",
+   "text": "だけにやってるんでお仕事じゃなく"
+  },
+  {
+   "end_ms": "762860",
+   "start_ms": "759839",
+   "start_time_text": "12:39",
+   "text": "そうなんですか"
+  },
+  {
+   "end_ms": "768260",
+   "start_ms": "763100",
+   "start_time_text": "12:43",
+   "text": "チケットとかそういうのはないない失礼し"
+  },
+  {
+   "end_ms": "768260",
+   "start_ms": "766200",
+   "start_time_text": "12:46",
+   "text": "ます"
+  },
+  {
+   "end_ms": "773940",
+   "start_ms": "768860",
+   "start_time_text": "12:48",
+   "text": "一応確認したとだいたいOkが入ってまし"
+  },
+  {
+   "end_ms": "778220",
+   "start_ms": "773399",
+   "start_time_text": "12:53",
+   "text": "て"
+  },
+  {
+   "end_ms": "778220",
+   "start_ms": "773940",
+   "start_time_text": "12:53",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "783320",
+   "start_ms": "779880",
+   "start_time_text": "12:59",
+   "text": "ちなみに台本ちょっと確認してもいいです"
+  },
+  {
+   "end_ms": "788000",
+   "start_ms": "782100",
+   "start_time_text": "13:02",
+   "text": "か"
+  },
+  {
+   "end_ms": "788000",
+   "start_ms": "783320",
+   "start_time_text": "13:03",
+   "text": "確認させていただいてもいいですか"
+  },
+  {
+   "end_ms": "820820",
+   "start_ms": "814940",
+   "start_time_text": "13:34",
+   "text": "カスカスダンスは"
+  },
+  {
+   "end_ms": "820820",
+   "start_ms": "817980",
+   "start_time_text": "13:37",
+   "text": "12です"
+  },
+  {
+   "end_ms": "827180",
+   "start_ms": "821959",
+   "start_time_text": "13:41",
+   "text": "やっぱ始まりはトゥースから"
+  },
+  {
+   "end_ms": "827180",
+   "start_ms": "825180",
+   "start_time_text": "13:45",
+   "text": "欲しい"
+  },
+  {
+   "end_ms": "836480",
+   "start_ms": "830100",
+   "start_time_text": "13:50",
+   "text": "街行くじゃないですか新橋でしたっけはい"
+  },
+  {
+   "end_ms": "838740",
+   "start_ms": "833220",
+   "start_time_text": "13:53",
+   "text": "町の人からトゥース振られても自由に"
+  },
+  {
+   "end_ms": "841579.0000000001",
+   "start_ms": "836480",
+   "start_time_text": "13:56",
+   "text": "ものに対して"
+  },
+  {
+   "end_ms": "841579.0000000001",
+   "start_ms": "838740",
+   "start_time_text": "13:58",
+   "text": "答えるのもっていうことですか"
+  },
+  {
+   "end_ms": "853699.9999999999",
+   "start_ms": "848540",
+   "start_time_text": "14:08",
+   "text": "いくらまでだったらね出していただける"
+  },
+  {
+   "end_ms": "855920",
+   "start_ms": "852300",
+   "start_time_text": "14:12",
+   "text": "みたいな聞いとけば"
+  },
+  {
+   "end_ms": "858260",
+   "start_ms": "853700",
+   "start_time_text": "14:13",
+   "text": "引き算で"
+  },
+  {
+   "end_ms": "863219.9999999999",
+   "start_ms": "855920",
+   "start_time_text": "14:15",
+   "text": "引き続き"
+  },
+  {
+   "end_ms": "865200",
+   "start_ms": "858260",
+   "start_time_text": "14:18",
+   "text": "超面白いなもう一つだけお願いが"
+  },
+  {
+   "end_ms": "869880",
+   "start_ms": "863220",
+   "start_time_text": "14:23",
+   "text": "むつみ荘に住まわれてたっていうことで"
+  },
+  {
+   "end_ms": "872180.0000000001",
+   "start_ms": "865200",
+   "start_time_text": "14:25",
+   "text": "その若手時代の苦労話とかを"
+  },
+  {
+   "end_ms": "872180",
+   "start_ms": "869880",
+   "start_time_text": "14:29",
+   "text": "繋がりますか"
+  },
+  {
+   "end_ms": "878160.0000000001",
+   "start_ms": "874700",
+   "start_time_text": "14:34",
+   "text": "例えば"
+  },
+  {
+   "end_ms": "884000",
+   "start_ms": "876420",
+   "start_time_text": "14:36",
+   "text": "暑い時に"
+  },
+  {
+   "end_ms": "884000",
+   "start_ms": "878160",
+   "start_time_text": "14:38",
+   "text": "夏みそうだとダニが全部死んじゃうとか"
+  },
+  {
+   "end_ms": "890600",
+   "start_ms": "884160",
+   "start_time_text": "14:44",
+   "text": "暑すぎてこう生きられない今のもちょっと"
+  },
+  {
+   "end_ms": "890600",
+   "start_ms": "887100",
+   "start_time_text": "14:47",
+   "text": "大丈夫ですけどサンプル動画"
+  },
+  {
+   "end_ms": "894920",
+   "start_ms": "891560",
+   "start_time_text": "14:51",
+   "text": "ありますね"
+  },
+  {
+   "end_ms": "918420.0000000001",
+   "start_ms": "911600",
+   "start_time_text": "15:11",
+   "text": "お酒よく飲まれますかお"
+  },
+  {
+   "end_ms": "921019",
+   "start_ms": "915000",
+   "start_time_text": "15:15",
+   "text": "酒はまあそうですね今のはあれアンケート"
+  },
+  {
+   "end_ms": "921019",
+   "start_ms": "918420",
+   "start_time_text": "15:18",
+   "text": "アンケートですか"
+  },
+  {
+   "end_ms": "926480",
+   "start_ms": "921600",
+   "start_time_text": "15:21",
+   "text": "質問"
+  },
+  {
+   "end_ms": "926479.9999999999",
+   "start_ms": "922579",
+   "start_time_text": "15:22",
+   "text": "ロケに生かすとかじゃないですか"
+  },
+  {
+   "end_ms": "933100",
+   "start_ms": "929600",
+   "start_time_text": "15:29",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "941359.9999999999",
+   "start_ms": "937800",
+   "start_time_text": "15:37",
+   "text": "あんまり質問しない方がいいですか"
+  },
+  {
+   "end_ms": "947880",
+   "start_ms": "942380",
+   "start_time_text": "15:42",
+   "text": "お金が発生しちゃうみたいなところだけど"
+  },
+  {
+   "end_ms": "950060.0000000001",
+   "start_ms": "945600",
+   "start_time_text": "15:45",
+   "text": "これ聞いてほしくないとかはないんです"
+  },
+  {
+   "end_ms": "950060",
+   "start_ms": "947880",
+   "start_time_text": "15:47",
+   "text": "けど"
+  },
+  {
+   "end_ms": "959240",
+   "start_ms": "951899",
+   "start_time_text": "15:51",
+   "text": "めちゃくちゃ好きなのでね"
+  },
+  {
+   "end_ms": "964230",
+   "start_ms": "955100",
+   "start_time_text": "15:55",
+   "text": "大丈夫なんですか大丈夫ですか"
+  },
+  {
+   "end_ms": "964230",
+   "start_ms": "959240",
+   "start_time_text": "15:59",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "971760",
+   "start_ms": "964579",
+   "start_time_text": "16:04",
+   "text": "最近tiktokでダンスがめちゃくちゃ"
+  },
+  {
+   "end_ms": "974760",
+   "start_ms": "967980",
+   "start_time_text": "16:07",
+   "text": "流行ってて一緒に買いたいなって思ってた"
+  },
+  {
+   "end_ms": "976939.9999999999",
+   "start_ms": "971760",
+   "start_time_text": "16:11",
+   "text": "んだけどさっき12って聞いてダメだと"
+  },
+  {
+   "end_ms": "976939.9999999999",
+   "start_ms": "974760",
+   "start_time_text": "16:14",
+   "text": "思って"
+  },
+  {
+   "end_ms": "979579.0000000001",
+   "start_ms": "976980",
+   "start_time_text": "16:16",
+   "text": "めちゃくちゃ流行ってます"
+  },
+  {
+   "end_ms": "988820",
+   "start_ms": "985500",
+   "start_time_text": "16:25",
+   "text": "著作権だからそうですよね"
+  },
+  {
+   "end_ms": "1004440",
+   "start_ms": "999470",
+   "start_time_text": "16:39",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "1015399",
+   "start_ms": "1008779",
+   "start_time_text": "16:48",
+   "text": "ビジネスチャンスだなぁ先生4447"
+  },
+  {
+   "end_ms": "1015399",
+   "start_ms": "1012560",
+   "start_time_text": "16:52",
+   "text": "件使われてます"
+  },
+  {
+   "end_ms": "1046240",
+   "start_ms": "1042459.0000000001",
+   "start_time_text": "17:22",
+   "text": "どういう計算してんだよ"
+  },
+  {
+   "end_ms": "1053500",
+   "start_ms": "1050320",
+   "start_time_text": "17:30",
+   "text": "どうなんだろう"
+  },
+  {
+   "end_ms": "1065320",
+   "start_ms": "1061299",
+   "start_time_text": "17:41",
+   "text": "あったら何に使いますか"
+  },
+  {
+   "end_ms": "1076520",
+   "start_ms": "1070120",
+   "start_time_text": "17:50",
+   "text": "決めててそうなんですか"
+  },
+  {
+   "end_ms": "1078200",
+   "start_ms": "1073900",
+   "start_time_text": "17:53",
+   "text": "真面目な話なんかねさっきもチラッとこう"
+  },
+  {
+   "end_ms": "1079039",
+   "start_ms": "1076520",
+   "start_time_text": "17:56",
+   "text": "出てたけど"
+  },
+  {
+   "end_ms": "1083000",
+   "start_ms": "1078200",
+   "start_time_text": "17:58",
+   "text": "むつみ荘"
+  },
+  {
+   "end_ms": "1089379.9999999998",
+   "start_ms": "1079039",
+   "start_time_text": "17:59",
+   "text": "っていうね風呂のアパートに住んでたん"
+  },
+  {
+   "end_ms": "1091600",
+   "start_ms": "1083000",
+   "start_time_text": "18:03",
+   "text": "ですよ20年そうそう取り壊しに"
+  },
+  {
+   "end_ms": "1094820.0000000002",
+   "start_ms": "1089380",
+   "start_time_text": "18:09",
+   "text": "なりそう"
+  },
+  {
+   "end_ms": "1098178.9999999998",
+   "start_ms": "1091600",
+   "start_time_text": "18:11",
+   "text": "聞いて一応なんかお世話になったというか"
+  },
+  {
+   "end_ms": "1101480",
+   "start_ms": "1094820",
+   "start_time_text": "18:14",
+   "text": "ずっと住んでたしそれでライブとかもやっ"
+  },
+  {
+   "end_ms": "1103160",
+   "start_ms": "1098179",
+   "start_time_text": "18:18",
+   "text": "てたんだけどこんくらいお金代行にほら"
+  },
+  {
+   "end_ms": "1107960",
+   "start_ms": "1101480",
+   "start_time_text": "18:21",
+   "text": "劇場カレーのお金かかるじゃないですか"
+  },
+  {
+   "end_ms": "1110140",
+   "start_ms": "1103160",
+   "start_time_text": "18:23",
+   "text": "いろいろあったから取り壊されるのね"
+  },
+  {
+   "end_ms": "1110140",
+   "start_ms": "1107960",
+   "start_time_text": "18:27",
+   "text": "楽しいです"
+  },
+  {
+   "end_ms": "1116960",
+   "start_ms": "1112039",
+   "start_time_text": "18:32",
+   "text": "残念というかでなんとかできないかなー"
+  },
+  {
+   "end_ms": "1122539",
+   "start_ms": "1115640",
+   "start_time_text": "18:35",
+   "text": "みたいな"
+  },
+  {
+   "end_ms": "1125120.0000000002",
+   "start_ms": "1116960",
+   "start_time_text": "18:36",
+   "text": "そう考えてしたらなんか土地ごと買ってね"
+  },
+  {
+   "end_ms": "1127780",
+   "start_ms": "1122539",
+   "start_time_text": "18:42",
+   "text": "そっかそしたら取り壊しがなくなる周りの"
+  },
+  {
+   "end_ms": "1131020",
+   "start_ms": "1125120",
+   "start_time_text": "18:45",
+   "text": "土地とかもできれば"
+  },
+  {
+   "end_ms": "1131020",
+   "start_ms": "1127780",
+   "start_time_text": "18:47",
+   "text": "中心に"
+  },
+  {
+   "end_ms": "1139280",
+   "start_ms": "1133050",
+   "start_time_text": "18:53",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1143260",
+   "start_ms": "1135520",
+   "start_time_text": "18:55",
+   "text": "安い家賃で住んでもらってあとまあそう"
+  },
+  {
+   "end_ms": "1143260",
+   "start_ms": "1139280",
+   "start_time_text": "18:59",
+   "text": "いう人が年行った時に"
+  },
+  {
+   "end_ms": "1148419",
+   "start_ms": "1144200",
+   "start_time_text": "19:04",
+   "text": "老人ホームというか"
+  },
+  {
+   "end_ms": "1152299",
+   "start_ms": "1145480",
+   "start_time_text": "19:05",
+   "text": "みんな同じ仲間で言ったらあんまり"
+  },
+  {
+   "end_ms": "1153880",
+   "start_ms": "1148419",
+   "start_time_text": "19:08",
+   "text": "仕事してないからお金なんですね全部そう"
+  },
+  {
+   "end_ms": "1156860",
+   "start_ms": "1152299",
+   "start_time_text": "19:12",
+   "text": "なんですよ"
+  },
+  {
+   "end_ms": "1162020.0000000002",
+   "start_ms": "1153880",
+   "start_time_text": "19:13",
+   "text": "特にあの大河さん"
+  },
+  {
+   "end_ms": "1163360",
+   "start_ms": "1156860",
+   "start_time_text": "19:16",
+   "text": "で本当に我々二人とも心配はいてでそれを"
+  },
+  {
+   "end_ms": "1166720",
+   "start_ms": "1162020",
+   "start_time_text": "19:22",
+   "text": "先輩が"
+  },
+  {
+   "end_ms": "1166719.9999999998",
+   "start_ms": "1163360",
+   "start_time_text": "19:23",
+   "text": "売れてないから"
+  },
+  {
+   "end_ms": "1173320",
+   "start_ms": "1169480",
+   "start_time_text": "19:29",
+   "text": "もう厳しいじゃないですか"
+  },
+  {
+   "end_ms": "1184480",
+   "start_ms": "1173900",
+   "start_time_text": "19:33",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "1190059",
+   "start_ms": "1177460",
+   "start_time_text": "19:37",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1192500",
+   "start_ms": "1184480",
+   "start_time_text": "19:44",
+   "text": "それのために色々とやっぱお金がね必要"
+  },
+  {
+   "end_ms": "1194860",
+   "start_ms": "1190059",
+   "start_time_text": "19:50",
+   "text": "そうですねアンケートでも取っていか"
+  },
+  {
+   "end_ms": "1194860",
+   "start_ms": "1192500",
+   "start_time_text": "19:52",
+   "text": "なきゃです"
+  },
+  {
+   "end_ms": "1201679",
+   "start_ms": "1196880",
+   "start_time_text": "19:56",
+   "text": "人に言ってないから"
+  },
+  {
+   "end_ms": "1205178.9999999998",
+   "start_ms": "1199120",
+   "start_time_text": "19:59",
+   "text": "本当はねネタで"
+  },
+  {
+   "end_ms": "1210200",
+   "start_ms": "1201679",
+   "start_time_text": "20:01",
+   "text": "稼げればいいんだけどネタも作れないしね"
+  },
+  {
+   "end_ms": "1212120.0000000002",
+   "start_ms": "1205179",
+   "start_time_text": "20:05",
+   "text": "だからスタッフさん的にはあんまりいい気"
+  },
+  {
+   "end_ms": "1213520",
+   "start_ms": "1210200",
+   "start_time_text": "20:10",
+   "text": "はしないだろうけどこれで細かく稼ぐしか"
+  },
+  {
+   "end_ms": "1218379.9999999998",
+   "start_ms": "1212120",
+   "start_time_text": "20:12",
+   "text": "ないんですよ"
+  },
+  {
+   "end_ms": "1218379.9999999998",
+   "start_ms": "1213520",
+   "start_time_text": "20:13",
+   "text": "全然全然私めちゃくちゃ好きです"
+  },
+  {
+   "end_ms": "1226780",
+   "start_ms": "1222580",
+   "start_time_text": "20:22",
+   "text": "今日いっぱいサービスいただいて"
+  },
+  {
+   "end_ms": "1232660",
+   "start_ms": "1227410",
+   "start_time_text": "20:27",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1232660",
+   "start_ms": "1229480",
+   "start_time_text": "20:29",
+   "text": "大丈夫そう"
+  },
+  {
+   "end_ms": "1239720",
+   "start_ms": "1235640",
+   "start_time_text": "20:35",
+   "text": "まもなくスタッフ来てお金取れないとかっ"
+  },
+  {
+   "end_ms": "1241700",
+   "start_ms": "1238220",
+   "start_time_text": "20:38",
+   "text": "てことになるんでディレクター入ってきて"
+  },
+  {
+   "end_ms": "1243740",
+   "start_ms": "1239720",
+   "start_time_text": "20:39",
+   "text": "すいませんプロジェクターとお話ししたん"
+  },
+  {
+   "end_ms": "1248660",
+   "start_ms": "1241700",
+   "start_time_text": "20:41",
+   "text": "ですけどそういうの全部なしで"
+  },
+  {
+   "end_ms": "1250039",
+   "start_ms": "1243740",
+   "start_time_text": "20:43",
+   "text": "チンしますあもう行きますすいません本当"
+  },
+  {
+   "end_ms": "1252340.0000000002",
+   "start_ms": "1248660",
+   "start_time_text": "20:48",
+   "text": "申し訳ないんですけどプロデューサーとお"
+  },
+  {
+   "end_ms": "1255799",
+   "start_ms": "1250039",
+   "start_time_text": "20:50",
+   "text": "話しさせていただいて"
+  },
+  {
+   "end_ms": "1258260",
+   "start_ms": "1252340",
+   "start_time_text": "20:52",
+   "text": "今回のこの先ほどの計算していただいた"
+  },
+  {
+   "end_ms": "1260660",
+   "start_ms": "1255799",
+   "start_time_text": "20:55",
+   "text": "金額に関してはお出しできないっていう"
+  },
+  {
+   "end_ms": "1263740",
+   "start_ms": "1258260",
+   "start_time_text": "20:58",
+   "text": "ことになりまし"
+  },
+  {
+   "end_ms": "1263740",
+   "start_ms": "1260660",
+   "start_time_text": "21:00",
+   "text": "たえどっからですか"
+  },
+  {
+   "end_ms": "1279880",
+   "start_ms": "1272140",
+   "start_time_text": "21:12",
+   "text": "作業しちゃってるから最初ないんですよ"
+  },
+  {
+   "end_ms": "1279880",
+   "start_ms": "1276880",
+   "start_time_text": "21:16",
+   "text": "ね"
+  },
+  {
+   "end_ms": "1287260",
+   "start_ms": "1281440",
+   "start_time_text": "21:21",
+   "text": "やっちゃった後に出せないそれをねその"
+  },
+  {
+   "end_ms": "1290740",
+   "start_ms": "1284240",
+   "start_time_text": "21:24",
+   "text": "おかしくないでそれを"
+  },
+  {
+   "end_ms": "1290740",
+   "start_ms": "1287260",
+   "start_time_text": "21:27",
+   "text": "それおかしいですか"
+  },
+  {
+   "end_ms": "1330140",
+   "start_ms": "1324159",
+   "start_time_text": "22:04",
+   "text": "ごめんなさいごめんなさいじゃあもうやっ"
+  },
+  {
+   "end_ms": "1332179",
+   "start_ms": "1327020",
+   "start_time_text": "22:07",
+   "text": "た分だけは出せませんこれ本当に"
+  },
+  {
+   "end_ms": "1333559.0000000002",
+   "start_ms": "1330140",
+   "start_time_text": "22:10",
+   "text": "打ち合わせとかアンケートとか"
+  },
+  {
+   "end_ms": "1335740",
+   "start_ms": "1332179",
+   "start_time_text": "22:12",
+   "text": "師走する意味なんかねえだろうお前なんか"
+  },
+  {
+   "end_ms": "1335740",
+   "start_ms": "1333559",
+   "start_time_text": "22:13",
+   "text": "よ"
+  },
+  {
+   "end_ms": "1344418.9999999998",
+   "start_ms": "1336280",
+   "start_time_text": "22:16",
+   "text": "やってんだからやった分は金出せと言っ"
+  },
+  {
+   "end_ms": "1344419",
+   "start_ms": "1339440",
+   "start_time_text": "22:19",
+   "text": "てんの連れて来いってプロデューサー全部"
+  },
+  {
+   "end_ms": "1350860",
+   "start_ms": "1345559",
+   "start_time_text": "22:25",
+   "text": "録音してるからなお前の今の会話全部録音"
+  },
+  {
+   "end_ms": "1350860",
+   "start_ms": "1348559",
+   "start_time_text": "22:28",
+   "text": "してるから"
+  },
+  {
+   "end_ms": "1354879.9999999998",
+   "start_ms": "1351080",
+   "start_time_text": "22:31",
+   "text": "世の中出すぞ"
+  },
+  {
+   "end_ms": "1358539.0000000002",
+   "start_ms": "1352880",
+   "start_time_text": "22:32",
+   "text": "フライデーとか出す"
+  },
+  {
+   "end_ms": "1358539.0000000002",
+   "start_ms": "1354880",
+   "start_time_text": "22:34",
+   "text": "それは違うじゃん"
+  },
+  {
+   "end_ms": "1367120",
+   "start_ms": "1359620",
+   "start_time_text": "22:39",
+   "text": "金の亡者春日さんってな出してやるぞお前"
+  },
+  {
+   "end_ms": "1370520",
+   "start_ms": "1364100",
+   "start_time_text": "22:44",
+   "text": "それはちょっとおかしいじゃん"
+  },
+  {
+   "end_ms": "1372620",
+   "start_ms": "1367120",
+   "start_time_text": "22:47",
+   "text": "それやりすぎだろそれもう高く売れちゃう"
+  },
+  {
+   "end_ms": "1373639.9999999998",
+   "start_ms": "1370520",
+   "start_time_text": "22:50",
+   "text": "よこれ実際にさ"
+  },
+  {
+   "end_ms": "1376820",
+   "start_ms": "1372620",
+   "start_time_text": "22:52",
+   "text": "巻き上げてるわけじゃないんだからね"
+  },
+  {
+   "end_ms": "1380059.0000000002",
+   "start_ms": "1373640",
+   "start_time_text": "22:53",
+   "text": "そんないくらでも何のために集めようとし"
+  },
+  {
+   "end_ms": "1384760",
+   "start_ms": "1376820",
+   "start_time_text": "22:56",
+   "text": "てんだよ何のためにこんなきったね"
+  },
+  {
+   "end_ms": "1384760",
+   "start_ms": "1380059",
+   "start_time_text": "23:00",
+   "text": "集めようとしてんだよお前はお金の"
+  },
+  {
+   "end_ms": "1392299.0000000002",
+   "start_ms": "1387919",
+   "start_time_text": "23:07",
+   "text": "それは別にいいじゃないとにかく金が必要"
+  },
+  {
+   "end_ms": "1395740",
+   "start_ms": "1390140",
+   "start_time_text": "23:10",
+   "text": "なんです"
+  },
+  {
+   "end_ms": "1395740",
+   "start_ms": "1392299",
+   "start_time_text": "23:12",
+   "text": "どんな機会に集めてんだよ"
+  },
+  {
+   "end_ms": "1409480",
+   "start_ms": "1402460",
+   "start_time_text": "23:22",
+   "text": "どうにもならないものあるそのままいい"
+  },
+  {
+   "end_ms": "1409480",
+   "start_ms": "1405200",
+   "start_time_text": "23:25",
+   "text": "じゃない何のために金必要なんだよ"
+  },
+  {
+   "end_ms": "1415719.9999999998",
+   "start_ms": "1412360",
+   "start_time_text": "23:32",
+   "text": "土下座しろよ"
+  },
+  {
+   "end_ms": "1423379.9999999998",
+   "start_ms": "1416120",
+   "start_time_text": "23:36",
+   "text": "じゃあ土下座して"
+  },
+  {
+   "end_ms": "1425060",
+   "start_ms": "1419000",
+   "start_time_text": "23:39",
+   "text": "そしたら今の録音世の中に出さねえでやる"
+  },
+  {
+   "end_ms": "1428230",
+   "start_ms": "1423380",
+   "start_time_text": "23:43",
+   "text": "よ"
+  },
+  {
+   "end_ms": "1428230",
+   "start_ms": "1425060",
+   "start_time_text": "23:45",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1435940",
+   "start_ms": "1431780",
+   "start_time_text": "23:51",
+   "text": "金のためだけじゃない"
+  },
+  {
+   "end_ms": "1439059",
+   "start_ms": "1434840",
+   "start_time_text": "23:54",
+   "text": "守りたいもの"
+  },
+  {
+   "end_ms": "1439059",
+   "start_ms": "1435940",
+   "start_time_text": "23:55",
+   "text": "人それぞれ"
+  },
+  {
+   "end_ms": "1452659",
+   "start_ms": "1447159",
+   "start_time_text": "24:07",
+   "text": "名作になるんだ土下座したら決して消して"
+  },
+  {
+   "end_ms": "1454659",
+   "start_ms": "1450679",
+   "start_time_text": "24:10",
+   "text": "くれよそしたら"
+  },
+  {
+   "end_ms": "1457960",
+   "start_ms": "1452659",
+   "start_time_text": "24:12",
+   "text": "消せよ"
+  },
+  {
+   "end_ms": "1461620.0000000002",
+   "start_ms": "1454659",
+   "start_time_text": "24:14",
+   "text": "どうしたらあかん絶対"
+  },
+  {
+   "end_ms": "1461620.0000000002",
+   "start_ms": "1457960",
+   "start_time_text": "24:17",
+   "text": "土下座で済むんだから"
+  },
+  {
+   "end_ms": "1466299",
+   "start_ms": "1463220",
+   "start_time_text": "24:23",
+   "text": "大丈夫大丈夫"
+  },
+  {
+   "end_ms": "1469600",
+   "start_ms": "1464539",
+   "start_time_text": "24:24",
+   "text": "守りたいものがあるから私大丈夫"
+  },
+  {
+   "end_ms": "1469600",
+   "start_ms": "1466299",
+   "start_time_text": "24:26",
+   "text": "ありがとうありがとう"
+  },
+  {
+   "end_ms": "1485079",
+   "start_ms": "1481820",
+   "start_time_text": "24:41",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1495359",
+   "start_ms": "1491980",
+   "start_time_text": "24:51",
+   "text": "[拍手]"
+  },
+  {
+   "end_ms": "1506299",
+   "start_ms": "1499539",
+   "start_time_text": "24:59",
+   "text": "大丈夫大丈夫本当に"
+  },
+  {
+   "end_ms": "1509380",
+   "start_ms": "1502720",
+   "start_time_text": "25:02",
+   "text": "大事なもの食べたから大丈夫大丈夫心配し"
+  },
+  {
+   "end_ms": "1509379.9999999998",
+   "start_ms": "1506299",
+   "start_time_text": "25:06",
+   "text": "てくれてありがとう心配せんでありがとう"
+  },
+  {
+   "end_ms": "1516419.9999999998",
+   "start_ms": "1513080",
+   "start_time_text": "25:13",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1524109",
+   "start_ms": "1517460",
+   "start_time_text": "25:17",
+   "text": "道の途中道の途中のだけだ"
+  },
+  {
+   "end_ms": "1524109",
+   "start_ms": "1521050",
+   "start_time_text": "25:21",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1536980",
+   "start_ms": "1530679",
+   "start_time_text": "25:30",
+   "text": "気持ちが乗ってんな大河さんのため大河"
+  },
+  {
+   "end_ms": "1536979.9999999998",
+   "start_ms": "1534620",
+   "start_time_text": "25:34",
+   "text": "さん食べたい"
+  },
+  {
+   "end_ms": "1547429.9999999998",
+   "start_ms": "1539330",
+   "start_time_text": "25:39",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1555410",
+   "start_ms": "1548539",
+   "start_time_text": "25:48",
+   "text": "本当に本当に本当に"
+  },
+  {
+   "end_ms": "1555410",
+   "start_ms": "1552250",
+   "start_time_text": "25:52",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1558460",
+   "start_ms": "1555980",
+   "start_time_text": "25:55",
+   "text": "申し訳ございません"
+  },
+  {
+   "end_ms": "1576150",
+   "start_ms": "1568890",
+   "start_time_text": "26:08",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1579940",
+   "start_ms": "1577520",
+   "start_time_text": "26:17",
+   "text": "ありがとうありがとう"
+  },
+  {
+   "end_ms": "1605380",
+   "start_ms": "1603200",
+   "start_time_text": "26:43",
+   "text": "申し訳ない"
+  },
+  {
+   "end_ms": "1616580.0000000002",
+   "start_ms": "1611200",
+   "start_time_text": "26:51",
+   "text": "名作誕生だよ"
+  },
+  {
+   "end_ms": "1618159",
+   "start_ms": "1614659",
+   "start_time_text": "26:54",
+   "text": "この後ロケ頑張ろうってそれこそやって"
+  },
+  {
+   "end_ms": "1621080",
+   "start_ms": "1616580",
+   "start_time_text": "26:56",
+   "text": "あげて"
+  },
+  {
+   "end_ms": "1622240",
+   "start_ms": "1618159",
+   "start_time_text": "26:58",
+   "text": "逆にもうね"
+  },
+  {
+   "end_ms": "1625699.9999999998",
+   "start_ms": "1621080",
+   "start_time_text": "27:01",
+   "text": "景気づけに"
+  },
+  {
+   "end_ms": "1627640",
+   "start_ms": "1622240",
+   "start_time_text": "27:02",
+   "text": "フルコースね"
+  },
+  {
+   "end_ms": "1629860.0000000002",
+   "start_ms": "1625700",
+   "start_time_text": "27:05",
+   "text": "差し上げようかなもうこれはもうやらで"
+  },
+  {
+   "end_ms": "1632480",
+   "start_ms": "1627640",
+   "start_time_text": "27:07",
+   "text": "行かせてください"
+  },
+  {
+   "end_ms": "1633570",
+   "start_ms": "1629860",
+   "start_time_text": "27:09",
+   "text": "今からやりますからね"
+  },
+  {
+   "end_ms": "1639340",
+   "start_ms": "1632480",
+   "start_time_text": "27:12",
+   "text": "頑張りましょう"
+  },
+  {
+   "end_ms": "1645520",
+   "start_ms": "1633570",
+   "start_time_text": "27:13",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1645520",
+   "start_ms": "1639340",
+   "start_time_text": "27:19",
+   "text": "[笑い]"
+  },
+  {
+   "end_ms": "1656380",
+   "start_ms": "1653890",
+   "start_time_text": "27:33",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1659419",
+   "start_ms": "1655760",
+   "start_time_text": "27:35",
+   "text": "ありがとうございます"
+  },
+  {
+   "end_ms": "1661340.0000000002",
+   "start_ms": "1656380",
+   "start_time_text": "27:36",
+   "text": "お疲れ様でした"
+  },
+  {
+   "end_ms": "1662900",
+   "start_ms": "1659419",
+   "start_time_text": "27:39",
+   "text": "お疲れ様でした"
+  },
+  {
+   "end_ms": "1665020",
+   "start_ms": "1661340",
+   "start_time_text": "27:41",
+   "text": "お"
+  },
+  {
+   "end_ms": "1665020",
+   "start_ms": "1662900",
+   "start_time_text": "27:42",
+   "text": "疲れ様でした"
+  },
+  {
+   "end_ms": "1668620.0000000002",
+   "start_ms": "1665960",
+   "start_time_text": "27:45",
+   "text": "ドッキリです"
+  },
+  {
+   "end_ms": "1680149.9999999998",
+   "start_ms": "1676780",
+   "start_time_text": "27:56",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1685659",
+   "start_ms": "1682940",
+   "start_time_text": "28:02",
+   "text": "めちゃくちゃケチだった"
+  },
+  {
+   "end_ms": "1689980",
+   "start_ms": "1687440",
+   "start_time_text": "28:07",
+   "text": "めちゃくちゃだった"
+  },
+  {
+   "end_ms": "1695980",
+   "start_ms": "1691279",
+   "start_time_text": "28:11",
+   "text": "怖かったです"
+  },
+  {
+   "end_ms": "1698299.0000000002",
+   "start_ms": "1692919",
+   "start_time_text": "28:12",
+   "text": "止めてくれたり"
+  },
+  {
+   "end_ms": "1701140",
+   "start_ms": "1695980",
+   "start_time_text": "28:15",
+   "text": "一番バカだったのはtiktokで"
+  },
+  {
+   "end_ms": "1701139.9999999998",
+   "start_ms": "1698299",
+   "start_time_text": "28:18",
+   "text": "19億ドル"
+  },
+  {
+   "end_ms": "1706840",
+   "start_ms": "1702340",
+   "start_time_text": "28:22",
+   "text": "取れるわけねえじゃん"
+  },
+  {
+   "end_ms": "1706840.0000000002",
+   "start_ms": "1704419",
+   "start_time_text": "28:24",
+   "text": "盛り上がっちゃった"
+  },
+  {
+   "end_ms": "1711920",
+   "start_ms": "1706940",
+   "start_time_text": "28:26",
+   "text": "1年に1回の春日ドッキリ3-3で女性が"
+  },
+  {
+   "end_ms": "1713260",
+   "start_ms": "1710299",
+   "start_time_text": "28:30",
+   "text": "泣いてるんですけど"
+  },
+  {
+   "end_ms": "1715940",
+   "start_ms": "1711920",
+   "start_time_text": "28:31",
+   "text": "[音楽]"
+  },
+  {
+   "end_ms": "1718059",
+   "start_ms": "1713260",
+   "start_time_text": "28:33",
+   "text": "引っかかりますでも全然疑ってなかった"
+  },
+  {
+   "end_ms": "1718059",
+   "start_ms": "1715940",
+   "start_time_text": "28:35",
+   "text": "です"
+  }
+ ],
+ "transcript_only_text": "[笑い] 鬼瓦 のプライドだよ 名作になるんだ 脳のロックTVです本日のゲストは踊り 春日さんです ありがとうございました 出ましたよトゥースが出ましたよ 過去やったドッキリで言うと最初は ドーピングドッグ裏で信じられない動機 キングおはようございました2回目は 弟子へのパワハラが厳しい 激ヤバ主将ドッキリありましたねどちらも 91万464万円 そうですか 今回は1年ぶりの春日ドッキリなんでやっ ていただくのはオードリーは金でしか動か ない超ちょうどケチドッキリ ですね 何やるにしても金でしか動かない オプションオプションです みたいな言いたくなる時ありますけどね 実際 これはさちょっとカラスが勝ってるぞ みたいなあるよね [音楽] アシスタントの盛り上げるという6系の 番組の初収録という 経歴カピカにする裏側を 今から2人でやって街に飛び出そうと今回 のターゲットはこちら 21歳の女優さんですねバラエティの経験 はまだないですか もしれないみたいです確かお会いしたこと はないですねこれはいいですね 昨日 出てくださいって出演オファー空いてたん ですけどいつの間にかメールが 企画も考えていただいてに変わってたから それは別料金になりますよ 送ったところです ありがとうございますさあターゲットの 森脇さんが入ってこられました バラエティ番組ほぼ経験がないのではい今 ですねケータリング写真 あさあ今台本を練習してらっしゃいます しかも 暗記しています 真面目これは信じてますねドッキリ死んで ます おはようございます お願いしますありがとうございます おはようございます お願いしますお願いします すごい あるじゃない まさか 早い 入れていく いやにしてもだなスタートダッシュが すごい 面白い [笑い] ケータリングもうちょっともらえるか あと聞いてもらった 嘘でしょ もうないと思ってる びっくりする わかりました さっきので終わりみたいな おにぎり 聞いてきてもらって おにぎり全部 余ったやつ やめてください大丈夫ですか [笑い] やっぱパスが面白い これぐらい信じるだろう 打ち合わせあると思うんです よ それって出るのか ないや打ち合わせは出ないです [笑い] [音楽] 出してもらえるか 女性やらない ちょっと聞いてみます か早速 打ち合わせの方を そうですか よろしくお願いしますアンケートじゃあ あると思うんですけどこちらがアンケート お 酒のつまみで好きなものとかお酒からに 失敗したものでこういうのが渡っています 先にご機嫌をいただきたいなと思ってまし て 伝わってるはいちゃんと伝えてもらってね [音楽] これ で 答えると21,000円です [笑い] ちょっと確認します アンケートやってるんですか 交渉してちゃんと 特に びっくりしました逆にそういうのがあるん だろう けど結構あるんですか 時間をこうね 差し上げてる こんな言い方ある 完全に信じてる 打ち合わせもあれですか [笑い] アンケートなんですけど プライベートのなんかキスの シチュエーション プライベートだと 7000円ぐらいだった他は3000円 [音楽] 奥様のブロックは記入なしでじゃあここで なしです これ最後のこの相方若林さんとのご飯の 思い出はこれもコンビニからになっちゃう んですよ 1万円ぐらいな コンビで呼ばれてる あとなんですけど 企画の中で大喜利をしていただきたいなと いうところがありまして書いてます ねあのフリップで 結構しっかりした動きですね [笑い] [音楽] [笑い] それって受けた受けてないとかでも3って いうことで 今とりあえずこの3も4問かあと 打ち合わせキャラ 今流行りのもののクイズを出していただい て春日さんが 答えていただくという企画もちょっと今 考えてまして 口頭で答える そうですね [笑い] あとはもう一つ今 街で流行ってるもののスイーツを食べて頂 くっていう企画もちょっと考えてまして 感想もいただきたいなと思ってまして食 レポキャラだね 上手さだけだったらそれ 以外って味の説明 含めると プラスで 言ってあげる なんかしっかりカック系のやつだからこれ だけでももらった方がいい お金の数字ですか あれ結構なんか考える時間とか結構リスク もねすごい プレッシャーだったりするから [笑い] 困ったらでもこんなもうどこでも答えてる ことなんでお金取るかな インスタライブとかで言っちゃってるよう なあれなんでそんなお金取るようなイン スタライブでも ないです結構 労力大変でしょファンの人と話しするため だけにやってるんでお仕事じゃなく そうなんですか チケットとかそういうのはないない失礼し ます 一応確認したとだいたいOkが入ってまし て [笑い] ちなみに台本ちょっと確認してもいいです か 確認させていただいてもいいですか カスカスダンスは 12です やっぱ始まりはトゥースから 欲しい 街行くじゃないですか新橋でしたっけはい 町の人からトゥース振られても自由に ものに対して 答えるのもっていうことですか いくらまでだったらね出していただける みたいな聞いとけば 引き算で 引き続き 超面白いなもう一つだけお願いが むつみ荘に住まわれてたっていうことで その若手時代の苦労話とかを 繋がりますか 例えば 暑い時に 夏みそうだとダニが全部死んじゃうとか 暑すぎてこう生きられない今のもちょっと 大丈夫ですけどサンプル動画 ありますね お酒よく飲まれますかお 酒はまあそうですね今のはあれアンケート アンケートですか 質問 ロケに生かすとかじゃないですか [音楽] あんまり質問しない方がいいですか お金が発生しちゃうみたいなところだけど これ聞いてほしくないとかはないんです けど めちゃくちゃ好きなのでね 大丈夫なんですか大丈夫ですか [笑い] 最近tiktokでダンスがめちゃくちゃ 流行ってて一緒に買いたいなって思ってた んだけどさっき12って聞いてダメだと 思って めちゃくちゃ流行ってます 著作権だからそうですよね [笑い] ビジネスチャンスだなぁ先生4447 件使われてます どういう計算してんだよ どうなんだろう あったら何に使いますか 決めててそうなんですか 真面目な話なんかねさっきもチラッとこう 出てたけど むつみ荘 っていうね風呂のアパートに住んでたん ですよ20年そうそう取り壊しに なりそう 聞いて一応なんかお世話になったというか ずっと住んでたしそれでライブとかもやっ てたんだけどこんくらいお金代行にほら 劇場カレーのお金かかるじゃないですか いろいろあったから取り壊されるのね 楽しいです 残念というかでなんとかできないかなー みたいな そう考えてしたらなんか土地ごと買ってね そっかそしたら取り壊しがなくなる周りの 土地とかもできれば 中心に [音楽] 安い家賃で住んでもらってあとまあそう いう人が年行った時に 老人ホームというか みんな同じ仲間で言ったらあんまり 仕事してないからお金なんですね全部そう なんですよ 特にあの大河さん で本当に我々二人とも心配はいてでそれを 先輩が 売れてないから もう厳しいじゃないですか [笑い] [音楽] それのために色々とやっぱお金がね必要 そうですねアンケートでも取っていか なきゃです 人に言ってないから 本当はねネタで 稼げればいいんだけどネタも作れないしね だからスタッフさん的にはあんまりいい気 はしないだろうけどこれで細かく稼ぐしか ないんですよ 全然全然私めちゃくちゃ好きです 今日いっぱいサービスいただいて [音楽] 大丈夫そう まもなくスタッフ来てお金取れないとかっ てことになるんでディレクター入ってきて すいませんプロジェクターとお話ししたん ですけどそういうの全部なしで チンしますあもう行きますすいません本当 申し訳ないんですけどプロデューサーとお 話しさせていただいて 今回のこの先ほどの計算していただいた 金額に関してはお出しできないっていう ことになりまし たえどっからですか 作業しちゃってるから最初ないんですよ ね やっちゃった後に出せないそれをねその おかしくないでそれを それおかしいですか ごめんなさいごめんなさいじゃあもうやっ た分だけは出せませんこれ本当に 打ち合わせとかアンケートとか 師走する意味なんかねえだろうお前なんか よ やってんだからやった分は金出せと言っ てんの連れて来いってプロデューサー全部 録音してるからなお前の今の会話全部録音 してるから 世の中出すぞ フライデーとか出す それは違うじゃん 金の亡者春日さんってな出してやるぞお前 それはちょっとおかしいじゃん それやりすぎだろそれもう高く売れちゃう よこれ実際にさ 巻き上げてるわけじゃないんだからね そんないくらでも何のために集めようとし てんだよ何のためにこんなきったね 集めようとしてんだよお前はお金の それは別にいいじゃないとにかく金が必要 なんです どんな機会に集めてんだよ どうにもならないものあるそのままいい じゃない何のために金必要なんだよ 土下座しろよ じゃあ土下座して そしたら今の録音世の中に出さねえでやる よ [音楽] 金のためだけじゃない 守りたいもの 人それぞれ 名作になるんだ土下座したら決して消して くれよそしたら 消せよ どうしたらあかん絶対 土下座で済むんだから 大丈夫大丈夫 守りたいものがあるから私大丈夫 ありがとうありがとう [音楽] [拍手] 大丈夫大丈夫本当に 大事なもの食べたから大丈夫大丈夫心配し てくれてありがとう心配せんでありがとう [音楽] 道の途中道の途中のだけだ [音楽] 気持ちが乗ってんな大河さんのため大河 さん食べたい [音楽] 本当に本当に本当に [音楽] 申し訳ございません [音楽] ありがとうありがとう 申し訳ない 名作誕生だよ この後ロケ頑張ろうってそれこそやって あげて 逆にもうね 景気づけに フルコースね 差し上げようかなもうこれはもうやらで 行かせてください 今からやりますからね 頑張りましょう [音楽] [笑い] [音楽] ありがとうございます お疲れ様でした お疲れ様でした お 疲れ様でした ドッキリです [音楽] めちゃくちゃケチだった めちゃくちゃだった 怖かったです 止めてくれたり 一番バカだったのはtiktokで 19億ドル 取れるわけねえじゃん 盛り上がっちゃった 1年に1回の春日ドッキリ3-3で女性が 泣いてるんですけど [音楽] 引っかかりますでも全然疑ってなかった です",
+ "type": "video",
+ "url": "https://www.youtube.com/watch?v=pJQpl0wJWmE",
+ "video_id": "pJQpl0wJWmE"
+}
